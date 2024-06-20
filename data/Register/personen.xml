@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="register">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Personenregister</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <listPerson>
+                <person xml:id="" role="fictional">
+                    <idno type="uri">https://explore.gnd.network/en/gnd/124103235</idno>
+                    <persName type="reg">
+                        <surname>Schlehmil</surname>
+                        <forename>Peter</forename>
+                        <nameLink/>
+                        <roleName type="other">
+                            <name>Hauptcharakter</name>
+                            <date/>
+                        </roleName></persName>
+                    <birth/>
+                    <death/>
+                </person>
+                <person xml:id="" role="fictional">
+                    <persName type="reg">
+                        <surname/>
+                        <forename>Rascal</forename>
+                        <nameLink/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                </person>
+                <person xml:id="" role="fictional">
+                    <persName type="reg">
+                        <surname/>
+                        <forename>Mann in Grau</forename>
+                        <nameLink/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                </person>
+                <person xml:id="" role="fictional">
+                    <persName type="reg">
+                        <surname/>
+                        <forename>Fanny</forename>
+                        <nameLink/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                </person>
+                <person xml:id="" role="fictional">
+                    <persName type="reg">
+                        <surname>John</surname>
+                        <forename>Thomas</forename>
+                        <nameLink/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                </person>
+                <person xml:id="" role="fictional">
+                    <persName type="reg">
+                        <surname/>
+                        <forename>Mina</forename>
+                        <nameLink/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                </person>
+            </listPerson>
+        </body>
+    </text>
+</TEI>
+
