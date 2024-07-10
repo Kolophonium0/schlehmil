@@ -16,7 +16,7 @@
     <text>
         <body>
             <listPerson>
-                <person xml:id="" role="fictional">
+                <person xml:id="peter_schehmil" role="fictional">
                     <idno type="uri">https://explore.gnd.network/en/gnd/124103235</idno>
                     <persName type="reg">
                         <surname>Schlehmil</surname>
@@ -29,7 +29,7 @@
                     <birth/>
                     <death/>
                 </person>
-                <person xml:id="" role="fictional">
+                <person xml:id="rascal" role="fictional">
                     <persName type="reg">
                         <surname/>
                         <forename>Rascal</forename>
@@ -38,7 +38,7 @@
                     <birth/>
                     <death/>
                 </person>
-                <person xml:id="" role="fictional">
+                <person xml:id="mann_in_grau" role="fictional">
                     <persName type="reg">
                         <surname/>
                         <forename>Mann in Grau</forename>
@@ -47,7 +47,7 @@
                     <birth/>
                     <death/>
                 </person>
-                <person xml:id="" role="fictional">
+                <person xml:id="fanny" role="fictional">
                     <persName type="reg">
                         <surname/>
                         <forename>Fanny</forename>
@@ -56,7 +56,7 @@
                     <birth/>
                     <death/>
                 </person>
-                <person xml:id="" role="fictional">
+                <person xml:id="john_thomas" role="fictional">
                     <persName type="reg">
                         <surname>John</surname>
                         <forename>Thomas</forename>
@@ -65,7 +65,7 @@
                     <birth/>
                     <death/>
                 </person>
-                <person xml:id="" role="fictional">
+                <person xml:id="mina" role="fictional">
                     <persName type="reg">
                         <surname/>
                         <forename>Mina</forename>
