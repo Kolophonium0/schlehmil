@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de"
+    telota:doctype="document" xml:id="bsp_h2">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Peter Schlehmil</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Herausgebende Institution</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc rend="manuscript">
+                    <msIdentifier>
+                        <institution/>
+                        <collection/>
+                        <idno>BSPE_H2</idno>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation> </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <pb/>
+                <p><title><subst>
+                            <del rendition="#s">W.A.</del>
+                            <add place="superlinear">Peter</add>
+                        </subst> Schlemihl</title></p>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>
