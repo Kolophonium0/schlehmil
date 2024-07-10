@@ -16,6 +16,20 @@
     <text>
         <body>
             <listPerson>
+                <person xml:id="arethusa" role="mythological">
+                    <persName type="reg">
+                        <name>Arethusa</name>
+                    </persName>
+                </person>
+                <person xml:id="bendel" role="fictional">
+                    <persName type="reg">
+                        <surname/>
+                        <forename>Bendel</forename>
+                        <nameLink/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                </person>
                 <person xml:id="peter_schehmil" role="fictional">
                     <idno type="uri">https://explore.gnd.network/en/gnd/124103235</idno>
                     <persName type="reg">
@@ -74,8 +88,8 @@
                     <birth/>
                     <death/>
                 </person>
+                <!-- Forstmeister, Minas Mutter -->
             </listPerson>
         </body>
     </text>
 </TEI>
-

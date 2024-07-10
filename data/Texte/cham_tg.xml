@@ -1,5 +1,6 @@
-<TEI xml:id="tg312"
-    n="/Literatur/M/Chamisso, Adelbert von/Erzählungen/Peter Schlemihls wundersame Geschichte">
+<TEI xml:id="tg312" xmlns="http://www.tei-c.org/ns/1.0"
+    n="/Literatur/M/Chamisso, Adelbert von/Erzählungen/Peter Schlemihls wundersame Geschichte" xmlns:telota="http://www.telota.de"
+    telota:doctype="document">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -1278,64 +1279,81 @@
                         <p xml:id="tg321.2.2"> Es war noch früh, als mich Stimmen weckten, die sich
                             in meinem Vorzimmer, in heftigem Wortwechsel, erhoben. Ich horchte auf.
                             – </p>
-                        <p rend="zenoPLm4n0" xml:id="tg321.2.3"> Bendel verbot meine Tür; Rascal
-                            schwur hoch und teuer, keine Befehle von seines Gleichen anzunehmen, und
-                            bestand darauf, in meine Zimmer einzudringen. Der gütige Bendel verwies
-                            ihm, daß solche Worte, falls sie zu meinen Ohren kämen, ihn um einen
-                            vorteilhaften Dienst bringen würden. Rascal drohte Hand an ihn zu legen,
-                            wenn er ihm den Eingang noch länger vertreten wollte. </p>
+                        <p rend="zenoPLm4n0" xml:id="tg321.2.3">
+                            <persName key="bendel">Bendel</persName> verbot meine Tür; <persName
+                                key="rascal">Rascal</persName> schwur hoch und teuer, keine Befehle
+                            von seines Gleichen anzunehmen, und bestand darauf, in meine Zimmer
+                            einzudringen. Der gütige <persName key="bendel">Bendel</persName>
+                            verwies ihm, daß solche Worte, falls sie zu meinen Ohren kämen, ihn um
+                            einen vorteilhaften Dienst bringen würden. <persName key="rascal"
+                                >Rascal</persName> drohte Hand an ihn zu legen, wenn er ihm den
+                            Eingang noch länger vertreten wollte. </p>
                         <p rend="zenoPLm4n0" xml:id="tg321.2.4"> Ich hatte mich halb angezogen, ich
-                            riß zornig die Tür auf, und fuhr auf Rascaln zu – »Was willst du Schurke
-                            – –« er trat zwei Schritte zurück, und antwortete ganz kalt: »Sie
-                            untertänigst bitten, Herr Graf, mir doch einmal Ihren Schatten sehen zu
-                            lassen, – die Sonne scheint eben so schön auf dem Hofe.« – </p>
+                            riß zornig die Tür auf, und fuhr auf <persName key="rascal"
+                                >Rascaln</persName> zu – »Was willst du Schurke – –« er trat zwei
+                            Schritte zurück, und antwortete ganz kalt: »Sie untertänigst bitten,
+                                <index spanTo="#ioff_lzb_1cc" indexName="persons"
+                                corresp="peter_schehmil">
+                                <term/>
+                            </index>Herr Graf<anchor type="index" xml:id="ioff_lzb_1cc"/>, mir doch
+                            einmal Ihren Schatten sehen zu lassen, – die Sonne scheint eben so schön
+                            auf dem Hofe.« – </p>
                         <p rend="zenoPLm4n0" xml:id="tg321.2.5"> Ich war wie vom Donner gerührt. Es
                             dauerte lange, bis ich die Sprache wieder fand. – »Wie kann ein Knecht
                             gegen seinen Herrn –?« Er fiel mir ganz ruhig in die Rede: »Ein Knecht
                             kann ein sehr ehrlicher Mann sein und einem Schattenlosen nicht dienen
                             wollen, ich fordre meine Entlassung.« Ich mußte andere Saiten aufziehen.
-                            »Aber, Rascal, lieber Rascal, wer hat dich auf die unglückliche <pb
-                                n="39" xml:id="tg321.2.5.1"/> Idee gebracht, wie kannst du denken –
-                            –?« er fuhr im selben Tone fort: »Es wollen Leute behaupten, Sie hätten
-                            keinen Schatten – und kurz, Sie zeigen mir Ihren Schatten, oder geben
-                            mir meine Entlassung.« </p>
-                        <p rend="zenoPLm4n0" xml:id="tg321.2.6"> Bendel, bleich und zitternd, aber
+                            »Aber, <persName key="rascal">Rascal</persName>, lieber <persName
+                                key="rascal">Rascal</persName>, wer hat dich auf die unglückliche
+                                <pb n="39" xml:id="tg321.2.5.1"/> Idee gebracht, wie kannst du
+                            denken – –?« er fuhr im selben Tone fort: »Es wollen Leute behaupten,
+                            Sie hätten keinen Schatten – und kurz, Sie zeigen mir Ihren Schatten,
+                            oder geben mir meine Entlassung.« </p>
+                        <p rend="zenoPLm4n0" xml:id="tg321.2.6">
+                            <persName key="bendel">Bendel</persName>, bleich und zitternd, aber
                             besonnener als ich, machte mir ein Zeichen, ich nahm zu dem alles
                             beschwichtigenden Golde meine Zuflucht – auch das hatte seine Macht
                             verloren – er warf's mir vor die Füße: »Von einem Schattenlosen nehme
                             ich nichts an.« Er kehrte mir den Rücken und ging, den Hut auf dem Kopf,
-                            ein Liedchen pfeifend, langsam aus dem Zimmer. Ich stand mit Bendel da
-                            wie versteint, gedanken- und regungslos ihm nachsehend. </p>
+                            ein Liedchen pfeifend, langsam aus dem Zimmer. Ich stand mit <persName
+                                key="bendel">Bendel</persName> da wie versteint, gedanken- und
+                            regungslos ihm nachsehend. </p>
                         <p rend="zenoPLm4n0" xml:id="tg321.2.7"> Schwer aufseufzend und den Tod im
                             Herzen, schickt ich mich endlich an, mein Wort zu lösen, und, wie ein
                             Verbrecher vor seinen Richtern, in dem Förstergarten zu erscheinen. Ich
                             stieg in der dunklen Laube ab, welche nach mir benannt war, und wo sie
                             mich auch diesmal erwarten mußten. Die Mutter kam mir sorgenfrei und
-                            freudig entgegen. Mina saß da, bleich und schön, wie der erste Schnee,
-                            der manchmal im Herbste die letzten Blumen küßt, und gleich in bittres
-                            Wasser zerfließen wird. Der Forstmeister, ein geschriebenes Blatt in der
-                            Hand, ging heftig auf und ab, und schien vieles in sich zu unterdrücken,
-                            was, mit fliegender Röte und Blässe wechselnd, sich auf sei nem sonst
-                            unbeweglichen Gesichte malte. Er kam auf mich zu, als ich hereintrat,
-                            und verlangte mit oft unterbrochenen Worten, mich allein zu sprechen.
-                            Der Gang, auf den er mich, ihm zu folgen, einlud, führte nach einem
-                            freien, besonnten Teile des Gartens – ich ließ mich stumm auf einen Sitz
-                            nieder, und es erfolgte ein langes Schweigen, das selbst die gute Mutter
-                            nicht zu unterbrechen wagte. </p>
+                            freudig entgegen. <persName key="mina">Mina</persName> saß da, bleich
+                            und schön, wie der erste Schnee, der manchmal im Herbste die letzten
+                            Blumen küßt, und gleich in bittres Wasser zerfließen wird. Der
+                            Forstmeister, ein geschriebenes Blatt in der Hand, ging heftig auf und
+                            ab, und schien vieles in sich zu unterdrücken, was, mit fliegender Röte
+                            und Blässe wechselnd, sich auf sei nem sonst unbeweglichen Gesichte
+                            malte. Er kam auf mich zu, als ich hereintrat, und verlangte mit oft
+                            unterbrochenen Worten, mich allein zu sprechen. Der Gang, auf den er
+                            mich, ihm zu folgen, einlud, führte nach einem freien, besonnten Teile
+                            des Gartens – ich ließ mich stumm auf einen Sitz nieder, und es erfolgte
+                            ein langes Schweigen, das selbst die gute Mutter nicht zu unterbrechen
+                            wagte. </p>
                         <p rend="zenoPLm4n0" xml:id="tg321.2.8"> Der Forstmeister stürmte immer noch
                             ungleichen Schrittes die Laube auf und ab, er stand mit einem Mal vor
                             mir still, blickte ins Papier, das er hielt, und fragte mich mit
-                            prüfendem Blick: »Sollte Ihnen, Herr Graf, ein gewisser Peter Schlemihl
+                            prüfendem Blick: »Sollte Ihnen, <index spanTo="#ihzb_xzb_1cc"
+                                indexName="persons" corresp="peter_schehmil">
+                                <term/>
+                            </index>Herr Graf<anchor type="index" xml:id="ihzb_xzb_1cc"/>, ein
+                            gewisser <persName key="peter_schehmil">Peter Schlemihl</persName>
                             wirklich nicht unbekannt sein?« Ich schwieg – »ein Mann von vorzüglichem
                             Charakter und von besonderen Gaben –« Er erwartete eine Antwort. – »Und
                             wenn ich selber der Mann wäre?« – »dem«, fügte er heftig hinzu, »sein
                             Schatten abhanden gekommen ist!!« – »O meine Ahnung, meine Ahnung!« rief
-                            Mina aus, »ja, ich weiß es längst, er hat keinen Schatten!« und sie warf
-                            sich in die Arme der Mutter, welche erschreckt, sie krampfhaft an sich
-                            schließend, ihr Vorwürfe machte, daß sie zum Unheil solch ein Geheimnis
-                            in sich verschlossen. Sie aber war, wie Arethusa, in einen Tränenquell
-                            gewandelt, der beim <pb n="40" xml:id="tg321.2.8.1"/> Klang meiner
-                            Stimme häufiger floß, und bei meinem Nahen stürmisch aufbrauste. </p>
+                                <persName key="mina">Mina</persName> aus, »ja, ich weiß es längst,
+                            er hat keinen Schatten!« und sie warf sich in die Arme der Mutter,
+                            welche erschreckt, sie krampfhaft an sich schließend, ihr Vorwürfe
+                            machte, daß sie zum Unheil solch ein Geheimnis in sich verschlossen. Sie
+                            aber war, wie Arethusa, in einen Tränenquell gewandelt, der beim <pb
+                                n="40" xml:id="tg321.2.8.1"/> Klang meiner Stimme häufiger floß, und
+                            bei meinem Nahen stürmisch aufbrauste. </p>
                         <p rend="zenoPLm4n0" xml:id="tg321.2.9"> »Und Sie haben«, hub der
                             Forstmeister grimmig wieder an, »und Sie haben mit unerhörter Frechheit
                             diese und mich zu betrügen keinen Anstand genommen; und Sie geben vor,
@@ -1350,46 +1368,60 @@
                             Ich fügte noch hinzu: was man einmal verloren, könne man ein andermal
                             wieder finden. </p>
                         <p rend="zenoPLm4n0" xml:id="tg321.2.11"> Er fuhr mich zornig an. –
-                            »Gestehen Sie mir's, mein Herr, gestehen Sie mir's, wie sind Sie um
-                            Ihren Schatten gekommen?« Ich mußte wieder lügen: »Es trat mir dereinst
-                            ein ungeschlachter Mann so flämisch in meinen Schatten, daß er ein
-                            großes Loch darein riß – ich habe ihn nur zum Ausbessern gegeben, denn
-                            Gold vermag viel, ich habe ihn schon gestern wieder bekommen sollen.« – </p>
+                            »Gestehen Sie mir's, <index spanTo="#imnc_11c_1cc" indexName="persons"
+                                corresp="peter_schehmil">
+                                <term/>
+                            </index>mein Herr<anchor type="index" xml:id="imnc_11c_1cc"/>, gestehen
+                            Sie mir's, wie sind Sie um Ihren Schatten gekommen?« Ich mußte wieder
+                            lügen: »Es trat mir dereinst ein ungeschlachter Mann so flämisch in
+                            meinen Schatten, daß er ein großes Loch darein riß – ich habe ihn nur
+                            zum Ausbessern gegeben, denn Gold vermag viel, ich habe ihn schon
+                            gestern wieder bekommen sollen.« – </p>
                         <p rend="zenoPLm4n0" xml:id="tg321.2.12"> »Wohl, mein Herr, ganz wohl!«
                             erwiderte der Forstmeister, »Sie werben um meine Tochter, das tun auch
                             andere, ich habe als ein Vater für sie zu sorgen, ich gebe Ihnen drei
                             Tage Frist, binnen welcher Sie sich nach einem Schatten umtun mögen;
                             erscheinen Sie binnen drei Tagen vor mir mit einem wohlangepaßten
                             Schatten, so sollen Sie mir willkommen sein: am vierten Tage aber – das
-                            sag ich Ihnen – ist meine Tochter die Frau eines andern.« – Ich wollte
-                            noch versuchen, ein Wort an Mina zu richten, aber sie schloß sich,
+                            sag ich Ihnen – ist <index spanTo="#igrj_b1c_1cc" indexName="persons"
+                                corresp="mina">
+                                <term/>
+                            </index>meine Tochter<anchor type="index" xml:id="igrj_b1c_1cc"/> die
+                            Frau eines andern.« – Ich wollte noch versuchen, ein Wort an <persName
+                                key="mina">Mina</persName> zu richten, aber sie schloß sich,
                             heftiger schluchzend, fester an ihre Mutter, und diese winkte mir
                             stillschweigend, mich zu entfernen. Ich schwankte hinweg, und mir war's,
                             als schlösse sich hinter mir die Welt zu. </p>
-                        <p rend="zenoPLm4n0" xml:id="tg321.2.13"> Der liebevollen Aufsicht Bendels
-                            entsprungen, durchschweifte ich in irrem Lauf Wälder und Fluren.
-                            Angstschweiß troff von meiner Stirne, ein dumpfes Stöhnen entrang sich
-                            meiner Brust, in mir tobte Wahnsinn. – </p>
+                        <p rend="zenoPLm4n0" xml:id="tg321.2.13"> Der liebevollen Aufsicht <persName
+                                key="bendel">Bendels</persName> entsprungen, durchschweifte ich in
+                            irrem Lauf Wälder und Fluren. Angstschweiß troff von meiner Stirne, ein
+                            dumpfes Stöhnen entrang sich meiner Brust, in mir tobte Wahnsinn. – </p>
                         <p rend="zenoPLm4n0" xml:id="tg321.2.14"> Ich weiß nicht, wie lange es so
                             gedauert haben mochte, als ich mich auf einer sonnigen Heide beim Ärmel
-                            anhalten fühlte. – Ich stand still und sah mich um – – es war der Mann
-                            im grauen Rock, der sich nach mir außer Atem gelaufen zu haben schien.
-                            Er nahm sogleich das Wort: </p>
+                            anhalten fühlte. – Ich stand still und sah mich um – – es war <index
+                                spanTo="#it32_21c_1cc" indexName="persons" corresp="mann_in_grau">
+                                <term/>
+                            </index>der Mann im grauen Rock<anchor type="index"
+                                xml:id="it32_21c_1cc"/>, der sich nach mir außer Atem gelaufen zu
+                            haben schien. Er nahm sogleich das Wort: </p>
                         <p rend="zenoPLm4n0" xml:id="tg321.2.15">
                             <pb n="41" xml:id="tg321.2.15.1"/> »Ich hatte mich auf den heutigen Tag
                             angemeldet, Sie haben die Zeit nicht erwarten können. Es steht aber
                             alles noch gut, Sie nehmen Rat an, tauschen Ihren Schatten wieder ein,
                             der Ihnen zu Gebote steht, und kehren sogleich wieder um. Sie sollen in
                             dem Förstergarten willkommen sein, und alles ist nur ein Scherz gewesen;
-                            den Rascal, der Sie verraten hat und um ihre Braut wirbt, nehm ich auf
-                            mich, der Kerl ist reif.« </p>
+                            den <persName key="rascal">Rascal</persName>, der Sie verraten hat und
+                            um ihre Braut wirbt, nehm ich auf mich, der Kerl ist reif.« </p>
                         <p rend="zenoPLm4n0" xml:id="tg321.2.16"> Ich stand noch wie im Schlafe da.
                             – »Auf den heutigen Tag angemeldet –?« ich überdachte noch einmal die
                             Zeit – er hatte Recht, ich hatte mich stets um einen Tag verrechnet. Ich
                             suchte mit der rechten Hand nach dem Säckel auf meiner Brust – er erriet
                             meine Meinung, und trat zwei Schritte zurück. </p>
-                        <p rend="zenoPLm4n0" xml:id="tg321.2.17"> »Nein, Herr Graf, der ist in zu
-                            guten Händen, den behalten Sie.« – Ich sah ihn mit stieren Augen,
+                        <p rend="zenoPLm4n0" xml:id="tg321.2.17"> »Nein, <index
+                                spanTo="#icvz_mlc_1cc" indexName="persons" corresp="peter_schehmil">
+                                <term/>
+                            </index>Herr Graf<anchor type="index" xml:id="icvz_mlc_1cc"/>, der ist
+                            in zu guten Händen, den behalten Sie.« – Ich sah ihn mit stieren Augen,
                             verwundert fragend an, er fuhr fort: »Ich erbitte mir bloß eine
                             Kleinigkeit zum Andenken, Sie sind nur so gut, und unterschreiben mir
                             den Zettel da.« – Auf dem Pergament standen die Worte: </p>
@@ -1397,17 +1429,20 @@
                             vermache ich dem Inhaber dieses meine Seele nach ihrer natürlichen
                             Trennung von meinem Leibe.« </p>
                         <p rend="zenoPLm4n0" xml:id="tg321.2.19"> Ich sah mit stummem Staunen die
-                            Schrift und den grauen Unbekannten abwechselnd an. – Er hatte
-                            unterdessen mit einer neu geschnittenen Feder einen Tropfen Bluts
-                            aufgefangen, der mir aus einem frischen Dornenriß auf die Hand floß, und
-                            hielt sie mir hin. – </p>
+                            Schrift und <index spanTo="#iwx3_4lc_1cc" indexName="persons"
+                                corresp="mann_in_grau">
+                                <term/>
+                            </index>den grauen Unbekannten<anchor type="index" xml:id="iwx3_4lc_1cc"
+                            /> abwechselnd an. – Er hatte unterdessen mit einer neu geschnittenen
+                            Feder einen Tropfen Bluts aufgefangen, der mir aus einem frischen
+                            Dornenriß auf die Hand floß, und hielt sie mir hin. – </p>
                         <p rend="zenoPLm4n0" xml:id="tg321.2.20"> »Wer sind Sie denn?« frug ich ihn
                             endlich. »Was tut's«, gab er mir zur Antwort, »und sieht man es mir
                             nicht an? Ein armer Teufel, gleichsam so eine Art von Gelehrten und
                             Physikus, der von seinen Freunden für vortreffliche Künste schlechten
                             Dank erntet, und für sich selber auf Erden keinen andern Spaß hat, als
                             sein bißchen Experimentieren – aber unterschreiben Sie doch. Rechts, da
-                            unten: Peter Schlemihl.« </p>
+                            unten: <persName key="peter_schehmil">Peter Schlemihl</persName>.« </p>
                         <p rend="zenoPLm4n0" xml:id="tg321.2.21"> Ich schüttelte mit dem Kopf und
                             sagte: »Verzeihen Sie, mein Herr, das unterschreibe ich nicht.« –
                             »Nicht?« wiederholte er verwundert, »und warum nicht?« – </p>
@@ -1421,24 +1456,45 @@
                             dieser galvanischen <pb n="42" xml:id="tg321.2.22.1"/> Kraft oder
                             polarisierenden Wirksamkeit, und was alles das närrische Ding sein soll,
                             mit etwas Wirklichem bezahlen will, nämlich mit Ihrem leibhaftigen
-                            Schatten, durch den Sie zu der Hand Ihrer Geliebten und zu der Erfüllung
-                            aller Ihrer Wünsche gelangen können. Wollen Sie lieber selbst das arme
-                            junge Blut dem niederträchtigen Schurken, dem Rascal, zustoßen und
-                            ausliefern? – Nein, das müssen Sie doch mit eigenen Augen ansehen;
-                            kommen Sie, ich leihe Ihnen die Tarnkappe hier«, (er zog etwas aus der
-                            Tasche) »und wir wallfahrten ungesehen nach dem Förstergarten.« – </p>
+                            Schatten, durch den Sie zu der Hand <index spanTo="#iyvb_5lc_1cc"
+                                indexName="persons" corresp="mina">
+                                <term/>
+                            </index>Ihrer Geliebten<anchor type="index" xml:id="iyvb_5lc_1cc"/> und
+                            zu der Erfüllung aller Ihrer Wünsche gelangen können. Wollen Sie lieber
+                            selbst das arme junge Blut <index spanTo="#ikvg_wlc_1cc"
+                                indexName="persons" corresp="rascal">
+                                <term/>
+                            </index>dem niederträchtigen Schurken<anchor type="index"
+                                xml:id="ikvg_wlc_1cc"/>, dem <persName key="rascal"
+                                >Rascal</persName>, zustoßen und ausliefern? – Nein, das müssen Sie
+                            doch mit eigenen Augen ansehen; kommen Sie, ich leihe Ihnen die
+                            Tarnkappe hier«, (er zog etwas aus der Tasche) »und wir wallfahrten
+                            ungesehen nach dem Förstergarten.« – </p>
                         <p rend="zenoPLm4n0" xml:id="tg321.2.23"> Ich muß gestehen, daß ich mich
-                            überaus schämte, von diesem Manne ausgelacht zu werden. Er war mir von
-                            Herzensgrunde verhaßt, und ich glaube, daß mich dieser persönliche
-                            Widerwille mehr als Grundsätze oder Vorurteile abhielt, meinen Schatten,
-                            so notwendig er mir auch war, mit der begehrten Unterschrift zu
-                            erkaufen. Auch war mir der Gedanke unerträglich, den Gang, den er mir
-                            antrug, in seiner Gesellschaft zu unternehmen. Diesen häßlichen
-                            Schleicher, diesen hohnlächelnden Kobold, zwischen mich und meine
-                            Geliebte, zwei blutig zerrissene Herzen, spöttisch hintreten zu sehen,
-                            empörte mein innigstes Gefühl. Ich nahm, was geschehen war, als verhängt
-                            an, mein Elend als unabwendbar, und mich zu dem Manne kehrend, sagte ich
-                            ihm: </p>
+                            überaus schämte, <index spanTo="#ibdb_rlc_1cc" indexName="persons"
+                                corresp="mann_in_grau">
+                                <term/>
+                            </index>von diesem Manne<anchor type="index" xml:id="ibdb_rlc_1cc"/>
+                            ausgelacht zu werden. Er war mir von Herzensgrunde verhaßt, und ich
+                            glaube, daß mich dieser persönliche Widerwille mehr als Grundsätze oder
+                            Vorurteile abhielt, meinen Schatten, so notwendig er mir auch war, mit
+                            der begehrten Unterschrift zu erkaufen. Auch war mir der Gedanke
+                            unerträglich, den Gang, den er mir antrug, in seiner Gesellschaft zu
+                            unternehmen. <index spanTo="#iaqx_rlc_1cc" indexName="persons"
+                                corresp="mann_in_grau">
+                                <term/>
+                            </index>Diesen häßlichen Schleicher<anchor type="index"
+                                xml:id="iaqx_rlc_1cc"/>, <index spanTo="#iuyq_slc_1cc"
+                                indexName="persons" corresp="peter_schehmil">
+                                <term/>
+                            </index>diesen hohnlächelnden Kobold<anchor type="index"
+                                xml:id="iuyq_slc_1cc"/>, zwischen mich und <index
+                                spanTo="#ikfm_tlc_1cc" indexName="persons" corresp="mina">
+                                <term/>
+                            </index>meine Geliebte<anchor type="index" xml:id="ikfm_tlc_1cc"/>, zwei
+                            blutig zerrissene Herzen, spöttisch hintreten zu sehen, empörte mein
+                            innigstes Gefühl. Ich nahm, was geschehen war, als verhängt an, mein
+                            Elend als unabwendbar, und mich zu dem Manne kehrend, sagte ich ihm: </p>
                         <p rend="zenoPLm4n0" xml:id="tg321.2.24"> »Mein Herr, ich habe Ihnen meinen
                             Schatten für diesen an sich sehr vorzüglichen Säckel verkauft, und es
                             hat mich genug gereut. Kann der Handel zurückgehen, in Gottes Namen!« Er
@@ -1449,9 +1505,12 @@
                             Sie mich einladen, ungleich belustigender für Sie als für mich ausfallen
                             müßte; halten Sie mich also für entschuldigt, und da es einmal nicht
                             anders ist, – laßt uns scheiden!« – </p>
-                        <p rend="zenoPLm4n0" xml:id="tg321.2.25"> »Es ist mir leid, Monsieur
-                            Schlemihl, daß Sie eigensinnig das Geschäft von der Hand weisen, das ich
-                            Ihnen freundschaftlich anbot. Indessen, vielleicht bin ich ein andermal
+                        <p rend="zenoPLm4n0" xml:id="tg321.2.25"> »Es ist mir leid, <index
+                                spanTo="#ihvl_zlc_1cc" indexName="persons" corresp="peter_schehmil">
+                                <term/>
+                            </index>Monsieur Schlemihl<anchor type="index" xml:id="ihvl_zlc_1cc"/>,
+                            daß Sie eigensinnig das Geschäft von der Hand weisen, das ich Ihnen
+                            freundschaftlich anbot. Indessen, vielleicht bin ich ein andermal
                             glücklicher. Auf baldiges Wiedersehen! – A propos, erlauben Sie mir
                             noch, Ihnen zu zeigen, daß ich die Sachen, die ich kaufe, keineswegs
                             verschimmeln lasse, sondern in Ehren halte, und daß sie bei mir gut
@@ -1471,28 +1530,35 @@
                             unverschämt seinen Antrag: </p>
                         <p rend="zenoPLm4n0" xml:id="tg321.2.28"> »Noch ist er für Sie zu haben, ein
                             Federzug, und Sie retten damit die arme unglückliche Mina aus des
-                            Schusters Klauen in des hochgeehrten Herrn Grafen Arme – wie gesagt, nur
-                            ein Federzug.« Meine Tränen brachen mit erneuter Kraft hervor, aber ich
-                            wandte mich weg, und winkte ihm, sich zu entfernen. </p>
-                        <p rend="zenoPLm4n0" xml:id="tg321.2.29"> Bendel, der voller Sorgen meine
-                            Spuren bis hieher verfolgt hatte, traf in diesem Augenblick ein. Als
-                            mich die treue, fromme Seele weinend fand, und meinen Schatten, denn er
-                            war nicht zu verkennen, in der Gewalt des wunderlichen grauen
-                            Unbekannten sah, beschloß er gleich, sei es auch mit Gewalt, mich in den
-                            Besitz meines Eigentums wieder herzustellen, und da er selbst mit dem
-                            zarten Dinge nicht umzugehen verstand, griff er gleich den Mann mit
-                            Worten an, und ohne vieles Fragen, gebot er ihm stracks, mir das Meine
-                            unverzüglich verabfolgen zu lassen. Dieser, statt aller Antwort, kehrte
-                            dem unschuldigen Burschen den Rücken und ging. Bendel aber erhob den
-                            Kreuzdornknüttel, den er trug, und, ihm auf den Fersen folgend, ließ er
-                            ihn schonungslos unter wiederholtem Befehl, den Schatten herzugeben, die
-                            volle Kraft seines nervichten Armes fühlen. Jener, als sei er solcher
-                            Behandlung gewohnt, bückte den Kopf, wölbte die Schultern, und zog
-                            stillschweigend ruhigen Schrittes seinen Weg über die Heide weiter, mir
-                            meinen Schatten zugleich und meinen treuen Diener entführend. Ich hörte
-                            lange noch den dumpfen Schall durch die Einöde dröhnen, bis er sich
-                            endlich in der Entfernung verlor. Einsam war ich wie vorher mit meinem
-                            Unglück. </p>
+                            Schusters Klauen in des hochgeehrten <index spanTo="#ibx5_1mc_1cc"
+                                indexName="persons" corresp="peter_schehmil">
+                                <term/>
+                            </index>Herrn Grafen<anchor type="index" xml:id="ibx5_1mc_1cc"/> Arme –
+                            wie gesagt, nur ein Federzug.« Meine Tränen brachen mit erneuter Kraft
+                            hervor, aber ich wandte mich weg, und winkte ihm, sich zu entfernen. </p>
+                        <p rend="zenoPLm4n0" xml:id="tg321.2.29">
+                            <persName key="bendel">Bendel</persName>, der voller Sorgen meine Spuren
+                            bis hieher verfolgt hatte, traf in diesem Augenblick ein. Als mich die
+                            treue, fromme Seele weinend fand, und meinen Schatten, denn er war nicht
+                            zu verkennen, in der Gewalt <index spanTo="#iy4w_2mc_1cc"
+                                indexName="persons" corresp="mann_in_grau">
+                                <term/>
+                            </index>des wunderlichen grauen Unbekannten<anchor type="index"
+                                xml:id="iy4w_2mc_1cc"/> sah, beschloß er gleich, sei es auch mit
+                            Gewalt, mich in den Besitz meines Eigentums wieder herzustellen, und da
+                            er selbst mit dem zarten Dinge nicht umzugehen verstand, griff er gleich
+                            den Mann mit Worten an, und ohne vieles Fragen, gebot er ihm stracks,
+                            mir das Meine unverzüglich verabfolgen zu lassen. Dieser, statt aller
+                            Antwort, kehrte dem unschuldigen Burschen den Rücken und ging. <persName
+                                key="bendel">Bendel</persName> aber erhob den Kreuzdornknüttel, den
+                            er trug, und, ihm auf den Fersen folgend, ließ er ihn schonungslos unter
+                            wiederholtem Befehl, den Schatten herzugeben, die volle Kraft seines
+                            nervichten Armes fühlen. Jener, als sei er solcher Behandlung gewohnt,
+                            bückte den Kopf, wölbte die Schultern, und zog stillschweigend ruhigen
+                            Schrittes seinen Weg über die Heide weiter, mir meinen Schatten zugleich
+                            und meinen treuen Diener entführend. Ich hörte lange noch den dumpfen
+                            Schall durch die Einöde dröhnen, bis er sich endlich in der Entfernung
+                            verlor. Einsam war ich wie vorher mit meinem Unglück. </p>
                     </div>
                 </div>
             </div>
@@ -1510,14 +1576,19 @@
                             unendlichen Tränen freien Lauf, mein armes Herz von namenloser banger
                             Last erleichternd. Aber ich sah meinem überschwenglichen Elend keine
                             Grenzen, keinen Ausgang, kein Ziel, und ich sog besonders mit <pb n="44"
-                                xml:id="tg322.2.2.1"/> grimmigem Durst an dem neuen Gifte, das der
-                            Unbekannte in meine Wunden gegossen. Als ich Minas Bild vor meine Seele
-                            rief, und die geliebte, süße Gestalt bleich und in Tränen mir erschien,
-                            wie ich sie zuletzt in meiner Schmach gesehen, da trat frech und höhnend
-                            Rascals Schemen zwischen sie und mich, ich verhüllte mein Gesicht und
-                            floh durch die Einöde, aber die scheußliche Erscheinung gab mich nicht
-                            frei, sondern verfolgte mich im Laufe, bis ich atemlos an den Boden
-                            sank, und die Erde mit erneuertem Tränenquell befeuchtete. </p>
+                                xml:id="tg322.2.2.1"/> grimmigem Durst an dem neuen Gifte, das
+                                <index spanTo="#ihz3_hmc_1cc" indexName="persons"
+                                corresp="mann_in_grau">
+                                <term/>
+                            </index>der Unbekannte<anchor type="index" xml:id="ihz3_hmc_1cc"/> in
+                            meine Wunden gegossen. Als ich <persName key="mina">Minas</persName>
+                            Bild vor meine Seele rief, und die geliebte, süße Gestalt bleich und in
+                            Tränen mir erschien, wie ich sie zuletzt in meiner Schmach gesehen, da
+                            trat frech und höhnend <persName key="rascal">Rascals</persName> Schemen
+                            zwischen sie und mich, ich verhüllte mein Gesicht und floh durch die
+                            Einöde, aber die scheußliche Erscheinung gab mich nicht frei, sondern
+                            verfolgte mich im Laufe, bis ich atemlos an den Boden sank, und die Erde
+                            mit erneuertem Tränenquell befeuchtete. </p>
                         <p rend="zenoPLm4n0" xml:id="tg322.2.3"> Und alles um einen Schatten! Und
                             diesen Schatten hätte mir ein Federzug wieder erworben. Ich überdachte
                             den befremdenden Antrag und meine Weigerung. Es war wüst in mir, ich
@@ -1526,10 +1597,10 @@
                             Hunger mit wilden Früchten, meinen Durst im nächsten Bergstrom; die
                             Nacht brach ein, ich lagerte mich unter einem Baum. Der feuchte Morgen
                             weckte mich aus einem schweren Schlaf, in dem ich mich selber wie im
-                            Tode röcheln hörte. Bendel mußte meine Spur verloren haben, und es
-                            freute mich, es zu denken. Ich wollte nicht unter die Menschen
-                            zurückkehren, vor welchen ich schreckhaft floh, wie das scheue Wild des
-                            Gebirges. So verlebte ich drei bange Tage. </p>
+                            Tode röcheln hörte. <persName key="bendel">Bendel</persName> mußte meine
+                            Spur verloren haben, und es freute mich, es zu denken. Ich wollte nicht
+                            unter die Menschen zurückkehren, vor welchen ich schreckhaft floh, wie
+                            das scheue Wild des Gebirges. So verlebte ich drei bange Tage. </p>
                         <p rend="zenoPLm4n0" xml:id="tg322.2.5"> Ich befand mich am Morgen des
                             vierten auf einer sandigen Ebene, welche die Sonne beschien, und saß auf
                             Felsentrümmern in ihrem Strahl, denn ich liebte jetzt, ihren lang
@@ -1604,21 +1675,28 @@
                             ich konnte niemanden entdecken. Ich schritt weiter vor, mir war's, als
                             vernähme ich neben mir ein Geräusch wie von Menschentritten; es war aber
                             nichts zu sehen: ich dachte mich von meinem Ohre getäuscht. Es war noch
-                            früh, niemand in Graf Peters Laube, noch leer der Garten; ich
-                            durchschweifte die bekannten Gänge, ich drang bis nach dem Wohnhause
-                            vor. Dasselbe Geräusch verfolgte mich vernehmlicher. Ich setzte mich mit
-                            angstvollem Herzen auf eine Bank, die im sonnigen Raume der Haustür
-                            gegenüber stand. Es ward mir, als hörte ich den ungesehenen Kobold sich
-                            hohnlachend neben mich setzen. Der Schlüssel ward in der Tür gedreht,
-                            sie ging auf, der Forstmeister trat heraus, mit Papieren in der Hand.
-                            Ich fühlte mir wie Nebel über den Kopf ziehn, ich sah mich um, und –
-                            Entsetzen! – der Mann im grauen Rock saß neben mir, mit satanischem
-                            Lächeln auf mich blickend. – Er hatte mir seine Tarnkappe mit über den
-                            Kopf gezogen, zu seinen Füßen lagen sein und mein Schatten friedlich
-                            neben einander; er spielte nachlässig mit dem bekannten Pergament, das
-                            er in der Hand hielt, und, indem der Forstmeister mit den Papieren
-                            beschäftigt im Schatten der Laube auf- und abging – beugte er sich
-                            vertraulich zu meinem Ohr und flüsterte mir die Worte: </p>
+                            früh, niemand in <index spanTo="#igqv_4mc_1cc" indexName="persons"
+                                corresp="peter_schehmil">
+                                <term/>
+                            </index>Graf Peters<anchor type="index" xml:id="igqv_4mc_1cc"/> Laube,
+                            noch leer der Garten; ich durchschweifte die bekannten Gänge, ich drang
+                            bis nach dem Wohnhause vor. Dasselbe Geräusch verfolgte mich
+                            vernehmlicher. Ich setzte mich mit angstvollem Herzen auf eine Bank, die
+                            im sonnigen Raume der Haustür gegenüber stand. Es ward mir, als hörte
+                            ich den ungesehenen Kobold sich hohnlachend neben mich setzen. Der
+                            Schlüssel ward in der Tür gedreht, sie ging auf, der Forstmeister trat
+                            heraus, mit Papieren in der Hand. Ich fühlte mir wie Nebel über den Kopf
+                            ziehn, ich sah mich um, und – Entsetzen! – <index spanTo="#idl1_tmc_1cc"
+                                indexName="persons" corresp="mann_in_grau">
+                                <term/>
+                            </index>der Mann im grauen Rock<anchor type="index"
+                                xml:id="idl1_tmc_1cc"/> saß neben mir, mit satanischem Lächeln auf
+                            mich blickend. – Er hatte mir seine Tarnkappe mit über den Kopf gezogen,
+                            zu seinen Füßen lagen sein und mein Schatten friedlich neben einander;
+                            er spielte nachlässig mit dem bekannten Pergament, das er in der Hand
+                            hielt, und, indem der Forstmeister mit den Papieren beschäftigt im
+                            Schatten der Laube auf- und abging – beugte er sich vertraulich zu
+                            meinem Ohr und flüsterte mir die Worte: </p>
                         <p rend="zenoPLm4n0" xml:id="tg322.2.13"> »So hätten Sie denn doch meine
                             Einladung angenommen, und da säßen wir einmal zwei Köpfe unter einer
                             Kappe! – Schon recht! schon recht! Nun geben Sie mir aber auch mein
@@ -1633,68 +1711,77 @@
                             nur ihren Mann, sondern auch seinen Schatten mit, und noch so viele
                             andere, als er mit zu nehmen Lust hat. Sehen Sie, heute führ ich wieder
                             ihrer zwei.« – Er <pb n="47" xml:id="tg322.2.14.1"/> lachte wieder.
-                            »Merken Sie sich's, Schlemihl, was man anfangs mit Gutem nicht will, das
-                            muß man am Ende doch gezwungen. Ich dächte noch, Sie kauften mir das
-                            Ding ab, nähmen die Braut zurück (denn noch ist es Zeit), und wir ließen
-                            den Rascal am Galgen baumeln, das wird uns ein Leichtes, so lange es am
-                            Stricke nicht fehlt. – Hören Sie, ich gebe Ihnen noch meine Mütze in den
-                            Kauf.« </p>
+                            »Merken Sie sich's, <persName key="peter_schehmil">Schlemihl</persName>,
+                            was man anfangs mit Gutem nicht will, das muß man am Ende doch
+                            gezwungen. Ich dächte noch, Sie kauften mir das Ding ab, nähmen die
+                            Braut zurück (denn noch ist es Zeit), und wir ließen den <persName
+                                key="rascal">Rascal</persName> am Galgen baumeln, das wird uns ein
+                            Leichtes, so lange es am Stricke nicht fehlt. – Hören Sie, ich gebe
+                            Ihnen noch meine Mütze in den Kauf.« </p>
                         <p rend="zenoPLm4n0" xml:id="tg322.2.15"> Die Mutter trat heraus und das
-                            Gespräch begann. – »Was macht Mina?« – »Sie weint.« – »Einfältiges Kind!
-                            es ist doch nicht zu ändern!« – »Freilich nicht; aber sie so früh einem
-                            andern zu geben – – O Mann, du bist grausam gegen dein eigenes Kind.« –
-                            »Nein, Mutter, das siehst du sehr falsch. Wenn sie, noch bevor sie ihre
-                            doch kindischen Tränen ausgeweint hat, sich als die Frau eines sehr
-                            reichen und geehrten Mannes findet, wird sie getröstet aus ihrem
-                            Schmerze wie aus einem Traum erwachen, und Gott und uns danken, das
-                            wirst du sehen!« – »Gott gebe es!« – »Sie besitzt freilich jetzt sehr
-                            ansehnliche Güter; aber nach dem Aufsehen, das die unglückliche
-                            Geschichte mit dem Abenteurer gemacht hat, glaubst du, daß sich sobald
-                            eine andere, für sie so passende Partie, als der Herr Rascal, finden
-                            möchte? Weißt du, was für ein Vermögen er besitzt, der Herr Rascal? Er
-                            hat für sechs Millionen Güter hier im Lande, frei von allen Schulden,
-                            bar bezahlt. Ich habe die Dokumente in Händen gehabt! Er war's, der mir
-                            überall das Beste vorweg genommen hat; und außerdem im Portefeuille
-                            Papiere auf Thomas John für circa viertehalb Millionen.« – »Er muß sehr
-                            viel gestohlen haben.« – »Was sind das wieder für Reden! Er hat weislich
+                            Gespräch begann. – »Was macht <persName key="mina">Mina</persName>?« –
+                            »Sie weint.« – »Einfältiges Kind! es ist doch nicht zu ändern!« –
+                            »Freilich nicht; aber sie so früh einem andern zu geben – – O Mann, du
+                            bist grausam gegen dein eigenes Kind.« – »Nein, Mutter, das siehst du
+                            sehr falsch. Wenn sie, noch bevor sie ihre doch kindischen Tränen
+                            ausgeweint hat, sich als die Frau eines sehr reichen und geehrten Mannes
+                            findet, wird sie getröstet aus ihrem Schmerze wie aus einem Traum
+                            erwachen, und Gott und uns danken, das wirst du sehen!« – »Gott gebe
+                            es!« – »Sie besitzt freilich jetzt sehr ansehnliche Güter; aber nach dem
+                            Aufsehen, das die unglückliche Geschichte mit dem Abenteurer gemacht
+                            hat, glaubst du, daß sich sobald eine andere, für sie so passende
+                            Partie, als der Herr <persName key="rascal">Rascal</persName>, finden
+                            möchte? Weißt du, was für ein Vermögen er besitzt, der Herr <persName
+                                key="rascal">Rascal</persName>? Er hat für sechs Millionen Güter
+                            hier im Lande, frei von allen Schulden, bar bezahlt. Ich habe die
+                            Dokumente in Händen gehabt! Er war's, der mir überall das Beste vorweg
+                            genommen hat; und außerdem im <rs type="term" key="portefeuille"
+                                >Portefeuille</rs> Papiere auf <persName key="john_thomas">Thomas
+                                John</persName> für circa viertehalb Millionen.« – »Er muß sehr viel
+                            gestohlen haben.« – »Was sind das wieder für Reden! Er hat weislich
                             gespart, wo verschwendet wurde.« – »Ein Mann, der die Livree getragen
                             hat.« – »Dummes Zeug! er hat doch einen untadlichen Schatten.« – »Du
                             hast Recht, aber – –« </p>
-                        <p rend="zenoPLm4n0" xml:id="tg322.2.16"> Der Mann im grauen Rock lachte und
-                            sah mich an. Die Türe ging auf, und Mina trat heraus. Sie stützte sich
-                            auf den Arm einer Kammerfrau, stille Tränen flossen auf ihre schönen
-                            blassen Wangen. Sie setzte sich in einen Sessel, der für sie unter den
-                            Linden bereitet war, und ihr Vater nahm einen Stuhl neben ihr. Er faßte
-                            zärtlich ihre Hand, und redete sie, die heftiger zu weinen anfing, mit
-                            zarten Worten an: </p>
+                        <p rend="zenoPLm4n0" xml:id="tg322.2.16">
+                            <index spanTo="#icnf_ymc_1cc" indexName="persons" corresp="mann_in_grau">
+                                <term/>
+                            </index>Der Mann im grauen Rock<anchor type="index"
+                                xml:id="icnf_ymc_1cc"/> lachte und sah mich an. Die Türe ging auf,
+                            und Mina trat heraus. Sie stützte sich auf den Arm einer Kammerfrau,
+                            stille Tränen flossen auf ihre schönen blassen Wangen. Sie setzte sich
+                            in einen Sessel, der für sie unter den Linden bereitet war, und ihr
+                            Vater nahm einen Stuhl neben ihr. Er faßte zärtlich ihre Hand, und
+                            redete sie, die heftiger zu weinen anfing, mit zarten Worten an: </p>
                         <p rend="zenoPLm4n0" xml:id="tg322.2.17"> »Du bist mein gutes, liebes Kind,
                             du wirst auch vernünftig sein, wirst nicht deinen alten Vater betrüben
                             wollen, der nur dein Glück will; ich begreife es wohl, liebes Herz, daß
                             es dich sehr erschüttert hat, du bist wunderbar deinem Unglück
                             entkommen! Bevor wir den schändlichen Betrug entdeckt, hast du diesen
-                            Unwürdigen sehr geliebt; siehe, Mina, ich weiß es, und mache dir keine
-                            Vorwürfe darüber. <pb n="48" xml:id="tg322.2.17.1"/> Ich selber, liebes
-                            Kind, habe ihn auch geliebt, so lange ich ihn für einen großen Herrn
-                            angesehen habe. Nun siehst du selber ein, wie anders alles geworden.
-                            Was! ein jeder Pudel hat ja seinen Schatten, und mein liebes einziges
-                            Kind sollte einen Mann – – Nein, du denkst auch gar nicht mehr an ihn. –
-                            Höre, Mina, nun wirbt ein Mann um dich, der die Sonne nicht scheut, ein
-                            geehrter Mann, der freilich kein Fürst ist, aber zehn Millionen, zehnmal
-                            mehr als du in Vermögen besitzt, ein Mann, der mein liebes Kind
-                            glücklich machen wird. Erwidere mir nichts, widersetze dich nicht, sei
-                            meine gute, gehorsame Tochter, laß deinen liebenden Vater für dich
-                            sorgen, deine Tränen trocknen. Versprich mir, dem Herrn Rascal deine
-                            Hand zu geben. – Sage, willst du mir dies versprechen?« – </p>
+                            Unwürdigen sehr geliebt; siehe, <persName key="mina">Mina</persName>,
+                            ich weiß es, und mache dir keine Vorwürfe darüber. <pb n="48"
+                                xml:id="tg322.2.17.1"/> Ich selber, liebes Kind, habe ihn auch
+                            geliebt, so lange ich ihn für einen großen Herrn angesehen habe. Nun
+                            siehst du selber ein, wie anders alles geworden. Was! ein jeder Pudel
+                            hat ja seinen Schatten, und mein liebes einziges Kind sollte einen Mann
+                            – – Nein, du denkst auch gar nicht mehr an ihn. – Höre, <persName
+                                key="mina">Mina</persName>, nun wirbt ein Mann um dich, der die
+                            Sonne nicht scheut, ein geehrter Mann, der freilich kein Fürst ist, aber
+                            zehn Millionen, zehnmal mehr als du in Vermögen besitzt, ein Mann, der
+                            mein liebes Kind glücklich machen wird. Erwidere mir nichts, widersetze
+                            dich nicht, sei meine gute, gehorsame Tochter, laß deinen liebenden
+                            Vater für dich sorgen, deine Tränen trocknen. Versprich mir, dem Herrn
+                                <persName key="rascal">Rascal</persName> deine Hand zu geben. –
+                            Sage, willst du mir dies versprechen?« – </p>
                         <p rend="zenoPLm4n0" xml:id="tg322.2.18"> Sie antwortete mit erstorbener
                             Stimme: »Ich habe keinen Willen, keinen Wunsch fürder auf Erden.
-                            Geschehe mit mir, was mein Vater will.« Zugleich ward Herr Rascal
-                            angemeldet, und trat frech in den Kreis. Mina lag in Ohnmacht. Mein
-                            verhaßter Gefährte blickte mich zornig an und flüsterte mir die
-                            schnellen Worte: »Und das könnten Sie erdulden! Was fließt Ihnen denn
-                            statt des Blutes in den Adern?« Er ritzte mir mit einer raschen Bewegung
-                            eine leichte Wunde in die Hand, es floß Blut, er fuhr fort: »Wahrhaftig!
-                            rotes Blut! – So unterschreiben Sie!« Ich hatte das Pergament und die
-                            Feder in Händen. </p>
+                            Geschehe mit mir, was mein Vater will.« Zugleich ward Herr <persName
+                                key="rascal">Rascal</persName> angemeldet, und trat frech in den
+                            Kreis. Mina lag in Ohnmacht. Mein verhaßter Gefährte blickte mich zornig
+                            an und flüsterte mir die schnellen Worte: »Und das könnten Sie erdulden!
+                            Was fließt Ihnen denn statt des Blutes in den Adern?« Er ritzte mir mit
+                            einer raschen Bewegung eine leichte Wunde in die Hand, es floß Blut, er
+                            fuhr fort: »Wahrhaftig! rotes Blut! – So unterschreiben Sie!« Ich hatte
+                            das Pergament und die Feder in Händen. </p>
                     </div>
                 </div>
             </div>

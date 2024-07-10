@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de"
+    telota:doctype="register">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sachbegriffe</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Gehört zur ediarum-App für eXist.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Hybrid: consult project description and document history for details.</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <list>
+                <item xml:id="">
+                    <label type="reg">Physikus</label>
+                    <desc>Physĭkus (griech.), Kenner, Lehrer der Physik oder ein sie praktisch
+                        Ausübender (Physiker); veralteter Titel des Kreisarztes. Das Amt eines
+                        solchen Arztes heißt Physikat.<ref
+                            target="www.woerterbuchnetz.de/Meyers/Physĭkus">Quelle</ref>
+                    </desc>
+                </item>
+                <item xml:id="portefeuille">
+                    <label type="reg">Portefeuille</label>
+                    <desc> Portefeuille (franz., spr. port'föfllj), Brieftasche, Briefmappe; auch
+                        soviel wie Ministerposten, weil die Minister mit einer Mappe (Portefeuille)
+                        vor dem Staatsoberhaupt sowie in den Kammern zu erscheinen pflegen. Man
+                        gebraucht daher die Wendungen: »ein P. anbieten, annehmen, abgeben,
+                        niederlegen« und spricht von dem P. des Innern, des Auswärtigen etc. und von
+                        einem Minister »ohne P.«, wenn derselbe kein Fach- oder Ressortminister,
+                        aber gleichwohl Mitglied des Ministerrats ist. – Im kaufmännischen Verkehr,
+                        namentlich im Bankwesen, ist P. das Behältnis zur Aufbewahrung von
+                        Wertpapieren, Wechseln etc., und P. bezeichnet daher den Vorrat an solchen
+                        bei einem Bankinstitut u. dgl.<ref
+                            target="www.woerterbuchnetz.de/Meyers/Portefeuille">Quelle</ref>
+                    </desc>
+                </item>
+            </list>
+        </body>
+    </text>
+</TEI>
