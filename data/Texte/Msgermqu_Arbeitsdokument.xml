@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="faust-tei.rnc" type="compact"?>
-<?xml-stylesheet type="text/css" href="faust-tei.css"?>
 <!DOCTYPE TEI [ 
 <!ENTITY ndash "&#8211;">
 <!ENTITY ss "&#0383;">
@@ -9,7 +7,8 @@
 <!ENTITY apostr "&#x2019;">
 <!ENTITY stroke "&#x2015;">
 ]>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://faustedition.de/schema/v1">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://faustedition.de/schema/v1" xmlns:telota="http://www.telota.de"
+    telota:doctype="document">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -292,7 +291,7 @@
         ich aber sah verwundert den Mann an, und 
         wusste nicht wie die <subst><del>lange</del><add>grosse</add></subst> Mas<add>c</add>hine, aus der 
         wint<add>z</add>igen Tasche heraus gekommen war<subst><del>.</del><add>,</add></subst> es schien aber 
-        niemandem aufgefallen zu <subst><del>s</del><add>s</subst>ein und man bekümmerte
+        niemandem aufgefallen zu <subst><del>s</del><add>s</add></subst>ein und man bekümmerte
         sich nicht mehr um den grauen Mann als um
         mich selber. Erfrischungen wurden gereicht, das 
         seltenste Obst aller Zonen in den <del>köstli</del> kostbarsten
@@ -457,7 +456,7 @@
         fortunati 
         Wunschhütlein neu und haltbar wieder restaurirt,
         <subst><del>auch</del><add>oder</add></subst> ein Glücksseckel, wie das seine gewesen....
-        Tortunati Glücksseckel<subst><del>,</dsel><add>!</add></subst>fiel ich ihm in die Rede,
+        Tortunati Glücksseckel<subst><del>,</del><add>!</add></subst>fiel ich ihm in die Rede,
         Und wie gross meine Angst auch war, hatte er mit 
         dem einen Wort meinen ganzen sinn gefangen.
         Ich bekam einen Schwindel und es flimmerte mir
@@ -886,7 +885,7 @@
         Da ich an einem schönen Abend nach meiner Gewohnheit
         <subst><del>ein# sonst prächtiges Fest</del><add><subst><del>artiges</del><add>eine Geselschaft</add></subst></add></subst> in einem unerleuchteten
         Garten <subst><del>gab</del><add>versammelt hatte</add></subst>, wandelte ich mit der Herrin arm
-        in Arm, in einiger <subst><del>e</del><add>E</add></subst>ntfernung vor de<subst><del>r</del><add>n</add></subst> geselschaft<subst></del>übrigen Gästen</add></subst>,
+        in Arm, in einiger <subst><del>e</del><add>E</add></subst>ntfernung vor de<subst><del>r</del><add>n</add></subst> geselschaft<subst>übrigen Gästen</subst>,
         und bemühte mich ihr Redensarten vorzudrechseln
         Sie sah sittlich vor Sich nieder und erwiderte leise
         den Druck meiner Hand, da trat unversehens
@@ -903,7 +902,7 @@
         wie ein Pfeil durch die <del>entgegen</del> entsetzten
         Gäste, erreichte die Thüre, warf mich in den
         ersten Wagen, den ich da halten fand, und fuhr
-        nach der Stadt zurück <subst><del><del>wo ich zu meinem Unheil <add>der vorsichtige</add> Bendel <add>diesmal zurücke</add><subst><del>zurücke gelassen hatte</del><add>an dem Tage geblieben war</add></subst></del><add>wo ich dies mal, zu meinem Unheil, den vorsichtigen Bendel gelassen hatte.</add></subst> Er erschrack,
+        nach der Stadt zurück <subst><del><del/>wo ich zu meinem Unheil <add>der vorsichtige</add> Bendel <add>diesmal zurücke</add><subst><del>zurücke gelassen hatte</del><add>an dem Tage geblieben war</add></subst></del><add>wo ich dies mal, zu meinem Unheil, den vorsichtigen Bendel gelassen hatte.</add></subst> Er erschrack,
         <subst><del>wie</del><add>als</add></subst> er mich sah, ein Wort entdeckte ihm schon alles
         <del>Ich liess</del> Es wurden auf der Stelle postpferde geholt
         Ich nahm nur einen meiner Leute mit mir
@@ -1259,7 +1258,7 @@
         Munde des Grafen Peter vernahm. Er fiel mir um den 
         Hals und ward wieder ganz verschämt sich vergessen
         zuhaben. nun fiel es ihm ein zu zweifeln, <del>und</del>
-        zu erwägen<del>,</del> und zu forschen, er sprach von Mi<subst><del>#<add>t</add></subst>g<subst><del>#</del><add>if</add></subst>t
+        zu erwägen<del>,</del> und zu forschen, er sprach von Mi<subst><del>#</del><add>t</add></subst>g<subst><del>#</del><add>if</add></subst>t
         von Sicherheit <subst><del>f#n</del><add>von</add></subst> Zukunft für sein liebes Kind.
         Ich danckte ihm mich daran zu mahnen. <subst><del>i</del><add>I</add></subst>ch sagte 
         ihm ich wünsche <del>mich</del> in dieser Gegend, wo ich geliebt
@@ -2576,7 +2575,7 @@ Um mich herrschte die Stille des Todes, un
         Trotz geboten. umsonst, noch bin ich auf Neu=
         holland nicht gewesen — <del>zurücke bin</del> ich <add>kamm</add> dann
         jedes mal auf Lamboe <subst><del>gekomen</del><add>zurück</add></subst>, und <subst><del>habe</del><add>setzte</add></subst> mich 
-        auf seine <subst><del>entfernste</del><add>ausserste</add></subst> Spitze <subst><del>gesetzt</<del><add>nieder</add></subst>, und <add>weinte wieder</add> das gesicht
+        auf seine <subst><del>entfernste</del><add>ausserste</add></subst> Spitze <subst><del>gesetzt</del><add>nieder</add></subst>, und <add>weinte wieder</add> das gesicht
         gen Süden und osten gewendet <del>habe wieder geweint</del>
         wie am festverschlossenen Gitter meines Kerkers.
         Ich trat von Lamb<subst><del>##</del><add>oe</add></subst> über Ba<subst><del>#</del><add>l</add></subst>i <subst><del>j</del><add>J</add></subst>ava Sumatra und
@@ -2607,7 +2606,7 @@ Um mich herrschte die Stille des Todes, un
         <del></del>haup<add>t</add>sächlich einen Sextant, eine Magnetnadel, einen 
         Barometer, als Hohemesser <subst><del>d</del><add>einen</add></subst> thermometer <add>ein elctrisches Apparat</add> ein Vergrösserungs
         Glass, anatomische messer, eine botanische Kapsel, Papier,
-        <subst><del>b</del><add>B</add></subst>ücher, <add>und</add> Schreibmaterialen.</del> Ich machte <del>nach</del>
+        <subst><del>b</del><add>B</add></subst>ücher, <add>und</add> Schreibmaterialen. Ich machte <del>nach</del>
         <subst><del>diesen und wenigen andern Bedürfnissen</del><add>dieses alles herbei zu schaffen</add></subst>,, etliche bangen Gänge
         nach London<del>,</del> und Paris, die ein mir günstiger Nebel eben
         beschattete; ald der Rest meines Zaubergoldes erschöpft war, 
@@ -2795,7 +2794,7 @@ Um mich herrschte die Stille des Todes, un
         leben, lerne verehren zuvörderst den Schatten, so dann 
         das Gold. willst du nur dir und deinem bessern selbst
         leben, o so brauchst du keinen Rath.
-        explicit
+        explicit</n></del></add></subst>
     </body>
 </text>
-        
+</TEI>  
