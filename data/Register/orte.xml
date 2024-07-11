@@ -16,7 +16,66 @@
     <text>
         <body>
             <listPlace>
-                
+                <place xml:id="HöhenDesTibet">
+                    <idno type="uri">https://www.geonames.org/8449601/tibet.html</idno>
+                    <placeName type="reg">Höhen des Tibet</placeName>
+                </place>
+                <place xml:id="Asien">
+                    <idno type="uri">https://www.geonames.org/6255147/asia.html</idno>
+                    <placeName type="reg">Asien</placeName>
+                </place>
+                <place xml:id="Afrika">
+                    <idno type="uri">https://www.geonames.org/6255146/africa.html</idno>
+                    <placeName type="reg">Afrika</placeName>
+                </place>
+                <place xml:id="Ägypten">
+                    <idno type="uri">https://www.geonames.org/357994/arab-republic-of-egypt.html</idno>
+                    <placeName type="reg">Ägypten</placeName>
+                </place>
+                <place xml:id="Theben">
+                    <idno type="uri">http://www.geonames.org/347342/thebes.html</idno>
+                    <placeName type="reg">Theben</placeName>
+                </place>
+                <place xml:id="HerkulesSäulen">
+                    <idno type="uri">https://www.geonames.org/2411583/rock-of-gibraltar.html</idno>
+                    <placeName type="reg">Herkules Säulen</placeName>
+                </place>
+                <place xml:id="Europa">
+                    <idno type="uri">https://www.geonames.org/6255148/europe.html</idno>
+                    <placeName type="reg">Europa</placeName>
+                </place>
+                <place xml:id="Groenland">
+                    <idno type="uri">http://www.geonames.org/3425505/greenland.html</idno>
+                    <placeName type="reg">Groenland</placeName>
+                </place>
+                <place xml:id="Amerika">
+                    <idno type="uri">https://www.geonames.org/10861432/america.html</idno>
+                    <placeName type="reg">Amerika</placeName>
+                </place>
+                <place xml:id="CapHorn">
+                    <idno type="uri">https://www.geonames.org/3887850/cape-horn.html</idno>
+                    <placeName type="reg">Cap Horn</placeName>
+                </place>
+                <place xml:id="östlichenTheilAsiens">
+                    <idno type="uri">https://www.geonames.org/7729894/eastern-asia.html</idno>
+                    <placeName type="reg">östlichen Theil Asiens</placeName>
+                </place>
+                <place xml:id="Beringstraße">
+                    <idno type="uri">http://www.geonames.org/4031767/bering-strait.html</idno>
+                    <placeName type="reg">Beringstraße</placeName>
+                </place>
+                <place xml:id="Malaca">
+                    <idno type="uri">https://www.geonames.org/1734759/malacca.html</idno>
+                    <placeName type="reg">Malaca</placeName>
+                </place>
+                <place xml:id="Bali">
+                    <idno type="uri">http://www.geonames.org/1650534/bali.html</idno>
+                    <placeName type="reg">Bali</placeName>
+                </place>
+                <place xml:id="Lamboe ">
+                    <idno type="uri">http://www.geonames.org/7869837/lombok-island.html</idno>
+                    <placeName type="reg">Lamboe </placeName>
+                </place>
             </listPlace>
         </body>
     </text>
