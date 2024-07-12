@@ -16,9 +16,71 @@
     <text>
         <body>
             <listPlace>
-                <place xml:id="HöhenDesTibet">
+                <place xml:id="DenHohenEbenenDesTibet">
                     <idno type="uri">https://www.geonames.org/8449601/tibet.html</idno>
-                    <placeName type="reg">Höhen des Tibet</placeName>
+                    <placeName type="reg">Den hohen Ebenen des Tibet</placeName>
+                </place>
+                <place xml:id="Aralsee">
+                    <idno type="uri">http://www.geonames.org/1526250/aral-sea.html</idno>
+                    <placeName type="reg">Aralsee</placeName>
+                </place>
+                <place xml:id="CaspischeMeer">
+                    <idno type="uri">http://www.geonames.org/630671/caspian-sea.html</idno>
+                    <placeName type="reg">Caspische Meer</placeName>
+                </place>
+                <place xml:id="Persien">
+                    <idno type="uri">http://www.geonames.org/130758/islamic-republic-of-iran.html</idno>
+                    <placeName type="reg">Persien</placeName>
+                    <placeName type="alt">Iran</placeName>
+                </place>
+                <place xml:id="dieMündungendesTrigrisundEuphrats">
+                    <idno type="uri">http://www.geonames.org/143160/shatt-al-arab.html</idno>
+                    <placeName type="reg">die Mündungen des Tigris und des Euphrats</placeName>
+                </place>
+                <place xml:id="Bassora">
+                    <idno type="uri">http://www.geonames.org/99532/basrah.html</idno>
+                    <placeName type="reg">Bassora</placeName>
+                </place>
+                <place xml:id="Arabien">
+                    <idno type="uri">http://www.geonames.org/6957698/arabia.html</idno>
+                    <placeName type="reg">Arabien</placeName>
+                </place>
+                <place xml:id="Mocca">
+                    <idno type="uri">http://www.geonames.org/78751/mocha.html</idno>
+                    <placeName type="reg">Mocca</placeName>
+                    <placeName type="alt">Mokka</placeName>
+                </place>
+                <place xml:id="rotheMeer">
+                    <idno type="uri">http://www.geonames.org/350155/red-sea.html</idno>
+                    <placeName type="reg">rothen Meer</placeName>
+                </place>
+                <place xml:id="Mekka">
+                    <idno type="uri">http://www.geonames.org/104515/mecca.html</idno>
+                    <placeName type="reg">der Wiege</placeName>
+                    <placeName type="alt">Mekka</placeName>
+                </place>
+                <place xml:id="Medina">
+                    <idno type="uri">http://www.geonames.org/109223/medina.html</idno>
+                    <placeName type="reg">dem Grabe</placeName>
+                    <placeName type="alt">Medina</placeName>
+                </place>
+                <place xml:id="Suez">
+                    <idno type="uri">http://www.geonames.org/359797/as-suways.html</idno>
+                    <placeName type="reg">Suez</placeName>
+                </place>
+                <place xml:id="Palestina">
+                    <idno type="uri">http://www.geonames.org/12047392/palestine.html</idno>
+                    <placeName type="reg">Palestina</placeName>
+                    <placeName type="alt">Israel</placeName>
+                </place>
+                <place xml:id="Syrien">
+                    <idno type="uri">http://www.geonames.org/163843/syrian-arab-republic.html</idno>
+                    <placeName type="reg">Syrien</placeName>
+                </place>
+                <place xml:id="Jerusalem">
+                    <idno type="uri">http://www.geonames.org/281184/jerusalem.html</idno>
+                    <placeName type="reg">die dreimal heilige Stadt</placeName>
+                    <placeName type="alt">Jerusalem</placeName>
                 </place>
                 <place xml:id="Asien">
                     <idno type="uri">https://www.geonames.org/6255147/asia.html</idno>
@@ -30,11 +92,35 @@
                 </place>
                 <place xml:id="Ägypten">
                     <idno type="uri">https://www.geonames.org/357994/arab-republic-of-egypt.html</idno>
-                    <placeName type="reg">Ägypten</placeName>
+                    <placeName type="reg">Aegypten</placeName>
+                </place>
+                <place xml:id="Delta">
+                    <idno type="uri">http://www.geonames.org/351037/nile-delta.html</idno>
+                    <placeName type="reg">Delta</placeName>
+                    <placeName type="alt">Nil Delta</placeName>
+                </place>
+                <place xml:id="Alexandria">
+                    <idno type="uri">http://www.geonames.org/361058/alexandria.html</idno>
+                    <placeName type="reg">Alexandrien</placeName>
+                    <placeName type="alt">Alexandria</placeName>
+                </place>
+                <place xml:id="OasisAmmon">
+                    <idno type="uri">http://www.geonames.org/347860/siwa-oasis.html</idno>
+                    <placeName type="reg">Oasis ammon</placeName>
+                    <placeName type="alt">Oase Siwa</placeName>
+                </place>
+                <place xml:id="Nil">
+                    <idno type="uri">http://www.geonames.org/351036/nile-river.html</idno>
+                    <placeName type="reg">Nil</placeName>
                 </place>
                 <place xml:id="Theben">
                     <idno type="uri">http://www.geonames.org/347342/thebes.html</idno>
                     <placeName type="reg">Theben</placeName>
+                </place>
+                <place xml:id="MemnonsBildseule">
+                    <idno type="uri">http://www.geonames.org/352548/colossi-of-memnon.html</idno>
+                    <placeName type="reg">Memnons Bildseule</placeName>
+                    <placeName type="alt">Memnonkolosse</placeName>
                 </place>
                 <place xml:id="HerkulesSäulen">
                     <idno type="uri">https://www.geonames.org/2411583/rock-of-gibraltar.html</idno>
@@ -80,6 +166,5 @@
         </body>
     </text>
 </TEI>
-
 
 
