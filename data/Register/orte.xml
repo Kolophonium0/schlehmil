@@ -122,6 +122,92 @@
                     <placeName type="reg">Memnons Bildseule</placeName>
                     <placeName type="alt">Memnonkolosse</placeName>
                 </place>
+                <place xml:id="ThaldesNiegers">
+                    <idno type="uri">http://www.geonames.org/2439287/desert-du-tal.html</idno>
+                    <idno type="uri">http://www.geonames.org/2328927/niger-delta.html</idno>
+                    <placeName type="reg">Thal des Nigers</placeName>
+                </place>
+                <place xml:id="Timbuktu">
+                    <idno type="uri">http://www.geonames.org/2449067/timbuktu.html</idno>
+                    <placeName type="reg">Tumbuktu</placeName>
+                    <placeName type="alt">Timbuktu</placeName>
+                </place>
+                <place xml:id="QuellenDesNigers">
+                    <idno type="uri">http://www.geonames.org/2276565/guinea-highlands.html</idno>
+                    <placeName type="reg">Quellen des Nigers</placeName>
+                </place>
+                <place xml:id="Mittelmeer">
+                    <idno type="uri">http://www.geonames.org/363196/mediterranean-sea.html</idno>
+                    <placeName type="reg">Mittelländischen Meeres</placeName>
+                </place>
+                <place xml:id="Ceuta">
+                    <idno type="uri">http://www.geonames.org/2519582/ceuta.html</idno>
+                    <placeName type="reg">Ceuta</placeName>
+                </place>
+                <place xml:id="Pyrenäen">
+                    <idno type="uri">http://www.geonames.org/3112616/pyrenees.html</idno>
+                    <placeName type="reg">Pyrenaeen</placeName>
+                    <placeName type="alt">Pyrenäen</placeName>
+                </place>
+                <place xml:id="Frankreich">
+                    <idno type="uri">http://www.geonames.org/3017382/republic-of-france.html</idno>
+                    <placeName type="reg">Frankreich</placeName>
+                </place>
+                <place xml:id="Paris">
+                    <idno type="uri">http://www.geonames.org/2988507/paris.html</idno>
+                    <placeName type="reg">Pris</placeName>
+                </place>
+                <place xml:id="Normandie">
+                    <idno type="uri">http://www.geonames.org/11071621/normandie.html</idno>
+                    <placeName type="reg">Normandie</placeName>
+                </place>
+                <place xml:id="England">
+                    <idno type="uri">http://www.geonames.org/6269131/england.html</idno>
+                    <placeName type="reg">England</placeName>
+                </place>
+                <place xml:id="Schweiz">
+                    <idno type="uri">http://www.geonames.org/2658434/switzerland.html</idno>
+                    <placeName type="reg">Schweitz</placeName>
+                    <placeName type="alt">Schweiz</placeName>
+                </place>
+                <place xml:id="Alpen">
+                    <idno type="uri">http://www.geonames.org/2661786/alps.html</idno>
+                    <placeName type="reg">Alpen</placeName>
+                </place>
+                <place xml:id="Montblanc">
+                    <idno type="uri">http://www.geonames.org/2992917/montblanc.html</idno>
+                    <placeName type="reg">Montblanc</placeName>
+                </place>
+                <place xml:id="Apeninen">
+                    <idno type="uri">http://www.geonames.org/3182982/apennines.html</idno>
+                    <placeName type="reg">Apeninen</placeName>
+                </place>
+                <place xml:id="Sizilien">
+                    <idno type="uri">http://www.geonames.org/2523118/sicily.html</idno>
+                    <placeName type="reg">Cicilien</placeName>
+                    <placeName type="alt">Sizilien</placeName>
+                </place>
+                <place xml:id="Ethna">
+                    <idno type="uri">http://www.geonames.org/2524810/monte-etna.html</idno>
+                    <placeName type="reg">Ethna</placeName>
+                    <placeName type="alt">Ätna</placeName>
+                </place>
+                <place xml:id="Italien">
+                    <idno type="uri">http://www.geonames.org/3175395/italian-republic.html</idno>
+                    <placeName type="reg">Italiens</placeName>
+                </place>
+                <place xml:id="Neapel">
+                    <idno type="uri">http://www.geonames.org/3172394/naples.html</idno>
+                    <placeName type="reg">Neapel</placeName>
+                </place>
+                <place xml:id="Rom">
+                    <idno type="uri">http://www.geonames.org/3169070/rome.html</idno>
+                    <placeName type="reg">Rom</placeName>
+                </place>
+                <place xml:id="Florenz">
+                    <idno type="uri">http://www.geonames.org/3176959/florence.html</idno>
+                    <placeName type="reg">Florenz</placeName>
+                </place>
                 <place xml:id="HerkulesSäulen">
                     <idno type="uri">https://www.geonames.org/2411583/rock-of-gibraltar.html</idno>
                     <placeName type="reg">Herkules Säulen</placeName>
