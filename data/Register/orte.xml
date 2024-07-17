@@ -123,7 +123,6 @@
                     <placeName type="alt">Memnonkolosse</placeName>
                 </place>
                 <place xml:id="ThaldesNiegers">
-                    <idno type="uri">http://www.geonames.org/2439287/desert-du-tal.html</idno>
                     <idno type="uri">http://www.geonames.org/2328927/niger-delta.html</idno>
                     <placeName type="reg">Thal des Nigers</placeName>
                 </place>
