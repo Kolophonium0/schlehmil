@@ -323,6 +323,24 @@
                     <placeName type="reg">Sanct Lorens</placeName>
                     <placeName type="alt">Saint Lawrence</placeName>
                 </place>
+                <place xml:id="NiagaraFälle">
+                    <idno type="uri">http://www.geonames.org/6087891/niagara-falls.html</idno>
+                    <placeName type="reg">Fall des Niagara</placeName>
+                </place>
+                <place xml:id="Ohio">
+                    <idno type="uri">http://www.geonames.org/4401696/ohio-river.html</idno>
+                    <placeName type="reg">Ohio</placeName>
+                </place>
+                <place xml:id="Mississippi">
+                    <idno type="uri">http://www.geonames.org/4333587/mississippi-river-delta.html</idno>
+                    <placeName type="reg">Meschasepe</placeName>
+                    <placeName type="alt">Mississippi</placeName>
+                </place>
+                <place xml:id="GolfVonMexico">
+                    <idno type="uri">http://www.geonames.org/3523271/gulf-of-mexico.html</idno>
+                    <placeName type="reg">Mexicanischen Meer Busen</placeName>
+                    <placeName type="alt">Golf von Mexiko</placeName>
+                </place>
                 <place xml:id="CapHorn">
                     <idno type="uri">https://www.geonames.org/3887850/cape-horn.html</idno>
                     <placeName type="reg">Cap Horn</placeName>
