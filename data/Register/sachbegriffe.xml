@@ -98,6 +98,11 @@
                         <ref target="www.woerterbuchnetz.de/Meyers/Nicotiana">Quelle</ref>
                     </desc>
                 </item>
+                <item xml:id="Kronometer">
+                    <label type="reg">Kronometer</label>
+                    <desc>Kronometer: (scherz.) Taschenuhr
+                        <ref target="https://www.lagis-hessen.de/de/subjects/rsrec/sn/shwb/entry/kronometer">Quelle</ref></desc>
+                </item>
             </list>
         </body>
     </text>
