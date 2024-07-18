@@ -341,9 +341,33 @@
                     <placeName type="reg">Mexicanischen Meer Busen</placeName>
                     <placeName type="alt">Golf von Mexiko</placeName>
                 </place>
+                <place xml:id="Panama">
+                    <idno type="uri">http://www.geonames.org/3703430/republic-of-panama.html</idno>
+                    <placeName type="reg">Panama</placeName>
+                </place>
+                <place xml:id="Llanos">
+                    <idno type="uri">http://www.geonames.org/3634703/llanos.html</idno>
+                    <placeName type="reg">llanos</placeName>
+                </place>
+                <place xml:id="RioNegro">
+                    <idno type="uri">http://www.geonames.org/3843184/rio-negro.html</idno>
+                    <placeName type="reg">Rionegro</placeName>
+                </place>
+                <place xml:id="Amazonas">
+                    <idno type="uri">http://www.geonames.org/3407729/amazon-river.html</idno>
+                    <placeName type="reg">Amazonen fluss</placeName>
+                </place>
+                <place xml:id="Feuerland">
+                    <idno type="uri">http://www.geonames.org/3834451/tierra-del-fuego.html</idno>
+                    <placeName type="reg">Feuerlande</placeName>
+                </place>
                 <place xml:id="CapHorn">
                     <idno type="uri">https://www.geonames.org/3887850/cape-horn.html</idno>
                     <placeName type="reg">Cap Horn</placeName>
+                </place>
+                <place xml:id="Anden">
+                    <idno type="uri">http://www.geonames.org/3923974/andes-mountains.html</idno>
+                    <placeName type="reg">Cordilleras de los Andes</placeName>
                 </place>
                 <place xml:id="östlichenTheilAsiens">
                     <idno type="uri">https://www.geonames.org/7729894/eastern-asia.html</idno>
@@ -352,6 +376,11 @@
                 <place xml:id="Beringstraße">
                     <idno type="uri">http://www.geonames.org/4031767/bering-strait.html</idno>
                     <placeName type="reg">Beringstraße</placeName>
+                </place>
+                <place xml:id="Mexiko">
+                    <idno type="uri">http://www.geonames.org/3996063/mexico.html</idno>
+                    <placeName type="reg">Reich Montezuma</placeName>
+                    <placeName type="alt">Mexiko</placeName>
                 </place>
                 <place xml:id="Malaca">
                     <idno type="uri">https://www.geonames.org/1734759/malacca.html</idno>
