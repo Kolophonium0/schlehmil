@@ -382,6 +382,29 @@
                     <placeName type="reg">Reich Montezuma</placeName>
                     <placeName type="alt">Mexiko</placeName>
                 </place>
+                <place xml:id="Eliaskette">
+                    <idno type="uri">http://www.geonames.org/5556882/saint-elias-mountains.html</idno>
+                    <placeName type="reg">helias Berg</placeName>
+                    <placeName type="alt">Elias Kette</placeName>
+                </place>
+                <place xml:id="KapPrinzWales">
+                    <idno type="uri">http://www.geonames.org/5872091/cape-prince-of-wales.html</idno>
+                    <placeName type="reg">Cap prinz Wales</placeName>
+                </place>
+                <place xml:id=" TschuktschenHalbinsel">
+                    <idno type="uri">http://www.geonames.org/4031751/chukotskiy-poluostrov.html</idno>
+                    <placeName type="reg">Land der Tschuktschen</placeName>
+                </place>
+                <place xml:id="Corea">
+                    <idno type="uri">http://www.geonames.org/1835841/republic-of-korea.html</idno>
+                    <idno type="uri">http://www.geonames.org/1873107/democratic-people-s-republic-of-korea.html</idno>
+                    <placeName type="reg">Corea</placeName>
+                    <placeName type="alt">Korea</placeName>
+                </place>
+                <place xml:id="ChinesischeMauer">
+                    <idno type="uri">http://www.geonames.org/1791787/great-wall.html</idno>
+                    <placeName type="reg">Chinesische Mauer</placeName>
+                </place>
                 <place xml:id="Malaca">
                     <idno type="uri">https://www.geonames.org/1734759/malacca.html</idno>
                     <placeName type="reg">Malaca</placeName>
