@@ -60,14 +60,6 @@
         <profileDesc>
             
         </profileDesc>
-        <stageDesc>
-            <stageNote xml:id="ersteSchicht">
-                <p/>
-            </stageNote>
-            <stageNote xml:id="zweiteSchicht">
-                <p/>
-            </stageNote>
-        </stageDesc>
     </teiHeader>
 <text>
     <body>
