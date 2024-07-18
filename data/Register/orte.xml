@@ -405,6 +405,11 @@
                     <idno type="uri">http://www.geonames.org/1791787/great-wall.html</idno>
                     <placeName type="reg">Chinesische Mauer</placeName>
                 </place>
+                <place xml:id="Cochinchina">
+                    <idno type="uri">http://www.geonames.org/1573261/cochin-china.html</idno>
+                    <placeName type="reg">Cochinchina</placeName>
+                    <placeName type="alt">Region von Vietnam</placeName>
+                </place>
                 <place xml:id="Malaca">
                     <idno type="uri">https://www.geonames.org/1734759/malacca.html</idno>
                     <placeName type="reg">Malaca</placeName>
@@ -413,9 +418,59 @@
                     <idno type="uri">http://www.geonames.org/1650534/bali.html</idno>
                     <placeName type="reg">Bali</placeName>
                 </place>
-                <place xml:id="Lamboe ">
+                <place xml:id="Sumatra">
+                    <idno type="uri">http://www.geonames.org/1626198/sumatra.html</idno>
+                    <placeName type="reg">Sumatra</placeName>
+                </place>
+                <place xml:id="Java">
+                    <idno type="uri">http://www.geonames.org/1642673/java.html</idno>
+                    <placeName type="reg">Java</placeName>
+                </place>
+                <place xml:id="Lamboc">
                     <idno type="uri">http://www.geonames.org/7869837/lombok-island.html</idno>
-                    <placeName type="reg">Lamboe </placeName>
+                    <placeName type="reg">Lamboc</placeName>
+                </place>
+                <place xml:id="Borneo">
+                    <idno type="uri">http://www.geonames.org/1648148/borneo.html</idno>
+                    <placeName type="reg">Borneo</placeName>
+                </place>
+                <place xml:id="Australien">
+                    <idno type="uri">http://www.geonames.org/2077456/commonwealth-of-australia.html</idno>
+                    <placeName type="reg">Neuholland</placeName>
+                    <placeName type="alt">Australien</placeName>
+                </place>
+                <place xml:id="Südsee">
+                    <idno type="uri">http://www.geonames.org/4030483/south-pacific-ocean.html</idno>
+                    <placeName type="reg">Sudsee</placeName>
+                </place>
+                <place xml:id="LandVanDiemen">
+                    <idno type="uri">http://www.geonames.org/2061327/state-of-south-australia.html</idno>
+                    <placeName type="reg">Land van Diemen</placeName>
+                    <placeName type="alt">Südostaustralien</placeName>
+                </place>
+                <place xml:id="Ganges">
+                    <idno type="uri">http://www.geonames.org/1202950/ganges-river.html</idno>
+                    <placeName type="reg">Ganges</placeName>
+                </place>
+                <place xml:id="Indien">
+                    <idno type="uri">http://www.geonames.org/1269750/republic-of-india.html</idno>
+                    <placeName type="reg">Indien</placeName>
+                </place>
+                <place xml:id="Indus">
+                    <idno type="uri">http://www.geonames.org/1115007/indus-river.html</idno>
+                    <placeName type="reg">Indus</placeName>
+                </place>
+                <place xml:id="Tigris">
+                    <idno type="uri">http://www.geonames.org/96998/tigris-river.html</idno>
+                    <placeName type="reg">Tigris</placeName>
+                </place>
+                <place xml:id="Euphrat">
+                    <idno type="uri">http://www.geonames.org/315147/euphrates-river.html</idno>
+                    <placeName type="reg">Euphrates</placeName>
+                </place>
+                <place xml:id="London">
+                    <idno type="uri">http://www.geonames.org/2643743/london.html</idno>
+                    <placeName type="reg">London</placeName>
                 </place>
             </listPlace>
         </body>
