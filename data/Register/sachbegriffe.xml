@@ -25,6 +25,13 @@
                             target="www.woerterbuchnetz.de/Meyers/Physĭkus">Quelle</ref>
                     </desc>
                 </item>
+                <item xml:id="Knotenstock">
+                    <label type="reg">Knotenstock</label>
+                    <desc>2
+                        knotenstock, m. knotiger stock. Adelung, als wanderstab,
+                        durch seine knoten zugleich zur waffe besonders dienlich
+                        <ref target="https://woerterbuchnetz.de/?sigle=DWB&lemid=K09477">Quelle</ref></desc>
+                </item>
                 <item xml:id="portefeuille">
                     <label type="reg">Portefeuille</label>
                     <desc> Portefeuille (franz., spr. port'föfllj), Brieftasche, Briefmappe; auch
@@ -49,8 +56,8 @@
                         <ref target="https://www.woerterbuchnetz.de/DWB?lemid=S27563">Quelle</ref>
                    </desc>            
                 </item>
-                <item xml:id="Urbild">
-                    <label type="reg">Urbild</label>
+                <item xml:id="Uhrbild">
+                    <label type="reg">Uhrbild</label>
                     <desc> Urbild, …
                         Bild n. ‘flächige Darstellung von Personen und Dingen’
                         (früher auch ‘Skulptur’) sowie überhaupt 
@@ -58,6 +65,22 @@
                         ‘nur in der Vorstellung wahrgenommene Erscheinung’
                         <ref target="https://www.dwds.de/wb/etymwb/Urbild">Quelle</ref>
                     </desc>
+                </item>
+                <item xml:id="Alte Welt">
+                    <label type="reg">Alte Welt</label>
+                    <desc>Alte Welt, die östliche Erdhalbkugel mit den Erdteilen Europa,
+                        Asien und Afrika, im Gegensatze zu Amerika, der Neuen Welt.
+                        Australien bleibt dabei außer Betracht. Unter den Völkern der
+                        Alten Welt versteht man diejenigen, die in Asien, Afrika und Europa
+                        vor dem Erscheinen des Christentums auftraten.
+                        <ref target="https://woerterbuchnetz.de/?sigle=Meyers&lemid=A03609">Quelle</ref></desc>
+                </item>
+                <item xml:id="Mauren">
+                    <label type="reg">Mauren</label>
+                    <desc>Mauren, die Urbewohner des alter Mauretanien, dem berberischen Volksstamme
+                        angehörig, vermischten sich später vielfach mit den arab. Einwanderern u. 
+                        bewohnen besonders die Städte in der ganzen Ausdehnung der Berberei (s.d.)
+                        <ref target="https://woerterbuchnetz.de/?sigle=Herder&lemid=M00736">Quelle</ref></desc>
                 </item>
                 <item xml:id="Nicotiana">
                     <label type="reg">Nicotiana</label>
