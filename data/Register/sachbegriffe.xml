@@ -40,6 +40,41 @@
                             target="www.woerterbuchnetz.de/Meyers/Portefeuille">Quelle</ref>
                     </desc>
                 </item>
+                <item xml:id="Siebenmeilenstiefel">
+                    <label type="reg">Siebenmeilen Stiefel</label>
+                    <desc> siebenmeilenstiefel, m., 
+                        ein märchenhaftes motiv mythologischen ursprungs,
+                        stiefel, worin der träger bei jedem schritte sieben
+                        meilen zurücklegt, auch franz. bottes de sept lieues 
+                        <ref target="https://www.woerterbuchnetz.de/DWB?lemid=S27563">Quelle</ref>
+                   </desc>            
+                </item>
+                <item xml:id="Urbild">
+                    <label type="reg">Urbild</label>
+                    <desc> Urbild, …
+                        Bild n. ‘flächige Darstellung von Personen und Dingen’
+                        (früher auch ‘Skulptur’) sowie überhaupt 
+                        ‘dem Auge sich darbietender Anblick’ oder 
+                        ‘nur in der Vorstellung wahrgenommene Erscheinung’
+                        <ref target="https://www.dwds.de/wb/etymwb/Urbild">Quelle</ref>
+                    </desc>
+                </item>
+                <item xml:id="Nicotiana">
+                    <label type="reg">Nicotiana</label>
+                    <desc>Nicotiana L. (Tabak), Gattung der Solanazeen, 
+                        ein-, seltener mehrjährige, häufig drüsenhaarige, 
+                        kleberige Kräuter, bisweilen halbstrauchig, mit einfachen, 
+                        ganzrandigen, selten buchtigen Blättern, gelben, grünen, 
+                        roten oder weißen Blüten in endständigen zymösen Rispen 
+                        oder Trauben und trockner, zweifächeriger, vom bleibenden 
+                        Kelch umgebener Kapsel mit zahlreichen sehr kleinen Samen.
+                        Etwa 40 Arten in Nord-, Mittel- und Südamerika, vorherrschend 
+                        in den nicht tropischen westlichen Teilen, drei auf den 
+                        Sundainseln, eine in Australien und einige auf den Inseln
+                        des Stillen Ozeans.
+                        <ref target="www.woerterbuchnetz.de/Meyers/Nicotiana">Quelle</ref>
+                    </desc>
+                </item>
             </list>
         </body>
     </text>
