@@ -73,6 +73,27 @@
                     <placeName type="reg">dem Grabe</placeName>
                     <placeName type="alt">Medina</placeName>
                 </place>
+                <place xml:id="Bliesdorf">
+                    <idno type="uri">https://www.geonames.org/6551064/bliesdorf.html</idno>
+                    <placeName type="reg">Bliesdorf</placeName>
+                    <listPlace>
+                        <place xml:id="Kunersdorf" type="district">
+                            <placeName type="reg">Kunersdorf</placeName>
+                        </place>
+                    </listPlace>
+                </place>
+                <place xml:id="Nennhausen">
+                    <idno type="uri">https://www.geonames.org/6547597/nennhausen.html</idno>
+                    <placeName type="reg">Nennhausen</placeName>
+                </place>
+                <place xml:id="Chile">
+                    <idno type="uri">https://www.geonames.org/3895114/republic-of-chile.html</idno>
+                    <placeName type="reg">Chile</placeName>
+                </place>
+                <place xml:id="Kamtschtka">
+                    <idno type="uri">https://www.geonames.org/2125072/kamchatka-krai.html</idno>
+                    <placeName type="reg">Kamtschtka</placeName>
+                </place>
                 <place xml:id="Suez">
                     <idno type="uri">http://www.geonames.org/359797/as-suways.html</idno>
                     <placeName type="reg">Suez</placeName>
@@ -476,5 +497,3 @@
         </body>
     </text>
 </TEI>
-
-
