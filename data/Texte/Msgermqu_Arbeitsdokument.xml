@@ -106,11 +106,12 @@
     <subst>
         <del>einer, der nicht viel sprach, und den andern
         gar wenig zuhörte es nahm keiner 
-            <del>Notitz</del> 
+            <del>Notitz</del>
             <subst>
                 <del>von</del>
                 <add>besonders</add>
             </subst>
+            </del></subst>
      <subst>
          <del>Rücksicht auf ihn, </del>
          <add>es gab ##iner viel</add>
@@ -2787,7 +2788,7 @@ Um mich herrschte die Stille des Todes, un
         das Gold. willst du nur dir und deinem bessern selbst
         leben, o so brauchst du keinen Rath.
         explicit
-            <p>
+          </p>
     </body>
 </text>
 </TEI>  
