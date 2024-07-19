@@ -16,10 +16,92 @@
     <text>
         <body>
             <listPerson>
+                <person xml:id="eduard_hitzig">
+                    <idno type="uri">https://d-nb.info/gnd/119209349</idno>
+                    <persName type="reg">
+                        <surname>Hitzig</surname>
+                        <forename>Julius Eduard</forename>
+                        <nameLink/>
+                    </persName>
+                    <birth>1780</birth>
+                    <death>1849</death>
+                </person>
                 <person xml:id="arethusa" role="mythological">
                     <persName type="reg">
                         <name>Arethusa</name>
                     </persName>
+                </person>
+                <person xml:id="adelbert_von_chamisso">
+                    <idno type="uri">https://d-nb.info/gnd/118520040</idno>
+                    <persName type="reg">
+                        <surname>Chamisso</surname>
+                        <forename>Adelbert von</forename>
+                        <nameLink/>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>de Chamissot de Boncourt</name>
+                    </persName>
+                    <birth>1781</birth>
+                    <death>1838</death>
+                </person>
+                <person xml:id="karl_fouqué">
+                    <idno type="uri">https://d-nb.info/gnd/118534556</idno>
+                    <persName type="reg">
+                        <surname>de la Motte Fouqué</surname>
+                        <forename>Heinrich Karl</forename>
+                        <nameLink>Baron</nameLink>
+                    </persName>
+                    <birth>1777</birth>
+                    <death>1843</death>
+                </person>
+                <person xml:id="kamehameha_I">
+                    <idno type="uri">https://explore.gnd.network/en/gnd/122768914</idno>
+                    <persName type="reg">
+                        <surname>Kamehameha I.</surname>
+                        <forename/>
+                        <nameLink>König</nameLink>
+                    </persName>
+                    <persName type="alt">
+                        <name>Tameiamaia</name>
+                    </persName>
+                    <birth>1758</birth>
+                    <death>1819</death>
+                </person>
+                <person xml:id="eta_hoffmann">
+                    <idno type="uri">https://explore.gnd.network/en/gnd/118552465</idno>
+                    <persName type="reg">
+                        <surname>Hoffmann</surname>
+                        <forename>E.T.A.</forename>
+                        <nameLink/>
+                    </persName>
+                    <persName type="alt">
+                        <name>Ernst Theodor Amadäus</name>
+                    </persName>
+                    <birth>1776</birth>
+                    <death>1822</death>
+                </person>
+                <person xml:id="jean_paul_richter">
+                    <idno type="uri">https://d-nb.info/gnd/118557211</idno>
+                    <persName type="reg">
+                        <surname>Richter</surname>
+                        <forename>Jean Paul Friedrich</forename>
+                        <nameLink/>
+                    </persName>
+                    <persName type="alt">
+                        <name>Johann Paul</name>
+                    </persName>
+                    <birth>1763</birth>
+                    <death>1825</death>
+                </person>
+                <person xml:id="george_cruikshank">
+                    <idno type="uri">https://explore.gnd.network/en/gnd/11867742X</idno>
+                    <persName type="reg">
+                        <surname>Cruikshank</surname>
+                        <forename>George</forename>
+                        <nameLink/>
+                    </persName>
+                    <birth>1792</birth>
+                    <death>1878</death>
                 </person>
                 <person xml:id="bendel" role="fictional">
                     <persName type="reg">
