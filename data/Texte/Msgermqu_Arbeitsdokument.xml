@@ -2739,45 +2739,81 @@
                     <add place="across">d</add>
                 </subst>, dem <lb/>Schiksale es anheim stellend, was es mit mir vor hatte, <lb/>zu
                 erfüllen – Ich schaute nicht hinter mir zur<gap reason="lost" unit="chars"
-                    quantity="3"/> und <lb/>dachte auch nicht daran mich an Bendel, den ich reich
-                zurücke gelassen hatte, mich zu wenden, welches ich allerdings gekonnnt hätte. Ich
-                sah mich auf den neuen Character an, den ich in der Welt bekleiden sollte: mein
-                Anzug war sehr bescheiden. i[I]ch hatte eine alte Schwartze Kurtka an, die ich schon
-                in Berlin getragen, und die mir, ich weiss nicht wie, zu dieser r[R]eise erst
-                [wieder] in die Hand gekommen war. ich hatte sonst ein[e] paar Reisemütze auf den[m]
-                Kopf und ein Paar alte Stiefel an den Füssen. Ich erhub mich, schnitt mir an
-                selbiger Stelle ein[en] Knotenstock zum Andenken, und trat sogleich meine
-                w[W]anderung an. Ich begegnete im Wald einem alten Bauer der mich freud[n]dlich
-                begrüsste, und mit dem ich mich in Gespräch einliess,[.] Ich erkundigte mich, wie
-                ein wiss= begieriger Reisender, erst nach dem Wege, dann nach der Gegend und deren
-                Bewohner, den Erzeugnissen des Gebürges und derlei mehr, e[E]r antwortete verständig
-                und redseelig auf meine Fragen. Wir kamen an das Bette eines Bergstromes, der über
-                einen weiten Strich des Waldes seine Verwüsturhogng verbreitet hatte. mich
-                schauderte innerlich f vor dem sonnenhelle Raum, ich liess den Landmann voran gehn.,
-                Er hielt aber mitteim gefährlichen o[O]rte still und wandte sich zu mir um# mir die
-                Jahrzahl und und die geschichte dieser Verwüstung zu erzählen. e[E]r #[b]emer[c]kte
-                bald was mir fehlte und hielt mitten in seiner Rede ein: „Aber wie geht denn das zu?
-                der Herr hat ja keinen Schatten.[..] – „l[L]eider! leider!„ erwiderte ich seufzend.
-                Es sind mir während einer bösen langen Krankheit, Haare, Nägel und Schatten
-                ausgegangen, seht, Vater, in meinem Alter, die Haare die ich wieder gekriegt habe,
-                ganz weiss, die Nägel sehr kurz, und der Schatten, der will noch nicht wieder
-                wachsen. – Ei Ei! versetzte der alte Mann kopfschüttelnd, keinen Schatten, das ist
-                bös! das war eine böse Krankheit, die der Herr gehabt hat.„ aber er hub seine
-                Erzählung nicht wieder an, und bei dem nächsten Querweg, der sich darbot[h], ging er
-                ohne ein Wort zu sagen von mir ab. – bittere Thränen zitterten wiederum aufs neue in
-                meinen Wimpern und meine Heiterkeit war hin. Ich setzte traurigen Hertzens meinen
-                Weg fort, und suchte ferner #eines m[M]enschen Geselschaft. Ich hielt mich im
-                ckelsten[dunkelsten] Wald und musste manchmal sund um   | 67 | über einen Strich, wo
-                die s[S]onne schien, zu kommen, Stunden lang darauf warten, dass mir keines Menschen
-                Aug den Durchgang verboth. Am Abende suchte ich h[H]erberge in den Dörfern zu
-                nehmen. Ich ging eigentlich noch einem Bergwerk Im[s] Gebürg, wo ich Arbeit unter
-                der Erde zu finden gedachte, denn, davon abgesehen, dass meine jetzige Lage mir
-                geboth für meinen Lebens unterhalt selbst zu sorgen, hatte ich diesen dieses wohl
-                erkannt, dass mich allein angestrengte Arbeit gegen meine zerstörenden Gedanken
-                schützen kö[o]nnte. ein Paar regnigte Tage förderten mich leicht auf den weg, aber
-                auf kosten meiner Stiefel, deren Solen für den Grafen Peter und nicht für den
-                Fussknecht berechnet worden waren ich trat[ging] schon auf den blossen f[F]üssen, †
-                am nächt[s]ten Morgen besorgte ich dieses geschäft mit vielem Ernst in einem Dorf
+                    quantity="3"/> und <lb/>dachte auch nicht daran <del rendition="#s">mich</del>
+                an Bendel, den ich <lb/>reich zurücke gelassen hatte, mich zu wenden, welches ich
+                <lb/>allerdings gekonnnt hätte. Ich sah mich auf den neuen <lb/>Character an, den
+                ich in der Welt bekleiden sollte: mein Anzug <lb/>war sehr bescheiden. <subst>
+                    <del rendition="#ow">i</del>
+                    <add place="across">I</add>
+                </subst>ch hatte eine alte Schwartze Kurtka an, <lb/>die ich schon in <placeName
+                    key="Berlin"><placeName key="Berlin">Berlin</placeName></placeName> getragen,
+                und die mir, ich weiss nicht <lb/>wie, zu dieser <subst>
+                    <del rendition="#ow">r</del>
+                    <add>R</add>
+                </subst>eise erst <add place="superlinear">wieder</add> in die Hand gekommen war.
+                ich <lb/>hatte sonst ein<add place="intralinear">e</add>
+                <del rendition="#s">paar</del> Reisemütze auf de<subst>
+                    <del rendition="#ow">n</del>
+                    <add place="across">m</add>
+                </subst> Kopf und ein <lb/>Paar alte Stiefel an den Füssen. Ich erhub mich, schnitt
+                <lb/>mir an selbiger Stelle ein<add place="intralinear">en</add> Knotenstock zum
+                Andenken, und <lb/>trat sogleich meine <subst>
+                    <del rendition="#ow">w</del>
+                    <add place="across">W</add>
+                </subst>anderung an. Ich begegnete im Wald <lb/>einem alten Bauer der mich freud<subst>
+                    <del rendition="#ow"><gap reason="covered" unit="chars" quantity="1"/></del>
+                    <add place="across">n</add>
+                </subst>dlich begrüsste, und mit dem ich <lb/>mich in Gespräch einliess<subst>
+                    <del rendition="#ow">,</del>
+                    <add place="across">.</add>
+                </subst> Ich erkundigte mich, wie ein wiss=<g ref="#typoHyphen"/><lb break="no"
+                />begieriger Reisender, erst nach dem Wege, dann nach der Gegend <lb/>und deren
+                Bewohner, den Erzeugnissen des Gebürges und derlei <lb/>mehr, <subst>
+                    <del rendition="#ow">e</del>
+                    <add place="across">E</add>
+                </subst>r antwortete verständig und redseelig auf meine Fragen. <lb/>Wir kamen an
+                das Bette eines Bergstromes, der über einen weiten <lb/>Strich des Waldes seine
+                Verwüsturhogng verbreitet hatte. mich <lb/>schauderte innerlich <del rendition="#s"
+                    >f</del> vor dem sonnenhelle Raum, ich liess <lb/>den Landmann voran gehn., Er
+                hielt aber mitteim gefährlichen <lb/><subst>
+                    <del rendition="#ow">o</del>
+                    <add place="across">O</add>
+                </subst>rte still und wandte sich zu mir um<gap reason="illegible" unit="chars"
+                    quantity="1"/> mir die Jahrzahl und <lb/>die geschichte dieser Verwüstung zu
+                erzählen. <subst>
+                    <del rendition="#ow">e</del>
+                    <add place="across">E</add>
+                </subst>r #[b]emer[c]kte bald <lb/>was mir fehlte und hielt mitten in seiner Rede
+                ein: „Aber <lb/>wie geht denn das zu? der Herr hat ja keinen Schatten.[..] –  <lb/>„<subst>
+                    <del rendition="#ow">l</del>
+                    <add place="across">L</add>
+                </subst>eider! leider!„ erwiderte ich seufzend. Es sind mir während  <lb/>einer
+                bösen langen Krankheit, Haare, Nägel und Schatten <lb/>ausgegangen, seht, Vater, in
+                meinem Alter, die Haare die ich <lb/>wieder gekriegt habe, ganz weiss, die Nägel
+                sehr kurz, und der <lb/>Schatten, der will noch nicht wieder wachsen. – Ei Ei!
+                versetzte <lb/>der alte Mann kopfschüttelnd, keinen Schatten, das ist bös! das
+                <lb/>war eine böse Krankheit, die der Herr gehabt hat.„ aber <lb/>er hub seine
+                Erzählung nicht wieder an, und bei dem nächsten <lb/>Querweg, der sich darbot<add
+                    place="intralinear">h</add>, ging er ohne ein Wort zu sagen <lb/>von mir ab. –
+                bittere Thränen zitterten <del rendition="#s">wiederum</del> aufs neue <lb/>in
+                meinen Wimpern und meine Heiterkeit war hin. Ich <lb/>setzte traurigen Hertzens
+                meinen Weg fort, und suchte <lb/>ferner <gap reason="lost" unit="chars" quantity="1"
+                />eines <subst>
+                    <del rendition="#ow">m</del>
+                    <add place="across">M</add>
+                </subst>enschen Geselschaft. Ich hielt mich im <lb/><gap reason="lost" unit="chars"
+                    quantity="2"/>nkelsten <add place="sublinear">dunkelsten</add> Wald und musste
+                manchmal <del rendition="#s">stund</del> um <lb/>   | 67 | über einen Strich, wo die
+                s[S]onne schien, zu kommen, Stunden lang darauf warten, dass mir keines Menschen Aug
+                den Durchgang verboth. Am Abende suchte ich h[H]erberge in den Dörfern zu nehmen.
+                Ich ging eigentlich noch einem Bergwerk Im[s] Gebürg, wo ich Arbeit unter der Erde
+                zu finden gedachte, denn, davon abgesehen, dass meine jetzige Lage mir geboth für
+                meinen Lebens unterhalt selbst zu sorgen, hatte ich diesen dieses wohl erkannt, dass
+                mich allein angestrengte Arbeit gegen meine zerstörenden Gedanken schützen
+                kö[o]nnte. ein Paar regnigte Tage förderten mich leicht auf den weg, aber auf kosten
+                meiner Stiefel, deren Solen für den Grafen Peter und nicht für den Fussknecht
+                berechnet worden waren ich trat[ging] schon auf den blossen f[F]üssen, † am
+                nächt[s]ten Morgen besorgte ich dieses geschäft mit vielem Ernst in einem Dorf
                 Flecken, wo Kirmess war, und wo in einer Bude neue und alte Stiefel zu Kauf standen
                 † Ich musste auf ein Paar neuer, die ich gerne gehabt hätte, Verzicht leisten, mich
                 schreckte die unbillige Foderung. ich begnügte mich also mit alten, die noch gut und
