@@ -3197,38 +3197,45 @@
                 </subst>elsen  <lb/>und eilte südlicher zu kommen. ich hatte die Sonne ungefähr
                 <lb/>am Mittag. ich vermuthete auf <placeName key="Groenland">Groenland</placeName>
                 zu sein und <del>f<gap reason="illegible" unit="chars" quantity="2"/></del> fand
-                meine Vermuthung bestätigt, ich musste langst der westlichen Küste wieder me<subst>
+                <lb/>meine Vermuthung bestätigt, ich musste langst der westlichen  <lb/>Küste wieder me<subst>
                     <del>eine</del>
                     <add>hrere</add>
-                </subst> Schritte zurücke gehn, und wieder durch die Region des <subst>
-                    <del>#</del>
+                </subst> Schritte zurücke gehn, und wieder durch  <lb/>die Region des <subst>
+                    <del><gap reason="covered" unit="chars" quantity="1"/></del>
                     <add>eh</add>
-                </subst>wigen Eises America suchen. Ich kam süd= wärts schreitend an der Baffins und
-                Hudson Bay vorüber ohne den Lang <subst>
+                </subst>wigen Eises America suchen. Ich kam süd=<g ref="#typoHyphen"/><lb break="no"
+                /> wärts schreitend an der <placeName key="BaffinBay">Baffins</placeName> und
+                    <placeName key="HudsonBay">Hudson Bay </placeName>vorüber  <lb/>ohne den Lang <subst>
                     <del>d</del>
                     <add>g</add>
-                </subst>esuchten durchgang des Atlantischen Oceans nach dem stillen <subst>
-                    <del>m</del>
-                    <add>M</add>
-                </subst>eer zu finden. Ich erspaarte ### die genauere geographische Untersuchung
-                dieser Polarregionen auf eine andere zeit, und kam mich etwas links haltend an die
-                    <del>sehr</del> reich umgrünten Seen die ihre Gewässer in den raschen <subst>
+                </subst>esuchten durchgang des <placeName key="Atlantik">Atlantischen
+                    Oceans</placeName>
+                <lb/>nach dem <placeName key="Pazifik">stillen <subst>
+                        <del>m</del>
+                        <add>M</add>
+                    </subst>eer</placeName> zu finden. Ich erspaarte <gap reason="lost" unit="chars"
+                    quantity="3"/> die  <lb/>genauere geographische Untersuchung dieser
+                Polarregionen  <lb/>auf eine andere zeit, und kam mich etwas links haltend  <lb/>an
+                die <del>sehr</del> reich umgrünten Seen die ihre Gewässer in den  <lb/>raschen <subst>
                     <del>f</del>
                     <add>F</add>
-                </subst>luss Sanct <subst>
-                    <del>l</del>
-                    <add>L</add>
-                </subst>orens entladen. <subst>
+                </subst>luss <placeName key="StLawrence">Sanct <subst>
+                        <del>l</del>
+                        <add>L</add>
+                    </subst>orens</placeName> entladen. <subst>
                     <del>i</del>
                     <add>I</add>
-                </subst>ch schritt über den Fall des Niagara, ein herrlicher Anblick! und folgte dem
-                Laufe des Ohio und des Meschasepe hinab, mich freuend, wo ich neue Pflanzungen der
-                Menschen antraf, der schönen kräftigen Jugend dieser freien Völker, und wo die
-                    <del>Natur</del> ungebändigte Natur noch allein waltete, der üppigen Fülle ihrer
-                Kraft in den schönsten Wälder, die ich je gesehen hatte. ich umschritt den
-                Mexicanischen Meer Busen, und kam durch die Landenge Panama<add>'</add>s nach dem
-                südlichen America. Ich nahm links durch die llanos am Rionegro und dem Amazonenfluss
-                meinen Weg, ging durch das innere Land nach dem Panama <subst>
+                </subst>ch schritt über den <placeName key="NiagaraFälle">Fall  <lb/>des
+                    Niagara</placeName>, ein herrlicher Anblick! und folgte dem Laufe  <lb/>des
+                    <placeName key="Ohio">Ohio</placeName> und des <placeName key="Mississippi"
+                    >Meschasepe</placeName> hinab, mich freuend, wo ich  <lb/>neue Pflanzungen der
+                Menschen antraf, der schönen kräftigen  <lb/>Jugend dieser freien Völker, und wo die
+                    <del>Natur</del> ungebändigte  <lb/>Natur noch allein waltete, der üppigen Fülle
+                ihrer Kraft <lb/>in den schönsten Wälder, die ich je gesehen hatte. ich umschritt
+                <lb/>den <placeName key="GolfVonMexico">Mexicanischen Meer Busen</placeName>, und
+                kam durch die Landenge  <lb/><placeName key="Panama">Panama</placeName><add>'</add>s
+                nach dem südlichen America. Ich nahm links durch die llanos am Rionegro und dem
+                Amazonenfluss meinen Weg, ging durch das innere Land nach dem Panama <subst>
                     <del>f</del>
                     <add>F</add>
                 </subst>luss und drang immer <add>weiter</add> sudwärts vor. alles was ich sah war
