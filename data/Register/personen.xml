@@ -170,6 +170,13 @@
                     <birth/>
                     <death/>
                 </person>
+                <person xml:id="Montezuma">
+                    <persName type="reg">
+                        <name>Montezuma</name>
+                    </persName>
+                    <birth>ca. 1465</birth>
+                    <death>30. Juni 1520</death>
+                </person>
                 <!-- Forstmeister, Minas Mutter -->
             </listPerson>
         </body>

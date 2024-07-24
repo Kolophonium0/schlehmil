@@ -403,6 +403,23 @@
                     <placeName type="reg">Reich Montezuma</placeName>
                     <placeName type="alt">Mexiko</placeName>
                 </place>
+                <place xml:id="SierraMadre">
+                    <idno type="uri">http://www.geonames.org/3996934/sierra-madre-occidental.html</idno>
+                    <idno type="uri">http://www.geonames.org/3996936/sierra-madre.html</idno>
+                    <placeName type="reg">hohen Rücken</placeName>
+                    <placeName type="alt">Sierra Madre</placeName>
+                </place>
+                <place xml:id="MexikoStadt">
+                    <idno type="uri">http://www.geonames.org/3530597/mexico-city.html</idno>
+                    <placeName type="reg">Hauptstadt</placeName>
+                    <placeName type="alt">Mexiko Stadt</placeName>
+                    <placeName type="alt">Tenochtitlán</placeName>
+                </place>
+                <place xml:id="TexcocoSee">
+                    <idno type="uri">http://www.geonames.org/9801802/laguna-texcoco.html</idno>
+                    <placeName type="reg">Ufer des Sees</placeName>
+                    <placeName type="alt">Texcoco See</placeName>
+                </place>
                 <place xml:id="Eliaskette">
                     <idno type="uri">http://www.geonames.org/5556882/saint-elias-mountains.html</idno>
                     <placeName type="reg">helias Berg</placeName>
