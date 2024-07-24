@@ -172,10 +172,20 @@
                 </person>
                 <person xml:id="Montezuma">
                     <persName type="reg">
-                        <name>Montezuma</name>
+                        <name>Montezuma II</name>
                     </persName>
+                    <sex value="male" evidence="assigned"/>
                     <birth>ca. 1465</birth>
                     <death>30. Juni 1520</death>
+                </person>
+                <person xml:id="Lichtenstein">
+                    <persName type="reg">
+                        <surname>Lichtenstein</surname>
+                        <forename>Hinrich</forename>
+                    </persName>
+                    <sex value="male" evidence="assigned"/>
+                    <birth> 10. Januar 1780</birth>
+                    <death>3. September 1857</death>
                 </person>
                 <!-- Forstmeister, Minas Mutter -->
             </listPerson>
