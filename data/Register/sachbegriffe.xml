@@ -30,7 +30,7 @@
                     <desc>2
                         knotenstock, m. knotiger stock. Adelung, als wanderstab,
                         durch seine knoten zugleich zur waffe besonders dienlich
-                        <ref target="https://woerterbuchnetz.de/?sigle=DWB&lemid=K09477#">Quelle</ref></desc>
+                        <ref target="www.woerterbuchnetz.de/DWB/knotenstock">Quelle</ref></desc>
                 </item>
                 <item xml:id="portefeuille">
                     <label type="reg">Portefeuille</label>
@@ -53,7 +53,7 @@
                         ein märchenhaftes motiv mythologischen ursprungs,
                         stiefel, worin der träger bei jedem schritte sieben
                         meilen zurücklegt, auch franz. bottes de sept lieues 
-                        <ref target="https://www.woerterbuchnetz.de/DWB?lemid=S27563">Quelle</ref>
+                        <ref target="www.woerterbuchnetz.de/DWB/siebenmeilenstiefel">Quelle</ref>
                    </desc>            
                 </item>
                 <item xml:id="Uhrbild">
@@ -73,14 +73,14 @@
                         Australien bleibt dabei außer Betracht. Unter den Völkern der
                         Alten Welt versteht man diejenigen, die in Asien, Afrika und Europa
                         vor dem Erscheinen des Christentums auftraten.
-                        <ref target="https://woerterbuchnetz.de/?sigle=Meyers&lemid=A03609">Quelle</ref></desc>
+                        <ref target="www.woerterbuchnetz.de/Meyers/Alte Welt">Quelle</ref></desc>
                 </item>
                 <item xml:id="Mauren">
                     <label type="reg">Mauren</label>
                     <desc>Mauren, die Urbewohner des alter Mauretanien, dem berberischen Volksstamme
                         angehörig, vermischten sich später vielfach mit den arab. Einwanderern u. 
                         bewohnen besonders die Städte in der ganzen Ausdehnung der Berberei (s.d.)
-                        <ref target="https://woerterbuchnetz.de/?sigle=Herder&lemid=M00736">Quelle</ref></desc>
+                        <ref target="www.woerterbuchnetz.de/Herder/Mauren">Quelle</ref></desc>
                 </item>
                 <item xml:id="Nicotiana">
                     <label type="reg">Nicotiana</label>
