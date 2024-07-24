@@ -2953,10 +2953,10 @@
                     <lb/>Abend den <placeName key="Himalaya">hohen und breiten Rücken der Alten
                         <lb/>Welt</placeName>, vermeintliche Wiege der jetzigen organischen
                     <lb/>Schöpfung auf unserer Erde und der Menschheit <lb/>Ich stieg mit den
-                    Gewässern zum <subst>
+                    Gewässern zum <placeName key="Aralsee"><subst>
                         <del>a</del>
-                        <placeName key="Aralsee"><add>A</add></placeName>
-                    </subst><placeName key="Aralsee">ralsee</placeName> herab, <lb/>liess den und
+                        <add>A</add>
+                    </subst>ralsee</placeName> herab, <lb/>liess den und
                     das <placeName key="CaspischeMeer">Caspische Meer</placeName> nördlich liegen,
                     <lb/>kam durch das blühende <placeName key="Persien">Persien</placeName>, das
                     Land verhalter <lb/>Gesänge an die <placeName
