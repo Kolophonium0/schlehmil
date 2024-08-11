@@ -2683,12 +2683,13 @@
                     <del rendition="#ow">r</del>
                     <add place="across">b</add>
                 </subst>ei der<add place="intralinear">en</add> Verlust vorwurfsfrei gefühlt, ich
-                <lb/>glaube, ich hätte glücklich sein können – ich wuss[st] e aber <lb/>nicht was
-                ich anfangen sollte, ich durchsuchte meine Taschen <lb/>und fand noch einige
-                Goldstücke darin, ich zählte sie, und <lb/>lachte. – ich hatte meine Pferde unten im
-                Wirthshause <del rendition="#s"><lb/>Die Sonne stand aber noch hoch am Himmel</del>,
-                ich schämte <lb/>mich dahin zurück zu kehren, ich musste wenigstens <lb/>den
-                Untergang der Sonne erwarten, <subst>
+                <lb/>glaube, ich hätte glücklich sein können – ich wus<unclear reason="covered"
+                    cert="high">ste</unclear> aber <lb/>nicht was ich anfangen sollte, ich
+                durchsuchte meine Taschen <lb/>und fand noch einige Goldstücke darin, ich zählte
+                sie, und <lb/>lachte. – ich hatte meine Pferde unten im Wirthshause <del
+                    rendition="#s"><lb/>Die Sonne stand aber noch hoch am Himmel</del>, ich schämte
+                <lb/>mich dahin zurück zu kehren, ich musste wenigstens <lb/>den Untergang der Sonne
+                erwarten, <subst>
                     <del rendition="#ow">d</del>
                     <add place="across">s</add>
                 </subst>ie <add place="superlinear">stand</add> noch hoch am Himmel <lb/><del
@@ -2719,30 +2720,33 @@
                     <add place="across">I</add>
                 </subst>ch <lb/>konnte die beweglichen leichtverwehten lieblichen Gestalten
                 <lb/>weder fest halten noch deuten, aber ich weiss dass ich gerne <lb/>solchen Traum
-                träumte, und mich vor dem Erwachen in Acht nahm, ich wachte wirklich schon, und
-                hielt noch die Augen zu, um die weichenden Erscheinungen länger vor meiner Seele zu
-                behalten. Ich öffnete <lb/>endlich die Augen, die Sonne stand noch am Himmel, aber
-                im <lb/>Osten<subst>
+                träumte, und mich vor dem Erwachen in Acht nahm, ich <lb/>wachte wirklich schon, und
+                hielt noch die Augen zu, um die weichenden  <lb/>Erscheinungen länger vor meiner
+                Seele zu behalten. Ich öffnete <lb/>endlich die Augen, die Sonne <subst>
+                    <del rendition="#ow"><gap reason="covered" unit="chars" quantity="1"/></del>
+                    <add place="across">s</add>
+                </subst>tand noch am Himmel, aber im <lb/>Osten<subst>
                     <del rendition="#ow">,</del>
                     <add place="across">:</add>
-                </subst> ich hatte die Nacht verschlafen. Ich nahm es für ein Zeichen, dass ich
-                nicht nach dem Wirthshause zuruck kehren sollte. <lb/>Ich gab leicht, was ich dort
-                noch be<subst>
+                </subst> ich hatte die Nacht verschlafen. Ich nahm es für ein Zeichen,  <lb/>dass
+                ich nicht nach dem Wirthshause zuruck kehren sollte. <lb/>Ich gab leicht, was ich
+                dort noch be<subst>
                     <del rendition="#ow"><gap reason="covered" unit="chars" quantity="1"/></del>
                     <add place="across">s</add>
                 </subst>ass, <del rendition="#s">für</del> verloren, und <lb/>beschloss einen neben
                 Strasse, die durch den Wald bewachsenen <lb/>Fuss des geburges führte zu <subst>
                     <del rendition="#ow">f</del>
                     <add place="across">F</add>
-                </subst>usse einzuschlal[g]en<subst>
+                </subst>usse einzuschlal<subst>
                     <del rendition="#ow"><gap reason="covered" unit="chars" quantity="1"/></del>
-                    <add place="across">d</add>
-                </subst>, dem <lb/>Schiksale es anheim stellend, was es mit mir vor hatte, <lb/>zu
-                erfüllen – Ich schaute nicht hinter mir zur<gap reason="lost" unit="chars"
-                    quantity="3"/> und <lb/>dachte auch nicht daran <del rendition="#s">mich</del>
-                an Bendel, den ich <lb/>reich zurücke gelassen hatte, mich zu wenden, welches ich
-                <lb/>allerdings gekonnnt hätte. Ich sah mich auf den neuen <lb/>Character an, den
-                ich in der Welt bekleiden sollte: mein Anzug <lb/>war sehr bescheiden. <subst>
+                    <add place="across">g</add>
+                </subst>en<del rendition="#s">d</del>, dem <lb/>Schiksale es anheim stellend, was es
+                mit mir vor hatte, <lb/>zu erfüllen – Ich schaute nicht hinter mir zur<gap
+                    reason="lost" unit="chars" quantity="3"/> und <lb/>dachte auch nicht daran <del
+                    rendition="#s">mich</del> an Bendel, den ich <lb/>reich zurücke gelassen hatte,
+                mich zu wenden, welches ich <lb/>allerdings gekonnnt hätte. Ich sah mich auf den
+                neuen <lb/>Character an, den ich in der Welt bekleiden sollte: mein Anzug <lb/>war
+                sehr bescheiden. <subst>
                     <del rendition="#ow">i</del>
                     <add place="across">I</add>
                 </subst>ch hatte eine alte Schwartze Kurtka an, <lb/>die ich schon in <placeName
@@ -2756,8 +2760,9 @@
                     <del rendition="#ow">n</del>
                     <add place="across">m</add>
                 </subst> Kopf und ein <lb/>Paar alte Stiefel an den Füssen. Ich erhub mich, schnitt
-                <lb/>mir an selbiger Stelle ein<add place="intralinear">en</add> Knotenstock zum
-                Andenken, und <lb/>trat sogleich meine <subst>
+                <lb/>mir an selbiger Stelle ein<add place="intralinear">en</add>
+                <rs type="term" key="Knotenstock">Knotenstock</rs> zum Andenken, und <lb/>trat
+                sogleich meine <subst>
                     <del rendition="#ow">w</del>
                     <add place="across">W</add>
                 </subst>anderung an. Ich begegnete im Wald <lb/>einem alten Bauer der mich freud<subst>
@@ -2773,7 +2778,7 @@
                     <add place="across">E</add>
                 </subst>r antwortete verständig und redseelig auf meine Fragen. <lb/>Wir kamen an
                 das Bette eines Bergstromes, der über einen weiten <lb/>Strich des Waldes seine
-                Verwüsturhogng verbreitet hatte. mich <lb/>schauderte innerlich <del rendition="#s"
+                Verwüstung verbreitet hatte. mich <lb/>schauderte innerlich <del rendition="#s"
                     >f</del> vor dem sonnenhelle Raum, ich liess <lb/>den Landmann voran gehn., Er
                 hielt aber mitteim gefährlichen <lb/><subst>
                     <del rendition="#ow">o</del>
@@ -2783,8 +2788,14 @@
                 erzählen. <subst>
                     <del rendition="#ow">e</del>
                     <add place="across">E</add>
-                </subst>r #[b]emer[c]kte bald <lb/>was mir fehlte und hielt mitten in seiner Rede
-                ein: „Aber <lb/>wie geht denn das zu? der Herr hat ja keinen Schatten.[..] – <lb/>„<subst>
+                </subst>r <subst>
+                    <del rendition="#ow"><gap reason="covered" unit="chars" quantity="1"/></del>
+                    <add place="across">b</add>
+                </subst>emer<subst>
+                    <del rendition="#ow"><gap reason="covered" unit="chars" quantity="1"/></del>
+                    <add place="across">ck</add>
+                </subst>te bald <lb/>was mir fehlte und hielt mitten in seiner Rede ein: „Aber
+                <lb/>wie geht denn das zu? der Herr hat ja keinen Schatten.[..] – <lb/>„<subst>
                     <del rendition="#ow">l</del>
                     <add place="across">L</add>
                 </subst>eider! leider!„ erwiderte ich seufzend. Es sind mir während <lb/>einer bösen
@@ -2954,14 +2965,13 @@
                         <lb/>Welt</placeName>, vermeintliche Wiege der jetzigen organischen
                     <lb/>Schöpfung auf unserer Erde und der Menschheit <lb/>Ich stieg mit den
                     Gewässern zum <placeName key="Aralsee"><subst>
-                        <del>a</del>
-                        <add>A</add>
-                    </subst>ralsee</placeName> herab, <lb/>liess den und
-                    das <placeName key="CaspischeMeer">Caspische Meer</placeName> nördlich liegen,
-                    <lb/>kam durch das blühende <placeName key="Persien">Persien</placeName>, das
-                    Land verhalter <lb/>Gesänge an die <placeName
-                        key="dieMündungendesTrigrisundEuphrats">Mündungen des Tigris und des
-                        Euphrats</placeName>
+                            <del>a</del>
+                            <add>A</add>
+                        </subst>ralsee</placeName> herab, <lb/>liess den und das <placeName
+                        key="CaspischeMeer">Caspische Meer</placeName> nördlich liegen, <lb/>kam
+                    durch das blühende <placeName key="Persien">Persien</placeName>, das Land
+                    verhalter <lb/>Gesänge an die <placeName key="dieMündungendesTrigrisundEuphrats"
+                        >Mündungen des Tigris und des Euphrats</placeName>
                     <lb/>und trat bei<placeName key="Bassora"> Bassora</placeName> in das sandige
                         <placeName key="Arabien">Arabien</placeName>. Ich <lb/>ging gen <placeName
                         key="Mocca">Mocca</placeName> zu, und kam langst der Küste vom <placeName
