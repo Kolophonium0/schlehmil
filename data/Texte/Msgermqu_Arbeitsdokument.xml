@@ -1671,49 +1671,57 @@
                 dem <lb/>Wagen heraus, ich rief ihn noch zurücke und <lb/>reichte ihm aus meinem
                 Kästgen das mir eben <lb/>zur hand lag eine reiche Diamantene Krone die die
                 <lb/>schöne Fanny hatte zieren sollen<subst>
-                    <del>,</del>
-                    <add>.#</add>
+                    <del rendition="#ow">,</del>
+                    <add place="across">.</add>
                 </subst> Er trat vor und sprach <lb/>im Nahmen seines Herrn, welcher solche
                 Ehrenbezeugungen <lb/>nicht annehmen könne noch wolle, es müsse hier <lb/>ein
-                Irrthum vorwalten, jedoch seien die guten Einwohner <lb/>der Stadt für ihren guten
-                Willen <subst>
-                    <del>g</del>
-                    <add>b</add>
+                Irrthum vorwalten, jedoch seien die guten Ein<subst>
+                    <del rendition="#ow">v</del>
+                    <add place="across">w</add>
+                </subst>ohner <lb/>der Stadt für ihren guten Willen <subst>
+                    <del rendition="#ow">g</del>
+                    <add place="across">b</add>
                 </subst>edanckt. Er nahm indess <lb/>den dargehaltenen Krantz von seinem Ort und
                 legte den <lb/>brillanten Reif an dessen Stelle, dann reichte er ehrerbietig
-                <lb/>der schönen Jungfrau die hand zum Aufstehen, entfernte <lb/>mit einem Wink
-                geistligkeit Magistratus und alle <lb/>Deputationen, niemand ward weiter
-                vorgelassen, Er hiess <lb/>den Haufen sich theilen und den Pferden Zaum geben
-                <lb/>sprang wieder in den Wagen, und fort gings weiter <lb/>in gestrecktem galopp
-                unter eine<subst>
-                    <del>#</del>
-                    <add>r</add>
-                </subst> aus Laubwerk und <lb/>blumen erbaute<add>n</add> Pforte <add>hinweg</add>
-                dem Städtchen zu.— die <lb/>Canonen wurden immer frisch weg abgefeuert.— der Wagen
-                <lb/>hielt vor meinem Hause, ich sprang behend in die <lb/>Thür. die Menge theilend
-                die die begierde mich zu <lb/>sehen <subst>
-                    <del>d#</del>
-                    <add>her</add>
+                <lb/>der schönen Jungfrau die hand zum Aufstehen, entf<add place="across"
+                >e</add>rnte <lb/>mit einem Wink geistligkeit Magistratus und alle
+                <lb/>Deputationen, niemand ward weiter vorgelassen, Er hiess <lb/>den Haufen sich
+                theilen und den Pferden Zaum geben <lb/>sprang wieder in den Wagen, und fort gings
+                weiter <lb/>in gestrecktem galopp unter eine<subst>
+                    <del rendition="#ow">#</del>
+                    <add place="across">r</add>
+                </subst> aus Laubwerk und <lb/>blumen erbaute<del rendition="#s">n</del> Pforte <add
+                    place="superlinear">hinweg</add> dem Städtchen zu.— die <lb/>Canonen wurden
+                immer frisch weg abgefeuert.— der Wagen <lb/>hielt vor meinem <subst>
+                    <del rendition="#ow">h</del>
+                    <add place="across">H</add>
+                </subst>ause, ich sprang behend in die <lb/>Thür. die Menge theilend die die
+                begierde mich zu <lb/>sehen <subst>
+                    <del rendition="#ow">da</del>
+                    <add place="across">her</add>
                 </subst>bei gerufen hatte. der Pöbel schrie <subst>
-                    <del>W</del>
-                    <add>V</add>
+                    <del rendition="#ow">W</del>
+                    <add place="across">V</add>
                 </subst>ivat <lb/>unter meinen Fenster und ich liess doppelte <subst>
-                    <del>d#</del>
-                    <add>D</add>
-                </subst>ucaten <lb/>daraus regnen, am abend ward die Stadt freiwillig
-                <lb/>erleuchtet,— und ich wusste immer noch nicht was das <lb/>alles bedeuten sollte
-                und für wen ich angesehen wurde. <lb/>Ich schickte Rascaln auf Kundtschaft aus. <subst>
-                    <del>e</del>
-                    <add>E</add>
-                </subst>r liess sich denn <lb/>erzählen wessmassen man <add>bereits</add> sichere
-                Nachricht gehabt der <lb/>gute König von Preussen reise unter dem Nahmen eines
-                <lb/>Grafen durch das Land, wie mein Adjudant erkannt <lb/>worden wäre, und wie er
-                sich und mich verrathen habe, <lb/>wie gross endlich d<subst>
-                    <del>e</del>
-                    <add>i</add>
+                    <del rendition="#ow">d</del>
+                    <add place="across">D</add>
+                </subst>ucaten <lb/>daraus regnen, am abend ward die Stadt frei<subst>
+                    <del rendition="#ow">v</del>
+                    <add place="across">w</add>
+                </subst>illig <lb/>erleuchtet,— und ich wusste immer noch nicht was das <lb/>alles
+                bedeuten sollte und für wen ich angesehen wurde. <lb/>Ich schickte Rascaln auf
+                Kundtschaft aus. <subst>
+                    <del rendition="#ow">e</del>
+                    <add place="across">E</add>
+                </subst>r liess sich denn <lb/>erzählen wessmassen man <add place="superlinear"
+                    >bereits</add> sichere Nachricht gehabt der <lb/>gute König von Preussen reise
+                unter dem Nahmen eines <lb/>Grafen durch das Land, wie mein Adjudant erkannt
+                <lb/>worden wäre, und wie er sich und mich verrathen habe, <lb/>wie gross endlich d<subst>
+                    <del rendition="#ow">e</del>
+                    <add place="across">i</add>
                 </subst>e <subst>
-                    <del>f</del>
-                    <add>F</add>
+                    <del rendition="#ow">f</del>
+                    <add place="across">F</add>
                 </subst>reude gewesen, da man die Gewissheit <lb/>gehabt mich im Orte selbst zu
                 besitzen. Nun sah <lb/>man freilig ein, da ich offenbar das strengste <subst>
                     <del>i</del>
@@ -1723,204 +1731,209 @@
                 gnadenvoll gezürnt, —ich würde gewiss dem <lb/>guten Hertzen verzeihen müssen.
                 Meinem Schlingel <lb/>kam die Sache so spasshaft vor dass er mit strafenden
                 <lb/>Reden sein mögligstes that die guten Leute einstweilen <lb/>in ihrem <subst>
-                    <del>Meinung</del>
-                    <add>Glauben</add>
+                    <del rendition="#s">Meinung</del>
+                    <add place="superlinear">Glauben</add>
                 </subst> zu bestärken. Er stattete mir einen <lb/>sehr komischen Bericht ab, und da
                 er mich dadurch <lb/>erheitert sah, gab er mir selbst seine verübte bosheit zum <lb/><subst>
-                    <del>b</del>
-                    <add>B</add>
+                    <del rendition="#ow">b</del>
+                    <add place="across">B</add>
                 </subst>esten. — Muss ichs bekennen? es schmeichelte mir doch <lb/>Sei es auch nur
-                so, für das <del>geehrte</del> verehrte Haupt an= <lb/>gesehen worden zu sein. Ich
-                hies zu dem morgenden Abend <del><lb/>ein## Fest</del> unter den Bäumen die den Raum
-                vor meinem <lb/>Hause beschatteten ein Fest bereiten und die ganze Stadt <lb/>dazu
-                einladen. Der geheimnissreichen Kraft meines Seckel<subst>
-                    <del>l</del>
-                    <add>s</add>
-                </subst>
-                <lb/>Bendels <subst>
-                    <del>b</del>
-                    <add>B</add>
+                so, für das <del rendition="#s">geehrte</del> verehrte Haupt an= <lb/>gesehen worden
+                zu sein. Ich hies zu dem morgenden Abend <lb/><del rendition="#s">einen Fest</del>
+                unter den Bäumen die den Raum vor meinem <lb/>Hause beschatteten ein Fest bereiten
+                und die ganze Stadt <lb/>dazu einladen. Der geheimnissreichen Kraft meines Seckel<subst>
+                    <del rendition="#ow">l</del>
+                    <add place="across">s</add>
+                </subst><lb/>Bendels <subst>
+                    <del rendition="#ow">b</del>
+                    <add place="across">B</add>
                 </subst>emühungen und der behenden Erfindsamkeit Rascal<subst>
-                    <del>n</del>
-                    <add>s</add>
+                    <del rendition="#ow">n</del>
+                    <add place="across">s</add>
                 </subst>
-                <lb/>gelang es selbst die Zeit zu besiegen. Es <add>ist</add> wirklich erstau<subst>
-                    <del>l</del>
-                    <add>n</add>
+                <lb/>gelang es selbst die Zeit zu besiegen. Es <add place="superlinear">ist</add>
+                wirklich erstau<subst>
+                    <del rendition="#ow">l</del>
+                    <add place="across">n</add>
                 </subst>lich <lb/>wie reich und schön sich alles in den wenigen Stunden
-                <lb/>anordnete, die Pracht und der Ueberfluss die da <del>herschten</del>. <lb/>Sich
-                erzeugten, auch die <add>sinnreiche</add> Erleuchtung war so weise vertheilt
-                <lb/>dass ich mich ganz sicher fühlte , <subst>
-                    <del>e</del>
-                    <add>E</add>
-                </subst> blie<subst>
+                <lb/>anordnete, die Pracht und der Ueberfluss die da <del rendition="#s"
+                    >herschten</del>. <lb/>Sich erzeugten, auch die <add place="superlinear"
+                    >sinnreiche</add> Erleuchtung war so weise vertheilt <lb/>dass ich mich ganz
+                sicher fühlte , <subst>
+                    <del rendition="#ow">e</del>
+                    <add place="across">E</add>
+                </subst>s blie<subst>
                     <del>d</del>
                     <add>b</add>
                 </subst> mir nichts <lb/>zu errinern, ich musste meine Diener loben. Es dunkelte
                 <lb/>der Abend, die <subst>
-                    <del>g</del>
-                    <add>G</add>
+                    <del rendition="#ow">g</del>
+                    <add place="across">G</add>
                 </subst>äste erschienen und wurden mir vorgestellt, <lb/>Es ward die Majestät nicht
                 mehr berührt, aber ich hiess <lb/>in tiefer Ehrfurcht und Dehmuth Herr Graf. was
                 sollt ich <lb/>thun? Ich liess mir den grafen gefallen, und blieb von <lb/>Stund an
                 der Graf Peter. mitten im festlichen Gewühle <lb/>begehrte meine Seele nur nach der
                 Einen. Spaet erschien <lb/>Sie, die die Krone war und trug. sie folgte sittsam ihren
                 <lb/>Ältern, <subst>
-                    <del>U</del>
+                    <del><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>U</del>
                     <add>u</add>
-                </subst>n und schien nicht zu wissen dass sie schönste sei. <lb/>Es wurden mir der
-                Herr Forstmeister <del>B#hen</del> seine Frau <lb/>und seine Tochter vorgestellt:
-                Ich wusste den alten viel <lb/>Angenehmes und verbindliches zu sagen, vor der
-                Tochter <lb/>stand ich wie ein ausgescholtener Knabe da, und vermogte <lb/>kein Wort
-                hervor zu lallen. <del>Stammelnd bat</del> Ich <add>bat</add> sie endlich <lb/><subst>
-                    <del>d</del>
-                    <add>s</add>
+                </subst>n<?oxy_custom_end?> und schien nicht zu wissen dass sie schönste sei.
+                <lb/>Es wurden mir der Herr Forstmeister <del rendition="#s">B#hen</del> seine Frau
+                <lb/>und seine Tochter vorgestellt: Ich wusste den alten viel <lb/>Angenehmes und
+                verbindliches zu sagen, vor der Tochter <lb/>stand ich wie ein ausgescholtener Knabe
+                da, und vermogte <lb/>kein Wort hervor zu lallen. <del rendition="#s">Stammelnd
+                    bat</del> Ich <add place="superlinear">bat</add> sie endlich <lb/><subst>
+                    <del rendition="#ow">d</del>
+                    <add place="across">s</add>
                 </subst>tammelnd, d<subst>
-                    <del>ies</del>
-                    <add>as</add>
+                    <del rendition="#ow">ies</del>
+                    <add place="across">as</add>
                 </subst>
                 <subst>
-                    <del>G#</del>
-                    <add><subst>
-                            <del>f</del>
-                            <add>F</add>
-                        </subst></add>
-                </subst>est zu würdigen das Amt deren <lb/>Zeichen sie schmückte darin zu <subst>
-                    <del>übernehmen</del>
-                    <add>verwalten</add>
+                    <del rendition="#ow">G#</del>
+                    <add place="across"><subst>
+                            <del rendition="#ow">f</del>
+                            <add place="across">F</add>
+                        </subst>est</add>
+                </subst> zu würdigen das Amt deren <lb/>Zeichen sie schmückte darin zu <subst>
+                    <del rendition="#s">übernehmen</del>
+                    <add place="superlinear">verwalten</add>
                 </subst>, sie bat <lb/>verschämt mit einem rührenden Blick am Schonung, <lb/>aber
                 verschämter vor ihr als sie selbst bracht ich ihr als <lb/>erster unterthan meine
                 huldigung in tiefer Ehrfurcht <lb/>und der Wink des Grafen ward allen Gästen ein Gebo<subst>
-                    <del>#</del>
-                    <add>t</add>
-                </subst> dem <lb/>nachzuleben sich jeder freudig beeiferte. Majestät <lb/>Unschuld
+                    <del rendition="#ow">#</del>
+                    <add place="across">t</add>
+                </subst><lb/>dem nachzuleben sich jeder freudig beeiferte. Majestät <lb/>Unschuld
                 und gracie beherschten mit der Schön<subst>
-                    <del>l</del>
-                    <add>h</add>
-                </subst>heit im Bund <lb/>ein frohes <subst>
-                    <del>f</del>
-                    <add>F</add>
+                    <del rendition="#ow">l</del>
+                    <add place="across">hei</add>
+                </subst>t im Bund <lb/>ein frohes <subst>
+                    <del rendition="#ow">f</del>
+                    <add place="across">F</add>
                 </subst>est. die glücklichen <subst>
-                    <del>a</del>
-                    <add>A</add>
+                    <del rendition="#ow">a</del>
+                    <add place="across">A</add>
                 </subst>ltern Minas glaubten ihnen nur <lb/>zu ehren ihr Kind erhöht, <subst>
-                    <del>i</del>
-                    <add>I</add>
+                    <del rendition="#ow">i</del>
+                    <add place="across">I</add>
                 </subst>ch selber war in einem <lb/>unbeschreiblichen Rausch. Ich liess alles was
                 ich noch von <lb/>den Juvelen hatte, die ich damals um beschwehrliches Gold <lb/>los
-                zu werden gekauft, alle Perlen, alles Edelgestein in <add>zwei</add> g<subst>
-                    <del>#ine</del>
-                    <add>rosse</add>
-                </subst>
-                <lb/>verdeckte Schüsseln legen, und bei Tische unter dem Nahmen <lb/>der Königin
-                ihren gespielinen und allen damen herum <lb/>reichen, Gold ward indessen
+                zu werden gekauft, alle Perlen, alles Edelgestein in <add place="superlinear"
+                    >zwei</add> g<subst>
+                    <del rendition="#ow">#ine </del>
+                    <add place="across">rosse</add>
+                </subst><lb/>verdeckte Schüsseln legen, und bei Tische unter dem Nahmen <lb/>der
+                Königin ihren gespielinen und allen damen herum <lb/>reichen, Gold ward indessen
                 ununterbrochen über die gezogenen <lb/>Schranken unter das jube<subst>
-                    <del>n</del>
-                    <add>l</add>
+                    <del rendition="#ow">n</del>
+                    <add place="across">l</add>
                 </subst>nde Volk geworfen. Bendel <lb/>am andern Morgen eröffnete mir im Vertrauen,
                 der Verdacht <lb/>den er längst gegen Rascals R<subst>
-                    <del>a</del>
-                    <add>e</add>
+                    <del rendition="#ow">a</del>
+                    <add place="across">e</add>
                 </subst>dlic<subst>
-                    <del>g</del>
-                    <add>h</add>
+                    <del rendition="#ow">g</del>
+                    <add place="across">h</add>
                 </subst>keit gehegt, sei nun= <lb/>mehr zur gewissheit worden, Er habe gestern ganze
                 Säcke <lb/>Goldes unterschlagen. Lasset uns, erwidert ich, dem armen <lb/>Schelmen
                 die kleine Beute gönnen, ich spende gerne <lb/>allen, warum nicht auch ihm? Gestern
                 hat er mir <lb/>haben mir alle neuen Leute, die du mir gegeben, <lb/>redlich
                 gedient, sie haben mir froh, ein frohes <subst>
-                    <del>f</del>
-                    <add>F</add>
-                </subst>est <lb/>begehen helfen. — es war<del>d</del> nicht weiter die Rede davon.
-                <lb/>Raskal blieb der erste meiner Dienerschaft, Bendel <lb/>war aber mein Freund
-                und mein Vertrauter. dieser war <lb/>gewohnt worden mein Reichthum als unerschöpflig
-                zu denken <lb/>und er spähte nicht nach dessen Quelle. Er half mir <lb/>vielmehr, in
-                meinen Sinn eingehend, <subst>
-                    <del>g</del>
-                    <add>G</add>
+                    <del rendition="#ow">f</del>
+                    <add place="across">F</add>
+                </subst>est <lb/>begehen helfen. — es war<del rendition="#s">d</del> nicht weiter
+                die Rede davon. <lb/>Raskal blieb der erste meiner Dienerschaft, Bendel <lb/>war
+                aber mein Freund und mein Vertrauter. dieser war <lb/>gewohnt worden mein Reichthum
+                als unerschöpflig zu denken <lb/>und er spähte nicht nach dessen Quelle. Er half mir
+                <lb/>vielmehr, in meinen Sinn eingehend, <subst>
+                    <del rendition="#ow">g</del>
+                    <add place="across">G</add>
                 </subst>elegenheiten ersinnen <lb/>ihn darzuthun und Gold zu vergeudern. von je<subst>
-                    <del>d</del>
-                    <add>n</add>
+                    <del rendition="#ow">d</del>
+                    <add place="across">n</add>
                 </subst>e<subst>
-                    <del>n</del>
-                    <add>m</add>
+                    <del rendition="#ow">n</del>
+                    <add place="across">m</add>
                 </subst>
                 <subst>
-                    <del>u</del>
-                    <add>U</add>
+                    <del rendition="#ow">u</del>
+                    <add place="across">U</add>
                 </subst>nbekannten <lb/>dem blassen <subst>
-                    <del>s</del>
-                    <add>S</add>
+                    <del rendition="#ow">s</del>
+                    <add place="across">S</add>
                 </subst>chleicher wusst er nur soviel: Ich dürfe allein <lb/>durch ihn von dem Fluch erlös<subst>
-                    <del>t</del>
-                    <add>et</add>
+                    <del rendition="#ow">t</del>
+                    <add place="across">et</add>
                 </subst> werden der auf mich <lb/>lastete, und fürchte ihn, auf dem meine einzige
                 Hoffnung <lb/>ruhte. übrigens sei ich davon überzeugt er könne mich <lb/>überall
-                auffinden, <del>und</del> ich ihn nirgends, darum ich <lb/><del>auf</del> den
-                versprochenen Tag erwartend, jede <del>Nachsu</del>
+                auffinden, <del rendition="#s">und</del> ich ihn nirgends, darum ich <lb/><del
+                    rendition="#s">auf</del> den versprochenen Tag erwartend, jede <del
+                    rendition="#s">Nachsu</del>
                 <lb/>vergebliche Nachsuchung eingestellt. die Pracht meines <lb/>Festes und mein
                 Benehmen dabei, erhielten Anfangs <lb/>die starkglaubigen Einwohner der Stadt bei
                 ihrer vorge= <lb/>fassten Meinung. Es ergab sich freilig sehr bald aus# <lb/>den
                 Zeitungen, dass die ganze <subst>
-                    <del>f</del>
-                    <add>F</add>
+                    <del rendition="#ow">f</del>
+                    <add place="across">F</add>
                 </subst>abelhafte <subst>
-                    <del>r</del>
-                    <add>R</add>
+                    <del rendition="#ow">r</del>
+                    <add place="across">R</add>
                 </subst>eise des <lb/>Königs von Preussen ein blosses ungegründetes Gerücht
                 <lb/>gewesen. Ein König war ich aber nun einmal, und musste <lb/>schlechterdings ein
-                König bleiben, und zwar einer der <lb/>reichsten und königlichsten die es immer
-                    <del>nur</del> geben <lb/>m<subst>
-                    <del>a</del>
-                    <add>o</add>
-                </subst>g<del>te</del>. Nur wusste man nicht recht welcher. die <lb/>Welt hat nie <subst>
-                    <del>g</del>
-                    <add>G</add>
+                König bleiben, und zwar einer der <lb/>reichsten und königlichsten die es immer <del
+                    rendition="#s">nur</del> geben <lb/>m<subst>
+                    <del rendition="#ow">a</del>
+                    <add place="across">o</add>
+                </subst>g<del rendition="#s">te</del>. Nur wusste man nicht recht welcher. die
+                <lb/>Welt hat nie <subst>
+                    <del rendition="#ow">g</del>
+                    <add place="across">G</add>
                 </subst>rund gehabt über Mangel an Monarchen <lb/>zu klagen. am wenigsten in unsern
                 Tagen, die guten <lb/>Leuten die noch keinen mit <subst>
-                    <del>a</del>
-                    <add>A</add>
+                    <del rendition="#ow">a</del>
+                    <add place="across">A</add>
                 </subst>ugen gesehen rieten <lb/>mit gleichem Glück bald auf diesen bald auf jenen —
                 <lb/>Graf <subst>
-                    <del>p</del>
-                    <add>P</add>
+                    <del rendition="#ow">p</del>
+                    <add place="across">P</add>
                 </subst>eter blieb immer der er war. — Einst eschien <lb/>unter den Badegästen ein
                 Handelsmann der <lb/>Bankerot gemacht hatte um sich zu bereichern, <lb/>die
-                algemeine Achtung genoss, und einen breiten <lb/><add>obgleich etwas blassen</add>
-                Schatten von sich warf. er wollte hier das Vermögen <lb/>dass er gesamelt zum Prunk
-                austellen, und es fiel <lb/>sogar ihm ein mit mir wetteifern zu wollen. Ich
-                <lb/>Sprach meinem Seckel zu, und hatte sehr bald den <lb/>armen Teufel so weit,
-                dass er, um sein<del>en</del> Ansehn zu <lb/>retten <subst>
-                    <del>noch einmal</del>
-                    <add>abermals</add>
+                algemeine Achtung genoss, und einen breiten <lb/><add place="superlinear">obgleich
+                    etwas blassen</add> Schatten von sich warf. er wollte hier das Vermögen
+                <lb/>dass er gesamelt zum Prunk austellen, und es fiel <lb/>sogar ihm ein mit mir
+                wetteifern zu wollen. Ich <lb/>Sprach meinem Seckel zu, und hatte sehr bald den
+                <lb/>armen Teufel so weit, dass er, um sein<del rendition="#s">en</del> Ansehn zu
+                <lb/>retten <subst>
+                    <del rendition="#ow">noch einmal</del>
+                    <add place="across">abermals</add>
                 </subst>
                 <subst>
-                    <del>B</del>
-                    <add>b</add>
+                    <del rendition="#ow">B</del>
+                    <add place="across">b</add>
                 </subst>ankerot machen musste und <lb/>über das Gebürg ziehen. So ward ich ihn los.
                 — <lb/>ich habe in dieser gegend viele Taugenichts und <lb/>müssigganger gemacht<subst>
-                    <del>.</del>
-                    <add>!</add>
+                    <del rendition="#ow">.</del>
+                    <add place="across">!</add>
                 </subst>
                 <subst>
-                    <del>b</del>
-                    <add>B</add>
+                    <del rendition="#ow">b</del>
+                    <add place="across">B</add>
                 </subst>ei der königlichen Pracht <lb/>und Verschwendung vomit ich mir alles
                 unterwarf, <lb/>lebt ich in meinem Hause sehr einfach und eingezogen <lb/>ich hatte
                 mir die grösste <subst>
-                    <del>Regel</del>
-                    <add>Vors</add>
-                </subst>icht zur Regel gemacht, <lb/>es durfte <add>unter keinem Vorwand</add> kein
-                anderer als Bendel die Zimmer<subst>
-                    <del>d</del>
-                    <add>n</add>
+                    <del rendition="#ow">Regel</del>
+                    <add place="across">Vors</add>
+                </subst>icht zur Regel gemacht, <lb/>es durfte <add place="superlinear">unter keinem
+                    Vorwand</add> kein anderer als Bendel die Zimmer<subst>
+                    <del rendition="#ow">d</del>
+                    <add place="across">n</add>
                 </subst>
                 <lb/>die ich bewohnte betreten. so lange die Sonne <lb/>schien hielt ich mich mit
-                ihm darinnen <del>versghloch</del>
-                <lb/>verschlossen und es hiess der Graf arbeite in seinem <lb/>Cabinet. mit diesen
-                Arbeiten standen die häufigen <lb/>Courire in Verbindung, die ich um
-                    jede<del>r</del> Kleinigkeit <lb/>abschikte und erhielt — ich nahm nur am Abende
-                <lb/>unter meinen Bäumen oder in meinem nach <lb/>Bendels <subst>
+                ihm darinnen <del rendition="#s">versghloch </del><lb/>verschlossen und es hiess der
+                Graf arbeite in seinem <lb/>Cabinet. mit diesen Arbeiten standen die häufigen
+                <lb/>Courire in Verbindung, die ich um jede<del>r</del> Kleinigkeit <lb/>abschikte
+                und erhielt — ich nahm nur am Abende <lb/>unter meinen Bäumen oder in meinem nach
+                <lb/>Bendels <subst>
                     <del>a</del>
                     <add>A</add>
                 </subst>ngabe geschikt und reich erleuchteten Saale <lb/>Geselschaft an, wann ich
