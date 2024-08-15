@@ -3095,8 +3095,9 @@
                 ich fasste. Ich habe nur seitdem, was <lb/>da hell und vollendet im <rs type="term"
                     key="Uhrbild">Uhrbild</rs> vor mein inneres Auge <lb/>trat, getreu, mit stillem,
                 strengem unausgesetzten Fleiss <lb/>darzustellen gesucht und meine
-                selbstzufriedenheit hat <lb/>von dem zusammenfallen des dargestellten mit dem
-                Uhrbild <lb/>abgehangen. # <del rendition="#s">Es war auf den <placeName
+                selbstzufriedenheit hat <lb/>von dem zusammenfallen des dargestellten mit dem <rs
+                    type="term" key="Uhrbild">Uhrbild</rs>
+                <lb/>abgehangen. # <del rendition="#s">Es war auf den <placeName
                         key="DenHohenEbenenDesTibet">hohen Ebenen des <lb/>Tibet</placeName> dass
                     ich still gestanden <del rendition="#s">war</del>, und die Sonne, <lb/>die <subst>
                         <del rendition="#s">ich</del>
@@ -3111,10 +3112,10 @@
                     Morgen gegen <lb/><subst>
                         <del rendition="#ow">a</del>
                         <add place="across">A</add>
-                    </subst>bend den <placeName key="Himalaya">hohen und breiten Rücken der Alten
-                        <lb/>Welt</placeName>, vermeintliche Wiege der jetzigen organischen
-                    <lb/>Schöpfung auf unserer Erde und der Menschheit <lb/>Ich stieg mit den
-                    Gewässern zum <placeName key="Aralsee"><subst>
+                    </subst>bend den <placeName key="Himalaya">hohen und breiten Rücken der <rs
+                            type="term" key="AlteWelt">Alten <lb/>Welt</rs></placeName>,
+                    vermeintliche Wiege der jetzigen organischen <lb/>Schöpfung auf unserer Erde und
+                    der Menschheit <lb/>Ich stieg mit den Gewässern zum <placeName key="Aralsee"><subst>
                             <del rendition="#ow">a</del>
                             <add place="across">A</add>
                         </subst>ralsee</placeName> herab, <lb/>liess den und das <placeName
@@ -3226,19 +3227,22 @@
                     forschenden Fleiss verh<subst>
                         <del rendition="#ow"><gap reason="covered" unit="chars" quantity="3"/></del>
                         <add place="across">eis</add>
-                    </subst>sen! welche Neue formen der <lb/>Monocotyledonen! Ich stie<subst>
+                    </subst>sen! welche Neue formen der <lb/><rs type="term" key="Monocotyledonen"
+                        >Monocotyledonen</rs>! Ich stie<subst>
                         <del rendition="#ow">d</del>
                         <add place="across">g</add>
                     </subst> den Nieger an seinem linken Ufer <lb/>hinauf, und glücklicher als der
-                    redliche Mongopark, betrat <lb/>der erste Europaeer die Strassen der vielbe<subst>
+                    redliche <persName key="MungoPark">Mongopark</persName>, betrat <lb/>der erste
+                    Europaeer die Strassen der vielbe<subst>
                         <del rendition="#ow">r</del>
                         <add place="across">g</add>
                     </subst>ehrten <placeName key="Timbuktu">Tumbu<subst>
                             <del rendition="#ow">c</del>
                             <add place="across">k</add>
-                        </subst>tu</placeName>, <lb/>diese weite und volkreiche stadt der Mauren hat
-                    aber nichts <lb/>schönes. Ich wandte mich von den <placeName
-                        key="QuellenDesNigers">Quellen des Nigers</placeName>
+                        </subst>tu</placeName>, <lb/>diese weite und volkreiche stadt der <rs
+                        type="term" key="Mauren">Mauren</rs> hat aber nichts <lb/>schönes. Ich
+                    wandte mich von den <placeName key="QuellenDesNigers">Quellen des
+                        Nigers</placeName>
                     <lb/>nordwärts zu der Wüste. die Sonne dort Scheitelrecht am <lb/>Mittag, wich
                     kaum nach Westen ab, die Hitze war im <lb/>beweglichen <add place="superlinear"
                         >brennenden</add> sande furchtbar † <note place="right" hand="#author"> †
@@ -3689,8 +3693,7 @@
                     <add place="superlinear">kehrte</add>
                 </subst>, freudig an mich sprang, und es mich doch menschlich <lb/>empfinden liess,
                 dass ich nicht allein auf der Erde sei. <lb/>Noch sollte mich ein Abentheuer unter
-                die Menschen <lb/>zurücke führen. — <lb/>
-            XI. <lb/>Als ich einst auf Nordlands Kü<subst>
+                die Menschen <lb/>zurücke führen. — <lb/> XI. <lb/>Als ich einst auf Nordlands Kü<subst>
                     <del>#</del>
                     <add>s</add>
                 </subst>ten, meine Stiefel gehemmt <subst>
