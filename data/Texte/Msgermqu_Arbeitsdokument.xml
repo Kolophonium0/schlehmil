@@ -3478,33 +3478,31 @@
                             <del rendition="#ow"><gap reason="covered" unit="chars" quantity="1"/></del>
                             <add place="across">e</add>
                     </subst>ich der Sonnen=<g ref="#typoHyphen"/><lb break="no"/> Kindern, und mein
-                    Blick überschaute fern <add place="intralinear">73</add>
+                    Blick überschaute fern 
                     <lb/>das Ocean. — ich durchwanderte die Landenge <lb/>zum zweiten Mal, und
                     verfolgte den, hohen <lb/>Rücken durch das <placeName key="Mexiko">Reich
                             <persName key="Montezuma">Montezumas</persName></placeName> ich setzte
                     <lb/>mich traurend am Ufer des Sees wo seine Hauptstadt <lb/>nun, wie
-                        <add>die</add> der Inca<add>'</add>s, die fremde Brut hegt — ich folgte
-                    <lb/>dem gebürge immer nord westlich die Sonne <del>hinter</del>
+                        <add place="superlinear">die</add> der Inca<add place="intralinear">'</add>s, die fremde Brut hegt — ich folgte
+                    <lb/>dem gebürge immer nord westlich die Sonne <del rendition="#s">hinter</del> <lb/>
                     <subst>
-                        <del>
-                            <lb/>s</del>
-                        <add>b</add>
-                    </subst>ald in ihrem mittag wieder erreichend ich <del>sah</del>
+                        <del rendition="#ow">s</del>
+                        <add place="across">b</add>
+                    </subst>ald in ihrem mittag wieder erreichend ich <del rendition="#s">sah</del>
                     <lb/>kam an den <placeName key="Eliaskette">helias berg</placeName>
                     <subst>
-                        <del>und von da</del>
-                        <add>machte von da noch</add>
-                    </subst> einige Schritte <lb/>nord westlich, <add><del>weiter</del>und</add>
+                        <del rendition="#s">und von da</del>
+                        <add place="superlinear">machte von da noch</add>
+                    </subst> einige Schritte <lb/>nord westlich, <add place="superlinear"><del rendition="#s">weiter</del>und</add>
                     sprang vom <placeName key="KapPrinzWales">Cap prinz Wales</placeName> nach
-                    <lb/>Asien hinüber auf das Land <add>der</add> Tschuk<subst>
-                        <del><gap reason="covered" unit="chars" quantity="2"/></del>
-                        <add>es</add>
+                    <lb/>Asien hinüber auf das Land <add place="superlinear">der</add> Tschuk<subst>
+                        <del rendition="#ow"><gap reason="covered" unit="chars" quantity="2"/></del>
+                        <add place="across">es</add>
                     </subst>chen — Ich <lb/>folgte von da der asiatische Küste, in der hauptrichtung
                     <lb/>sudwestlich aber mit viel<subst>
-                        <del>e</del>
-                        <add>f</add>
-                    </subst>achen Wendungen, und untersuchte <add>
-                        <lb/>mit</add> besonderer Aufmerksamkeit welche der dort liegenden
+                        <del rendition="#ow">e</del>
+                        <add place="across">f</add>
+                    </subst>achen Wendungen, und untersuchte <lb/> <add place="superlinear">mit</add> besonderer Aufmerksamkeit welche der dort liegenden
                     <lb/>Insel mir zugänglich waren. Ich kam in der <placeName key="Corea"
                         >Corea</placeName>
                     <lb/>an die grosse <placeName key="ChinesischeMauer">Chinesische
