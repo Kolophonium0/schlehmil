@@ -54,11 +54,6 @@
                     <idno type="uri">http://www.geonames.org/6957698/arabia.html</idno>
                     <placeName type="reg">Arabien</placeName>
                 </place>
-                <place xml:id="Mocca">
-                    <idno type="uri">http://www.geonames.org/78751/mocha.html</idno>
-                    <placeName type="reg">Mocca</placeName>
-                    <placeName type="alt">Mokka</placeName>
-                </place>
                 <place xml:id="rotheMeer">
                     <idno type="uri">http://www.geonames.org/350155/red-sea.html</idno>
                     <placeName type="reg">rothen Meer</placeName>

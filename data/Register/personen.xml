@@ -171,6 +171,7 @@
                     <death/>
                 </person>
                 <person xml:id="Montezuma">
+                    <idno type="uri">https://d-nb.info/gnd/118583727</idno>
                     <persName type="reg">
                         <name>Montezuma II</name>
                     </persName>
@@ -179,6 +180,7 @@
                     <death>30. Juni 1520</death>
                 </person>
                 <person xml:id="Lichtenstein">
+                    <idno type="uri">https://d-nb.info/gnd/100190014</idno>
                     <persName type="reg">
                         <surname>Lichtenstein</surname>
                         <forename>Hinrich</forename>
@@ -186,6 +188,17 @@
                     <sex value="male" evidence="assigned"/>
                     <birth> 10. Januar 1780</birth>
                     <death>3. September 1857</death>
+                </person>
+                <person xml:id="MungoPark">
+                    <idno type="uri">https://d-nb.info/gnd/118591746</idno>
+                    <persName type="reg">
+                        <surname>Park</surname>
+                        <forename>Mungo</forename>
+                    </persName>
+                    <sex value="male" evidence="assigned"/>
+                    <birth>1771</birth>
+                    <death>1806</death>
+                   
                 </person>
                 <!-- Forstmeister, Minas Mutter -->
             </listPerson>
