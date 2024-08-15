@@ -3261,42 +3261,40 @@
                         reason="lost" unit="chars" quantity="1"/><placeName key="England"
                         >ngelland</placeName> über. Ich sah mich unter einem neblichten Himmel
                     <lb/>in den drei Reichen um, wo die Menschen, von denen ich mich <lb/>getrennt
-                    fühlte, ein grosses Rätzel gelöst zuhaben scheinen. <add place="intralinear"
-                        >71</add>
+                    fühlte, ein grosses Rätzel gelöst zuhaben scheinen.
                     <lb/>Ich durchschritt <subst>
-                        <del>f</del>
-                        <add>F</add>
+                        <del rendition="#ow">f</del>
+                        <add place="across">F</add>
                     </subst>rankreich zum zweiten Mal, und bestieg <subst>
-                        <del>die erhabenen</del>
-                        <add>in der</add>
+                        <del rendition="#s">die erhabenen</del>
+                        <add place="superlinear">in der</add>
                     </subst>
                     <lb/>glücklichen <placeName key="Schweiz">Schweitz</placeName> die erhabenen
                         <placeName key="Alpen">Alpen</placeName>, ich warf vom Gipfel des
                         <lb/><placeName key="Montblanc">Montblanc</placeName> den <subst>
-                        <del>b</del>
-                        <add>B</add>
+                        <del rendition="#ow">b</del>
+                        <add place="across">B</add>
                     </subst>lick um mich, ein Wolkenmeer trennte mich von <lb/>der Erde, ich
                     verfolgte mit behu<subst>
-                        <del>d</del>
-                        <add>t</add>
+                        <del rendition="#ow">d</del>
+                        <add place="across">t</add>
                     </subst>samenschritten das Gebürge nach <lb/>Süden, die Alpen und die <placeName
                         key="Apeninen">Apeninen</placeName>, Ich setzte mich, einen <lb/>Augenblick
                     auszuruhen, in <placeName key="Sizilien">Cicilien</placeName> auf den Gipfel des
-                    Erderschütterers <subst>
-                        <del>
-                            <lb/>e</del>
-                        <placeName key="Ethna"><add>E</add></placeName>
-                    </subst><placeName key="Ethna">thna</placeName> der Himmel war klar und mild,
+                    Erderschütterers <lb/><placeName key="Ethna"><subst>
+                        <del rendition="#ow">e</del>
+                        <add place="across">E</add>
+                    </subst>thna</placeName> der Himmel war klar und mild,
                     welche Aussicht!,. Ich <lb/>wandte mich durch die Thäler <placeName
                         key="Italien">Italiens</placeName> wieder nach norden, <lb/>Ich sah
                         <placeName key="Neapel">Neapel</placeName>, <placeName key="Rom"
                         >Rom</placeName> die zweimalige Herrin der Welt, <placeName key="Florenz"
                         >Florenz</placeName>, <lb/>Ich schritt über die <subst>
-                        <del>a</del>
-                        <add>A</add>
+                            <del rendition="#ow">a</del>
+                            <add place="across">A</add>
                     </subst>peninen in das <placeName key="PoDelta">Thal das de<subst>
-                            <del>n</del>
-                            <add>r</add>
+                        <del rendition="#ow">n</del>
+                        <add place="across">r</add>
                         </subst> Po bewässert,</placeName>
                     <lb/>sah <placeName key="Venedig">Wenedig</placeName>, umging das <placeName
                         key="AriatischesMeer">Adriatische Meer</placeName> und setzte nach
@@ -3305,83 +3303,82 @@
                         key="Parthenon">Parthenion</placeName>. Ich schritt bei <placeName
                         key="Konstantinopel">Constantinopel</placeName>
                     <lb/>nach Asien über und suchte verge<subst>
-                        <del>r</del>
-                        <add>b</add>
+                        <del rendition="#ow">r</del>
+                        <add place="across">b</add>
                     </subst>ens, <subst>
-                        <del>nach</del>
-                        <add>in</add>
+                        <del rendition="#s">nach</del>
+                        <add place="superlinear">in</add>
                     </subst>dem ich mir <lb/>Verse aus dem letzten Gesang der Ilias hersagte, nach
                     Spuren <lb/>der heiligen Feste <placeName key="Troja">Trojas</placeName>. Ich
                     wandte meine Schritte nach dem <lb/><placeName key="Caucasus"
                         >Caucasus</placeName><subst>
-                        <del>,</del>
-                        <add>.</add>
+                            <del rendition="#ow">,</del>
+                        <add place="across">.</add>
                     </subst> ich durchstreifte seine Wälder sah mich von seinen <lb/>beschneieten
                     gipfeln um, und stie<subst>
-                        <del>d</del>
-                        <add>g</add>
+                        <del rendition="#ow">d</del>
+                        <add place="across">g</add>
                     </subst> in die nördliche <lb/>Thäler hinab, ich trat über die <placeName
                         key="Wolga">Wolga</placeName>, und verfolgte <lb/>aufwärts den Lauf der
-                        <placeName key="Donau">Donau</placeName> nach meinem geliebten <placeName
-                        key="Deutschland">
-                        <lb/>Deutschland</placeName>. ich eilte mit traurigem <gap
+                    <placeName key="Donau">Donau</placeName> nach meinem geliebten <lb/><placeName
+                        key="Deutschland"> Deutschland</placeName>. ich eilte mit traurigem <gap
                         reason="illegible" unit="chars" quantity="2"/>erzen weiter, <subst>
-                        <del>i</del>
-                        <add>I</add>
+                        <del rendition="#ow">i</del>
+                        <add place="across">I</add>
                     </subst>ch ging <lb/>du<subst>
-                        <del>c</del>
-                        <add>r</add>
+                        <del rendition="#ow">c</del>
+                        <add place="across">r</add>
                     </subst>ch <placeName key="Dänemark">Dänemark</placeName> über den <placeName
                         key="Belt">Belt</placeName> und den <placeName key="Sund">Sund</placeName>
-                    nach der <placeName key="Skandinavien">Scandina<del>visc</del>
+                    nach der <placeName key="Skandinavien">Scandina<del rendition="#s">visc</del>
                         <lb/>vischen Halbinsel</placeName>, von da durch <placeName key="Lappland"
                         >Lappland</placeName> das gebürg und <lb/>die Küste bei abnehmender
                     Vegetation verfolgend nach <lb/>Asien, und suchte mit schnelleren Schritten von
                     den nordlichen <lb/>Küste innerhalb des <subst>
-                        <del>p</del>
-                        <add>P</add>
+                        <del rendition="#ow">p</del>
+                        <add place="across">P</add>
                     </subst>olarkreises einen durchgang über <lb/>den Polar <subst>
-                        <del>g</del>
-                        <add>G</add>
+                        <del rendition="#ow">g</del>
+                        <add place="across">G</add>
                     </subst>lätscher. noch war der nord ost Cap davon <lb/>nicht getrennt, ich ging d<subst>
-                        <del>eren</del>
-                        <add>iesen</add>
+                        <del rendition="#ow">eren</del>
+                        <add place="across">iesen</add>
                     </subst> natür<subst>
-                        <del>r</del>
-                        <add>l</add>
-                    </subst>ichen Damm, <del>
-                        <lb/>den ich da fand</del>, und richtete meine<add>n</add>
+                        <del rendition="#ow">r</del>
+                        <add place="across">l</add>
+                    </subst>ichen Damm, <lb/>
+                    <del rendition="#s"> den ich da fand</del>, und richtete meine<add place="interlinear">n</add>
                     <subst>
-                        <del>Schritte</del>
-                        <add>Lauf</add>
+                        <del rendition="#s">Schritte</del>
+                        <add place="superlinear">Lauf</add>
                     </subst> auf die <lb/>rothe stralen lose sonnenscheibe am horizont. ich fand
                     <lb/>nach ungefähr sech<subst>
-                        <del>z</del>
-                        <add>s</add>
+                        <del rendition="#ow">z</del>
+                        <add place="across">s</add>
                     </subst>ig schritte,, Land und nackte <subst>
-                        <del>f</del>
-                        <add>F</add>
+                        <del rendition="#ow">f</del>
+                        <add place="across">F</add>
                     </subst>elsen <lb/>und eilte südlicher zu kommen. ich hatte die Sonne ungefähr
                     <lb/>am Mittag. ich vermuthete auf <placeName key="Groenland"
-                        >Groenland</placeName> zu sein und <del>f<gap reason="illegible"
+                        >Groenland</placeName> zu sein und <del rendition="#s">f<gap reason="illegible"
                             unit="chars" quantity="2"/></del> fand <lb/>meine Vermuthung bestätigt,
                     ich musste langst der westlichen <lb/>Küste wieder me<subst>
-                        <del>eine</del>
-                        <add>hrere</add>
+                        <del rendition="#ow">eine</del>
+                        <add place="across">hrere</add>
                     </subst> Schritte zurücke gehn, und wieder durch <lb/>die Region des <subst>
-                        <del><gap reason="covered" unit="chars" quantity="1"/></del>
-                        <add>eh</add>
+                        <del rendition="#ow"><gap reason="covered" unit="chars" quantity="1"/></del>
+                        <add place="across">eh</add>
                     </subst>wigen Eises America suchen. Ich kam süd=<g ref="#typoHyphen"/><lb
                         break="no"/> wärts schreitend an der <placeName key="BaffinBay"
                         >Baffins</placeName> und <placeName key="HudsonBay">Hudson Bay
                     </placeName>vorüber <lb/>ohne den Lang <subst>
-                        <del>d</del>
-                        <add>g</add>
+                        <del rendition="#ow">d</del>
+                        <add place="across">g</add>
                     </subst>esuchten durchgang des <placeName key="Atlantik">Atlantischen
                         Oceans</placeName>
                     <lb/>nach dem <placeName key="Pazifik">stillen <subst>
-                            <del>m</del>
-                            <add>M</add>
+                        <del rendition="#ow">m</del>
+                        <add rendition="#ow">M</add>
                         </subst>eer</placeName> zu finden. Ich erspaarte <gap reason="lost"
                         unit="chars" quantity="3"/> die <lb/>genauere geographische Untersuchung
                     dieser Polarregionen <lb/>auf eine andere zeit, und kam mich etwas links haltend
