@@ -3124,16 +3124,17 @@
                         >Mündungen des Tigris und des Euphrats</placeName>
                     <lb/>und trat bei<placeName key="Bassora"> Bassora</placeName> in das sandige
                         <placeName key="Arabien">Arabien</placeName>. Ich <lb/>ging gen <placeName
-                            key="Mekka">Mocca</placeName> zu, und kam langst der Küste vom <placeName
+                        key="Mekka">Mocca</placeName> zu, und kam langst der Küste vom <placeName
                         key="rotheMeer">
-                        <lb/>rothen Meer</placeName>, an der
-                        Wiege und <placeName key="Medina">dem Grabe</placeName> des
-                    kriegerischen <lb/>Propheten vorbei, durch einen duftigen Garten nach <lb/>dem
-                    Hauptthor Africa<add place="intralinear">'</add>s zu <placeName key="Suez">Suez</placeName>. ich
-                    machte bevor <lb/>ich <add place="superlinear">über</add> diese Schwelle trat, einige Schritte <subst>
+                        <lb/>rothen Meer</placeName>, an der Wiege und <placeName key="Medina">dem
+                        Grabe</placeName> des kriegerischen <lb/>Propheten vorbei, durch einen
+                    duftigen Garten nach <lb/>dem Hauptthor Africa<add place="intralinear">'</add>s
+                    zu <placeName key="Suez">Suez</placeName>. ich machte bevor <lb/>ich <add
+                        place="superlinear">über</add> diese Schwelle trat, einige Schritte <subst>
                         <del rendition="#s">nach</del>
                         <del rendition="#s"> in <placeName key="Syrien">Syrien</placeName></del>
-                        <add place="superlinear">in <placeName key="Palestina">Palestina</placeName></add>
+                        <add place="superlinear">in <placeName key="Palestina"
+                            >Palestina</placeName></add>
                     </subst>
                     <lb/>und beschaute mir die <placeName key="Jerusalem">dreimal heilige
                         Stadt</placeName>. dann <lb/>trat ich erst in <placeName key="Ägypten"
@@ -3149,7 +3150,7 @@
                     </subst>ch lauschte vergebens in der Wüste nach <lb/>der <placeName
                         key="OasisAmmon">Oasis ammon</placeName>. <subst>
                         <del rendition="#s">Ich</del>
-                            <add place="superlinear">dann</add>
+                        <add place="superlinear">dann</add>
                     </subst> stieg ich in seltsamen Gedanken <lb/>den <placeName key="Nil">N<subst>
                             <del rendition="#ow">e</del>
                             <add place="across">i</add>
@@ -3164,14 +3165,15 @@
                     auf der Erde vorübergegangen. — Ich sah' <lb/>die hundertthorigen <placeName
                         key="Theben">Theben</placeName> und <placeName key="MemnonsBildseule"
                         >Memnons Bildseule</placeName>. <lb/>Ich erblickte in der nahen Wüste die H<subst>
-                            <del rendition="#ow"><gap reason="covered" unit="chars" quantity="1"/></del>
-                            <add place="across">ö</add>
+                        <del rendition="#ow"><gap reason="covered" unit="chars" quantity="1"/></del>
+                        <add place="across">ö</add>
                     </subst>len, die sonst christliche <lb/>Einsiedler bewohnt, Es stand plötzlich
                     klar und fest in mir <lb/>hier sollst du wohnen. — ich erkor mir gleich eine der
-                    verborgenste <lb/>die zugleich geraumig bequem und den Scha<add place="intralinear">r</add>kal
-                    unzuganglig <lb/>war, zum Aufenthalt, dann verfolgt ich meinen Weg am <lb/>Nil
-                    hinauf, ich sah seine Fülle seine Quellen, ich bestieg <lb/>den noch von keinem
-                    Europaeer erschauten <placeName key="Drakensberge">hohen Bergrücken</placeName>
+                    verborgenste <lb/>die zugleich geraumig bequem und den Scha<add
+                        place="intralinear">r</add>kal unzuganglig <lb/>war, zum Aufenthalt, dann
+                    verfolgt ich meinen Weg am <lb/>Nil hinauf, ich sah seine Fülle seine Quellen,
+                    ich bestieg <lb/>den noch von keinem Europaeer erschauten <placeName
+                        key="Drakensberge">hohen Bergrücken</placeName>
                     <lb/>der <subst>
                         <del rendition="#ow">die</del>
                         <add place="across">bis</add>
@@ -3180,10 +3182,10 @@
                         <del rendition="#ow"><gap reason="covered" unit="chars" quantity="1"/></del>
                         <add place="across">A</add>
                     </subst>n das Vorgebürge der <placeName key="KapDerGutenHoffnung"><subst>
-                        <del rendition="#ow"><gap reason="covered" unit="chars" quantity="1"/></del>
-                        <add place="across">G</add>
-                    </subst>uten Hoffnung</placeName> die
-                    östlichen <lb/>und westlichen Gewässer trennt<subst>
+                            <del rendition="#ow"><gap reason="covered" unit="chars" quantity="1"
+                                /></del>
+                            <add place="across">G</add>
+                        </subst>uten Hoffnung</placeName> die östlichen <lb/>und westlichen Gewässer trennt<subst>
                         <del rendition="#ow">,</del>
                         <add place="across">.</add>
                     </subst> die grosse Scheideck<subst>
@@ -3214,7 +3216,7 @@
                         <add place="superlinear">Den Rest meiner Mahlzeit <subst>
                                 <del rendition="#ow">bei</del>
                                 <add place="across">mit</add>
-                        </subst>mir <del rendition="#s">tragend</del>nehmend ging ich</add>
+                            </subst>mir <del rendition="#s">tragend</del>nehmend ging ich</add>
                     </subst>
                     <lb/>durch das innere Land wieder nach Norden, und stieg <lb/>uber <placeName
                         key="Adamaua">das Gebürge</placeName> in das innere <placeName
@@ -3232,37 +3234,37 @@
                         <del rendition="#ow">r</del>
                         <add place="across">g</add>
                     </subst>ehrten <placeName key="Timbuktu">Tumbu<subst>
-                        <del rendition="#ow">c</del>
-                        <add place="across">k</add>
+                            <del rendition="#ow">c</del>
+                            <add place="across">k</add>
                         </subst>tu</placeName>, <lb/>diese weite und volkreiche stadt der Mauren hat
                     aber nichts <lb/>schönes. Ich wandte mich von den <placeName
                         key="QuellenDesNigers">Quellen des Nigers</placeName>
                     <lb/>nordwärts zu der Wüste. die Sonne dort Scheitelrecht am <lb/>Mittag, wich
-                    kaum nach Westen ab, die Hitze war im <lb/>beweglichen <add place="superlinear">brennenden</add>
-                    sande furchtbar † <note place="right" hand="#author"> † und ich konnte mich selbst 
-                        nicht an dem eige<subst>
+                    kaum nach Westen ab, die Hitze war im <lb/>beweglichen <add place="superlinear"
+                        >brennenden</add> sande furchtbar † <note place="right" hand="#author"> †
+                        und ich konnte mich selbst nicht an dem eige<subst>
                             <del rendition="#ow">g</del>
                             <add place="across">n</add>
-                        </subst>en <lb/> Schatten letzen</note> , Ich verweilte mich nicht bei <lb/>den
-                    Salzminen Tischit und erreichte mit wenigen <add place="superlinear">raschen</add> Schritten
-                    <lb/>die Küste des <placeName key="Mittelmeer">Mittelländischen
-                        Meeres</placeName>. ich schritt bei <placeName key="Ceuta">Ceuta</placeName>
+                        </subst>en <lb/> Schatten letzen</note> , Ich verweilte mich nicht bei
+                    <lb/>den Salzminen Tischit und erreichte mit wenigen <add place="superlinear"
+                        >raschen</add> Schritten <lb/>die Küste des <placeName key="Mittelmeer"
+                        >Mittelländischen Meeres</placeName>. ich schritt bei <placeName key="Ceuta"
+                        >Ceuta</placeName>
                     <lb/>nach Europa über. Ich löschte meinen Durst im gold= <g ref="#typoHyphen"
                         /><lb break="no"/>führenden <placeName key="Tago">Tago</placeName>, <subst>
-                            <del rendition="#ow"><gap reason="covered" unit="chars" quantity="1"/></del>
-                            <add place="across">s</add>
+                        <del rendition="#ow"><gap reason="covered" unit="chars" quantity="1"/></del>
+                        <add place="across">s</add>
                     </subst>chritt über die <placeName key="Pyrenäen">Pyrenaeen</placeName>,
                     durchwanderte <lb/>das flache Land <placeName key="Frankreich"
-                        >Frankreich</placeName>, liess einen düstern Rauch<add place="sublinear">,</add> der <lb/>mir
-                        <gap reason="lost" unit="chars" quantity="1"/>m Horizont <placeName
-                        key="Paris">Paris</placeName> bezeichnete, rechter Hand liegen, <lb/><gap
-                        reason="lost" unit="words" quantity="2"/>inige Aepfel in der <placeName
-                        key="Normandie">Normandie</placeName>, und schritt leicht <lb/><gap
-                        reason="lost" unit="chars" quantity="1"/><placeName key="England"
+                        >Frankreich</placeName>, liess einen düstern Rauch<add place="sublinear"
+                        >,</add> der <lb/>mir <gap reason="lost" unit="chars" quantity="1"/>m
+                    Horizont <placeName key="Paris">Paris</placeName> bezeichnete, rechter Hand
+                    liegen, <lb/><gap reason="lost" unit="words" quantity="2"/>inige Aepfel in der
+                        <placeName key="Normandie">Normandie</placeName>, und schritt leicht
+                        <lb/><gap reason="lost" unit="chars" quantity="1"/><placeName key="England"
                         >ngelland</placeName> über. Ich sah mich unter einem neblichten Himmel
                     <lb/>in den drei Reichen um, wo die Menschen, von denen ich mich <lb/>getrennt
-                    fühlte, ein grosses Rätzel gelöst zuhaben scheinen.
-                    <lb/>Ich durchschritt <subst>
+                    fühlte, ein grosses Rätzel gelöst zuhaben scheinen. <lb/>Ich durchschritt <subst>
                         <del rendition="#ow">f</del>
                         <add place="across">F</add>
                     </subst>rankreich zum zweiten Mal, und bestieg <subst>
@@ -3282,19 +3284,19 @@
                         key="Apeninen">Apeninen</placeName>, Ich setzte mich, einen <lb/>Augenblick
                     auszuruhen, in <placeName key="Sizilien">Cicilien</placeName> auf den Gipfel des
                     Erderschütterers <lb/><placeName key="Ethna"><subst>
-                        <del rendition="#ow">e</del>
-                        <add place="across">E</add>
-                    </subst>thna</placeName> der Himmel war klar und mild,
-                    welche Aussicht!,. Ich <lb/>wandte mich durch die Thäler <placeName
-                        key="Italien">Italiens</placeName> wieder nach norden, <lb/>Ich sah
-                        <placeName key="Neapel">Neapel</placeName>, <placeName key="Rom"
-                        >Rom</placeName> die zweimalige Herrin der Welt, <placeName key="Florenz"
-                        >Florenz</placeName>, <lb/>Ich schritt über die <subst>
-                            <del rendition="#ow">a</del>
-                            <add place="across">A</add>
+                            <del rendition="#ow">e</del>
+                            <add place="across">E</add>
+                        </subst>thna</placeName> der Himmel war klar und mild, welche Aussicht!,.
+                    Ich <lb/>wandte mich durch die Thäler <placeName key="Italien"
+                        >Italiens</placeName> wieder nach norden, <lb/>Ich sah <placeName
+                        key="Neapel">Neapel</placeName>, <placeName key="Rom">Rom</placeName> die
+                    zweimalige Herrin der Welt, <placeName key="Florenz">Florenz</placeName>,
+                    <lb/>Ich schritt über die <subst>
+                        <del rendition="#ow">a</del>
+                        <add place="across">A</add>
                     </subst>peninen in das <placeName key="PoDelta">Thal das de<subst>
-                        <del rendition="#ow">n</del>
-                        <add place="across">r</add>
+                            <del rendition="#ow">n</del>
+                            <add place="across">r</add>
                         </subst> Po bewässert,</placeName>
                     <lb/>sah <placeName key="Venedig">Wenedig</placeName>, umging das <placeName
                         key="AriatischesMeer">Adriatische Meer</placeName> und setzte nach
@@ -3312,7 +3314,7 @@
                     Spuren <lb/>der heiligen Feste <placeName key="Troja">Trojas</placeName>. Ich
                     wandte meine Schritte nach dem <lb/><placeName key="Caucasus"
                         >Caucasus</placeName><subst>
-                            <del rendition="#ow">,</del>
+                        <del rendition="#ow">,</del>
                         <add place="across">.</add>
                     </subst> ich durchstreifte seine Wälder sah mich von seinen <lb/>beschneieten
                     gipfeln um, und stie<subst>
@@ -3320,9 +3322,9 @@
                         <add place="across">g</add>
                     </subst> in die nördliche <lb/>Thäler hinab, ich trat über die <placeName
                         key="Wolga">Wolga</placeName>, und verfolgte <lb/>aufwärts den Lauf der
-                    <placeName key="Donau">Donau</placeName> nach meinem geliebten <lb/><placeName
-                        key="Deutschland"> Deutschland</placeName>. ich eilte mit traurigem <gap
-                        reason="illegible" unit="chars" quantity="2"/>erzen weiter, <subst>
+                        <placeName key="Donau">Donau</placeName> nach meinem geliebten
+                        <lb/><placeName key="Deutschland"> Deutschland</placeName>. ich eilte mit
+                    traurigem <gap reason="illegible" unit="chars" quantity="2"/>erzen weiter, <subst>
                         <del rendition="#ow">i</del>
                         <add place="across">I</add>
                     </subst>ch ging <lb/>du<subst>
@@ -3347,7 +3349,8 @@
                         <del rendition="#ow">r</del>
                         <add place="across">l</add>
                     </subst>ichen Damm, <lb/>
-                    <del rendition="#s"> den ich da fand</del>, und richtete meine<add place="interlinear">n</add>
+                    <del rendition="#s"> den ich da fand</del>, und richtete meine<add
+                        place="interlinear">n</add>
                     <subst>
                         <del rendition="#s">Schritte</del>
                         <add place="superlinear">Lauf</add>
@@ -3360,9 +3363,9 @@
                         <add place="across">F</add>
                     </subst>elsen <lb/>und eilte südlicher zu kommen. ich hatte die Sonne ungefähr
                     <lb/>am Mittag. ich vermuthete auf <placeName key="Groenland"
-                        >Groenland</placeName> zu sein und <del rendition="#s">f<gap reason="illegible"
-                            unit="chars" quantity="2"/></del> fand <lb/>meine Vermuthung bestätigt,
-                    ich musste langst der westlichen <lb/>Küste wieder me<subst>
+                        >Groenland</placeName> zu sein und <del rendition="#s">f<gap
+                            reason="illegible" unit="chars" quantity="2"/></del> fand <lb/>meine
+                    Vermuthung bestätigt, ich musste langst der westlichen <lb/>Küste wieder me<subst>
                         <del rendition="#ow">eine</del>
                         <add place="across">hrere</add>
                     </subst> Schritte zurücke gehn, und wieder durch <lb/>die Region des <subst>
@@ -3377,18 +3380,18 @@
                     </subst>esuchten durchgang des <placeName key="Atlantik">Atlantischen
                         Oceans</placeName>
                     <lb/>nach dem <placeName key="Pazifik">stillen <subst>
-                        <del rendition="#ow">m</del>
-                        <add rendition="#ow">M</add>
+                            <del rendition="#ow">m</del>
+                            <add rendition="#ow">M</add>
                         </subst>eer</placeName> zu finden. Ich erspaarte <gap reason="lost"
                         unit="chars" quantity="3"/> die <lb/>genauere geographische Untersuchung
                     dieser Polarregionen <lb/>auf eine andere zeit, und kam mich etwas links haltend
-                    <lb/>an die <del rendition="#s">sehr</del> reich umgrünten Seen die ihre Gewässer in den
-                    <lb/>raschen <subst>
+                    <lb/>an die <del rendition="#s">sehr</del> reich umgrünten Seen die ihre
+                    Gewässer in den <lb/>raschen <subst>
                         <del rendition="#ow">f</del>
                         <add place="across">F</add>
                     </subst>luss <placeName key="StLawrence">Sanct <subst>
-                        <del rendition="#ow">l</del>
-                        <add place="across">L</add>
+                            <del rendition="#ow">l</del>
+                            <add place="across">L</add>
                         </subst>orens</placeName> entladen. <subst>
                         <del rendition="#ow">i</del>
                         <add place="across">I</add>
@@ -3397,54 +3400,62 @@
                         <placeName key="Ohio">Ohio</placeName> und des <placeName key="Mississippi"
                         >Meschasepe</placeName> hinab, mich freuend, wo ich <lb/>neue Pflanzungen
                     der Menschen antraf, der schönen kräftigen <lb/>Jugend dieser freien Völker, und
-                    wo die <del rendition="#s">Natur</del> ungebändigte <lb/>Natur noch allein waltete, der üppigen
-                    Fülle ihrer Kraft <lb/>in den schönsten Wälder, die ich je gesehen hatte. ich
-                    umschritt <lb/>den <placeName key="GolfVonMexico">Mexicanischen Meer
-                        Busen</placeName>, und kam durch die Landenge <lb/><placeName key="Panama"
-                        >Panama</placeName><add place="intralinear">'</add>s nach dem südlichen America. Ich nahm links
-                    <lb/>durch die <placeName key="Llanos">llanos</placeName> am <placeName
-                        key="RioNegro">Rionegro</placeName> und dem <placeName key="Amazonas"
+                    wo die <del rendition="#s">Natur</del> ungebändigte <lb/>Natur noch allein
+                    waltete, der üppigen Fülle ihrer Kraft <lb/>in den schönsten Wälder, die ich je
+                    gesehen hatte. ich umschritt <lb/>den <placeName key="GolfVonMexico"
+                        >Mexicanischen Meer Busen</placeName>, und kam durch die Landenge
+                        <lb/><placeName key="Panama">Panama</placeName><add place="intralinear"
+                        >'</add>s nach dem südlichen America. Ich nahm links <lb/>durch die
+                        <placeName key="Llanos">llanos</placeName> am <placeName key="RioNegro"
+                        >Rionegro</placeName> und dem <placeName key="Amazonas"
                         >Amazonenfluss</placeName>
                     <lb/>meinen Weg, ging durch das innere Land nach dem <lb/>Panama <subst>
                         <del rendition="#ow">f</del>
                         <add place="across">F</add>
-                    </subst>luss und drang immer <add place="superlinear">weiter</add> sudwärts vor † <note
-                        place="right" hand="#author"> † alles was ich sah war mir <del rendition="#s">vol</del>
-                        neu.</note>. der <lb/>strengste Winter he<add place="intralinear">r</add>rschte schon auf der
-                    Südlichen Spitze <lb/>der neuen Welt und alle Vegetazion hatte aufgehört.
-                    <lb/>der Schnee der mit überaus dichtem gestöber <subst>
+                    </subst>luss und drang immer <add place="superlinear">weiter</add> sudwärts vor
+                    † <note place="right" hand="#author"> † alles was ich sah war mir <del
+                            rendition="#s">vol</del> neu.</note>. der <lb/>strengste Winter he<add
+                        place="intralinear">r</add>rschte schon auf der Südlichen Spitze <lb/>der
+                    neuen Welt und alle Vegetazion hatte aufgehört. <lb/>der Schnee der mit überaus
+                    dichtem gestöber <subst>
                         <del rendition="#ow">f</del>
                         <add place="across">a</add>
-                    </subst>uf <lb/>dem <placeName key="Feuerland"> <subst>
-                        <del rendition="#ow">f</del>
-                        <add place="across">F</add>
-                    </subst>euerlande</placeName> fiel, trieb mich
-                    erstarrt vom <placeName key="CapHorn">Cap <lb/>horn</placeName>,
-                    <add place="superlinear">schnell</add> nordwärts zurück, ich nahm meinen weg langst <lb/>der <subst>
-                        <del rendition="#ow">co<gap reason="covered" unit="chars" quantity="1"/></del>
+                    </subst>uf <lb/>dem <placeName key="Feuerland">
+                        <subst>
+                            <del rendition="#ow">f</del>
+                            <add place="across">F</add>
+                        </subst>euerlande</placeName> fiel, trieb mich erstarrt vom <placeName
+                        key="CapHorn">Cap <lb/>horn</placeName>, <add place="superlinear"
+                        >schnell</add> nordwärts zurück, ich nahm meinen weg langst <lb/>der <subst>
+                        <del rendition="#ow">co<gap reason="covered" unit="chars" quantity="1"
+                            /></del>
                         <add place="across">wes</add>
-                    </subst>tlichen Küste und <del rendition="#s">folgte</del> verfolgte den Lauf <lb/>der
-                        <placeName key="Anden">Cordilleras de los Andes</placeName>. Ich entdeckte
-                    gegen den <lb/>Südlichen Wendekreiss <del rendition="#s">eine bequeme anmuthige <lb/>höhe</del>
-                    in einer Menschen unbewohnten Gegend des <lb/>Gebürges, eine bequeme Felsenhöle
-                    in einem an=<g ref="#typoHyphen"/><lb break="no"/>muthigen Thale, ich beschloss
-                    sogleich <add place="superlinear">sie</add> mir <del rendition="#s">hier</del> zu <lb/>eine<subst>
+                    </subst>tlichen Küste und <del rendition="#s">folgte</del> verfolgte den Lauf
+                    <lb/>der <placeName key="Anden">Cordilleras de los Andes</placeName>. Ich
+                    entdeckte gegen den <lb/>Südlichen Wendekreiss <del rendition="#s">eine bequeme
+                        anmuthige <lb/>höhe</del> in einer Menschen unbewohnten Gegend des
+                    <lb/>Gebürges, eine bequeme Felsenhöle in einem an=<g ref="#typoHyphen"/><lb
+                        break="no"/>muthigen Thale, ich beschloss sogleich <add place="superlinear"
+                        >sie</add> mir <del rendition="#s">hier</del> zu <lb/>eine<subst>
                         <del rendition="#ow">n</del>
                         <add place="across">m</add>
                     </subst> Absteige Quatier <subst>
                         <del rendition="#ow">zu</del>
                         <add place="across">ei</add>
-                    </subst>nzurichten, wo ich etwa <lb/> einen südlichen Sommer <add place="superlinear">bequem</add>
-                    zubringen konnte um <lb/>mir den ofteren übergang durch den <subst>
+                    </subst>nzurichten, wo ich etwa <lb/> einen südlichen Sommer <add
+                        place="superlinear">bequem</add> zubringen konnte um <lb/>mir den ofteren
+                    übergang durch den <subst>
                         <del rendition="#ow">wi</del>
                         <add place="across">no</add>
-                    </subst>rdlichen <lb/>Winter <add place="superlinear">über die <placeName key="Beringstraße"
-                        >Behringstrasse</placeName></add> zu ersparen, wann ich <add place="superlinear">hier</add>
-                    die Natur <del rendition="s">dieses Welttheils</del>
-                    <lb/>studiren wollte. — die Nacht <del rendition="#s">herrst</del> herrschte jetst <lb/>noch
-                        <del rendition="#s">auf</del> über den <placeName key="östlichenTheilAsiens">östlichen
-                            Theil Asiens </placeName>wo ich <lb/>hin <del rendition="#s">gehen wolte</del> zu gehen
-                    hatte, Ich weihte mein <lb/>neues <subst>
+                    </subst>rdlichen <lb/>Winter <add place="superlinear">über die <placeName
+                            key="Beringstraße">Behringstrasse</placeName></add> zu ersparen, wann
+                    ich <add place="superlinear">hier</add> die Natur <del rendition="s">dieses
+                        Welttheils</del>
+                    <lb/>studiren wollte. — die Nacht <del rendition="#s">herrst</del> herrschte
+                    jetst <lb/>noch <del rendition="#s">auf</del> über den <placeName
+                        key="östlichenTheilAsiens">östlichen Theil Asiens </placeName>wo ich
+                    <lb/>hin <del rendition="#s">gehen wolte</del> zu gehen hatte, Ich weihte mein
+                    <lb/>neues <subst>
                         <del rendition="#ow">h</del>
                         <add place="across">H</add>
                     </subst>aus ein, genoss darinnen den <del rendition="#s">Rest der</del>
@@ -3458,7 +3469,8 @@
                     </subst>ffrica mitgenomene<subst>
                         <del rendition="#ow">m</del>
                         <add place="across">n</add>
-                    </subst> Rest meines <lb/>ersten Mahles, <del rendition="#s">da</del> und <del rendition="#s">nahm</del> ein<subst>
+                    </subst> Rest meines <lb/>ersten Mahles, <del rendition="#s">da</del> und <del
+                        rendition="#s">nahm</del> ein<subst>
                         <del rendition="#s">ige</del>
                         <add place="superlinear">paar</add>
                     </subst> Stunden <lb/>Ruhe, dann erst verfolgte ich meinen Weg der mich
@@ -3471,20 +3483,22 @@
                     </subst>nebenheiten unserer <lb/>Kugel führte. ich trat langsam und vorsichtig
                     <lb/>von <gap reason="lost" unit="chars" quantity="2"/>fel zu gipfel über
                     flamende <subst>
-                        <del rendition="#ow">V<gap reason="covered" unit="chars" quantity="1"/></del>
+                        <del rendition="#ow">V<gap reason="covered" unit="chars" quantity="1"
+                            /></del>
                         <add place="across">Vu</add>
                     </subst>lkane <lb/>beschneite Kupeln, oft mit mühe athmend. <lb/><gap
                         reason="lost" unit="words" quantity="2"/>h zu meinen Fussen das R<subst>
-                            <del rendition="#ow"><gap reason="covered" unit="chars" quantity="1"/></del>
-                            <add place="across">e</add>
+                        <del rendition="#ow"><gap reason="covered" unit="chars" quantity="1"/></del>
+                        <add place="across">e</add>
                     </subst>ich der Sonnen=<g ref="#typoHyphen"/><lb break="no"/> Kindern, und mein
-                    Blick überschaute fern 
-                    <lb/>das Ocean. — ich durchwanderte die Landenge <lb/>zum zweiten Mal, und
-                    verfolgte den, hohen <lb/>Rücken durch das <placeName key="Mexiko">Reich
-                            <persName key="Montezuma">Montezumas</persName></placeName> ich setzte
-                    <lb/>mich traurend am Ufer des Sees wo seine Hauptstadt <lb/>nun, wie
-                        <add place="superlinear">die</add> der Inca<add place="intralinear">'</add>s, die fremde Brut hegt — ich folgte
-                    <lb/>dem gebürge immer nord westlich die Sonne <del rendition="#s">hinter</del> <lb/>
+                    Blick überschaute fern <lb/>das Ocean. — ich durchwanderte die Landenge <lb/>zum
+                    zweiten Mal, und verfolgte den, hohen <lb/>Rücken durch das <placeName
+                        key="Mexiko">Reich <persName key="Montezuma"
+                        >Montezumas</persName></placeName> ich setzte <lb/>mich traurend am Ufer des
+                    Sees wo seine Hauptstadt <lb/>nun, wie <add place="superlinear">die</add> der
+                        Inca<add place="intralinear">'</add>s, die fremde Brut hegt — ich folgte
+                    <lb/>dem gebürge immer nord westlich die Sonne <del rendition="#s">hinter</del>
+                    <lb/>
                     <subst>
                         <del rendition="#ow">s</del>
                         <add place="across">b</add>
@@ -3493,168 +3507,174 @@
                     <subst>
                         <del rendition="#s">und von da</del>
                         <add place="superlinear">machte von da noch</add>
-                    </subst> einige Schritte <lb/>nord westlich, <add place="superlinear"><del rendition="#s">weiter</del>und</add>
-                    sprang vom <placeName key="KapPrinzWales">Cap prinz Wales</placeName> nach
-                    <lb/>Asien hinüber auf das Land <add place="superlinear">der</add> Tschuk<subst>
+                    </subst> einige Schritte <lb/>nord westlich, <add place="superlinear"><del
+                            rendition="#s">weiter</del>und</add> sprang vom <placeName
+                        key="KapPrinzWales">Cap prinz Wales</placeName> nach <lb/>Asien hinüber auf
+                    das Land <add place="superlinear">der</add> Tschuk<subst>
                         <del rendition="#ow"><gap reason="covered" unit="chars" quantity="2"/></del>
                         <add place="across">es</add>
                     </subst>chen — Ich <lb/>folgte von da der asiatische Küste, in der hauptrichtung
                     <lb/>sudwestlich aber mit viel<subst>
                         <del rendition="#ow">e</del>
                         <add place="across">f</add>
-                    </subst>achen Wendungen, und untersuchte <lb/> <add place="superlinear">mit</add> besonderer Aufmerksamkeit welche der dort liegenden
-                    <lb/>Insel mir zugänglich waren. Ich kam in der <placeName key="Corea"
+                    </subst>achen Wendungen, und untersuchte <lb/>
+                    <add place="superlinear">mit</add> besonderer Aufmerksamkeit welche der dort
+                    liegenden <lb/>Insel mir zugänglich waren. Ich kam in der <placeName key="Corea"
                         >Corea</placeName>
                     <lb/>an die grosse <placeName key="ChinesischeMauer">Chinesische
                         Mauer</placeName>, schwächeres Bollwerk <lb/>als das der Sitte, welches
                     dieses Volk, merkwürdiges und <lb/>ehrwürdiges Beispiel in der geschichte, von
-                    Anbegin <lb/>derselben an <add>durch alle Zeiten</add> mit ungebrochener Macht
-                    geschützt hat. <lb/> Ich trat in das innere des Reiches, dieses jedem Fremden
-                    <lb/>unbequeme Land, war es auch <del>für</del> mi<subst>
-                        <del>ch</del>
-                        <add>r</add>
+                    Anbegin <lb/>derselben an <add place="superlinear">durch alle Zeiten</add> mit
+                    ungebrochener Macht geschützt hat. <lb/> Ich trat in das innere des Reiches,
+                    dieses jedem Fremden <lb/>unbequeme Land, war es auch <del rendition="#s"
+                        >für</del> mi<subst>
+                        <del rendition="#ow">c</del>
+                        <add place="across">r</add>
+                        <del rendition="#s">h</del>
                     </subst> wegen seiner <lb/>ausserordentlichen Bevölkerung. ich eilte <placeName
                         key="Cochinchina">Cochinchina</placeName>
                     <lb/>und die <subst>
-                        <del>h</del>
-                        <add>H</add>
+                        <del rendition="#ow">h</del>
+                        <add place="across">H</add>
                     </subst>alb=insel <placeName key="Malaca">Malaca</placeName> zu erreichen. Meine
                         <lb/><del rendition="#s">2</del>Stiefel trugen mich </del>[auf <placeName
                     key="Sumatra">Sumatra</placeName>
                 <placeName key="Java">Java</placeName>
                 <placeName key="Bali">Bali</placeName> und <lb/><placeName key="Lamboc"
-                    >Lamboe</placeName>, ich versuchte, selbst oft mit gefahr, und <lb/>dennoch
-                    <add>immer</add> vergebens, mir über die kleinern inseln <lb/>und Felsen, wovon
-                dieses Meer starrt, einen Uebergang <lb/>nordwestlich nach <placeName key="Borneo"
-                    >Borneo</placeName> und anderen Inseln <lb/>dieses Archipelagus zu bahnen. Ich
-                musste die Hoffnung <lb/>aufgeben. Ich setzte mich endlich auf die ausserste
-                <lb/>Spitze von Lamboer nieder, und das Gesicht gen <lb/>Süden und Osten gewendet,
-                weint ich, wie am fest <lb/>verschlossenen Gitter meines Kerkers, dass ich doch so
-                <lb/>bald meine Begränzung gefunden. Das merkwürdige, <lb/>zum Verständnis der
-                Erden, und ihres Sonnengewirkten <lb/>Kleides, <del>der Thier und P</del> der
-                Pflanzen und Thier welt <lb/>so <subst>
-                    <del>sehr</del>
-                    <add>wesentlich</add>
+                    >Lamboe</placeName>, ich versuchte, selbst oft mit gefahr, und <lb/>dennoch <add
+                    place="superlinear">immer</add> vergebens, mir über die kleinern inseln <lb/>und
+                Felsen, wovon dieses Meer starrt, einen Uebergang <lb/>nordwestlich nach <placeName
+                    key="Borneo">Borneo</placeName> und anderen Inseln <lb/>dieses Archipelagus zu
+                bahnen. Ich musste die Hoffnung <lb/>aufgeben. Ich setzte mich endlich auf die
+                ausserste <lb/>Spitze von Lamboer nieder, und das Gesicht gen <lb/>Süden und Osten
+                gewendet, weint ich, wie am fest <lb/>verschlossenen Gitter meines Kerkers, dass ich
+                doch so <lb/>bald meine Begränzung gefunden. Das merkwürdige, <lb/>zum Verständnis
+                der Erden, und ihres Sonnengewirkten <lb/>Kleides, <del rendition="#s">der Thier und
+                    P</del> der Pflanzen und Thier welt <lb/>so <subst>
+                    <del rendition="#s">sehr</del>
+                    <add place="superlinear">wesentlich</add>
                 </subst> nothwendige <placeName key="Australien">Neuholland</placeName>, und die
                     <placeName key="Südsee">Sudsee</placeName>
                 <lb/>mir ihren <subst>
-                    <del>Corallen</del>
-                    <add>Zoophten</add>
+                    <del rendition="#s">Corallen</del>
+                    <add place="superlinear">Zoophten</add>
                 </subst> Inseln waren mir untersagt, <lb/>und so war, im Ursprung schon, alles, was
                 ich sammeln <lb/>und erbauen sollte, blosses Fragment zu bleiben verdam <lb/>— O
                 mein Adelbert was ist es doch um die <subst>
-                    <del>b</del>
-                    <add>B</add>
+                    <del rendition="#ow">b</del>
+                    <add place="across">B</add>
                 </subst><gap reason="lost" unit="chars" quantity="1"/>
-                <lb/>mühungen <lb/>der Menschen! Oft hab ich im strengsten Winter der <lb/>südlichen
-                Halbkugel vom Cap horn aus jene zweihundert <lb/>Schritte, die mich etwa vom
-                    <placeName key="LandVanDiemen">Land van Diemen</placeName> und Neu<lb break="no"
-                />holland trennten, selbst unbekümmert umd die Rückkehr <lb/>und sollte sich dieses
-                    <add>enge</add> schlechte Land <add>über mich</add> wie der Deckel meines
-                    <lb/><del>Grabes</del>Sarges schliessen, über den Polar glätscher <subst>
-                    <del><gap reason="covered" unit="chars" quantity="3"/></del>
-                    <add>west</add>
-                </subst>wärts <lb/>zurücke zu legen versucht, habe über Treibeis <del>ver</del>= <g
-                    ref="#typoHyphen"/><lb break="no"/><add>mit thörigter Wagniss
-                ver=</add>zweiflungsvolle Schritte gethan, der Kälte und dem Meere <lb/>Trotz
-                geboten. umsonst, noch bin ich auf Neu=<g ref="#typoHyphen"/><lb break="no"/>holland
-                nicht gewesen — <del>zurücke bin</del> ich <add>kamm</add> dann <lb/>jedes mal auf
-                Lamboe <subst>
-                    <del>gekomen</del>
-                    <add>zurück</add>
+                <add place="sublinear">mühungen</add>
+                <lb/>der Menschen! Oft hab ich im strengsten Winter der <lb/>südlichen Halbkugel vom
+                Cap horn aus jene zweihundert <lb/>Schritte, die mich etwa vom <placeName
+                    key="LandVanDiemen">Land van Diemen</placeName> und Neu<lb break="no"/>holland
+                trennten, selbst unbekümmert umd die Rückkehr <lb/>und sollte sich dieses <add
+                    place="sublinear"> enge</add> schlechte Land <add place="sublinear">über
+                    mich</add> wie der Deckel meines <lb/><del rendition="#s">Grabes</del>
+                <add place="sublinear">Sarges</add> schliessen, über den Polar glätscher <subst>
+                    <del rendition="#s"><gap reason="covered" unit="chars" quantity="3"/></del>
+                    <add place="sublinear">west</add>
+                </subst>wärts <lb/>zurücke zu legen versucht, habe über Treibeis <del rendition="#s"
+                    >ver</del>= <add place="sublinear">mit thörigter Wagniss ver=</add>
+                <g ref="#typoHyphen"/><lb break="no"/> zweiflungsvolle Schritte gethan, der Kälte
+                und dem Meere <lb/>Trotz geboten. umsonst, noch bin ich auf Neu=<g ref="#typoHyphen"
+                    /><lb break="no"/>holland nicht gewesen — <del rendition="#s">zurücke bin</del>
+                ich <add place="sublinear">kamm</add> dann <lb/>jedes mal auf Lamboe <subst>
+                    <del rendition="#s">gekomen</del>
+                    <add place="sublinear">zurück</add>
                 </subst>, und <subst>
-                    <del>habe</del>
-                    <add>setzte</add>
+                    <del rendition="#s">habe</del>
+                    <add place="sublinear">setzte</add>
                 </subst> mich <lb/>auf seine <subst>
-                    <del>entfernste</del>
-                    <add>ausserste</add>
+                    <del rendition="#s">entfernste</del>
+                    <add place="sublinear">ausserste</add>
                 </subst> Spitze <subst>
-                    <del>gesetzt</del>
-                    <add>nieder</add>
-                </subst>, und <add>weinte wieder</add> das gesicht <lb/>gen Süden und osten gewendet
-                    <del>habe wieder geweint</del>
+                    <del rendition="#s">gesetzt</del>
+                    <add place="sublinear">nieder</add>
+                </subst>, und <add place="sublinear">weinte wieder</add> das gesicht <lb/>gen Süden
+                und osten gewendet <del rendition="#s">habe wieder geweint</del>
                 <lb/>wie am festverschlossenen Gitter meines Kerkers. <lb/>Ich trat von Lamb<subst>
-                    <del><gap reason="covered" unit="chars" quantity="2"/></del>
-                    <add>oe</add>
+                    <del rendition="#ow"><gap reason="covered" unit="chars" quantity="2"/></del>
+                    <add place="across">oe</add>
                 </subst> über Ba<subst>
-                    <del><gap reason="covered" unit="chars" quantity="1"/></del>
-                    <add>l</add>
+                    <del rendition="#ow"><gap reason="covered" unit="chars" quantity="1"/></del>
+                    <add> place="across"l</add>
                 </subst>i <subst>
-                    <del>j</del>
-                    <add>J</add>
+                    <del rendition="#ow">j</del>
+                    <add place="across">J</add>
                 </subst>ava Sumatra und <lb/>die halb Insel wieder zurück, unt <subst>
-                    <del>trat</del>
-                    <add>kam</add>
+                    <del rendition="#s">trat</del>
+                    <add place="superlinear">kam</add>
                 </subst> über die heiligen <lb/>Gewässer des <placeName key="Ganges"
                     >Ganges</placeName> nach dem alten mystischen <placeName key="Indien"
                     >Indien</placeName>. aber <lb/>ich war der Geschichte des Menschen entfremdet,
                 und die <lb/>Errinnerungen der Vorzeit, sind dort nicht wie in Aegypten
                 <lb/>Risenhaften Monumenten <subst>
-                    <del>ein</del>
-                    <add>auf</add>
+                    <del rendition="#s">ein</del>
+                    <add place="superlinear">auf</add>
                 </subst>geprägt, ich folgte der Küste und <lb/>sah überall nur Europaer. Ich
                 schritt, der Sonne voraus <lb/>eilend, über den <placeName key="Indus"
                     >Indus</placeName>,, den <placeName key="Tigris">Tigris</placeName> und den
                     <placeName key="Euphrat">Euphfrates</placeName>, und <lb/>kam noch in der Nacht
                 zu Hause in der Thebais, wo ich <lb/>in den nachmittags Stunden des vorigen Tages
                 gewesen war. <lb/>Sobald ich etwas ausgeruht und es Tag über Europa war, <lb/>liess
-                        ich<del><gap reason="covered" unit="chars" quantity="1"/></del> meine erste
-                Sorge sein alles anzuschaffen was ich <lb/>bedurfte — zuvörderst Hemmschue, denn ich
-                hatte erfahren, <lb/>wie unbequem es sei seinen Schritt nicht anders verkürtzen zu
-                <lb/>konnen um nahe Gegenstände gemächlich zu untersuchen, als <lb/>indem man die
-                Stiefel auszieht<subst>
-                    <del>,,</del>
-                    <add>.</add>
-                </subst> Ein paar pantoffel über= <g ref="#typoHyphen"/><lb break="no"/>gezogen
-                    <del>erreigten</del> hatten völlig die wirkung, die ich mir davon
+                    ich<del rendition="#s"><gap reason="covered" unit="chars" quantity="1"/></del>
+                meine erste Sorge sein alles anzuschaffen was ich <lb/>bedurfte — zuvörderst
+                Hemmschue, denn ich hatte erfahren, <lb/>wie unbequem es sei seinen Schritt nicht
+                anders verkürtzen zu <lb/>konnen um nahe Gegenstände gemächlich zu untersuchen, als
+                <lb/>indem man die Stiefel auszieht<subst>
+                    <del rendition="#s">,,</del>
+                    <add place="intralinear">.</add>
+                </subst> Ein paar pantoffel über= <g ref="#typoHyphen"/><lb break="no"/>gezogen <del
+                    rendition="#s">erreigten</del> hatten völlig die wirkung, die ich mir davon
                 <lb/>versprach, und später hin trug ich sogar derrer immer zwei <lb/>Paar bei mir,
                 weil ich öfters welche von den Füssen warf, <lb/>ohne Zeit zu haben sie aufzuheben,
                 wann Löwen, Menschen, <lb/>oder hyaenen, mich beim Botanisieren aufschreckten.
                 <lb/>Meine sehr gute Uhr, war auf die kurtze dauer meiner <lb/>gänge ein
-                vortreffliches Kronometer, <subst>
-                    <del>i</del>
-                    <add>I</add>
+                vortreffliches <rs type="term" key="Kronometer">Kronometer</rs>, <subst>
+                    <del rendition="ow">i</del>
+                    <add place="across">I</add>
                 </subst>ch brauchte noch <note place="left" hand="#author">ausserdem <subst>
-                        <del>nertn##tr</del>
-                        <add>einen sextanten <del>und</del>einige</add>
+                        <del>einige nertn<gap reason="covered" unit="chars" quantity="2"/>tr</del>
+                        <add>einen sextanten <del rendition="#s">und</del>
+                            <add place="superlinear">und</add> einige</add>
                     </subst> phisicalische <lb/>instrumente und Bucher</note>
-                <del rendition="#s">haup<add>t</add>sächlich einen Sextant, eine Magnetnadel, einen
-                    <lb/>Barometer, als Hohemesser <subst>
-                        <del>d</del>
-                        <add>einen</add>
-                    </subst> thermometer <add>ein elctrisches Apparat</add> ein Vergrösserungs
-                    <lb/>Glass, anatomische messer, eine botanische Kapsel, Papier, <subst>
-                        <del>
-                            <lb/>b</del>
-                        <add>B</add>
-                    </subst>ücher, <add>und</add> Schreibmaterialen.</del> Ich machte
-                    <del>nach</del>
+                <del rendition="#s">haup<add place="intralinear">t</add>sächlich einen Sextant, eine
+                    Magnetnadel, einen <lb/>Barometer, als Hohemesser <subst>
+                        <del rendition="#ow">d</del>
+                        <add place="across">einen</add>
+                    </subst> thermometer <add place="superlinear">ein elctrisches Apparat</add> ein
+                    Vergrösserungs <lb/>Glass, anatomische messer, eine botanische Kapsel, Papier,<lb/>
+                    <subst>
+                        <del rendition="#ow">b</del>
+                        <add place="across">B</add>
+                    </subst>ücher, <add place="superlinear">und</add> Schreibmaterialen.</del> Ich
+                machte <del rendition="#s">nach</del><lb/>
                 <subst>
-                    <del>
-                        <lb/>diesen und wenigen andern Bedürfnissen</del>
-                    <add>dieses alles herbei zu schaffen</add>
-                </subst>,, etliche bangen Gänge <add place="superlinear">75</add>
-                <lb/>nach <placeName key="London">London</placeName><del>,</del> und Paris, die ein
-                mir günstiger Nebel eben <lb/>beschattete; ald der Rest meines Zaubergoldes
-                erschöpft war, <lb/>bracht ich leicht zu findendes <del>Elphenb</del> Africanisches
+                    <del rendition="#s">diesen und wenigen andern Bedürfnissen</del>
+                    <add place="superlinear">dieses alles herbei zu schaffen</add>
+                </subst>,, etliche bangen Gänge <lb/>nach <placeName key="London"
+                    >London</placeName><del rendition="#s">,</del> und Paris, die ein mir günstiger
+                Nebel eben <lb/>beschattete; als der Rest meines Zaubergoldes erschöpft war,
+                <lb/>bracht ich leicht zu findendes <del rendition="#s">Elphenb</del> Africanisches
                 Elphenbein als <lb/>Betzahlung herbei, wobei ich freilig die kleinsten Zähne, die
-                meine <lb/>Kräfte nicht überstiegen, auswählen <del>sollte</del> musste. Ich ward
-                bald <lb/>mit allem versehen, und ausgerüstet, und fing sogleich <add>
-                    <lb/>als privatisierender Gelehrter</add> meine Neue Lebens weise an. Ich
-                streifte auf der Erde <lb/>umher, bald ihre Höhen, bald die Temperatur ihrer
-                Quellen, <lb/>und die der Luft messend, bald Thiere beobachtend, bald <lb/>Gewächse
-                untersuchend, ich eilte von dem Equator nach <lb/>dem Pole, von der einen Welt nach
-                der andern, Erfahrungen <lb/>mit Erfahrungen vergleichend <subst>
-                    <del>;</del>
-                    <add>.</add>
-                </subst>. <subst>
-                    <del>d</del>
-                    <add>D</add>
+                meine <lb/>Kräfte nicht überstiegen, auswählen <del rendition="#s">sollte</del>
+                musste. Ich ward bald <lb/>mit allem versehen, und ausgerüstet, und fing sogleich
+                    <lb/><add place="superlinear"> als privatisierender Gelehrter</add> meine Neue
+                Lebens weise an. Ich streifte auf der Erde <lb/>umher, bald ihre Höhen, bald die
+                Temperatur ihrer Quellen, <lb/>und die der Luft messend, bald Thiere beobachtend,
+                bald <lb/>Gewächse untersuchend, ich eilte von dem Equator nach <lb/>dem Pole, von
+                der einen Welt nach der andern, Erfahrungen <lb/>mit Erfahrungen vergleichend <subst>
+                    <del rendition="#s">,</del>
+                    <add place="intralinear">.</add>
+                </subst> <subst>
+                    <del rendition="ow">d</del>
+                    <add place="across">D</add>
                 </subst>ie Eier der Africanischen <lb/>Strausse, oder der nörlichen Seevögel, und
                 früchte, <lb/>besonders der Tropen Palmen und Bananengewächse, waren <lb/>meine
-                gewähnlichste Nahrung. Für mangelndes Glück <lb/>hatt ich als Surrogat die
-                Nicotiana, und für menschliche <lb/>Theilnahme und Bande, die Liebe eines treuen
-                Pudels, <lb/>der mir meine Hö<subst>
+                gewähnlichste Nahrung. Für mangelndes Glück <lb/>hatt ich als Surrogat die <rs
+                    type="term" key="Nicotiana">Nicotiana</rs>, und für menschliche <lb/>Theilnahme
+                und Bande, die Liebe eines treuen Pudels, <lb/>der mir meine Hö<subst>
                     <del>len</del>
                     <add>hle</add>
                 </subst> in der Thebais bewachte, und <lb/>wann ich mit meinen Schätzen beladen, <subst>
