@@ -2973,8 +2973,8 @@
                     <add place="across">o</add>
                 </subst>nnte. ein <lb/>Paar regnigte Tage förderten mich leicht auf den weg,
                 <lb/>aber auf kosten meiner Stiefel, deren Solen für den Grafen <lb/>Peter und nicht
-                für den Fussknecht berechnet worden waren  <note place="left" hand="#author"> † Ich
-                    musste ein paar neue Stiefel  <lb/>anschaffen </note>
+                für den Fussknecht berechnet worden waren <note place="left" hand="#author"> † Ich
+                    musste ein paar neue Stiefel <lb/>anschaffen </note>
                 <lb/>ich <subst>
                     <del rendition="#s">trat</del>
                     <add place="superlinear">ging</add>
@@ -3059,60 +3059,64 @@
                 </subst>
                 <subst>
                     <del rendition="#ow">i</del>
-                    <add place="intralinear">I</add>
+                    <add place="across">I</add>
                 </subst>ch sah sie nicht mehr, die <lb/>Landschaft war ganz verändert, Baume,
                 Wälder, <lb/>statt der Reisfelder. <subst>
                     <del rendition="#ow">i</del>
-                    <add place="intralinear">I</add>
+                    <add place="across">I</add>
                 </subst>ch betrachtete diese Baüme <lb/>und die Kräuter die um mich blühten, die ich
-            kannte <lb/>waren Südostlich asiatische <del rendition="#s">pflanzen</del>Gewächse, Ich wollte
-                <lb/>auf den einen baum zugehen, ein Schritt—, und wieder=<g ref="#typoHyphen"/><lb
-                    break="no"/>um alles verändert<subst>
-                        <del rendition="#ow">,</del>
-                        <add place="intralinear">.</add>
+                kannte <lb/>waren Südostlich asiatische <del rendition="#s">pflanzen</del>Gewächse,
+                Ich wollte <lb/>auf den einen baum zugehen, ein Schritt—, und wieder=<g
+                    ref="#typoHyphen"/><lb break="no"/>um alles verändert<subst>
+                    <del rendition="#ow">,</del>
+                    <add place="across">.</add>
                 </subst> Ich trat nun an, wie ein recrut <lb/>der geübt wird, und schritt langsam
                 gesetzt einher, Wunder <lb/>bar veränderliche Länder <subst>
                     <del rendition="#ow">f</del>
-                    <add place="intralinear">F</add>
+                    <add place="across">F</add>
                 </subst>luren, auen Gebürge Steppen <lb/>Sand wüsten entrollten sich vor meinem
                 Staunenden <lb/>Blick<subst>
                     <del rendition="#ow">,</del>
-                    <add place="intralinear">.</add>
-                </subst> Es war kein zweifel, ich hatte Siebenmeilen <lb/>Stiefel an den Füssen.
-                <lb/>X. <lb/>Ich fiel in Stummer Andacht auf meine Knie <lb/>und vergoss Thränen des
-                Dankes — denn klar stand <lb/>plötzlich meine <subst>
-                    <del>z</del>
-                    <add>Z</add>
+                    <add place="across">.</add>
+                </subst> Es war kein zweifel, ich hatte <rs type="term" key="Siebenmeilenstiefel"
+                    >Siebenmeilen <lb/>Stiefel</rs> an den Füssen. <lb/>X. <lb/>Ich fiel in Stummer
+                Andacht auf meine Knie <lb/>und vergoss Thränen des Dankes — denn klar stand
+                <lb/>plötzlich meine <subst>
+                    <del rendition="#ow">z</del>
+                    <add place="across">Z</add>
                 </subst>ukunft vor meiner Seele. Durch frühe <lb/>Schuld von der menschlichen
                 Geselschaft ausgeschlossen <lb/>ward ich zum Ersatz an die Natur, die ich stets
                 geliebt, <lb/>gewiesen, die Erde mir zu einem reichen Garten <lb/>gegeben, das
                 Studium zur Richtung und Kraft meine<subst>
-                    <del>r</del>
-                    <add>s</add>
+                    <del rendition="#ow">r</del>
+                    <add place="across">s</add>
                 </subst>
                 <lb/>Lebens, zu ihrem Ziel die Wissenschaft. Es war nicht <lb/>ein Entschluss, den
-                ich fasste. Ich habe nur seitdem, was <lb/>da hell und vollendet im Uhrbild vor mein
-                inneres Auge <lb/>trat, getreu, mit stillem, strengem unausgesetzten Fleiss
-                <lb/>darzustellen gesucht und meine selbstzufriedenheit hat <lb/>von dem
-                zusammenfallen des dargestellten mit dem Uhrbild <lb/>abgehangen. # <del
-                    rendition="#s">Es war auf den <placeName key="DenHohenEbenenDesTibet">hohen
-                        Ebenen des <lb/>Tibet</placeName> dass ich still gestanden <del>war</del>,
-                    und die Sonne, <lb/>die <subst>
-                        <del>ich</del>
-                        <add>mir</add>
-                    </subst> vor wenigen Stunden <del>hatte</del> aufge<subst>
-                        <del>hen sehen</del>
-                        <add>gangen</add>
+                ich fasste. Ich habe nur seitdem, was <lb/>da hell und vollendet im <rs type="term"
+                    key="Uhrbild">Uhrbild</rs> vor mein inneres Auge <lb/>trat, getreu, mit stillem,
+                strengem unausgesetzten Fleiss <lb/>darzustellen gesucht und meine
+                selbstzufriedenheit hat <lb/>von dem zusammenfallen des dargestellten mit dem
+                Uhrbild <lb/>abgehangen. # <del rendition="#s">Es war auf den <placeName
+                        key="DenHohenEbenenDesTibet">hohen Ebenen des <lb/>Tibet</placeName> dass
+                    ich still gestanden <del rendition="#s">war</del>, und die Sonne, <lb/>die <subst>
+                        <del rendition="#s">ich</del>
+                        <add place="superlinear">mir</add>
+                    </subst> vor wenigen Stunden <del rendition="#s">hatte</del> aufge<subst>
+                        <del rendition="#ow">hen sehen</del>
+                        <add place="across">gangen</add>
                     </subst>
-                    <lb/>war, neigte sich <add>hier schon</add> am abend himmel. Ich raffte mich
-                    <lb/>auf um ohne Zeugern mit flüchtigem Ueberblick <lb/>Besitz von dem Felde zu
-                    nehmen wo ich künftig <lb/>ärnten sollte. Ich durchwanderte von Morgen gegen
-                    <lb/>Abend den <placeName key="Himalaya">hohen und breiten Rücken der Alten
+                    <lb/>war, neigte sich <add place="superlinear">hier schon</add> am abend himmel.
+                    Ich raffte mich <lb/>auf um ohne Zeugern mit flüchtigem Ueberblick <lb/>Besitz
+                    von dem Felde zu nehmen wo ich künftig <lb/>ärnten sollte. Ich durchwanderte von
+                    Morgen gegen <lb/><subst>
+                        <del rendition="#ow">a</del>
+                        <add place="across">A</add>
+                    </subst>bend den <placeName key="Himalaya">hohen und breiten Rücken der Alten
                         <lb/>Welt</placeName>, vermeintliche Wiege der jetzigen organischen
                     <lb/>Schöpfung auf unserer Erde und der Menschheit <lb/>Ich stieg mit den
                     Gewässern zum <placeName key="Aralsee"><subst>
-                            <del>a</del>
-                            <add>A</add>
+                            <del rendition="#ow">a</del>
+                            <add place="across">A</add>
                         </subst>ralsee</placeName> herab, <lb/>liess den und das <placeName
                         key="CaspischeMeer">Caspische Meer</placeName> nördlich liegen, <lb/>kam
                     durch das blühende <placeName key="Persien">Persien</placeName>, das Land
@@ -3120,35 +3124,35 @@
                         >Mündungen des Tigris und des Euphrats</placeName>
                     <lb/>und trat bei<placeName key="Bassora"> Bassora</placeName> in das sandige
                         <placeName key="Arabien">Arabien</placeName>. Ich <lb/>ging gen <placeName
-                        key="Mocca">Mocca</placeName> zu, und kam langst der Küste vom <placeName
+                            key="Mekka">Mocca</placeName> zu, und kam langst der Küste vom <placeName
                         key="rotheMeer">
-                        <lb/>rothen Meer</placeName>, an <placeName key="Mekka">der
-                        Wiege</placeName> und <placeName key="Medina">dem Grabe</placeName> des
+                        <lb/>rothen Meer</placeName>, an der
+                        Wiege und <placeName key="Medina">dem Grabe</placeName> des
                     kriegerischen <lb/>Propheten vorbei, durch einen duftigen Garten nach <lb/>dem
-                    Hauptthor Africa<add>'</add>s zu <placeName key="Suez">Suez</placeName>. ich
-                    machte bevor <lb/>ich <add>über</add> diese Schwelle trat, einige Schritte <subst>
-                        <del>nach</del>
-                        <del> in <placeName key="Syrien">Syrien</placeName></del>
-                        <add>in <placeName key="Palestina">Palestina</placeName></add>
+                    Hauptthor Africa<add place="intralinear">'</add>s zu <placeName key="Suez">Suez</placeName>. ich
+                    machte bevor <lb/>ich <add place="superlinear">über</add> diese Schwelle trat, einige Schritte <subst>
+                        <del rendition="#s">nach</del>
+                        <del rendition="#s"> in <placeName key="Syrien">Syrien</placeName></del>
+                        <add place="superlinear">in <placeName key="Palestina">Palestina</placeName></add>
                     </subst>
                     <lb/>und beschaute mir die <placeName key="Jerusalem">dreimal heilige
                         Stadt</placeName>. dann <lb/>trat ich erst in <placeName key="Ägypten"
                         >Aegypten</placeName>, ein, in den <placeName key="Delta">Delta</placeName>
                     und vor <placeName key="Alexandria">
                         <lb/>Alexandrien</placeName><subst>
-                        <del>,</del>
-                        <add>.</add>
+                        <del rendition="#ow">,</del>
+                        <add place="across">.</add>
                     </subst>
                     <subst>
-                        <del>i</del>
-                        <add>I</add>
+                        <del rendition="#ow">i</del>
+                        <add place="across">I</add>
                     </subst>ch lauschte vergebens in der Wüste nach <lb/>der <placeName
                         key="OasisAmmon">Oasis ammon</placeName>. <subst>
-                        <del>Ich</del>
-                        <add>dann</add>
+                        <del rendition="#s">Ich</del>
+                            <add place="superlinear">dann</add>
                     </subst> stieg ich in seltsamen Gedanken <lb/>den <placeName key="Nil">N<subst>
-                            <del>e</del>
-                            <add>i</add>
+                            <del rendition="#ow">e</del>
+                            <add place="across">i</add>
                         </subst>l</placeName> hinauf. Ich <del>be</del>staunte im vorübergehen
                     <lb/>die Pyramiden an Buchstaben eines verlor<gap reason="lost" unit="chars"
                         quantity="4"/>
