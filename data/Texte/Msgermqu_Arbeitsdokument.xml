@@ -3157,65 +3157,64 @@
                     <lb/>die Pyramiden an Buchstaben eines verlor<gap reason="lost" unit="chars"
                         quantity="4"/>
                     <lb/>Wortes, und die Ew<subst>
-                        <del>e</del>
-                        <add>i</add>
+                        <del rendition="#ow">e</del>
+                        <add place="across">i</add>
                     </subst>gen Monumente der Aeg<gap reason="lost" unit="chars" quantity="5"/>
                     <lb/>beladen noch mit den Mystischen Zeichen ihrer Weisheit <lb/>sie selber sind
                     auf der Erde vorübergegangen. — Ich sah' <lb/>die hundertthorigen <placeName
                         key="Theben">Theben</placeName> und <placeName key="MemnonsBildseule"
                         >Memnons Bildseule</placeName>. <lb/>Ich erblickte in der nahen Wüste die H<subst>
-                        <del><gap reason="covered" unit="chars" quantity="1"/></del>
-                        <add>ö</add>
+                            <del rendition="#ow"><gap reason="covered" unit="chars" quantity="1"/></del>
+                            <add place="across">ö</add>
                     </subst>len, die sonst christliche <lb/>Einsiedler bewohnt, Es stand plötzlich
                     klar und fest in mir <lb/>hier sollst du wohnen. — ich erkor mir gleich eine der
-                    verborgenste <lb/>die zugleich geraumig bequem und den Scha<add>c</add>kal
+                    verborgenste <lb/>die zugleich geraumig bequem und den Scha<add place="intralinear">r</add>kal
                     unzuganglig <lb/>war, zum Aufenthalt, dann verfolgt ich meinen Weg am <lb/>Nil
                     hinauf, ich sah seine Fülle seine Quellen, ich bestieg <lb/>den noch von keinem
                     Europaeer erschauten <placeName key="Drakensberge">hohen Bergrücken</placeName>
                     <lb/>der <subst>
-                        <del>die</del>
-                        <add>bis</add>
+                        <del rendition="#ow">die</del>
+                        <add place="across">bis</add>
                     </subst>
                     <subst>
-                        <del><gap reason="covered" unit="chars" quantity="1"/></del>
-                        <add>A</add>
-                    </subst>n das Vorgebürge der <subst>
-                        <del><gap reason="covered" unit="chars" quantity="1"/></del>
-                        <placeName key="KapDerGutenHoffnung"><add>G</add></placeName>
-                    </subst><placeName key="KapDerGutenHoffnung">uten Hoffnung</placeName> die
+                        <del rendition="#ow"><gap reason="covered" unit="chars" quantity="1"/></del>
+                        <add place="across">A</add>
+                    </subst>n das Vorgebürge der <placeName key="KapDerGutenHoffnung"><subst>
+                        <del rendition="#ow"><gap reason="covered" unit="chars" quantity="1"/></del>
+                        <add place="across">G</add>
+                    </subst>uten Hoffnung</placeName> die
                     östlichen <lb/>und westlichen Gewässer trennt<subst>
-                        <del>,</del>
-                        <add>.</add>
+                        <del rendition="#ow">,</del>
+                        <add place="across">.</add>
                     </subst> die grosse Scheideck<subst>
-                        <del>a</del>
-                        <add>A</add>
+                        <del rendition="#ow">a</del>
+                        <add place="across">A</add>
                     </subst>ffricas, ich <lb/>Schritt <subst>
-                        <del>staunend</del>
-                        <add>langsam</add>
+                        <del rendition="#ow">staunend</del>
+                        <add place="across">langsam</add>
                     </subst> und staunend einher durch eine ganz Neue <lb/>Thier und Pflanzenwelt
                     der Loewe und der Elephant waren <lb/>fast die einzigen Gestalten die meine
-                    Gedanken an das <subst>
-                        <del>
-                            <lb/>b</del>
-                        <add>B</add>
-                    </subst>ekannte <del>wieder</del> knüpften, ich drang bis zum <subst>
-                        <del>K</del>
-                        <add>C</add>
+                    Gedanken an das <lb/><subst>
+                        <del rendition="#ow">b</del>
+                        <add place="across">B</add>
+                    </subst>ekannte <del rendition="#s">wieder</del> knüpften, ich drang bis zum <subst>
+                        <del rendition="#ow">K</del>
+                        <add place="across">C</add>
                     </subst>ap vor. <lb/>ich nahm in den sudlichen hohen Ebenen einen Ei aus
                     <lb/>einem Straussennest und brit es an einem verlassenen <lb/>Buschmannsfeuer,
-                    ich setzte mich um diese<add>r</add>
+                    ich setzte mich um diese<add place="intralinear">r</add>
                     <subst>
-                        <del>Mahlzeit</del>
-                        <add>Gericht</add>
+                        <del rendition="#s">Mahlzeit</del>
+                        <add place="superlinear">Gericht</add>
                     </subst>
                     <lb/>zu geniessen auf den abhang eines Felsen, und freute mich <lb/>als ich den
                     Nahmen <persName key="Lichtenstein">Lichtenstein</persName> darinnen eingegraben
                     fand. <lb/><subst>
-                        <del>Ich kam</del>
-                        <add>Den Rest meiner Mahlzeit <subst>
-                                <del>bei</del>
-                                <add>mit</add>
-                            </subst>mir <del>tragend</del>nehmend gingich</add>
+                        <del rendition="#s">Ich kam</del>
+                        <add place="superlinear">Den Rest meiner Mahlzeit <subst>
+                                <del rendition="#ow">bei</del>
+                                <add place="across">mit</add>
+                        </subst>mir <del rendition="#s">tragend</del>nehmend ging ich</add>
                     </subst>
                     <lb/>durch das innere Land wieder nach Norden, und stieg <lb/>uber <placeName
                         key="Adamaua">das Gebürge</placeName> in das innere <placeName
@@ -3226,35 +3225,35 @@
                         <del rendition="#ow"><gap reason="covered" unit="chars" quantity="3"/></del>
                         <add place="across">eis</add>
                     </subst>sen! welche Neue formen der <lb/>Monocotyledonen! Ich stie<subst>
-                        <del>d</del>
-                        <add>g</add>
+                        <del rendition="#ow">d</del>
+                        <add place="across">g</add>
                     </subst> den Nieger an seinem linken Ufer <lb/>hinauf, und glücklicher als der
                     redliche Mongopark, betrat <lb/>der erste Europaeer die Strassen der vielbe<subst>
-                        <del>r</del>
-                        <add>g</add>
+                        <del rendition="#ow">r</del>
+                        <add place="across">g</add>
                     </subst>ehrten <placeName key="Timbuktu">Tumbu<subst>
-                            <del>c</del>
-                            <add>k</add>
+                        <del rendition="#ow">c</del>
+                        <add place="across">k</add>
                         </subst>tu</placeName>, <lb/>diese weite und volkreiche stadt der Mauren hat
                     aber nichts <lb/>schönes. Ich wandte mich von den <placeName
                         key="QuellenDesNigers">Quellen des Nigers</placeName>
                     <lb/>nordwärts zu der Wüste. die Sonne dort Scheitelrecht am <lb/>Mittag, wich
-                    kaum nach Westen ab, die Hitze war im <lb/>beweglichen <add>brennenden</add>
-                    sande furchtbar † <note place="right" hand="#author"> und ich konnte mich selbst
+                    kaum nach Westen ab, die Hitze war im <lb/>beweglichen <add place="superlinear">brennenden</add>
+                    sande furchtbar † <note place="right" hand="#author"> † und ich konnte mich selbst 
                         nicht an dem eige<subst>
-                            <del>g</del>
-                            <add>n</add>
-                        </subst>en Schatten letzen</note> , Ich verweilte mich nicht bei <lb/>den
-                    Salzminen Tischit und erreichte mit wenigen <add>raschen</add> Schritten
+                            <del rendition="#ow">g</del>
+                            <add place="across">n</add>
+                        </subst>en <lb/> Schatten letzen</note> , Ich verweilte mich nicht bei <lb/>den
+                    Salzminen Tischit und erreichte mit wenigen <add place="superlinear">raschen</add> Schritten
                     <lb/>die Küste des <placeName key="Mittelmeer">Mittelländischen
                         Meeres</placeName>. ich schritt bei <placeName key="Ceuta">Ceuta</placeName>
                     <lb/>nach Europa über. Ich löschte meinen Durst im gold= <g ref="#typoHyphen"
                         /><lb break="no"/>führenden <placeName key="Tago">Tago</placeName>, <subst>
-                        <del><gap reason="covered" unit="chars" quantity="1"/></del>
-                        <add>s</add>
+                            <del rendition="#ow"><gap reason="covered" unit="chars" quantity="1"/></del>
+                            <add place="across">s</add>
                     </subst>chritt über die <placeName key="Pyrenäen">Pyrenaeen</placeName>,
                     durchwanderte <lb/>das flache Land <placeName key="Frankreich"
-                        >Frankreich</placeName>, liess einen düstern Rauch<add>,</add> der <lb/>mir
+                        >Frankreich</placeName>, liess einen düstern Rauch<add place="sublinear">,</add> der <lb/>mir
                         <gap reason="lost" unit="chars" quantity="1"/>m Horizont <placeName
                         key="Paris">Paris</placeName> bezeichnete, rechter Hand liegen, <lb/><gap
                         reason="lost" unit="words" quantity="2"/>inige Aepfel in der <placeName
