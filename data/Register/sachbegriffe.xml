@@ -103,6 +103,10 @@
                     <desc>Kronometer: (scherz.) Taschenuhr
                         <ref target="https://www.lagis-hessen.de/de/subjects/rsrec/sn/shwb/entry/kronometer">Quelle</ref></desc>
                 </item>
+                <item xml:id="Monocotyledonen">
+                    <label type="reg">Monocotyledonen</label>
+                    <desc>die Einkeimblättrigen Pflanzen <ref target="https://www.spektrum.de/lexikon/biologie/monokotyledonen/43786"/></desc>
+                </item>
             </list>
         </body>
     </text>
