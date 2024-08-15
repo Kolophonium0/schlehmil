@@ -3667,7 +3667,8 @@
                 der einen Welt nach der andern, Erfahrungen <lb/>mit Erfahrungen vergleichend <subst>
                     <del rendition="#s">,</del>
                     <add place="intralinear">.</add>
-                </subst> <subst>
+                </subst>
+                <subst>
                     <del rendition="ow">d</del>
                     <add place="across">D</add>
                 </subst>ie Eier der Africanischen <lb/>Strausse, oder der nörlichen Seevögel, und
@@ -3675,21 +3676,21 @@
                 gewähnlichste Nahrung. Für mangelndes Glück <lb/>hatt ich als Surrogat die <rs
                     type="term" key="Nicotiana">Nicotiana</rs>, und für menschliche <lb/>Theilnahme
                 und Bande, die Liebe eines treuen Pudels, <lb/>der mir meine Hö<subst>
-                    <del>len</del>
-                    <add>hle</add>
+                    <del rendition="ow">len</del>
+                    <add place="across">hle</add>
                 </subst> in der Thebais bewachte, und <lb/>wann ich mit meinen Schätzen beladen, <subst>
-                    <del>#</del>
-                    <add>z</add>
+                    <del><gap reason="covered" unit="chars" quantity="1"/></del>
+                    <add place="across">z</add>
                 </subst>u ih<subst>
-                    <del>n</del>
-                    <add>m</add>
-                </subst> zurücke <subst>
-                    <del>
-                        <lb/>kam</del>
-                    <add>kehrte</add>
+                    <del rendition="#ow">n</del>
+                    <add place="across">m</add>
+                </subst> zurücke <lb/><subst>
+                    <del rendition="#s">kam</del>
+                    <add place="superlinear">kehrte</add>
                 </subst>, freudig an mich sprang, und es mich doch menschlich <lb/>empfinden liess,
                 dass ich nicht allein auf der Erde sei. <lb/>Noch sollte mich ein Abentheuer unter
-                die Menschen <lb/>zurücke führen. — <lb/>XI. <lb/>Als ich einst auf Nordlands Kü<subst>
+                die Menschen <lb/>zurücke führen. — <lb/>
+            XI. <lb/>Als ich einst auf Nordlands Kü<subst>
                     <del>#</del>
                     <add>s</add>
                 </subst>ten, meine Stiefel gehemmt <subst>
