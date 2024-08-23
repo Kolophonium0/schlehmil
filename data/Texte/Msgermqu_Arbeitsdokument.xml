@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE TEI [ 
+<!DOCTYPE TEI[ 
 <!ENTITY ndash "&#8211;">
 <!ENTITY ss "&#0383;">
 <!ENTITY mm "m&#x0304;">
@@ -7,8 +7,7 @@
 <!ENTITY apostr "&#x2019;">
 <!ENTITY stroke "&#x2015;">
 ]>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://faustedition.de/schema/v1" xmlns:telota="http://www.telota.de"
-    telota:doctype="document">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://faustedition.de/schema/v1" xmlns:telota="http://www.telota.de" telota:doctype="document">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -1288,10 +1287,10 @@
                 </subst> zuvor <lb/>das strengste <subst>
                     <del rendition="#ow">g</del>
                     <add place="across">G</add>
-                </subst>eheimniss geloben. Herr Professor, <lb/>fuhr ich fort, könnten sie wohl
-                einem Menschen, der <lb/>auf die unglückligste weise <add place="superlinear">von
-                    der Welt</add> um seinen Schatten gekommen <lb/>ist, einen falschen Schatten
-                mahlen?— Sie meinen <lb/>einen Schlagschatten, — <subst>
+                </subst>eheimniss geloben. <persName key="mahler">Herr Professor</persName>,
+                <lb/>fuhr ich fort, könnten sie wohl einem Menschen, der <lb/>auf die unglückligste
+                weise <add place="superlinear">von der Welt</add> um seinen Schatten gekommen
+                <lb/>ist, einen falschen Schatten mahlen?— Sie meinen <lb/>einen Schlagschatten, — <subst>
                     <del rendition="#ow">d</del>
                     <add place="across">D</add>
                 </subst>en mein ich allerdings. — <lb/>aber, frug er mich weiter, durch welch<subst>
@@ -1476,7 +1475,9 @@
                 </subst> in einem unerleuchteten <lb/>Garten <subst>
                     <del rendition="#s">gab</del>
                     <add place="superlinear">versammelt hatte</add>
-                </subst>, wandelte ich mit der Herrin arm <lb/>in Arm, in einiger <subst>
+                </subst>, wandelte ich mit der
+                <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Herrin<?oxy_custom_end?>
+                arm <lb/>in Arm, in einiger <subst>
                     <del rendition="#ow">e</del>
                     <add place="across">E</add>
                 </subst>ntfernung vor de<subst>
@@ -1521,9 +1522,9 @@
                     <add place="across">als</add>
                 </subst> er mich sah, ein Wort entdeckte ihm schon alles. <lb/><del rendition="#s"
                     >Ich liess</del> Es wurden auf der Stelle postpferde geholt <lb/>Ich nahm nur
-                einen meiner Leute mit mir <lb/>einen abgefeimten Spitzbub nahmens Rascal, der
-                <lb/>sich mir durch seine Gewandtheit nothwendig <lb/>zu machen gewusst, und der
-                nichts vom heutigen <lb/><subst>
+                einen meiner Leute mit mir <lb/>einen abgefeimten Spitzbub nahmens <persName
+                    key="rascal">Rascal</persName>, der <lb/>sich mir durch seine Gewandtheit
+                nothwendig <lb/>zu machen gewusst, und der nichts vom heutigen <lb/><subst>
                     <del rendition="#s">Auftritt vermuthen</del>
                     <add place="superlinear">Vorfall ahnden</add>
                 </subst> konnte, ich legte in der selben <lb/>Nacht noch dreissig <subst>
@@ -1580,9 +1581,9 @@
                 dass so mir vorkommen <lb/>kann, was damals so reich, so gross, die <subst>
                     <del rendition="#ow">b</del>
                     <add place="across">B</add>
-                </subst>rust <lb/>mir schwellte. Mina, wie ich damals weinte <lb/>als ich dich
-                verlor, so wein ich itzt dich auch in <lb/>mir verloren zu haben. bin ich denn so
-                alt <lb/>worden, —oh traurige Vernunft! <subst>
+                </subst>rust <lb/>mir schwellte. <persName key="mina">Mina</persName>, wie ich
+                damals weinte <lb/>als ich dich verlor, so wein ich itzt dich auch in <lb/>mir
+                verloren zu haben. bin ich denn so alt <lb/>worden, —oh traurige Vernunft! <subst>
                     <del rendition="#ow">n</del>
                     <add place="across">N</add>
                 </subst>ur noch <lb/>ein Pulsschlag jener Zeit, ein Moment <lb/>jenes Wahnes, —.
@@ -1714,9 +1715,10 @@
                     <del rendition="#ow">e</del>
                     <add place="across">E</add>
                 </subst>r liess sich denn <lb/>erzählen wessmassen man <add place="superlinear"
-                    >bereits</add> sichere Nachricht gehabt der <lb/>gute König von Preussen reise
-                unter dem Nahmen eines <lb/>Grafen durch das Land, wie mein Adjudant erkannt
-                <lb/>worden wäre, und wie er sich und mich verrathen habe, <lb/>wie gross endlich d<subst>
+                    >bereits</add> sichere Nachricht gehabt der <lb/><persName
+                    key="friedrich_wilhelm_III">gute König von Preussen</persName> reise unter dem
+                Nahmen eines <lb/>Grafen durch das Land, wie mein Adjudant erkannt <lb/>worden wäre,
+                und wie er sich und mich verrathen habe, <lb/>wie gross endlich d<subst>
                     <del rendition="#ow">e</del>
                     <add place="across">i</add>
                 </subst>e <subst>
@@ -1775,14 +1777,15 @@
                 der Graf Peter. mitten im festlichen Gewühle <lb/>begehrte meine Seele nur nach der
                 Einen. Spaet erschien <lb/>Sie, die die Krone war und trug. sie folgte sittsam ihren
                 <lb/>Ältern, <subst>
-                    <del><?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>U</del>
+                    <del>U</del>
                     <add>u</add>
-                </subst>n<?oxy_custom_end?> und schien nicht zu wissen dass sie schönste sei.
-                <lb/>Es wurden mir der Herr Forstmeister <del rendition="#s">B#hen</del> seine Frau
-                <lb/>und seine Tochter vorgestellt: Ich wusste den alten viel <lb/>Angenehmes und
-                verbindliches zu sagen, vor der Tochter <lb/>stand ich wie ein ausgescholtener Knabe
-                da, und vermogte <lb/>kein Wort hervor zu lallen. <del rendition="#s">Stammelnd
-                    bat</del> Ich <add place="superlinear">bat</add> sie endlich <lb/><subst>
+                </subst>n und schien nicht zu wissen dass sie schönste sei. <lb/>Es wurden mir der
+                    <persName key="forstmeister">Herr Forstmeister</persName>
+                <del rendition="#s">B#hen</del> seine Frau <lb/>und seine Tochter vorgestellt: Ich
+                wusste den alten viel <lb/>Angenehmes und verbindliches zu sagen, vor der Tochter
+                <lb/>stand ich wie ein ausgescholtener Knabe da, und vermogte <lb/>kein Wort hervor
+                zu lallen. <del rendition="#s">Stammelnd bat</del> Ich <add place="superlinear"
+                    >bat</add> sie endlich <lb/><subst>
                     <del rendition="#ow">d</del>
                     <add place="across">s</add>
                 </subst>tammelnd, d<subst>
