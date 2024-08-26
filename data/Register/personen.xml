@@ -67,6 +67,34 @@
                     <birth>1758</birth>
                     <death>1819</death>
                 </person>
+                <person xml:id="friedrich_wilhelm_III">
+                    <idno type="uri">https://explore.gnd.network/gnd/118535986</idno>
+                    <persName type="reg">
+                        <surname/>
+                        <forename>Friedrich Wilhelm</forename><nameLink>König </nameLink>
+                        <nameLink/>
+                        <roleName type="nobility">
+                            <name>König von Preußen</name>
+                            <date>1797-1840</date>
+                        </roleName></persName>
+                    <birth>1770</birth>
+                    <death>1840</death>
+                </person>
+                <person xml:id="mahler" role="fictional">
+                    <persName type="reg">
+                        <surname/>
+                        <forename/>
+                        <nameLink/>
+                        <roleName type="other">
+                            <name>Mahler</name>
+                            <date/>
+                        </roleName></persName>
+                    <persName type="alt" subtype="pseudonym">
+                        <name>Herr Professor</name>
+                    </persName>
+                    <birth/>
+                    <death/>
+                </person>
                 <person xml:id="eta_hoffmann">
                     <idno type="uri">https://explore.gnd.network/en/gnd/118552465</idno>
                     <persName type="reg">
@@ -79,6 +107,18 @@
                     </persName>
                     <birth>1776</birth>
                     <death>1822</death>
+                </person>
+                <person xml:id="forstmeister" role="fictional">
+                    <persName type="reg">
+                        <surname>B#hen</surname>
+                        <forename/>
+                        <nameLink/>
+                        <roleName type="other">
+                            <name>Forstmeister</name>
+                            <date/>
+                        </roleName></persName>
+                    <birth/>
+                    <death/>
                 </person>
                 <person xml:id="jean_paul_richter">
                     <idno type="uri">https://d-nb.info/gnd/118557211</idno>
@@ -139,6 +179,9 @@
                         <surname/>
                         <forename>Mann in Grau</forename>
                         <nameLink/>
+                    </persName>
+                    <persName type="alt">
+                        <name>grauer Unbekanter</name>
                     </persName>
                     <birth/>
                     <death/>

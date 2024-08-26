@@ -7,7 +7,8 @@
 <!ENTITY apostr "&#x2019;">
 <!ENTITY stroke "&#x2015;">
 ]>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://faustedition.de/schema/v1" xmlns:telota="http://www.telota.de" telota:doctype="document">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://faustedition.de/schema/v1"
+    xmlns:telota="http://www.telota.de" telota:doctype="document">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -35,7 +36,7 @@
                             <handNote xml:id="g_t">
                                 <p/>
                             </handNote>
-                                    <handNote xml:id="g_bl">
+                            <handNote xml:id="g_bl">
                                 <p/>
                             </handNote>
                             <handNote xml:id="_t">
@@ -46,23 +47,20 @@
                             </handNote>
                         </handDesc>
                     </physDesc>
-                    
+
                     <history>
                         <origin>
-                            <origDate/>1831
-                            <p>MÃ¤rz/April 1831</p>
+                            <origDate/>1831 <p>MÃ¤rz/April 1831</p>
                         </origin>
                     </history>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <profileDesc>
-            
-        </profileDesc>
+        <profileDesc> </profileDesc>
     </teiHeader>
-<text>
-    <body>
-        <p>
+    <text>
+        <body>
+            <p>
                 <subst>
                     <del>W. A.</del>
                     <add>Peter</add>
@@ -1290,7 +1288,8 @@
                 </subst>eheimniss geloben. <persName key="mahler">Herr Professor</persName>,
                 <lb/>fuhr ich fort, könnten sie wohl einem Menschen, der <lb/>auf die unglückligste
                 weise <add place="superlinear">von der Welt</add> um seinen Schatten gekommen
-                <lb/>ist, einen falschen Schatten mahlen?— Sie meinen <lb/>einen Schlagschatten, — <subst>
+                <lb/>ist, einen falschen Schatten mahlen?— Sie meinen <lb/>einen <rs type="term"
+                    key="schlagschatten">Schlagschatten</rs>, — <subst>
                     <del rendition="#ow">d</del>
                     <add place="across">D</add>
                 </subst>en mein ich allerdings. — <lb/>aber, frug er mich weiter, durch welch<subst>
@@ -1522,9 +1521,10 @@
                     <add place="across">als</add>
                 </subst> er mich sah, ein Wort entdeckte ihm schon alles. <lb/><del rendition="#s"
                     >Ich liess</del> Es wurden auf der Stelle postpferde geholt <lb/>Ich nahm nur
-                einen meiner Leute mit mir <lb/>einen abgefeimten Spitzbub nahmens <persName
-                    key="rascal">Rascal</persName>, der <lb/>sich mir durch seine Gewandtheit
-                nothwendig <lb/>zu machen gewusst, und der nichts vom heutigen <lb/><subst>
+                einen meiner Leute mit mir <lb/>einen <rs type="term" key="abgefeimten"
+                    >abgefeimten</rs> Spitzbub nahmens <persName key="rascal">Rascal</persName>, der
+                <lb/>sich mir durch seine Gewandtheit nothwendig <lb/>zu machen gewusst, und der
+                nichts vom heutigen <lb/><subst>
                     <del rendition="#s">Auftritt vermuthen</del>
                     <add place="superlinear">Vorfall ahnden</add>
                 </subst> konnte, ich legte in der selben <lb/>Nacht noch dreissig <subst>
@@ -1573,7 +1573,7 @@
                 aus dem Stücke <lb/>heraus, in ein paar blaue Augen, <del rendition="#s">in
                     das</del><lb/>die <subst>
                     <del rendition="#s">Familie</del>
-                    <add place="superlinear">Ältern</add>
+                    <add place="superlinear"><rs type="term" key="ältern">Ältern</rs></add>
                 </subst> vom Spiele getäuscht <add place="superlinear">bieten</add> alles auf=
                     <lb/><del rendition="#s">bietete</del>, den handel nur schnell fest zu machen,
                 <lb/>und die gemeine Posse beschliesst eine Ver= <lb/>höhnung. Und das ist alles,
@@ -1625,11 +1625,12 @@
                     <add place="intralinear">Reise</add>
                 </subst>. <lb/>Ungefähr eine Stunde vom Orte, auf einem sonnigen <lb/>Plan ward uns
                 der Weg durch eine festlich geschmückte <lb/>Menge versperrt. Der Wagen hielt.
-                Musick, Glockengeläute, <lb/>Canonenschüsse wurden gehört, ein lautes Vivat durch=
-                <lb/>drang die Luft, — vor dem Schlage des Wagens erschien <lb/>in weissen Kleidern
-                ein Chor Jungfrauen von aus= <lb/>nehmender Schönheit, die aber vor der Einen, wie
-                <lb/>die Sterne der Nacht vor der Sonne verschwanden, <lb/>sie trat aus der Mitte
-                der Schwestern hervor, die hohe <lb/>zarte bildung kniete <subst>
+                Musick, Glockengeläute, <lb/>Canonenschüsse wurden gehört, ein lautes <rs
+                    type="term" key="vivat">Vivat</rs> durch= <lb/>drang die Luft, — vor dem Schlage
+                des Wagens erschien <lb/>in weissen Kleidern ein Chor Jungfrauen von aus=
+                <lb/>nehmender Schönheit, die aber vor der Einen, wie <lb/>die Sterne der Nacht vor
+                der Sonne verschwanden, <lb/>sie trat aus der Mitte der Schwestern hervor, die hohe
+                <lb/>zarte bildung kniete <subst>
                     <del rendition="#ow">be</del>
                     <add place="across">ver</add>
                 </subst>schämt erröthend vor mir <lb/>nieder, und hilt mir auf seidenem <subst>
@@ -1685,8 +1686,8 @@
                 </subst>edanckt. Er nahm indess <lb/>den dargehaltenen Krantz von seinem Ort und
                 legte den <lb/>brillanten Reif an dessen Stelle, dann reichte er ehrerbietig
                 <lb/>der schönen Jungfrau die hand zum Aufstehen, entf<add place="across"
-                >e</add>rnte <lb/>mit einem Wink geistligkeit Magistratus und alle
-                <lb/>Deputationen, niemand ward weiter vorgelassen, Er hiess <lb/>den Haufen sich
+                    >e</add>rnte <lb/>mit einem Wink geistligkeit <rs type="term" key="magistratus">Magistratus</rs> und alle
+                <lb/><rs type="term" key="deputationen">Deputationen</rs>, niemand ward weiter vorgelassen, Er hiess <lb/>den Haufen sich
                 theilen und den Pferden Zaum geben <lb/>sprang wieder in den Wagen, und fort gings
                 weiter <lb/>in gestrecktem galopp unter eine<subst>
                     <del rendition="#ow">#</del>
@@ -1700,13 +1701,15 @@
                 begierde mich zu <lb/>sehen <subst>
                     <del rendition="#ow">da</del>
                     <add place="across">her</add>
-                </subst>bei gerufen hatte. der Pöbel schrie <subst>
-                    <del rendition="#ow">W</del>
-                    <add place="across">V</add>
-                </subst>ivat <lb/>unter meinen Fenster und ich liess doppelte <subst>
+                </subst>bei gerufen hatte. der Pöbel schrie <rs type="term" key="vivat">
+                    <subst>
+                        <del rendition="#ow">W</del>
+                        <add place="across">V</add>
+                    </subst>ivat</rs>
+                <lb/>unter meinen Fenster und ich liess doppelte <rs type="term" key="ducaten"><subst>
                     <del rendition="#ow">d</del>
                     <add place="across">D</add>
-                </subst>ucaten <lb/>daraus regnen, am abend ward die Stadt frei<subst>
+                </subst>ucaten</rs> <lb/>daraus regnen, am abend ward die Stadt frei<subst>
                     <del rendition="#ow">v</del>
                     <add place="across">w</add>
                 </subst>illig <lb/>erleuchtet,— und ich wusste immer noch nicht was das <lb/>alles
@@ -1717,20 +1720,23 @@
                 </subst>r liess sich denn <lb/>erzählen wessmassen man <add place="superlinear"
                     >bereits</add> sichere Nachricht gehabt der <lb/><persName
                     key="friedrich_wilhelm_III">gute König von Preussen</persName> reise unter dem
-                Nahmen eines <lb/>Grafen durch das Land, wie mein Adjudant erkannt <lb/>worden wäre,
-                und wie er sich und mich verrathen habe, <lb/>wie gross endlich d<subst>
+                Nahmen eines <lb/>Grafen durch das Land, wie mein <rs type="term" key="adjudant"
+                    >Adjudant</rs> erkannt <lb/>worden wäre, und wie er sich und mich verrathen
+                habe, <lb/>wie gross endlich d<subst>
                     <del rendition="#ow">e</del>
                     <add place="across">i</add>
                 </subst>e <subst>
                     <del rendition="#ow">f</del>
                     <add place="across">F</add>
                 </subst>reude gewesen, da man die Gewissheit <lb/>gehabt mich im Orte selbst zu
-                besitzen. Nun sah <lb/>man freilig ein, da ich offenbar das strengste <subst>
-                    <del>i</del>
-                    <add>I</add>
-                </subst>ncognito <lb/>beobachten wolle, wie sehr man Unrecht gehabt den
-                <lb/>Schleier so zudringlig aufzulüften. ich hätte aber <lb/>so huldreich, so
-                gnadenvoll gezürnt, —ich würde gewiss dem <lb/>guten Hertzen verzeihen müssen.
+                besitzen. Nun sah <lb/>man freilig ein, da ich offenbar das strengste <rs
+                    type="term" key="inkognito"><subst>
+                        <del>i</del>
+                        <add>I</add>
+                    </subst>ncognito </rs>
+                <lb/>beobachten wolle, wie sehr man Unrecht gehabt den <lb/>Schleier so zudringlig
+                aufzulüften. ich hätte aber <lb/>so <rs type="term" key="huldreich">huldreich</rs>,
+                so gnadenvoll gezürnt, —ich würde gewiss dem <lb/>guten Hertzen verzeihen müssen.
                 Meinem Schlingel <lb/>kam die Sache so spasshaft vor dass er mit strafenden
                 <lb/>Reden sein mögligstes that die guten Leute einstweilen <lb/>in ihrem <subst>
                     <del rendition="#s">Meinung</del>
@@ -1776,7 +1782,7 @@
                 sollt ich <lb/>thun? Ich liess mir den grafen gefallen, und blieb von <lb/>Stund an
                 der Graf Peter. mitten im festlichen Gewühle <lb/>begehrte meine Seele nur nach der
                 Einen. Spaet erschien <lb/>Sie, die die Krone war und trug. sie folgte sittsam ihren
-                <lb/>Ältern, <subst>
+                    <lb/><rs type="term" key="ältern">Ältern</rs>, <subst>
                     <del>U</del>
                     <add>u</add>
                 </subst>n und schien nicht zu wissen dass sie schönste sei. <lb/>Es wurden mir der
@@ -1813,10 +1819,10 @@
                 </subst>t im Bund <lb/>ein frohes <subst>
                     <del rendition="#ow">f</del>
                     <add place="across">F</add>
-                </subst>est. die glücklichen <subst>
-                    <del rendition="#ow">a</del>
-                    <add place="across">A</add>
-                </subst>ltern Minas glaubten ihnen nur <lb/>zu ehren ihr Kind erhöht, <subst>
+                </subst>est. die glücklichen <rs type="term" key="ältern"><subst>
+                        <del rendition="#ow">a</del>
+                        <add place="across">A</add>
+                    </subst>ltern</rs> Minas glaubten ihnen nur <lb/>zu ehren ihr Kind erhöht, <subst>
                     <del rendition="#ow">i</del>
                     <add place="across">I</add>
                 </subst>ch selber war in einem <lb/>unbeschreiblichen Rausch. Ich liess alles was
@@ -1838,10 +1844,10 @@
                     <del rendition="#ow">g</del>
                     <add place="across">h</add>
                 </subst>keit gehegt, sei nun= <lb/>mehr zur gewissheit worden, Er habe gestern ganze
-                Säcke <lb/>Goldes unterschlagen. Lasset uns, erwidert ich, dem armen <lb/>Schelmen
-                die kleine Beute gönnen, ich spende gerne <lb/>allen, warum nicht auch ihm? Gestern
-                hat er mir <lb/>haben mir alle neuen Leute, die du mir gegeben, <lb/>redlich
-                gedient, sie haben mir froh, ein frohes <subst>
+                Säcke <lb/>Goldes unterschlagen. Lasset uns, erwidert ich, dem armen <lb/><rs
+                    type="term" key="schelmen">Schelmen</rs> die kleine Beute gönnen, ich spende
+                gerne <lb/>allen, warum nicht auch ihm? Gestern hat er mir <lb/>haben mir alle neuen
+                Leute, die du mir gegeben, <lb/>redlich gedient, sie haben mir froh, ein frohes <subst>
                     <del rendition="#ow">f</del>
                     <add place="across">F</add>
                 </subst>est <lb/>begehen helfen. — es war<del rendition="#s">d</del> nicht weiter
@@ -1934,14 +1940,14 @@
                 <lb/>die ich bewohnte betreten. so lange die Sonne <lb/>schien hielt ich mich mit
                 ihm darinnen <del rendition="#s">versghloch </del><lb/>verschlossen und es hiess der
                 Graf arbeite in seinem <lb/>Cabinet. mit diesen Arbeiten standen die häufigen
-                <lb/>Courire in Verbindung, die ich um jede<del rendition="#s">r</del> Kleinigkeit
-                <lb/>abschikte und erhielt — ich nahm nur am Abende <lb/>unter meinen Bäumen oder in
-                meinem nach <lb/>Bendels <subst>
+                    <lb/><rs type="term" key="courire">Courire</rs> in Verbindung, die ich um
+                    jede<del rendition="#s">r</del> Kleinigkeit <lb/>abschikte und erhielt — ich
+                nahm nur am Abende <lb/>unter meinen Bäumen oder in meinem nach <lb/>Bendels <subst>
                     <del rendition="#ow">a</del>
                     <add place="across">A</add>
                 </subst>ngabe geschikt und reich erleuchteten Saale <lb/>Geselschaft an, wann ich
-                ausging, wobei mich stets <lb/>Bendel mit Argus augen bewachen musste, so war es
-                <lb/>nur nach dem Forstergarten und um des <subst>
+                ausging, wobei mich stets <lb/>Bendel mit <rs type="term" key="argusauge">Argus
+                    augen</rs> bewachen musste, so war es <lb/>nur nach dem Forstergarten und um des <subst>
                     <del rendition="#ow">e</del>
                     <add place="across">E</add>
                 </subst>inen willen, denn <lb/>meines Lebens innerlichstes Hertz war meine Liebe: O
@@ -1992,7 +1998,7 @@
                     <del rendition="#ow">v</del>
                     <add place="across">w</add>
                 </subst>oich <lb/>den Furchtbaren wieder zu sehen erwartete denn <lb/>er hatte
-                gesagt ein Jahr und Tag und ich glaubte <lb/>an sein Wort. Die Ältern waren gute
+                gesagt ein Jahr und Tag und ich glaubte <lb/>an sein Wort. Die <rs type="term" key="ältern">Ältern</rs> waren gute
                 ehrbare <lb/><add place="superlinear">alte Leute,</add> die ihr einziges Kind sehr
                 liebten, das ganze <lb/>Verhältniss über<subst>
                     <del rendition="#ow">r</del>
@@ -2022,7 +2028,7 @@
                 <lb/>du bist so gut, so unaussprechlich gut, aber missverstehe mich <lb/>nicht. du
                 sollst mir nichts opfern, mir nichts opfern wollen. <lb/>O gott! ich konnte mich
                 hassen wenndu das thätest. Nein, — <lb/>du hast mich unendlich glücklich gemacht, du
-                hast mich <lb/>dich lieben gelehrt. Zeuch hin! — weiss doch mein Schicksal,
+                hast mich <lb/>dich lieben gelehrt. <rs type="term" key="zeuchhin">Zeuch hin</rs>! — weiss doch mein Schicksal,
                 <lb/>Graf Peter<del>,</del> gehört nicht mir, ge<subst>
                     <del rendition="#ow">b</del>
                     <add place="across">h</add>
@@ -2148,7 +2154,7 @@
                     <del rendition="#s">Ich beschäftigte ihn damit, es war</del>
                     <add place="right">es gab ihm viel zu thun, denn überall <lb/>war ihm ein
                         Fremder zuvor gekommen <lb/>er konnte auch nur für einige hundert
-                        <lb/>Tausend Ducaten auftreiben — dass ich ihn <lb/>damit beschaftigte,
+                        <lb/>Tausend <rs type="term" key="ducaten">Ducaten</rs> auftreiben — dass ich ihn <lb/>damit beschaftigte,
                         war</add>
                 </subst>
                 <lb/>im Grunde eine <del rendition="#s">blosse</del> unschuldige List um ihn zu ent=
@@ -2190,7 +2196,7 @@
                 lag es centnerschwer auf der Brust — <del rendition="#s">ich schied</del>
                 <lb/>ich stand von meinem Sitz auf sie warf sich stille <lb/>weinend an meine Brust.
                 ich ging — nun fand <lb/>ich sie öfters in thränen, mir wards finster und
-                <lb/>finstrer um die Seele, — nur die ältern schwammen <lb/><del rendition="#s"
+                <lb/>finstrer um die Seele, — nur die <rs type="term" key="ältern">ältern</rs> schwammen <lb/><del rendition="#s"
                     >in</del> in unüberschwängliche<subst>
                     <del rendition="#ow">m</del>
                     <add place="across">r</add>
@@ -2214,7 +2220,7 @@
                     einige hundert <subst>
                         <del rendition="#ow">T</del>
                         <add place="across">t</add>
-                    </subst>ausend <lb/>Ducaten güter <add place="superlinear">gekauft</add>, ein
+                    </subst>ausend <lb/><rs type="term" key="ducaten">Ducaten</rs> güter <add place="superlinear">gekauft</add>, ein
                     fremder, für den gleichen Ankauf <lb/>geschahen war ihm überall zuvor
                     gekommen</del>.<lb/>Der vorabend war da — ich konnte kaum mehr athmen <lb/>ich
                 hatte vorsorglich einige Kissten mit Gold angefüllt <lb/>ich wachte die z<subst>
@@ -3935,6 +3941,6 @@
                 </subst>reund, willst du unter den Menschen leben, lerne verehren zuvörderst den
                 Schatten, so dann das Gold. willst du nur dir und deinem bessern selbst leben, o so
                 brauchst du keinen Rath. explicit </p>
-    </body>
-</text>
-</TEI>  
+        </body>
+    </text>
+</TEI>
