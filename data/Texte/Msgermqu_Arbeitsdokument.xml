@@ -1474,9 +1474,7 @@
                 </subst> in einem unerleuchteten <lb/>Garten <subst>
                     <del rendition="#s">gab</del>
                     <add place="superlinear">versammelt hatte</add>
-                </subst>, wandelte ich mit der
-                <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>Herrin<?oxy_custom_end?>
-                arm <lb/>in Arm, in einiger <subst>
+                </subst>, wandelte ich mit der Herrin arm <lb/>in Arm, in einiger <subst>
                     <del rendition="#ow">e</del>
                     <add place="across">E</add>
                 </subst>ntfernung vor de<subst>
@@ -2077,9 +2075,10 @@
                 <lb/>irgend einen Fürsten, den ein schwerer <subst>
                     <del rendition="#ow">b</del>
                     <add place="across">B</add>
-                </subst>ann getroffen, irgend <lb/>ein hohes geächtetes
-                <?oxy_custom_start type="oxy_content_highlight" color="255,255,0"?>haupt<?oxy_custom_end?>
-                und ihre Einbildungskraft mahlte <lb/>sich <add place="superlinear"
+                </subst>ann getroffen, irgend <lb/>ein hohes geächtete<subst>
+                    <del rendition="#ow">#</del>
+                    <add place="across">s</add>
+                </subst> haupt und ihre Einbildungskraft mahlte <lb/>sich <add place="superlinear"
                     >geschäftigt</add> unter heroischen Bildern <del rendition="#s">ih</del><subst>
                     <del rendition="#ow">r</del>
                     <add place="across">d</add>
