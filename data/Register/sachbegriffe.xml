@@ -17,12 +17,94 @@
     <text>
         <body>
             <list>
-                <item xml:id="nemesis">
-                    <label type="reg">Nemesis</label>
-                    <desc>Nẹmesis, die; -, /ohne Pl.; Göttin der gerechten Vergeltung in der griech.
-                        Sage; bildl./ die rächende N. (die ausgleichende Gerechtigkeit) <ref
-                            target="https://www.dwds.de/wb/wdg/Nemesis">Quelle</ref>
+                <item xml:id="abgefeimten">
+                    <label type="reg">abgefeimten</label>
+                    <desc>abgefeimt adj. das part. prät. wird früh beiwort im sinne von 'raffiniert,
+                        schlau, gerissen' <ref target="www.woerterbuchnetz.de/DWB2/ABFEIMEN"
+                            >Quelle</ref>
                     </desc>
+                </item>
+                <item xml:id="adjudant">
+                    <label type="reg">Adjudant</label>
+                    <desc>gehilfe, beistand <ref target="www.woerterbuchnetz.de/DWB2/ADJUTANT"
+                            >Quelle</ref>
+                    </desc>
+                </item>
+                <item xml:id="ältern">
+                    <label type="reg">Ältern/Altern</label>
+                    <desc>eltern <ref target="www.woerterbuchnetz.de/DWB/ältern">Quelle</ref></desc>
+                </item>
+                <item xml:id="AlteWelt">
+                    <label type="reg">Alte Welt</label>
+                    <desc>Alte Welt, die östliche Erdhalbkugel mit den Erdteilen Europa, Asien und
+                        Afrika, im Gegensatze zu Amerika, der Neuen Welt. Australien bleibt dabei
+                        außer Betracht. Unter den Völkern der Alten Welt versteht man diejenigen,
+                        die in Asien, Afrika und Europa vor dem Erscheinen des Christentums
+                        auftraten. <ref target="www.woerterbuchnetz.de/Meyers/Alte Welt"
+                            >Quelle</ref></desc>
+                </item>
+                <item xml:id="argusauge">
+                    <label type="reg">Argus augen</label>
+                    <desc>Das Argus-Auge, des -s, plur. die -n, von dem Argus aus der Griech.
+                        Fabellehre, ein scharfes, argwöhnisches Auge. Argus-Augen haben, mit dem
+                        schärfsten oder aufmerksamsten Argwohne beobachten. <ref
+                            target="www.woerterbuchnetz.de/Adelung/Argus-Auge">Quelle</ref></desc>
+                </item>
+                <item xml:id="courire">
+                    <label type="reg">Courire</label>
+                    <desc>Der Courīer, oder Curier, des -s, plur. ut nom. sing. aus dem Französ.
+                        Courier, und dieß von courir, laufen, ein geschwinder Bothe, welcher sich zu
+                        seinem hurtigern Fortkommen der Postpferde bedienet. <ref
+                            target="www.woerterbuchnetz.de/Adelung/Courīer">Quelle</ref></desc>
+                </item>
+                <item xml:id="darben">
+                    <label type="reg">Darben</label>
+                    <desc>Darben, verb. reg. neutr. welches das Hülfswort haben zu sich nimmt. 1) *
+                        Nöthig haben, brauchen, welche Bedeutung aber völlig veraltet ist, seitdem
+                        das zusammen gesetzte bedürfen üblicher geworden, S. dieses Wort. 2) *
+                        Mangel an etwas leiden, einer Sache entbehren, da es denn so wohl mit der
+                        zweyten, als mit der vierten Endung verbunden wird. Thie heimingens
+                        tharbent, die kein Vaterland haben, Ottfr. Er suliches ni tharbe, ebend.<ref
+                            target="www.woerterbuchnetz.de/Adelung?lemid=D00148">Quelle </ref>
+                    </desc>
+                </item>
+                <item xml:id="deputationen">
+                    <label type="reg">Deputationen</label>
+                    <desc>delegation, gruppe von abgesandten <ref
+                            target="www.woerterbuchnetz.de/DWB2/DEPUTATION">Quelle</ref></desc>
+                </item>
+                <item xml:id="ducaten">
+                    <label type="reg">Ducaten</label>
+                    <desc>ducaten ducat ducate, m. ducat, f. goldmünze drei thaler an wert <ref
+                            target="www.woerterbuchnetz.de/DWB/ducaten">Quelle</ref></desc>
+                </item>
+                <item xml:id="huldreich">
+                    <label type="reg">huldreich</label>
+                    <desc>geneigt, wohlwollend, gnädig; meist in offiziellem Rahmen <ref
+                            target="www.woerterbuchnetz.de/GWB/huldreich">Quelle</ref></desc>
+                </item>
+                <item xml:id="inkognito">
+                    <label type="reg">Inkognito</label>
+                    <desc>Verheimlichung der Identität, das Auftreten, die Existenz unter fremdem
+                        Namen <ref target="www.woerterbuchnetz.de/GWB/Inkognito">Quelle</ref></desc>
+                </item>
+                <item xml:id="karriere">
+                    <label type="reg">Karriere</label>
+                    <desc>schnellster Galopp des Pferdes <ref
+                            target="https://www.dwds.de/wb/wdg/Karriere">Quelle</ref>
+                    </desc>
+                </item>
+                <item xml:id="Knotenstock">
+                    <label type="reg">Knotenstock</label>
+                    <desc>2 knotenstock, m. knotiger stock. Adelung, als wanderstab, durch seine
+                        knoten zugleich zur waffe besonders dienlich <ref
+                            target="www.woerterbuchnetz.de/DWB/knotenstock">Quelle</ref></desc>
+                </item>
+                <item xml:id="Kronometer">
+                    <label type="reg">Kronometer</label>
+                    <desc>Kronometer: (scherz.) Taschenuhr <ref
+                            target="https://www.lagis-hessen.de/de/subjects/rsrec/sn/shwb/entry/kronometer"
+                            >Quelle</ref></desc>
                 </item>
                 <item xml:id="leitstern">
                     <label type="reg">Leitstern</label>
@@ -33,19 +115,44 @@
                             target="www.woerterbuchnetz.de/Adelung?lemid=L01200">Quelle</ref>
                     </desc>
                 </item>
-                <item xml:id="schlagschatten">
-                    <label type="reg">Schlagschatten</label>
-                    <desc>Der Schlagschatten, des -s, plur. ut nom. sing. in der Mahlerey, der
-                        stärkere Schatten eines Körpers, welcher in dem schwächern Schatten eines
-                        andern stehet, der ihn unmittelbar vor dem Sonnenscheine bedecket. <ref
-                            target="www.woerterbuchnetz.de/Adelung/Schlagschatten">Quelle</ref>
+                <item xml:id="magistratus">
+                    <label type="reg">Magistratus</label>
+                    <desc>Der Magistrāt, des -es, plur. die -e, ein aus dem Latein. Magistratus
+                        entlehntes Collectivum, den Stadtrath, das Raths-Collegium einer Stadt zu
+                        bezeichnen. <ref target="www.woerterbuchnetz.de/Adelung/Magistrāt"
+                            >Quelle</ref></desc>
+                </item>
+                <item xml:id="Mauren">
+                    <label type="reg">Mauren</label>
+                    <desc>Mauren, die Urbewohner des alter Mauretanien, dem berberischen Volksstamme
+                        angehörig, vermischten sich später vielfach mit den arab. Einwanderern u.
+                        bewohnen besonders die Städte in der ganzen Ausdehnung der Berberei (s.d.)
+                            <ref target="www.woerterbuchnetz.de/Herder/Mauren">Quelle</ref></desc>
+                </item>
+                <item xml:id="Monocotyledonen">
+                    <label type="reg">Monocotyledonen</label>
+                    <desc>die Einkeimblättrigen Pflanzen <ref
+                            target="https://www.spektrum.de/lexikon/biologie/monokotyledonen/43786"
+                        /></desc>
+                </item>
+                <item xml:id="nemesis">
+                    <label type="reg">Nemesis</label>
+                    <desc>Nẹmesis, die; -, /ohne Pl.; Göttin der gerechten Vergeltung in der griech.
+                        Sage; bildl./ die rächende N. (die ausgleichende Gerechtigkeit) <ref
+                            target="https://www.dwds.de/wb/wdg/Nemesis">Quelle</ref>
                     </desc>
                 </item>
-                <item xml:id="abgefeimten">
-                    <label type="reg">abgefeimten</label>
-                    <desc>abgefeimt adj. das part. prät. wird früh beiwort im sinne von 'raffiniert,
-                        schlau, gerissen' <ref target="www.woerterbuchnetz.de/DWB2/ABFEIMEN"
-                            >Quelle</ref>
+                <item xml:id="Nicotiana">
+                    <label type="reg">Nicotiana</label>
+                    <desc>Nicotiana L. (Tabak), Gattung der Solanazeen, ein-, seltener mehrjährige,
+                        häufig drüsenhaarige, kleberige Kräuter, bisweilen halbstrauchig, mit
+                        einfachen, ganzrandigen, selten buchtigen Blättern, gelben, grünen, roten
+                        oder weißen Blüten in endständigen zymösen Rispen oder Trauben und trockner,
+                        zweifächeriger, vom bleibenden Kelch umgebener Kapsel mit zahlreichen sehr
+                        kleinen Samen. Etwa 40 Arten in Nord-, Mittel- und Südamerika, vorherrschend
+                        in den nicht tropischen westlichen Teilen, drei auf den Sundainseln, eine in
+                        Australien und einige auf den Inseln des Stillen Ozeans. <ref
+                            target="www.woerterbuchnetz.de/Meyers/Nicotiana">Quelle</ref>
                     </desc>
                 </item>
                 <item xml:id="physikus">
@@ -55,79 +162,6 @@
                         solchen Arztes heißt Physikat.<ref
                             target="www.woerterbuchnetz.de/Meyers/Physĭkus">Quelle</ref>
                     </desc>
-                </item>
-                <item xml:id="Knotenstock">
-                    <label type="reg">Knotenstock</label>
-                    <desc>2 knotenstock, m. knotiger stock. Adelung, als wanderstab, durch seine
-                        knoten zugleich zur waffe besonders dienlich <ref
-                            target="www.woerterbuchnetz.de/DWB/knotenstock">Quelle</ref></desc>
-                </item>
-                <item xml:id="vivat">
-                    <label type="reg">Vivat</label>
-                    <desc>vivat hoch oder zugefügter übersetzung vivat, er lebe hoch u. ä. <ref
-                            target="www.woerterbuchnetz.de/DWB/vivat">Quelle</ref>
-                    </desc>
-                </item>
-                <item xml:id="adjudant">
-                    <label type="reg">Adjudant</label>
-                    <desc>gehilfe, beistand <ref target="www.woerterbuchnetz.de/DWB2/ADJUTANT"
-                            >Quelle</ref>
-                    </desc>
-                </item>
-                <item xml:id="inkognito">
-                    <label type="reg">Inkognito</label>
-                    <desc>Verheimlichung der Identität, das Auftreten, die Existenz unter fremdem
-                        Namen <ref target="www.woerterbuchnetz.de/GWB/Inkognito">Quelle</ref></desc>
-                </item>
-                <item xml:id="huldreich">
-                    <label type="reg">huldreich</label>
-                    <desc>geneigt, wohlwollend, gnädig; meist in offiziellem Rahmen <ref
-                            target="www.woerterbuchnetz.de/GWB/huldreich">Quelle</ref></desc>
-                </item>
-                <item xml:id="ältern">
-                    <label type="reg">Ältern/Altern</label>
-                    <desc>eltern <ref target="www.woerterbuchnetz.de/DWB/ältern">Quelle</ref></desc>
-                </item>
-                <item xml:id="magistratus">
-                    <label type="reg">Magistratus</label>
-                    <desc>Der Magistrāt, des -es, plur. die -e, ein aus dem Latein. Magistratus
-                        entlehntes Collectivum, den Stadtrath, das Raths-Collegium einer Stadt zu
-                        bezeichnen. <ref target="www.woerterbuchnetz.de/Adelung/Magistrāt"
-                            >Quelle</ref></desc>
-                </item>
-                <item xml:id="deputationen">
-                    <label type="reg">Deputationen</label>
-                    <desc>delegation, gruppe von abgesandten <ref
-                            target="www.woerterbuchnetz.de/DWB2/DEPUTATION">Quelle</ref></desc>
-                </item>
-                <item xml:id="zeuchhin">
-                    <label type="reg">Zeuch hin</label>
-                    <desc>Zieh hin <ref target="www.woerterbuchnetz.de/DWB/zeuche"
-                        >Quelle</ref></desc>
-                </item>
-                <item xml:id="ducaten">
-                    <label type="reg">Ducaten</label>
-                    <desc>ducaten ducat ducate, m. ducat, f. goldmünze drei thaler an wert <ref
-                            target="www.woerterbuchnetz.de/DWB/ducaten">Quelle</ref></desc>
-                </item>
-                <item xml:id="schelmen">
-                    <label type="reg">Schelmen</label>
-                    <desc>schelm im sinne von betrüger <ref
-                            target="www.woerterbuchnetz.de/DWB/schelm">Quelle</ref></desc>
-                </item>
-                <item xml:id="courire">
-                    <label type="reg">Courire</label>
-                    <desc>Der Courīer, oder Curier, des -s, plur. ut nom. sing. aus dem Französ.
-                        Courier, und dieß von courir, laufen, ein geschwinder Bothe, welcher sich zu
-                        seinem hurtigern Fortkommen der Postpferde bedienet. <ref
-                            target="www.woerterbuchnetz.de/Adelung/Courīer">Quelle</ref></desc>
-                </item>
-                <item xml:id="argusauge">
-                    <label type="reg">Argus augen</label>
-                    <desc>Das Argus-Auge, des -s, plur. die -n, von dem Argus aus der Griech.
-                        Fabellehre, ein scharfes, argwöhnisches Auge. Argus-Augen haben, mit dem
-                        schärfsten oder aufmerksamsten Argwohne beobachten. <ref
-                            target="www.woerterbuchnetz.de/Adelung/Argus-Auge">Quelle</ref></desc>
                 </item>
                 <item xml:id="portefeuille">
                     <label type="reg">Portefeuille</label>
@@ -144,6 +178,35 @@
                             target="www.woerterbuchnetz.de/Meyers/Portefeuille">Quelle</ref>
                     </desc>
                 </item>
+                <item xml:id="schelmen">
+                    <label type="reg">Schelmen</label>
+                    <desc>schelm im sinne von betrüger <ref
+                            target="www.woerterbuchnetz.de/DWB/schelm">Quelle</ref></desc>
+                </item>
+                <item xml:id="schlagschatten">
+                    <label type="reg">Schlagschatten</label>
+                    <desc>Der Schlagschatten, des -s, plur. ut nom. sing. in der Mahlerey, der
+                        stärkere Schatten eines Körpers, welcher in dem schwächern Schatten eines
+                        andern stehet, der ihn unmittelbar vor dem Sonnenscheine bedecket. <ref
+                            target="www.woerterbuchnetz.de/Adelung/Schlagschatten">Quelle</ref>
+                    </desc>
+                </item>
+                <item xml:id="schleicher">
+                    <label type="reg">Schleicher</label>
+                    <desc>mit unsinnlicher bedeutung des verbalbegriffs, meist der heimlich
+                        verfährt, heuchler, leisetreter, schönthuer, duckmäuser, latens, latitans,
+                        delitescens, clandestinus, opertus, insidiator. <ref
+                            target="www.woerterbuchnetz.de/DWB?lemid=S10995">Quelle</ref>
+                    </desc>
+                </item>
+                <item xml:id="seckel">
+                    <label type="reg">Seckel</label>
+                    <desc>Der Sêckel, des -s, plur. ut nom. sing. ein vorzüglich im Oberdeutschen
+                        übliches Wort, welches einen Beutel, eine Tasche, und besonders einen
+                        Geldbeutel bedeutet. Das Geld in den Seckel stecken, in die Tasche, in den
+                        Geldbeutel <ref target="www.woerterbuchnetz.de/Adelung?lemid=S03617"
+                            >Quelle</ref></desc>
+                </item>
                 <item xml:id="Siebenmeilenstiefel">
                     <label type="reg">Siebenmeilen Stiefel</label>
                     <desc> siebenmeilenstiefel, m., ein märchenhaftes motiv mythologischen
@@ -151,6 +214,12 @@
                         zurücklegt, auch franz. bottes de sept lieues <ref
                             target="www.woerterbuchnetz.de/DWB/siebenmeilenstiefel">Quelle</ref>
                     </desc>
+                </item>
+                <item xml:id="tarnkappe">
+                    <label type="reg">Tarnkappe</label>
+                    <desc>Tarnkappe (v. altd. tarnan, »verbergen«, auch Tarnhaut, Nebelkappe), in
+                        der deutschen Mythologie ein unsichtbar machender Mantel. <ref
+                            target="www.woerterbuchnetz.de/Meyers?lemid=T00802">Quelle</ref></desc>
                 </item>
                 <item xml:id="Uhrbild">
                     <label type="reg">Uhrbild</label>
@@ -160,46 +229,16 @@
                             target="https://www.dwds.de/wb/etymwb/Urbild">Quelle</ref>
                     </desc>
                 </item>
-                <item xml:id="AlteWelt">
-                    <label type="reg">Alte Welt</label>
-                    <desc>Alte Welt, die östliche Erdhalbkugel mit den Erdteilen Europa, Asien und
-                        Afrika, im Gegensatze zu Amerika, der Neuen Welt. Australien bleibt dabei
-                        außer Betracht. Unter den Völkern der Alten Welt versteht man diejenigen,
-                        die in Asien, Afrika und Europa vor dem Erscheinen des Christentums
-                        auftraten. <ref target="www.woerterbuchnetz.de/Meyers/Alte Welt"
-                            >Quelle</ref></desc>
-                </item>
-                <item xml:id="Mauren">
-                    <label type="reg">Mauren</label>
-                    <desc>Mauren, die Urbewohner des alter Mauretanien, dem berberischen Volksstamme
-                        angehörig, vermischten sich später vielfach mit den arab. Einwanderern u.
-                        bewohnen besonders die Städte in der ganzen Ausdehnung der Berberei (s.d.)
-                            <ref target="www.woerterbuchnetz.de/Herder/Mauren">Quelle</ref></desc>
-                </item>
-                <item xml:id="Nicotiana">
-                    <label type="reg">Nicotiana</label>
-                    <desc>Nicotiana L. (Tabak), Gattung der Solanazeen, ein-, seltener mehrjährige,
-                        häufig drüsenhaarige, kleberige Kräuter, bisweilen halbstrauchig, mit
-                        einfachen, ganzrandigen, selten buchtigen Blättern, gelben, grünen, roten
-                        oder weißen Blüten in endständigen zymösen Rispen oder Trauben und trockner,
-                        zweifächeriger, vom bleibenden Kelch umgebener Kapsel mit zahlreichen sehr
-                        kleinen Samen. Etwa 40 Arten in Nord-, Mittel- und Südamerika, vorherrschend
-                        in den nicht tropischen westlichen Teilen, drei auf den Sundainseln, eine in
-                        Australien und einige auf den Inseln des Stillen Ozeans. <ref
-                            target="www.woerterbuchnetz.de/Meyers/Nicotiana">Quelle</ref>
+                <item xml:id="vivat">
+                    <label type="reg">Vivat</label>
+                    <desc>vivat hoch oder zugefügter übersetzung vivat, er lebe hoch u. ä. <ref
+                            target="www.woerterbuchnetz.de/DWB/vivat">Quelle</ref>
                     </desc>
                 </item>
-                <item xml:id="Kronometer">
-                    <label type="reg">Kronometer</label>
-                    <desc>Kronometer: (scherz.) Taschenuhr <ref
-                            target="https://www.lagis-hessen.de/de/subjects/rsrec/sn/shwb/entry/kronometer"
-                            >Quelle</ref></desc>
-                </item>
-                <item xml:id="Monocotyledonen">
-                    <label type="reg">Monocotyledonen</label>
-                    <desc>die Einkeimblättrigen Pflanzen <ref
-                            target="https://www.spektrum.de/lexikon/biologie/monokotyledonen/43786"
-                        /></desc>
+                <item xml:id="zeuchhin">
+                    <label type="reg">Zeuch hin</label>
+                    <desc>Zieh hin <ref target="www.woerterbuchnetz.de/DWB/zeuche"
+                        >Quelle</ref></desc>
                 </item>
             </list>
         </body>

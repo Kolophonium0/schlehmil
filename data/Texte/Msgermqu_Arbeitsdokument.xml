@@ -2646,10 +2646,11 @@
                     <add place="across">it</add>
                 </subst>
                 <del rendition="#s">Seele <lb/>war</del> unüberwindbarem Hasse gegen diese
-                räthzelhaften Schleicher <lb/>auf krummen Wegen <add place="superlinear">war meine
-                    Seele angefüllt.</add>, ich mogte ihm Unrecht thun, doch <lb/>empörte mich jede
-                Gemeinschaft mit ihm. – Auch hier <lb/>trat wie So oft schon in mein Leben, und wie
-                überhaupt <lb/>so oft in die Weltgeschichte, ein Ereigniss an die Stelle <lb/>einer <subst>
+                räthzelhaften <rs type="term" key="schleicher">Schleicher</rs>
+                <lb/>auf krummen Wegen <add place="superlinear">war meine Seele angefüllt.</add>,
+                ich mogte ihm Unrecht thun, doch <lb/>empörte mich jede Gemeinschaft mit ihm. – Auch
+                hier <lb/>trat wie So oft schon in mein Leben, und wie überhaupt <lb/>so oft in die
+                Weltgeschichte, ein Ereigniss an die Stelle <lb/>einer <subst>
                     <del rendition="#s">Handlung</del>
                     <add place="superlinear">That</add>
                 </subst>. Später habe ich mich mit mir selber <lb/>versöhnt. ich habe erstlich die
@@ -2679,15 +2680,16 @@
                 </subst>, die das meine <add place="superlinear">mit</add> Ergriff verehren lernte.
                 <lb/>Ich weiss nicht ob ich es der Spannung meiner Seele unter <lb/>dem Drange so
                 mächtiger Empfindungen, zuschreiben soll, <lb/>Ob der Erschöpfung meiner physischen
-                Kräfte, die während <lb/>der letzten Tagen, ungewohntes Darben geschwächt, ob
-                endlich <lb/>dem zerstörenden Aufruhr den die Nähe dieses grauen Unholdes <lb/>in
-                meiner ganzen Natur erregte; genug es befiel mich <lb/>als es an das Unterschreiben
-                ging eine tiefe Ohnmacht <lb/>und ich lag eine lange Zeit wie in den Armen des
-                Todtes <lb/>Fussstampfen und Fluchen waren die ersten Tone, die <lb/>mein Ohr
-                trafen, als ich zum Bewustsein zurücke <lb/>kehrte, ich offnete die Augen, es war
-                dunkel, mein <lb/>verhasster begleiter war scheltend um mich bemüht. heisst <lb/>das
-                nicht wie ein altes weib sich aufführen – man <lb/>raffe sich auf und vollziehe
-                frisch, was man beschlossen. <lb/>oder ha<subst>
+                Kräfte, die während <lb/>der letzten Tagen, ungewohntes <rs type="term" key="darben"
+                    >Darben</rs> geschwächt, ob endlich <lb/>dem zerstörenden Aufruhr den die Nähe
+                dieses <persName key="mann_in_grau">grauen Unholdes</persName>
+                <lb/>in meiner ganzen Natur erregte; genug es befiel mich <lb/>als es an das
+                Unterschreiben ging eine tiefe Ohnmacht <lb/>und ich lag eine lange Zeit wie in den
+                Armen des Todtes <lb/>Fussstampfen und Fluchen waren die ersten Tone, die <lb/>mein
+                Ohr trafen, als ich zum Bewustsein zurücke <lb/>kehrte, ich offnete die Augen, es
+                war dunkel, mein <lb/>verhasster begleiter war scheltend um mich bemüht. heisst
+                <lb/>das nicht wie ein altes weib sich aufführen – man <lb/>raffe sich auf und
+                vollziehe frisch, was man beschlossen. <lb/>oder ha<subst>
                     <del rendition="#ow">#</del>
                     <add place="across">t</add>
                 </subst> man sich anders besonnen und will lieber <lb/>greinen.„ – Ich richtete mich
@@ -2702,9 +2704,11 @@
                     <del rendition="#ow">ie</del>
                     <add place="across">er</add>
                 </subst> Banck, worauf ich früher gesessen hatte. sie <lb/>unterhielten sich von der
-                an diesem Morgen volzogenen <lb/>Verbindung des reichen herrn Raskal mit der
-                <lb/>Tochter des Hauses – Es war also geschehen, – ich <lb/>streifte mit der Hand
-                die Tarnkappe des sogleich <lb/>mir verschwindenden Unbekannten von meinem
+                an diesem Morgen volzogenen <lb/>Verbindung des reichen herrn <persName key="rascal"
+                    >Raskal</persName> mit der <lb/><persName key="mina">Tochter des
+                    Hauses</persName> – Es war also geschehen, – ich <lb/>streifte mit der Hand die
+                    <rs type="term" key="tarnkappe">Tarnkappe</rs> des sogleich <lb/>mir
+                verschwindenden <persName key="mann_in_grau">Unbekannten</persName> von meinem
                 <lb/>Haupt weg, und eilte stillschweigend in <subst>
                     <del rendition="#ow">t</del>
                     <add place="across">d</add>
@@ -2862,8 +2866,8 @@
                 meine Brust, <lb/>schwang mich in den Sattel, und entfernte mich unter <lb/>dem
                 Mantel der Nacht von dem Grabe meines Lebens <lb/>unbekümmert welchen Weg mein Pferd
                 mich führen <lb/>werde, denn ich hatte weiter auf Erden, kein Ziel <lb/>keinen
-                Wunsch, keine Hoffnung.   <lb/><pb/>VIII. <lb/>Es gesellte sich bald ein Fussgänger
-                zu mir we<subst>
+                Wunsch, keine Hoffnung.   <lb/><pb/>VIII. <lb/>Es gesellte sich bald ein <persName
+                    key="mann_in_grau">Fussgänger</persName> zu mir we<subst>
                     <del rendition="#ow">####</del>
                     <add place="across">lcher</add>
                 </subst> mich <lb/>bat, nachdem er eine Weile neben meinem Pferde geschritten
@@ -2986,9 +2990,9 @@
                     <del rendition="#ow">i</del>
                     <add place="across">I</add>
                 </subst>ch wandte <lb/>plötzlich die Zügel, drückte beide Sporen ein, und so <lb/>in
-                voller Carier einen Seiten Weg eingeschlagen, aber <lb/>ich entführte den Schatten
-                nicht der bei der wendung <lb/>vom Pferde glitt und seinen gesetzmässgen Eigenthümer
-                <lb/>auf der Landstrasse erwartete. <subst>
+                voller <rs type="term" key="karriere">Carier</rs> einen Seiten Weg eingeschlagen,
+                aber <lb/>ich entführte den Schatten nicht der bei der wendung <lb/>vom Pferde glitt
+                und seinen gesetzmässgen Eigenthümer <lb/>auf der Landstrasse erwartete. <subst>
                     <del rendition="#ow">i</del>
                     <add place="across">I</add>
                 </subst>ch musste beschämt <lb/>umlenken, der Mann im grauen Rock als er sei
@@ -3107,14 +3111,15 @@
                     <add place="across">Od</add>
                 </subst>er hab ich ihnen irgendwann <lb/>den Daumen auf die gürgel gedrückt um ihre
                 wehrteste <lb/>seele, zu der ich einmal Lust habe, an mich zu bringen? hab <lb/>ich
-                von wegen meines ausgetauschten Seckels einen Diener auf <lb/>sie losgelassen, hab
-                ich ihnen damit durch zu gehen versucht?„ <lb/>Ich hatte <add place="superlinear"
-                    >dagegen</add> nichts zu erwidern, er fuhr fort: „schon recht, mein Herr,
-                <lb/>schon recht, sie können mich nicht leiden, auch das begreife ich <lb/>wohl und
-                verarge es ihnen <add place="superlinear">weiter</add> nicht. wir müssen scheiden,
-                das <lb/>ist klar, und auch sie fangen an mir sehr langweilig vor zu <lb/>kommen. um
-                sich also meiner ferneren beschämenden Gegenwart <lb/>völlig zu entziehn, rathe ich
-                es ihnen noch einmal: kaufen <lb/>sie mir das <subst>
+                von wegen meines ausgetauschten <rs type="term" key="seckel">Seckels</rs> einen
+                Diener auf <lb/>sie losgelassen, hab ich ihnen damit durch zu gehen versucht?„
+                <lb/>Ich hatte <add place="superlinear">dagegen</add> nichts zu erwidern, er fuhr
+                fort: „schon recht, mein Herr, <lb/>schon recht, sie können mich nicht leiden, auch
+                das begreife ich <lb/>wohl und verarge es ihnen <add place="superlinear"
+                    >weiter</add> nicht. wir müssen scheiden, das <lb/>ist klar, und auch sie fangen
+                an mir sehr langweilig vor zu <lb/>kommen. um sich also meiner ferneren beschämenden
+                Gegenwart <lb/>völlig zu entziehn, rathe ich es ihnen noch einmal: kaufen <lb/>sie
+                mir das <subst>
                     <del rendition="#ow">d</del>
                     <add place="across">D</add>
                 </subst>ing ab.„– ich hielt ihm den Seckel hin: „Um <lb/>den Preiss?„ – Nein. – Ich
@@ -3174,8 +3179,8 @@
                     <del rendition="#ow">?</del>
                     <add place="across">,</add>
                 </subst> bei <lb/>Gott, ich will es wissen! Er steckte zögernd die Hand in die
-                <lb/>Tasche, und daraus bei den Haaren hervorgezogen erschien <lb/>Thomas John’s
-                bleiche entstellte Ges<subst>
+                <lb/>Tasche, und daraus bei den Haaren hervorgezogen erschien <persName
+                    key="john_thomas"><lb/>Thomas John’s</persName> bleiche entstellte Ges<subst>
                     <del rendition="#ow">#</del>
                     <add place="across">t</add>
                 </subst>alt, und die blauen <lb/>Leichenlippen bewegten sich zu schweren Worte:
