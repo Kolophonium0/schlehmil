@@ -16,70 +16,6 @@
     <text>
         <body>
             <listPerson>
-                <person xml:id="eduard_hitzig">
-                    <idno type="uri">https://d-nb.info/gnd/119209349</idno>
-                    <persName type="reg">
-                        <surname>Hitzig</surname>
-                        <forename>Julius Eduard</forename>
-                        <nameLink/>
-                    </persName>
-                    <birth>1780</birth>
-                    <death>1849</death>
-                </person>
-                <person xml:id="arethusa" role="mythological">
-                    <persName type="reg">
-                        <name>Arethusa</name>
-                    </persName>
-                </person>
-                <person xml:id="adelbert_von_chamisso">
-                    <idno type="uri">https://d-nb.info/gnd/118520040</idno>
-                    <persName type="reg">
-                        <surname>Chamisso</surname>
-                        <forename>Adelbert von</forename>
-                        <nameLink/>
-                    </persName>
-                    <persName type="alt" subtype="birthname">
-                        <name>de Chamissot de Boncourt</name>
-                    </persName>
-                    <birth>1781</birth>
-                    <death>1838</death>
-                </person>
-                <person xml:id="karl_fouqué">
-                    <idno type="uri">https://d-nb.info/gnd/118534556</idno>
-                    <persName type="reg">
-                        <surname>de la Motte Fouqué</surname>
-                        <forename>Heinrich Karl</forename>
-                        <nameLink>Baron</nameLink>
-                    </persName>
-                    <birth>1777</birth>
-                    <death>1843</death>
-                </person>
-                <person xml:id="kamehameha_I">
-                    <idno type="uri">https://explore.gnd.network/en/gnd/122768914</idno>
-                    <persName type="reg">
-                        <surname>Kamehameha I.</surname>
-                        <forename/>
-                        <nameLink>König</nameLink>
-                    </persName>
-                    <persName type="alt">
-                        <name>Tameiamaia</name>
-                    </persName>
-                    <birth>1758</birth>
-                    <death>1819</death>
-                </person>
-                <person xml:id="friedrich_wilhelm_III">
-                    <idno type="uri">https://explore.gnd.network/gnd/118535986</idno>
-                    <persName type="reg">
-                        <surname/>
-                        <forename>Friedrich Wilhelm</forename><nameLink>König </nameLink>
-                        <nameLink/>
-                        <roleName type="nobility">
-                            <name>König von Preußen</name>
-                            <date>1797-1840</date>
-                        </roleName></persName>
-                    <birth>1770</birth>
-                    <death>1840</death>
-                </person>
                 <person xml:id="mahler" role="fictional">
                     <persName type="reg">
                         <surname/>
@@ -95,6 +31,130 @@
                     <birth/>
                     <death/>
                 </person>
+                <person xml:id="bendel" role="fictional">
+                    <persName type="reg">
+                        <surname/>
+                        <forename>Bendel</forename>
+                        <nameLink/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                </person>
+                <person xml:id="fanny" role="fictional">
+                    <persName type="reg">
+                        <surname/>
+                        <forename>Fanny</forename>
+                        <nameLink/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                </person>
+                <person xml:id="friedrich_wilhelm_III">
+                    <idno type="uri">https://explore.gnd.network/gnd/118535986</idno>
+                    <persName type="reg">
+                        <surname/>
+                        <forename>Friedrich Wilhelm</forename><nameLink>König </nameLink>
+                        <nameLink/>
+                        <roleName type="nobility">
+                            <name>König von Preußen</name>
+                            <date>1797-1840</date>
+                        </roleName></persName>
+                    <birth>1770</birth>
+                    <death>1840</death>
+                </person>
+                <person xml:id="mann_in_grau" role="fictional">
+                    <persName type="reg">
+                        <surname/>
+                        <forename>Mann in Grau</forename>
+                        <nameLink/>
+                    </persName>
+                    <persName type="alt">
+                        <name>grauer Unholdt</name>
+                    </persName>
+                    <persName type="alt">
+                        <name>grauer Unbekanter</name>
+                    </persName>
+                    <birth/>
+                    <death/>
+                </person>
+                <person xml:id="mina" role="fictional">
+                    <persName type="reg">
+                        <surname/>
+                        <forename>Mina</forename>
+                        <nameLink/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                </person>
+                <person xml:id="rascal" role="fictional">
+                    <persName type="reg">
+                        <surname/>
+                        <forename>Rascal</forename>
+                        <nameLink/>
+                    </persName>
+                    <birth/>
+                    <death/>
+                </person>
+                <person xml:id="arethusa" role="mythological">
+                    <persName type="reg">
+                        <name>Arethusa</name>
+                    </persName>
+                </person>
+                <person xml:id="forstmeister" role="fictional">
+                    <persName type="reg">
+                        <surname>B#hen</surname>
+                        <forename/>
+                        <nameLink/>
+                        <roleName type="other">
+                            <name>Forstmeister</name>
+                            <date/>
+                        </roleName></persName>
+                    <birth/>
+                    <death/>
+                </person>
+                <person xml:id="adelbert_von_chamisso">
+                    <idno type="uri">https://d-nb.info/gnd/118520040</idno>
+                    <persName type="reg">
+                        <surname>Chamisso</surname>
+                        <forename>Adelbert von</forename>
+                        <nameLink/>
+                    </persName>
+                    <persName type="alt" subtype="birthname">
+                        <name>de Chamissot de Boncourt</name>
+                    </persName>
+                    <birth>1781</birth>
+                    <death>1838</death>
+                </person>
+                <person xml:id="george_cruikshank">
+                    <idno type="uri">https://explore.gnd.network/en/gnd/11867742X</idno>
+                    <persName type="reg">
+                        <surname>Cruikshank</surname>
+                        <forename>George</forename>
+                        <nameLink/>
+                    </persName>
+                    <birth>1792</birth>
+                    <death>1878</death>
+                </person>
+                <person xml:id="karl_fouqué">
+                    <idno type="uri">https://d-nb.info/gnd/118534556</idno>
+                    <persName type="reg">
+                        <surname>de la Motte Fouqué</surname>
+                        <forename>Heinrich Karl</forename>
+                        <nameLink>Baron</nameLink>
+                    </persName>
+                    <birth>1777</birth>
+                    <death>1843</death>
+                </person>
+                <person xml:id="eduard_hitzig">
+                    <idno type="uri">https://d-nb.info/gnd/119209349</idno>
+                    <persName type="reg">
+                        <surname>Hitzig</surname>
+                        <forename>Julius Eduard</forename>
+                        <nameLink/>
+                    </persName>
+                    <birth>1780</birth>
+                    <death>1849</death>
+                </person>
                 <person xml:id="eta_hoffmann">
                     <idno type="uri">https://explore.gnd.network/en/gnd/118552465</idno>
                     <persName type="reg">
@@ -108,17 +168,56 @@
                     <birth>1776</birth>
                     <death>1822</death>
                 </person>
-                <person xml:id="forstmeister" role="fictional">
+                <person xml:id="john_thomas" role="fictional">
                     <persName type="reg">
-                        <surname>B#hen</surname>
-                        <forename/>
+                        <surname>John</surname>
+                        <forename>Thomas</forename>
                         <nameLink/>
-                        <roleName type="other">
-                            <name>Forstmeister</name>
-                            <date/>
-                        </roleName></persName>
+                    </persName>
                     <birth/>
                     <death/>
+                </person>
+                <person xml:id="kamehameha_I">
+                    <idno type="uri">https://explore.gnd.network/en/gnd/122768914</idno>
+                    <persName type="reg">
+                        <surname>Kamehameha I.</surname>
+                        <forename/>
+                        <nameLink>König</nameLink>
+                    </persName>
+                    <persName type="alt">
+                        <name>Tameiamaia</name>
+                    </persName>
+                    <birth>1758</birth>
+                    <death>1819</death>
+                </person>
+                <person xml:id="Lichtenstein">
+                    <idno type="uri">https://d-nb.info/gnd/100190014</idno>
+                    <persName type="reg">
+                        <surname>Lichtenstein</surname>
+                        <forename>Hinrich</forename>
+                    </persName>
+                    <sex value="male" evidence="assigned"/>
+                    <birth> 10. Januar 1780</birth>
+                    <death>3. September 1857</death>
+                </person>
+                <person xml:id="Montezuma">
+                    <idno type="uri">https://d-nb.info/gnd/118583727</idno>
+                    <persName type="reg">
+                        <name>Montezuma II</name>
+                    </persName>
+                    <sex value="male" evidence="assigned"/>
+                    <birth>ca. 1465</birth>
+                    <death>30. Juni 1520</death>
+                </person>
+                <person xml:id="MungoPark">
+                    <idno type="uri">https://d-nb.info/gnd/118591746</idno>
+                    <persName type="reg">
+                        <surname>Park</surname>
+                        <forename>Mungo</forename>
+                    </persName>
+                    <sex value="male" evidence="assigned"/>
+                    <birth>1771</birth>
+                    <death>1806</death>
                 </person>
                 <person xml:id="jean_paul_richter">
                     <idno type="uri">https://d-nb.info/gnd/118557211</idno>
@@ -133,25 +232,6 @@
                     <birth>1763</birth>
                     <death>1825</death>
                 </person>
-                <person xml:id="george_cruikshank">
-                    <idno type="uri">https://explore.gnd.network/en/gnd/11867742X</idno>
-                    <persName type="reg">
-                        <surname>Cruikshank</surname>
-                        <forename>George</forename>
-                        <nameLink/>
-                    </persName>
-                    <birth>1792</birth>
-                    <death>1878</death>
-                </person>
-                <person xml:id="bendel" role="fictional">
-                    <persName type="reg">
-                        <surname/>
-                        <forename>Bendel</forename>
-                        <nameLink/>
-                    </persName>
-                    <birth/>
-                    <death/>
-                </person>
                 <person xml:id="peter_schehmil" role="fictional">
                     <idno type="uri">https://explore.gnd.network/en/gnd/124103235</idno>
                     <persName type="reg">
@@ -165,85 +245,6 @@
                     <birth/>
                     <death/>
                 </person>
-                <person xml:id="rascal" role="fictional">
-                    <persName type="reg">
-                        <surname/>
-                        <forename>Rascal</forename>
-                        <nameLink/>
-                    </persName>
-                    <birth/>
-                    <death/>
-                </person>
-                <person xml:id="mann_in_grau" role="fictional">
-                    <persName type="reg">
-                        <surname/>
-                        <forename>Mann in Grau</forename>
-                        <nameLink/>
-                    </persName>
-                    <persName type="alt">
-                        <name>grauer Unbekanter</name>
-                    </persName>
-                    <birth/>
-                    <death/>
-                </person>
-                <person xml:id="fanny" role="fictional">
-                    <persName type="reg">
-                        <surname/>
-                        <forename>Fanny</forename>
-                        <nameLink/>
-                    </persName>
-                    <birth/>
-                    <death/>
-                </person>
-                <person xml:id="john_thomas" role="fictional">
-                    <persName type="reg">
-                        <surname>John</surname>
-                        <forename>Thomas</forename>
-                        <nameLink/>
-                    </persName>
-                    <birth/>
-                    <death/>
-                </person>
-                <person xml:id="mina" role="fictional">
-                    <persName type="reg">
-                        <surname/>
-                        <forename>Mina</forename>
-                        <nameLink/>
-                    </persName>
-                    <birth/>
-                    <death/>
-                </person>
-                <person xml:id="Montezuma">
-                    <idno type="uri">https://d-nb.info/gnd/118583727</idno>
-                    <persName type="reg">
-                        <name>Montezuma II</name>
-                    </persName>
-                    <sex value="male" evidence="assigned"/>
-                    <birth>ca. 1465</birth>
-                    <death>30. Juni 1520</death>
-                </person>
-                <person xml:id="Lichtenstein">
-                    <idno type="uri">https://d-nb.info/gnd/100190014</idno>
-                    <persName type="reg">
-                        <surname>Lichtenstein</surname>
-                        <forename>Hinrich</forename>
-                    </persName>
-                    <sex value="male" evidence="assigned"/>
-                    <birth> 10. Januar 1780</birth>
-                    <death>3. September 1857</death>
-                </person>
-                <person xml:id="MungoPark">
-                    <idno type="uri">https://d-nb.info/gnd/118591746</idno>
-                    <persName type="reg">
-                        <surname>Park</surname>
-                        <forename>Mungo</forename>
-                    </persName>
-                    <sex value="male" evidence="assigned"/>
-                    <birth>1771</birth>
-                    <death>1806</death>
-                   
-                </person>
-                <!-- Forstmeister, Minas Mutter -->
             </listPerson>
         </body>
     </text>

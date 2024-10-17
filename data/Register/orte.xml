@@ -16,57 +16,67 @@
     <text>
         <body>
             <listPlace>
-                <place xml:id="Berlin">
-                    <idno type="uri">http://www.geonames.org/2950159/berlin.html</idno>
-                    <placeName type="reg">Berlin</placeName>
+                <place xml:id="AriatischesMeer">
+                    <idno type="uri">http://www.geonames.org/3183462/adriatic-sea.html</idno>
+                    <placeName type="reg">Adriatische Meer</placeName>
                 </place>
-                <place xml:id="DenHohenEbenenDesTibet">
-                    <idno type="uri">https://www.geonames.org/8449601/tibet.html</idno>
-                    <placeName type="reg">Den hohen Ebenen des Tibet</placeName>
+                <place xml:id="Ägypten">
+                    <idno type="uri"
+                        >https://www.geonames.org/357994/arab-republic-of-egypt.html</idno>
+                    <placeName type="reg">Aegypten</placeName>
                 </place>
-                <place xml:id="Himalaya">
-                    <idno type="uri">http://www.geonames.org/1252558/himalayas.html</idno>
-                    <placeName type="reg">hohen und breiten Rücken der Alten Welt</placeName>
-                    <placeName type="alt">Himalaya</placeName>
+                <place xml:id="Alexandria">
+                    <idno type="uri">http://www.geonames.org/361058/alexandria.html</idno>
+                    <placeName type="reg">Alexandrien</placeName>
+                    <placeName type="alt">Alexandria</placeName>
                 </place>
-                <place xml:id="Aralsee">
-                    <idno type="uri">http://www.geonames.org/1526250/aral-sea.html</idno>
-                    <placeName type="reg">Aralsee</placeName>
+                <place xml:id="Alpen">
+                    <idno type="uri">http://www.geonames.org/2661786/alps.html</idno>
+                    <placeName type="reg">Alpen</placeName>
                 </place>
-                <place xml:id="CaspischeMeer">
-                    <idno type="uri">http://www.geonames.org/630671/caspian-sea.html</idno>
-                    <placeName type="reg">Caspische Meer</placeName>
+                <place xml:id="Amazonas">
+                    <idno type="uri">http://www.geonames.org/3407729/amazon-river.html</idno>
+                    <placeName type="reg">Amazonen fluss</placeName>
                 </place>
-                <place xml:id="Persien">
-                    <idno type="uri">http://www.geonames.org/130758/islamic-republic-of-iran.html</idno>
-                    <placeName type="reg">Persien</placeName>
-                    <placeName type="alt">Iran</placeName>
-                </place>
-                <place xml:id="dieMündungendesTrigrisundEuphrats">
-                    <idno type="uri">http://www.geonames.org/143160/shatt-al-arab.html</idno>
-                    <placeName type="reg">die Mündungen des Tigris und des Euphrats</placeName>
-                </place>
-                <place xml:id="Bassora">
-                    <idno type="uri">http://www.geonames.org/99532/basrah.html</idno>
-                    <placeName type="reg">Bassora</placeName>
+                <place xml:id="Apeninen">
+                    <idno type="uri">http://www.geonames.org/3182982/apennines.html</idno>
+                    <placeName type="reg">Apeninen</placeName>
                 </place>
                 <place xml:id="Arabien">
                     <idno type="uri">http://www.geonames.org/6957698/arabia.html</idno>
                     <placeName type="reg">Arabien</placeName>
                 </place>
-                <place xml:id="rotheMeer">
-                    <idno type="uri">http://www.geonames.org/350155/red-sea.html</idno>
-                    <placeName type="reg">rothen Meer</placeName>
+                <place xml:id="Aralsee">
+                    <idno type="uri">http://www.geonames.org/1526250/aral-sea.html</idno>
+                    <placeName type="reg">Aralsee</placeName>
                 </place>
-                <place xml:id="Mekka">
-                    <idno type="uri">http://www.geonames.org/104515/mecca.html</idno>
-                    <placeName type="reg">der Wiege</placeName>
-                    <placeName type="alt">Mekka</placeName>
+                <place xml:id="Atlantik">
+                    <idno type="uri">http://www.geonames.org/3373405/atlantic-ocean.html</idno>
+                    <placeName type="reg">Atlantischen Ocean</placeName>
                 </place>
-                <place xml:id="Medina">
-                    <idno type="uri">http://www.geonames.org/109223/medina.html</idno>
-                    <placeName type="reg">dem Grabe</placeName>
-                    <placeName type="alt">Medina</placeName>
+                <place xml:id="BaffinBay">
+                    <idno type="uri">http://www.geonames.org/3831554/baffin-bay.html</idno>
+                    <placeName type="reg">Baffins</placeName>
+                </place>
+                <place xml:id="Bali">
+                    <idno type="uri">http://www.geonames.org/1650534/bali.html</idno>
+                    <placeName type="reg">Bali</placeName>
+                </place>
+                <place xml:id="Bassora">
+                    <idno type="uri">http://www.geonames.org/99532/basrah.html</idno>
+                    <placeName type="reg">Bassora</placeName>
+                </place>
+                <place xml:id="Belt">
+                    <idno type="uri">http://www.geonames.org/2612449/storebaelt.html</idno>
+                    <placeName type="reg">Belt</placeName>
+                </place>
+                <place xml:id="Beringstraße">
+                    <idno type="uri">http://www.geonames.org/4031767/bering-strait.html</idno>
+                    <placeName type="reg">Beringstraße</placeName>
+                </place>
+                <place xml:id="Berlin">
+                    <idno type="uri">http://www.geonames.org/2950159/berlin.html</idno>
+                    <placeName type="reg">Berlin</placeName>
                 </place>
                 <place xml:id="Bliesdorf">
                     <idno type="uri">https://www.geonames.org/6551064/bliesdorf.html</idno>
@@ -77,332 +87,156 @@
                         </place>
                     </listPlace>
                 </place>
-                <place xml:id="Nennhausen">
-                    <idno type="uri">https://www.geonames.org/6547597/nennhausen.html</idno>
-                    <placeName type="reg">Nennhausen</placeName>
+                <place xml:id="Borneo">
+                    <idno type="uri">http://www.geonames.org/1648148/borneo.html</idno>
+                    <placeName type="reg">Borneo</placeName>
                 </place>
-                <place xml:id="Chile">
-                    <idno type="uri">https://www.geonames.org/3895114/republic-of-chile.html</idno>
-                    <placeName type="reg">Chile</placeName>
+                <place xml:id="CapHorn">
+                    <idno type="uri">https://www.geonames.org/3887850/cape-horn.html</idno>
+                    <placeName type="reg">Cap Horn</placeName>
                 </place>
-                <place xml:id="Kamtschtka">
-                    <idno type="uri">https://www.geonames.org/2125072/kamchatka-krai.html</idno>
-                    <placeName type="reg">Kamtschtka</placeName>
+                <place xml:id="KapPrinzWales">
+                    <idno type="uri"
+                        >http://www.geonames.org/5872091/cape-prince-of-wales.html</idno>
+                    <placeName type="reg">Cap prinz Wales</placeName>
                 </place>
-                <place xml:id="Suez">
-                    <idno type="uri">http://www.geonames.org/359797/as-suways.html</idno>
-                    <placeName type="reg">Suez</placeName>
+                <place xml:id="CaspischeMeer">
+                    <idno type="uri">http://www.geonames.org/630671/caspian-sea.html</idno>
+                    <placeName type="reg">Caspische Meer</placeName>
                 </place>
-                <place xml:id="Palestina">
-                    <idno type="uri">http://www.geonames.org/12047392/palestine.html</idno>
-                    <placeName type="reg">Palestina</placeName>
-                    <placeName type="alt">Israel</placeName>
-                </place>
-                <place xml:id="Syrien">
-                    <idno type="uri">http://www.geonames.org/163843/syrian-arab-republic.html</idno>
-                    <placeName type="reg">Syrien</placeName>
-                </place>
-                <place xml:id="Jerusalem">
-                    <idno type="uri">http://www.geonames.org/281184/jerusalem.html</idno>
-                    <placeName type="reg">die dreimal heilige Stadt</placeName>
-                    <placeName type="alt">Jerusalem</placeName>
-                </place>
-                <place xml:id="Ägypten">
-                    <idno type="uri">https://www.geonames.org/357994/arab-republic-of-egypt.html</idno>
-                    <placeName type="reg">Aegypten</placeName>
-                </place>
-                <place xml:id="Delta">
-                    <idno type="uri">http://www.geonames.org/351037/nile-delta.html</idno>
-                    <placeName type="reg">Delta</placeName>
-                    <placeName type="alt">Nil Delta</placeName>
-                </place>
-                <place xml:id="Alexandria">
-                    <idno type="uri">http://www.geonames.org/361058/alexandria.html</idno>
-                    <placeName type="reg">Alexandrien</placeName>
-                    <placeName type="alt">Alexandria</placeName>
-                </place>
-                <place xml:id="OasisAmmon">
-                    <idno type="uri">http://www.geonames.org/347860/siwa-oasis.html</idno>
-                    <placeName type="reg">Oasis ammon</placeName>
-                    <placeName type="alt">Oase Siwa</placeName>
-                </place>
-                <place xml:id="Nil">
-                    <idno type="uri">http://www.geonames.org/351036/nile-river.html</idno>
-                    <placeName type="reg">Nil</placeName>
-                </place>
-                <place xml:id="Theben">
-                    <idno type="uri">http://www.geonames.org/347342/thebes.html</idno>
-                    <placeName type="reg">Theben</placeName>
-                </place>
-                <place xml:id="MemnonsBildseule">
-                    <idno type="uri">http://www.geonames.org/352548/colossi-of-memnon.html</idno>
-                    <placeName type="reg">Memnons Bildseule</placeName>
-                    <placeName type="alt">Memnonkolosse</placeName>
-                </place>
-                <place xml:id="Drakensberge">
-                    <idno type="uri">http://www.geonames.org/1008481/drakensberg.html</idno>
-                    <placeName type="reg">hohen Bergrücken</placeName>
-                    <placeName type="alt">Drakensberge</placeName>
-                </place>
-                <place xml:id="KapDerGutenHoffnung">
-                    <idno type="uri">http://www.geonames.org/3367577/cape-of-good-hope.html</idno>
-                    <placeName type="reg">der Guten Hoffnung</placeName>
-                    <placeName type="alt">Kap der guten Hoffnung</placeName>
-                </place>
-                <place xml:id="Adamaua">
-                    <idno type="uri">http://www.geonames.org/2236015/adamaoua-region.html</idno>
-                    <placeName type="reg">das Gebirge</placeName>
-                    <placeName type="alt">Adamaua</placeName>
-                </place>
-                <place xml:id="ThaldesNiegers">
-                    <idno type="uri">http://www.geonames.org/2328927/niger-delta.html</idno>
-                    <placeName type="reg">Thal des Nigers</placeName>
-                </place>
-                <place xml:id="Timbuktu">
-                    <idno type="uri">http://www.geonames.org/2449067/timbuktu.html</idno>
-                    <placeName type="reg">Tumbuktu</placeName>
-                    <placeName type="alt">Timbuktu</placeName>
-                </place>
-                <place xml:id="QuellenDesNigers">
-                    <idno type="uri">http://www.geonames.org/2276565/guinea-highlands.html</idno>
-                    <placeName type="reg">Quellen des Nigers</placeName>
-                </place>
-                <place xml:id="Mittelmeer">
-                    <idno type="uri">http://www.geonames.org/363196/mediterranean-sea.html</idno>
-                    <placeName type="reg">Mittelländischen Meeres</placeName>
+                <place xml:id="Caucasus">
+                    <idno type="uri">http://www.geonames.org/615318/caucasus-region.html</idno>
+                    <placeName type="reg">Caucasus</placeName>
                 </place>
                 <place xml:id="Ceuta">
                     <idno type="uri">http://www.geonames.org/2519582/ceuta.html</idno>
                     <placeName type="reg">Ceuta</placeName>
                 </place>
-                <place xml:id="Tago">
-                    <idno type="uri">http://www.geonames.org/2262787/tagus-river.html</idno>
-                    <placeName type="reg">Tago</placeName>
-                    <placeName type="alt">Tajo</placeName>
+                <place xml:id="Chile">
+                    <idno type="uri">https://www.geonames.org/3895114/republic-of-chile.html</idno>
+                    <placeName type="reg">Chile</placeName>
                 </place>
-                <place xml:id="Pyrenäen">
-                    <idno type="uri">http://www.geonames.org/3112616/pyrenees.html</idno>
-                    <placeName type="reg">Pyrenaeen</placeName>
-                    <placeName type="alt">Pyrenäen</placeName>
-                </place>
-                <place xml:id="Frankreich">
-                    <idno type="uri">http://www.geonames.org/3017382/republic-of-france.html</idno>
-                    <placeName type="reg">Frankreich</placeName>
-                </place>
-                <place xml:id="Paris">
-                    <idno type="uri">http://www.geonames.org/2988507/paris.html</idno>
-                    <placeName type="reg">Pris</placeName>
-                </place>
-                <place xml:id="Normandie">
-                    <idno type="uri">http://www.geonames.org/11071621/normandie.html</idno>
-                    <placeName type="reg">Normandie</placeName>
-                </place>
-                <place xml:id="England">
-                    <idno type="uri">http://www.geonames.org/6269131/england.html</idno>
-                    <placeName type="reg">England</placeName>
-                </place>
-                <place xml:id="Schweiz">
-                    <idno type="uri">http://www.geonames.org/2658434/switzerland.html</idno>
-                    <placeName type="reg">Schweitz</placeName>
-                    <placeName type="alt">Schweiz</placeName>
-                </place>
-                <place xml:id="Alpen">
-                    <idno type="uri">http://www.geonames.org/2661786/alps.html</idno>
-                    <placeName type="reg">Alpen</placeName>
-                </place>
-                <place xml:id="Montblanc">
-                    <idno type="uri">http://www.geonames.org/2992917/montblanc.html</idno>
-                    <placeName type="reg">Montblanc</placeName>
-                </place>
-                <place xml:id="Apeninen">
-                    <idno type="uri">http://www.geonames.org/3182982/apennines.html</idno>
-                    <placeName type="reg">Apeninen</placeName>
+                <place xml:id="ChinesischeMauer">
+                    <idno type="uri">http://www.geonames.org/1791787/great-wall.html</idno>
+                    <placeName type="reg">Chinesische Mauer</placeName>
                 </place>
                 <place xml:id="Sizilien">
                     <idno type="uri">http://www.geonames.org/2523118/sicily.html</idno>
                     <placeName type="reg">Cicilien</placeName>
                     <placeName type="alt">Sizilien</placeName>
                 </place>
-                <place xml:id="Ethna">
-                    <idno type="uri">http://www.geonames.org/2524810/monte-etna.html</idno>
-                    <placeName type="reg">Ethna</placeName>
-                    <placeName type="alt">Ätna</placeName>
-                </place>
-                <place xml:id="Italien">
-                    <idno type="uri">http://www.geonames.org/3175395/italian-republic.html</idno>
-                    <placeName type="reg">Italiens</placeName>
-                </place>
-                <place xml:id="Neapel">
-                    <idno type="uri">http://www.geonames.org/3172394/naples.html</idno>
-                    <placeName type="reg">Neapel</placeName>
-                </place>
-                <place xml:id="Rom">
-                    <idno type="uri">http://www.geonames.org/3169070/rome.html</idno>
-                    <placeName type="reg">Rom</placeName>
-                </place>
-                <place xml:id="Florenz">
-                    <idno type="uri">http://www.geonames.org/3176959/florence.html</idno>
-                    <placeName type="reg">Florenz</placeName>
-                </place>
-                <place xml:id="PoDelta">
-                    <idno type="uri">http://www.geonames.org/3170551/delta-del-po.html</idno>
-                    <placeName type="reg">Thal das der Po bewässert</placeName>
-                    <placeName type="alt">Po Delta</placeName>
-                </place>
-                <place xml:id="Venedig">
-                    <idno type="uri">http://www.geonames.org/3164603/venice.html</idno>
-                    <placeName type="reg">Wenedig</placeName>
-                    <placeName type="alt">Venedig</placeName>
-                </place>
-                <place xml:id="AriatischesMeer">
-                    <idno type="uri">http://www.geonames.org/3183462/adriatic-sea.html</idno>
-                    <placeName type="reg">Adriatische Meer</placeName>
-                </place>
-                <place xml:id="Griechenland">
-                    <idno type="uri">http://www.geonames.org/390903/hellenic-republic.html</idno>
-                    <placeName type="reg">Grichenland</placeName>
-                </place>
-                <place xml:id="Parthenon">
-                    <idno type="uri">http://www.geonames.org/8354432/parthenon.html</idno>
-                    <placeName type="reg">Parthenion</placeName>
-                    <placeName type="alt">Parthenon</placeName>
+                <place xml:id="Cochinchina">
+                    <idno type="uri">http://www.geonames.org/1573261/cochin-china.html</idno>
+                    <placeName type="reg">Cochinchina</placeName>
+                    <placeName type="alt">Region von Vietnam</placeName>
                 </place>
                 <place xml:id="Konstantinopel">
                     <idno type="uri">http://www.geonames.org/745044/istanbul.html</idno>
                     <placeName type="reg">Constantinopel</placeName>
                     <placeName type="alt">Istanbul</placeName>
                 </place>
-                <place xml:id="Troja">
-                    <idno type="uri">http://www.geonames.org/298885/troy.html</idno>
-                    <placeName type="reg">Trojas</placeName>
+                <place xml:id="Anden">
+                    <idno type="uri">http://www.geonames.org/3923974/andes-mountains.html</idno>
+                    <placeName type="reg">Cordilleras de los Andes</placeName>
                 </place>
-                <place xml:id="Caucasus">
-                    <idno type="uri">http://www.geonames.org/615318/caucasus-region.html</idno>
-                    <placeName type="reg">Caucasus</placeName>
-                </place>
-                <place xml:id="Wolga">
-                    <idno type="uri">http://www.geonames.org/472776/volga.html</idno>
-                    <placeName type="reg">Wolga</placeName>
-                </place>
-                <place xml:id="Donau">
-                    <idno type="uri">http://www.geonames.org/791630/danube-river.html</idno>
-                    <placeName type="reg">Donau</placeName>
-                </place>
-                <place xml:id="Deutschland">
-                    <idno type="uri">http://www.geonames.org/2921044/federal-republic-of-germany.html</idno>
-                    <placeName type="reg">Deutschland</placeName>
+                <place xml:id="Corea">
+                    <idno type="uri">http://www.geonames.org/1835841/republic-of-korea.html</idno>
+                    <idno type="uri"
+                        >http://www.geonames.org/1873107/democratic-people-s-republic-of-korea.html</idno>
+                    <placeName type="reg">Corea</placeName>
+                    <placeName type="alt">Korea</placeName>
                 </place>
                 <place xml:id="Dänemark">
                     <idno type="uri">http://www.geonames.org/2623032/kingdom-of-denmark.html</idno>
                     <placeName type="reg">Dänemark</placeName>
                 </place>
-                <place xml:id="Belt">
-                    <idno type="uri">http://www.geonames.org/2612449/storebaelt.html</idno>
-                    <placeName type="reg">Belt</placeName>
+                <place xml:id="Adamaua">
+                    <idno type="uri">http://www.geonames.org/2236015/adamaoua-region.html</idno>
+                    <placeName type="reg">das Gebirge</placeName>
+                    <placeName type="alt">Adamaua</placeName>
                 </place>
-                <place xml:id="Sund">
-                    <idno type="uri">http://www.geonames.org/2612845/the-sound.html</idno>
-                    <placeName type="reg">Sund</placeName>
-                    <placeName type="alt">Öresund</placeName>
+                <place xml:id="Delta">
+                    <idno type="uri">http://www.geonames.org/351037/nile-delta.html</idno>
+                    <placeName type="reg">Delta</placeName>
+                    <placeName type="alt">Nil Delta</placeName>
                 </place>
-                <place xml:id="Skandinavien">
-                    <idno type="uri">http://www.geonames.org/2614165/scandinavia.html</idno>
-                    <placeName type="reg">Skandinavische Halbinsel</placeName>
+                <place xml:id="Medina">
+                    <idno type="uri">http://www.geonames.org/109223/medina.html</idno>
+                    <placeName type="reg">dem Grabe</placeName>
+                    <placeName type="alt">Medina</placeName>
                 </place>
-                <place xml:id="Lappland">
-                    <idno type="uri">http://www.geonames.org/604733/lapland.html</idno>
-                    <placeName type="reg">Lappland</placeName>
+                <place xml:id="DenHohenEbenenDesTibet">
+                    <idno type="uri">https://www.geonames.org/8449601/tibet.html</idno>
+                    <placeName type="reg">Den hohen Ebenen des Tibet</placeName>
                 </place>
-                <place xml:id="Groenland">
-                    <idno type="uri">http://www.geonames.org/3425505/greenland.html</idno>
-                    <placeName type="reg">Groenland</placeName>
+                <place xml:id="KapDerGutenHoffnung">
+                    <idno type="uri">http://www.geonames.org/3367577/cape-of-good-hope.html</idno>
+                    <placeName type="reg">der Guten Hoffnung</placeName>
+                    <placeName type="alt">Kap der guten Hoffnung</placeName>
                 </place>
-                <place xml:id="BaffinBay">
-                    <idno type="uri">http://www.geonames.org/3831554/baffin-bay.html</idno>
-                    <placeName type="reg">Baffins</placeName>
+                <place xml:id="Mekka">
+                    <idno type="uri">http://www.geonames.org/104515/mecca.html</idno>
+                    <placeName type="reg">der Wiege</placeName>
+                    <placeName type="alt">Mekka</placeName>
                 </place>
-                <place xml:id="HudsonBay">
-                    <idno type="uri">http://www.geonames.org/5978134/hudson-bay.html</idno>
-                    <placeName type="reg">Hudson Bay</placeName>
+                <place xml:id="Deutschland">
+                    <idno type="uri"
+                        >http://www.geonames.org/2921044/federal-republic-of-germany.html</idno>
+                    <placeName type="reg">Deutschland</placeName>
                 </place>
-                <place xml:id="Atlantik">
-                    <idno type="uri">http://www.geonames.org/3373405/atlantic-ocean.html</idno>
-                    <placeName type="reg">Atlantischen Ocean</placeName>
+                <place xml:id="Jerusalem">
+                    <idno type="uri">http://www.geonames.org/281184/jerusalem.html</idno>
+                    <placeName type="reg">die dreimal heilige Stadt</placeName>
+                    <placeName type="alt">Jerusalem</placeName>
                 </place>
-                <place xml:id="Pazifik">
-                    <idno type="uri">http://www.geonames.org/2363254/pacific-ocean.html</idno>
-                    <placeName type="reg">Stillen Meer</placeName>
-                    <placeName type="alt">Pazifik</placeName>
+                <place xml:id="dieMündungendesTrigrisundEuphrats">
+                    <idno type="uri">http://www.geonames.org/143160/shatt-al-arab.html</idno>
+                    <placeName type="reg">die Mündungen des Tigris und des Euphrats</placeName>
                 </place>
-                <place xml:id="StLawrence">
-                    <idno type="uri">http://www.geonames.org/6156984/st-lawrence-river.html</idno>
-                    <placeName type="reg">Sanct Lorens</placeName>
-                    <placeName type="alt">Saint Lawrence</placeName>
+                <place xml:id="Donau">
+                    <idno type="uri">http://www.geonames.org/791630/danube-river.html</idno>
+                    <placeName type="reg">Donau</placeName>
+                </place>
+                <place xml:id="England">
+                    <idno type="uri">http://www.geonames.org/6269131/england.html</idno>
+                    <placeName type="reg">England</placeName>
+                </place>
+                <place xml:id="Ethna">
+                    <idno type="uri">http://www.geonames.org/2524810/monte-etna.html</idno>
+                    <placeName type="reg">Ethna</placeName>
+                    <placeName type="alt">Ätna</placeName>
+                </place>
+                <place xml:id="Euphrat">
+                    <idno type="uri">http://www.geonames.org/315147/euphrates-river.html</idno>
+                    <placeName type="reg">Euphrates</placeName>
                 </place>
                 <place xml:id="NiagaraFälle">
                     <idno type="uri">http://www.geonames.org/6087891/niagara-falls.html</idno>
                     <placeName type="reg">Fall des Niagara</placeName>
                 </place>
-                <place xml:id="Ohio">
-                    <idno type="uri">http://www.geonames.org/4401696/ohio-river.html</idno>
-                    <placeName type="reg">Ohio</placeName>
-                </place>
-                <place xml:id="Mississippi">
-                    <idno type="uri">http://www.geonames.org/4333587/mississippi-river-delta.html</idno>
-                    <placeName type="reg">Meschasepe</placeName>
-                    <placeName type="alt">Mississippi</placeName>
-                </place>
-                <place xml:id="GolfVonMexico">
-                    <idno type="uri">http://www.geonames.org/3523271/gulf-of-mexico.html</idno>
-                    <placeName type="reg">Mexicanischen Meer Busen</placeName>
-                    <placeName type="alt">Golf von Mexiko</placeName>
-                </place>
-                <place xml:id="Panama">
-                    <idno type="uri">http://www.geonames.org/3703430/republic-of-panama.html</idno>
-                    <placeName type="reg">Panama</placeName>
-                </place>
-                <place xml:id="Llanos">
-                    <idno type="uri">http://www.geonames.org/3634703/llanos.html</idno>
-                    <placeName type="reg">llanos</placeName>
-                </place>
-                <place xml:id="RioNegro">
-                    <idno type="uri">http://www.geonames.org/3843184/rio-negro.html</idno>
-                    <placeName type="reg">Rionegro</placeName>
-                </place>
-                <place xml:id="Amazonas">
-                    <idno type="uri">http://www.geonames.org/3407729/amazon-river.html</idno>
-                    <placeName type="reg">Amazonen fluss</placeName>
-                </place>
                 <place xml:id="Feuerland">
                     <idno type="uri">http://www.geonames.org/3834451/tierra-del-fuego.html</idno>
                     <placeName type="reg">Feuerlande</placeName>
                 </place>
-                <place xml:id="CapHorn">
-                    <idno type="uri">https://www.geonames.org/3887850/cape-horn.html</idno>
-                    <placeName type="reg">Cap Horn</placeName>
+                <place xml:id="Florenz">
+                    <idno type="uri">http://www.geonames.org/3176959/florence.html</idno>
+                    <placeName type="reg">Florenz</placeName>
                 </place>
-                <place xml:id="Anden">
-                    <idno type="uri">http://www.geonames.org/3923974/andes-mountains.html</idno>
-                    <placeName type="reg">Cordilleras de los Andes</placeName>
+                <place xml:id="Frankreich">
+                    <idno type="uri">http://www.geonames.org/3017382/republic-of-france.html</idno>
+                    <placeName type="reg">Frankreich</placeName>
                 </place>
-                <place xml:id="östlichenTheilAsiens">
-                    <idno type="uri">https://www.geonames.org/7729894/eastern-asia.html</idno>
-                    <placeName type="reg">östlichen Theil Asiens</placeName>
+                <place xml:id="Ganges">
+                    <idno type="uri">http://www.geonames.org/1202950/ganges-river.html</idno>
+                    <placeName type="reg">Ganges</placeName>
                 </place>
-                <place xml:id="Beringstraße">
-                    <idno type="uri">http://www.geonames.org/4031767/bering-strait.html</idno>
-                    <placeName type="reg">Beringstraße</placeName>
+                <place xml:id="Griechenland">
+                    <idno type="uri">http://www.geonames.org/390903/hellenic-republic.html</idno>
+                    <placeName type="reg">Grichenland</placeName>
                 </place>
-                <place xml:id="Mexiko">
-                    <idno type="uri">http://www.geonames.org/3996063/mexico.html</idno>
-                    <placeName type="reg">Reich Montezuma</placeName>
-                    <placeName type="alt">Mexiko</placeName>
-                </place>
-                <place xml:id="SierraMadre">
-                    <idno type="uri">http://www.geonames.org/3996934/sierra-madre-occidental.html</idno>
-                    <idno type="uri">http://www.geonames.org/3996936/sierra-madre.html</idno>
-                    <placeName type="reg">hohen Rücken</placeName>
-                    <placeName type="alt">Sierra Madre</placeName>
+                <place xml:id="Groenland">
+                    <idno type="uri">http://www.geonames.org/3425505/greenland.html</idno>
+                    <placeName type="reg">Groenland</placeName>
                 </place>
                 <place xml:id="MexikoStadt">
                     <idno type="uri">http://www.geonames.org/3530597/mexico-city.html</idno>
@@ -410,80 +244,32 @@
                     <placeName type="alt">Mexiko Stadt</placeName>
                     <placeName type="alt">Tenochtitlán</placeName>
                 </place>
-                <place xml:id="TexcocoSee">
-                    <idno type="uri">http://www.geonames.org/9801802/laguna-texcoco.html</idno>
-                    <placeName type="reg">Ufer des Sees</placeName>
-                    <placeName type="alt">Texcoco See</placeName>
-                </place>
                 <place xml:id="Eliaskette">
-                    <idno type="uri">http://www.geonames.org/5556882/saint-elias-mountains.html</idno>
+                    <idno type="uri"
+                        >http://www.geonames.org/5556882/saint-elias-mountains.html</idno>
                     <placeName type="reg">helias Berg</placeName>
                     <placeName type="alt">Elias Kette</placeName>
                 </place>
-                <place xml:id="KapPrinzWales">
-                    <idno type="uri">http://www.geonames.org/5872091/cape-prince-of-wales.html</idno>
-                    <placeName type="reg">Cap prinz Wales</placeName>
+                <place xml:id="Drakensberge">
+                    <idno type="uri">http://www.geonames.org/1008481/drakensberg.html</idno>
+                    <placeName type="reg">hohen Bergrücken</placeName>
+                    <placeName type="alt">Drakensberge</placeName>
                 </place>
-                <place xml:id=" TschuktschenHalbinsel">
-                    <idno type="uri">http://www.geonames.org/4031751/chukotskiy-poluostrov.html</idno>
-                    <placeName type="reg">Land der Tschuktschen</placeName>
+                <place xml:id="SierraMadre">
+                    <idno type="uri"
+                        >http://www.geonames.org/3996934/sierra-madre-occidental.html</idno>
+                    <idno type="uri">http://www.geonames.org/3996936/sierra-madre.html</idno>
+                    <placeName type="reg">hohen Rücken</placeName>
+                    <placeName type="alt">Sierra Madre</placeName>
                 </place>
-                <place xml:id="Corea">
-                    <idno type="uri">http://www.geonames.org/1835841/republic-of-korea.html</idno>
-                    <idno type="uri">http://www.geonames.org/1873107/democratic-people-s-republic-of-korea.html</idno>
-                    <placeName type="reg">Corea</placeName>
-                    <placeName type="alt">Korea</placeName>
+                <place xml:id="Himalaya">
+                    <idno type="uri">http://www.geonames.org/1252558/himalayas.html</idno>
+                    <placeName type="reg">hohen und breiten Rücken der Alten Welt</placeName>
+                    <placeName type="alt">Himalaya</placeName>
                 </place>
-                <place xml:id="ChinesischeMauer">
-                    <idno type="uri">http://www.geonames.org/1791787/great-wall.html</idno>
-                    <placeName type="reg">Chinesische Mauer</placeName>
-                </place>
-                <place xml:id="Cochinchina">
-                    <idno type="uri">http://www.geonames.org/1573261/cochin-china.html</idno>
-                    <placeName type="reg">Cochinchina</placeName>
-                    <placeName type="alt">Region von Vietnam</placeName>
-                </place>
-                <place xml:id="Malaca">
-                    <idno type="uri">https://www.geonames.org/1734759/malacca.html</idno>
-                    <placeName type="reg">Malaca</placeName>
-                </place>
-                <place xml:id="Bali">
-                    <idno type="uri">http://www.geonames.org/1650534/bali.html</idno>
-                    <placeName type="reg">Bali</placeName>
-                </place>
-                <place xml:id="Sumatra">
-                    <idno type="uri">http://www.geonames.org/1626198/sumatra.html</idno>
-                    <placeName type="reg">Sumatra</placeName>
-                </place>
-                <place xml:id="Java">
-                    <idno type="uri">http://www.geonames.org/1642673/java.html</idno>
-                    <placeName type="reg">Java</placeName>
-                </place>
-                <place xml:id="Lamboc">
-                    <idno type="uri">http://www.geonames.org/7869837/lombok-island.html</idno>
-                    <placeName type="reg">Lamboc</placeName>
-                </place>
-                <place xml:id="Borneo">
-                    <idno type="uri">http://www.geonames.org/1648148/borneo.html</idno>
-                    <placeName type="reg">Borneo</placeName>
-                </place>
-                <place xml:id="Australien">
-                    <idno type="uri">http://www.geonames.org/2077456/commonwealth-of-australia.html</idno>
-                    <placeName type="reg">Neuholland</placeName>
-                    <placeName type="alt">Australien</placeName>
-                </place>
-                <place xml:id="Südsee">
-                    <idno type="uri">http://www.geonames.org/4030483/south-pacific-ocean.html</idno>
-                    <placeName type="reg">Sudsee</placeName>
-                </place>
-                <place xml:id="LandVanDiemen">
-                    <idno type="uri">http://www.geonames.org/2061327/state-of-south-australia.html</idno>
-                    <placeName type="reg">Land van Diemen</placeName>
-                    <placeName type="alt">Südostaustralien</placeName>
-                </place>
-                <place xml:id="Ganges">
-                    <idno type="uri">http://www.geonames.org/1202950/ganges-river.html</idno>
-                    <placeName type="reg">Ganges</placeName>
+                <place xml:id="HudsonBay">
+                    <idno type="uri">http://www.geonames.org/5978134/hudson-bay.html</idno>
+                    <placeName type="reg">Hudson Bay</placeName>
                 </place>
                 <place xml:id="Indien">
                     <idno type="uri">http://www.geonames.org/1269750/republic-of-india.html</idno>
@@ -493,17 +279,242 @@
                     <idno type="uri">http://www.geonames.org/1115007/indus-river.html</idno>
                     <placeName type="reg">Indus</placeName>
                 </place>
-                <place xml:id="Tigris">
-                    <idno type="uri">http://www.geonames.org/96998/tigris-river.html</idno>
-                    <placeName type="reg">Tigris</placeName>
+                <place xml:id="Italien">
+                    <idno type="uri">http://www.geonames.org/3175395/italian-republic.html</idno>
+                    <placeName type="reg">Italiens</placeName>
                 </place>
-                <place xml:id="Euphrat">
-                    <idno type="uri">http://www.geonames.org/315147/euphrates-river.html</idno>
-                    <placeName type="reg">Euphrates</placeName>
+                <place xml:id="Java">
+                    <idno type="uri">http://www.geonames.org/1642673/java.html</idno>
+                    <placeName type="reg">Java</placeName>
+                </place>
+                <place xml:id="Kamtschtka">
+                    <idno type="uri">https://www.geonames.org/2125072/kamchatka-krai.html</idno>
+                    <placeName type="reg">Kamtschtka</placeName>
+                </place>
+                <place xml:id="Lamboc">
+                    <idno type="uri">http://www.geonames.org/7869837/lombok-island.html</idno>
+                    <placeName type="reg">Lamboc</placeName>
+                </place>
+                <place xml:id="TschuktschenHalbinsel">
+                    <idno type="uri"
+                        >http://www.geonames.org/4031751/chukotskiy-poluostrov.html</idno>
+                    <placeName type="reg">Land der Tschuktschen</placeName>
+                </place>
+                <place xml:id="LandVanDiemen">
+                    <idno type="uri"
+                        >http://www.geonames.org/2061327/state-of-south-australia.html</idno>
+                    <placeName type="reg">Land van Diemen</placeName>
+                    <placeName type="alt">Südostaustralien</placeName>
+                </place>
+                <place xml:id="Lappland">
+                    <idno type="uri">http://www.geonames.org/604733/lapland.html</idno>
+                    <placeName type="reg">Lappland</placeName>
+                </place>
+                <place xml:id="Llanos">
+                    <idno type="uri">http://www.geonames.org/3634703/llanos.html</idno>
+                    <placeName type="reg">llanos</placeName>
                 </place>
                 <place xml:id="London">
                     <idno type="uri">http://www.geonames.org/2643743/london.html</idno>
                     <placeName type="reg">London</placeName>
+                </place>
+                <place xml:id="Malaca">
+                    <idno type="uri">https://www.geonames.org/1734759/malacca.html</idno>
+                    <placeName type="reg">Malaca</placeName>
+                </place>
+                <place xml:id="MemnonsBildseule">
+                    <idno type="uri">http://www.geonames.org/352548/colossi-of-memnon.html</idno>
+                    <placeName type="reg">Memnons Bildseule</placeName>
+                    <placeName type="alt">Memnonkolosse</placeName>
+                </place>
+                <place xml:id="Mississippi">
+                    <idno type="uri"
+                        >http://www.geonames.org/4333587/mississippi-river-delta.html</idno>
+                    <placeName type="reg">Meschasepe</placeName>
+                    <placeName type="alt">Mississippi</placeName>
+                </place>
+                <place xml:id="GolfVonMexico">
+                    <idno type="uri">http://www.geonames.org/3523271/gulf-of-mexico.html</idno>
+                    <placeName type="reg">Mexicanischen Meer Busen</placeName>
+                    <placeName type="alt">Golf von Mexiko</placeName>
+                </place>
+                <place xml:id="Mittelmeer">
+                    <idno type="uri">http://www.geonames.org/363196/mediterranean-sea.html</idno>
+                    <placeName type="reg">Mittelländischen Meeres</placeName>
+                </place>
+                <place xml:id="Montblanc">
+                    <idno type="uri">http://www.geonames.org/2992917/montblanc.html</idno>
+                    <placeName type="reg">Montblanc</placeName>
+                </place>
+                <place xml:id="Neapel">
+                    <idno type="uri">http://www.geonames.org/3172394/naples.html</idno>
+                    <placeName type="reg">Neapel</placeName>
+                </place>
+                <place xml:id="Nennhausen">
+                    <idno type="uri">https://www.geonames.org/6547597/nennhausen.html</idno>
+                    <placeName type="reg">Nennhausen</placeName>
+                </place>
+                <place xml:id="Australien">
+                    <idno type="uri"
+                        >http://www.geonames.org/2077456/commonwealth-of-australia.html</idno>
+                    <placeName type="reg">Neuholland</placeName>
+                    <placeName type="alt">Australien</placeName>
+                </place>
+                <place xml:id="Nil">
+                    <idno type="uri">http://www.geonames.org/351036/nile-river.html</idno>
+                    <placeName type="reg">Nil</placeName>
+                </place>
+                <place xml:id="Normandie">
+                    <idno type="uri">http://www.geonames.org/11071621/normandie.html</idno>
+                    <placeName type="reg">Normandie</placeName>
+                </place>
+                <place xml:id="OasisAmmon">
+                    <idno type="uri">http://www.geonames.org/347860/siwa-oasis.html</idno>
+                    <placeName type="reg">Oasis ammon</placeName>
+                    <placeName type="alt">Oase Siwa</placeName>
+                </place>
+                <place xml:id="Ohio">
+                    <idno type="uri">http://www.geonames.org/4401696/ohio-river.html</idno>
+                    <placeName type="reg">Ohio</placeName>
+                </place>
+                <place xml:id="östlichenTheilAsiens">
+                    <idno type="uri">https://www.geonames.org/7729894/eastern-asia.html</idno>
+                    <placeName type="reg">östlichen Theil Asiens</placeName>
+                </place>
+                <place xml:id="Palestina">
+                    <idno type="uri">http://www.geonames.org/12047392/palestine.html</idno>
+                    <placeName type="reg">Palestina</placeName>
+                    <placeName type="alt">Israel</placeName>
+                </place>
+                <place xml:id="Panama">
+                    <idno type="uri">http://www.geonames.org/3703430/republic-of-panama.html</idno>
+                    <placeName type="reg">Panama</placeName>
+                </place>
+                <place xml:id="Parthenon">
+                    <idno type="uri">http://www.geonames.org/8354432/parthenon.html</idno>
+                    <placeName type="reg">Parthenion</placeName>
+                    <placeName type="alt">Parthenon</placeName>
+                </place>
+                <place xml:id="Persien">
+                    <idno type="uri"
+                        >http://www.geonames.org/130758/islamic-republic-of-iran.html</idno>
+                    <placeName type="reg">Persien</placeName>
+                    <placeName type="alt">Iran</placeName>
+                </place>
+                <place xml:id="Paris">
+                    <idno type="uri">http://www.geonames.org/2988507/paris.html</idno>
+                    <placeName type="reg">Pris</placeName>
+                </place>
+                <place xml:id="Pyrenäen">
+                    <idno type="uri">http://www.geonames.org/3112616/pyrenees.html</idno>
+                    <placeName type="reg">Pyrenaeen</placeName>
+                    <placeName type="alt">Pyrenäen</placeName>
+                </place>
+                <place xml:id="QuellenDesNigers">
+                    <idno type="uri">http://www.geonames.org/2276565/guinea-highlands.html</idno>
+                    <placeName type="reg">Quellen des Nigers</placeName>
+                </place>
+                <place xml:id="Mexiko">
+                    <idno type="uri">http://www.geonames.org/3996063/mexico.html</idno>
+                    <placeName type="reg">Reich Montezuma</placeName>
+                    <placeName type="alt">Mexiko</placeName>
+                </place>
+                <place xml:id="RioNegro">
+                    <idno type="uri">http://www.geonames.org/3843184/rio-negro.html</idno>
+                    <placeName type="reg">Rionegro</placeName>
+                </place>
+                <place xml:id="Rom">
+                    <idno type="uri">http://www.geonames.org/3169070/rome.html</idno>
+                    <placeName type="reg">Rom</placeName>
+                </place>
+                <place xml:id="rotheMeer">
+                    <idno type="uri">http://www.geonames.org/350155/red-sea.html</idno>
+                    <placeName type="reg">rothen Meer</placeName>
+                </place>
+                <place xml:id="StLawrence">
+                    <idno type="uri">http://www.geonames.org/6156984/st-lawrence-river.html</idno>
+                    <placeName type="reg">Sanct Lorens</placeName>
+                    <placeName type="alt">Saint Lawrence</placeName>
+                </place>
+                <place xml:id="Schweiz">
+                    <idno type="uri">http://www.geonames.org/2658434/switzerland.html</idno>
+                    <placeName type="reg">Schweitz</placeName>
+                    <placeName type="alt">Schweiz</placeName>
+                </place>
+                <place xml:id="Skandinavien">
+                    <idno type="uri">http://www.geonames.org/2614165/scandinavia.html</idno>
+                    <placeName type="reg">Skandinavische Halbinsel</placeName>
+                </place>
+                <place xml:id="Pazifik">
+                    <idno type="uri">http://www.geonames.org/2363254/pacific-ocean.html</idno>
+                    <placeName type="reg">Stillen Meer</placeName>
+                    <placeName type="alt">Pazifik</placeName>
+                </place>
+                <place xml:id="Südsee">
+                    <idno type="uri">http://www.geonames.org/4030483/south-pacific-ocean.html</idno>
+                    <placeName type="reg">Sudsee</placeName>
+                </place>
+                <place xml:id="Suez">
+                    <idno type="uri">http://www.geonames.org/359797/as-suways.html</idno>
+                    <placeName type="reg">Suez</placeName>
+                </place>
+                <place xml:id="Sumatra">
+                    <idno type="uri">http://www.geonames.org/1626198/sumatra.html</idno>
+                    <placeName type="reg">Sumatra</placeName>
+                </place>
+                <place xml:id="Sund">
+                    <idno type="uri">http://www.geonames.org/2612845/the-sound.html</idno>
+                    <placeName type="reg">Sund</placeName>
+                    <placeName type="alt">Öresund</placeName>
+                </place>
+                <place xml:id="Syrien">
+                    <idno type="uri">http://www.geonames.org/163843/syrian-arab-republic.html</idno>
+                    <placeName type="reg">Syrien</placeName>
+                </place>
+                <place xml:id="Tago">
+                    <idno type="uri">http://www.geonames.org/2262787/tagus-river.html</idno>
+                    <placeName type="reg">Tago</placeName>
+                    <placeName type="alt">Tajo</placeName>
+                </place>
+                <place xml:id="PoDelta">
+                    <idno type="uri">http://www.geonames.org/3170551/delta-del-po.html</idno>
+                    <placeName type="reg">Thal das der Po bewässert</placeName>
+                    <placeName type="alt">Po Delta</placeName>
+                </place>
+                <place xml:id="ThaldesNiegers">
+                    <idno type="uri">http://www.geonames.org/2328927/niger-delta.html</idno>
+                    <placeName type="reg">Thal des Nigers</placeName>
+                </place>
+                <place xml:id="Theben">
+                    <idno type="uri">http://www.geonames.org/347342/thebes.html</idno>
+                    <placeName type="reg">Theben</placeName>
+                </place>
+                <place xml:id="Tigris">
+                    <idno type="uri">http://www.geonames.org/96998/tigris-river.html</idno>
+                    <placeName type="reg">Tigris</placeName>
+                </place>
+                <place xml:id="Troja">
+                    <idno type="uri">http://www.geonames.org/298885/troy.html</idno>
+                    <placeName type="reg">Trojas</placeName>
+                </place>
+                <place xml:id="Timbuktu">
+                    <idno type="uri">http://www.geonames.org/2449067/timbuktu.html</idno>
+                    <placeName type="reg">Tumbuktu</placeName>
+                    <placeName type="alt">Timbuktu</placeName>
+                </place>
+                <place xml:id="TexcocoSee">
+                    <idno type="uri">http://www.geonames.org/9801802/laguna-texcoco.html</idno>
+                    <placeName type="reg">Ufer des Sees</placeName>
+                    <placeName type="alt">Texcoco See</placeName>
+                </place>
+                <place xml:id="Venedig">
+                    <idno type="uri">http://www.geonames.org/3164603/venice.html</idno>
+                    <placeName type="reg">Wenedig</placeName>
+                    <placeName type="alt">Venedig</placeName>
+                </place>
+                <place xml:id="Wolga">
+                    <idno type="uri">http://www.geonames.org/472776/volga.html</idno>
+                    <placeName type="reg">Wolga</placeName>
                 </place>
             </listPlace>
         </body>
