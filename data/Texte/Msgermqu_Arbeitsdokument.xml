@@ -2588,8 +2588,9 @@
                 denn statt Blutes in den Adern? „Er ritzte mir mit einer s[r]aschen Bewegung eine
                 leichte Wunde in die Hand, es floss blut, er fuhr fort: „Wahrhaftig! rothes
                 b[B]luth... so unterschreiben sie„ Ich hatte das Pergament und die Feder in Händen.
-                  <lb/>VII. <lb/>Ich werde mich deinem Urtheile bloss stellen, lieber <lb/>Chamisso,
-                und es nicht zu bestechen suchen. Ich selb<subst>
+                  <lb/>VII. <lb/>Ich werde mich deinem Urtheile bloss stellen, lieber <lb/><persName
+                    key="adelbert_von_chamisso">Chamisso</persName>, und es nicht zu bestechen
+                suchen. Ich selb<subst>
                     <del rendition="#ow">er</del>
                     <add place="across">st</add>
                 </subst>
@@ -2605,16 +2606,17 @@
                 abgeführt, die abwärts und immer abwärts ihn <lb/><subst>
                     <del rendition="#s">zieten</del>
                     <add place="superlinear">ziehen</add>
-                </subst>, er sieht dann umsonst die Leit=sterne am Himmel <lb/>schimmern, ihm bleibt
-                keine <subst>
+                </subst>, er sieht dann umsonst die <rs type="term" key="leitstern">Leit=sterne</rs>
+                am Himmel <lb/>schimmern, ihm bleibt keine <subst>
                     <del rendition="#ow">#</del>
                     <add place="across">W</add>
                 </subst>ahl er muss unaufhaltsam <lb/>den Abhang hinab, und sich selbst der <subst>
                     <del rendition="#ow">u</del>
-                    <add place="across">N</add>
-                </subst>emesis opfern. <lb/>Nach dem Übereilten Fehltritt, der den Fluch auf mich
-                <lb/>geladen, hat ich durch Liebe Frewelnd, in eines andern <lb/>Wesens Schiksal
-                mich gedrängt: was blieb mir <add place="superlinear">übrig</add> als wo <lb/>ich <subst>
+                    <rs type="term" key="nemesis"><add place="across">N</add></rs>
+                </subst><rs type="term" key="nemesis">emesis</rs> opfern. <lb/>Nach dem Übereilten
+                Fehltritt, der den Fluch auf mich <lb/>geladen, hat ich durch Liebe Frewelnd, in
+                eines andern <lb/>Wesens Schiksal mich gedrängt: was blieb mir <add
+                    place="superlinear">übrig</add> als wo <lb/>ich <subst>
                     <del rendition="#ow">v</del>
                     <add place="across">V</add>
                 </subst>erderben gesäht, wo schnelle Rettung von mir geheischt <lb/>ward, eben

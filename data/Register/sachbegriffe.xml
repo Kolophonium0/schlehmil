@@ -17,6 +17,22 @@
     <text>
         <body>
             <list>
+                <item xml:id="nemesis">
+                    <label type="reg">Nemesis</label>
+                    <desc>Nẹmesis, die; -, /ohne Pl.; Göttin der gerechten Vergeltung in der griech.
+                        Sage; bildl./ die rächende N. (die ausgleichende Gerechtigkeit) <ref
+                            target="https://www.dwds.de/wb/wdg/Nemesis">Quelle</ref>
+                    </desc>
+                </item>
+                <item xml:id="leitstern">
+                    <label type="reg">Leitstern</label>
+                    <desc>Der Leitstern, des -es, plur. die -e, ein Stern, so fern er Reisende oder
+                        Schiffer leitet, ihnen zur Erkenntniß und Einrichtung ihres Weges dienet; in
+                        welchem Verstande der Nordstern oder nördliche Polarstern schon seit langer
+                        Zeit unter diesem Nahmen bekannt ist. Auch figürlich. <ref
+                            target="www.woerterbuchnetz.de/Adelung?lemid=L01200">Quelle</ref>
+                    </desc>
+                </item>
                 <item xml:id="schlagschatten">
                     <label type="reg">Schlagschatten</label>
                     <desc>Der Schlagschatten, des -s, plur. ut nom. sing. in der Mahlerey, der
@@ -74,23 +90,25 @@
                 </item>
                 <item xml:id="magistratus">
                     <label type="reg">Magistratus</label>
-                    <desc>Der Magistrāt, des -es, plur. die -e, ein aus dem Latein. Magistratus 
-                        entlehntes Collectivum, den Stadtrath, das Raths-Collegium einer Stadt zu bezeichnen.
-                        <ref target="www.woerterbuchnetz.de/Adelung/Magistrāt">Quelle</ref></desc>
+                    <desc>Der Magistrāt, des -es, plur. die -e, ein aus dem Latein. Magistratus
+                        entlehntes Collectivum, den Stadtrath, das Raths-Collegium einer Stadt zu
+                        bezeichnen. <ref target="www.woerterbuchnetz.de/Adelung/Magistrāt"
+                            >Quelle</ref></desc>
                 </item>
                 <item xml:id="deputationen">
                     <label type="reg">Deputationen</label>
-                    <desc>delegation, gruppe von abgesandten
-                        <ref target="www.woerterbuchnetz.de/DWB2/DEPUTATION">Quelle</ref></desc>
+                    <desc>delegation, gruppe von abgesandten <ref
+                            target="www.woerterbuchnetz.de/DWB2/DEPUTATION">Quelle</ref></desc>
                 </item>
                 <item xml:id="zeuchhin">
                     <label type="reg">Zeuch hin</label>
-                    <desc>Zieh hin <ref target="www.woerterbuchnetz.de/DWB/zeuche">Quelle</ref></desc>
+                    <desc>Zieh hin <ref target="www.woerterbuchnetz.de/DWB/zeuche"
+                        >Quelle</ref></desc>
                 </item>
                 <item xml:id="ducaten">
                     <label type="reg">Ducaten</label>
-                    <desc>ducaten ducat ducate, m. ducat, f. goldmünze drei thaler an wert
-                        <ref target="www.woerterbuchnetz.de/DWB/ducaten">Quelle</ref></desc>
+                    <desc>ducaten ducat ducate, m. ducat, f. goldmünze drei thaler an wert <ref
+                            target="www.woerterbuchnetz.de/DWB/ducaten">Quelle</ref></desc>
                 </item>
                 <item xml:id="schelmen">
                     <label type="reg">Schelmen</label>
@@ -99,17 +117,17 @@
                 </item>
                 <item xml:id="courire">
                     <label type="reg">Courire</label>
-                    <desc>Der Courīer, oder Curier, des -s, plur. ut nom. sing. aus dem Französ. Courier, 
-                        und dieß von courir, laufen, ein geschwinder Bothe, welcher sich zu seinem hurtigern 
-                        Fortkommen der Postpferde bedienet.
-                        <ref target="www.woerterbuchnetz.de/Adelung/Courīer">Quelle</ref></desc>
+                    <desc>Der Courīer, oder Curier, des -s, plur. ut nom. sing. aus dem Französ.
+                        Courier, und dieß von courir, laufen, ein geschwinder Bothe, welcher sich zu
+                        seinem hurtigern Fortkommen der Postpferde bedienet. <ref
+                            target="www.woerterbuchnetz.de/Adelung/Courīer">Quelle</ref></desc>
                 </item>
                 <item xml:id="argusauge">
                     <label type="reg">Argus augen</label>
-                    <desc>Das Argus-Auge, des -s, plur. die -n, von dem Argus aus der Griech. Fabellehre, 
-                        ein scharfes, argwöhnisches Auge. Argus-Augen haben, 
-                        mit dem schärfsten oder aufmerksamsten Argwohne beobachten.
-                        <ref target="www.woerterbuchnetz.de/Adelung/Argus-Auge">Quelle</ref></desc>
+                    <desc>Das Argus-Auge, des -s, plur. die -n, von dem Argus aus der Griech.
+                        Fabellehre, ein scharfes, argwöhnisches Auge. Argus-Augen haben, mit dem
+                        schärfsten oder aufmerksamsten Argwohne beobachten. <ref
+                            target="www.woerterbuchnetz.de/Adelung/Argus-Auge">Quelle</ref></desc>
                 </item>
                 <item xml:id="portefeuille">
                     <label type="reg">Portefeuille</label>
