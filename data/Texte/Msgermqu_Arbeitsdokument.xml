@@ -59,16 +59,32 @@
         <profileDesc> </profileDesc>
     </teiHeader>
     <text>
+        <front>
+            <titlePage>
+                <titlePart type="main">
+                    <subst>
+                        <del>W. A.</del>
+                        <add>Peter</add>
+                    </subst> Schlemi[e]ls <subst>
+                        <del>Abentheuer</del>
+                        <add>Schicksale</add>
+                    </subst>.
+                </titlePart>
+                <byline>
+                    <del>Als Beitrag zur Lehre des Schlagschattens</del> mitgetheilt von
+                    <docAuthor>
+                        Adelbert von Chamisso.
+                    </docAuthor>
+                </byline>
+                <docImprint>
+                    <pubPlace><placeName>Cunerdsorff.</placeName></pubPlace>
+                    <docDate>MDCCCXIII.</docDate>
+                </docImprint>
+            </titlePage>
+        </front>
         <body>
             <p>
-                <subst>
-                    <del>W. A.</del>
-                    <add>Peter</add>
-                </subst> Schlemi[e]ls <subst>
-                    <del>Abentheuer</del>
-                    <add>Schicksale</add>
-                </subst>. <del>Als Beitrag zur Lehre des Schlagschattens</del> mitgetheilt von
-                Adelbert von Chamisso. Cunerdsorff. MDCCCXIII. Des herrn Regirungsassesor und
+                Des herrn Regirungsassesor und
                 Buchhändler J. E. Hitzig wohlgebohren Berlin. <pb n="Digitalisatnummer"/>
                 <lb n="1"/>Du vergisst niemand,en, du wirst dich noch eines gewissen Peter Schlemiel
                     <add>errinnern</add> den du in früheren <subst>
