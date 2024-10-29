@@ -81,11 +81,16 @@
                     <docDate>MDCCCXIII.</docDate>
                 </docImprint>
             </titlePage>
+            <div type="dedication">
+                <p>
+                    <lb/>Des herrn Regirungsassesor und
+                    <lb/>Buchhändler <persName>J. E. Hitzig</persName> wohlgebohren <placeName>Berlin</placeName>.
+                </p>
+            </div>
         </front>
         <body>
             <p>
-                Des herrn Regirungsassesor und
-                Buchhändler J. E. Hitzig wohlgebohren Berlin. <pb n="Digitalisatnummer"/>
+                <pb n="Digitalisatnummer"/>
                 <lb n="1"/>Du vergisst niemand,en, du wirst dich noch eines gewissen Peter Schlemiel
                     <add>errinnern</add> den du in früheren <subst>
                     <del>Zeiten</del>
