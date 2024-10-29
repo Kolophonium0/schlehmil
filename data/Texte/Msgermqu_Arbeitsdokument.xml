@@ -87,175 +87,182 @@
                     <lb/>Buchhändler <persName>J. E. Hitzig</persName> wohlgebohren <placeName>Berlin</placeName>.
                 </p>
             </div>
-        </front>
-        <body>
-            <p>
-                <pb n="Digitalisatnummer"/>
-                <lb n="1"/>Du vergisst niemand,en, du wirst dich noch eines gewissen Peter Schlemiel
+            <div type="preface">
+                <p>
+                    <pb n="5"/>
+                    <lb/>Du vergisst niemand,en, du wirst dich noch eines gewissen Peter Schlemiel
                     <add>errinnern</add> den du in früheren <subst>
-                    <del>Zeiten</del>
-                    <add>jahren</add>
-                </subst> ein paar mal bei mir gesehen hast. ein <subst>
-                    <del>langer</del>
-                    <add>lang=beiniger</add>
-                </subst> Bursch den man <subst>
-                    <del>ungeschick</del>
-                    <add>Ungeschick</add>
-                </subst> glaubte weil er linkisch war, und der wegen seiner trägheit für faul galt, <subst>
-                    <del>einer, der nicht viel sprach, und den andern gar wenig zuhörte es nahm
-                        keiner <del>Notitz</del>
-                        <subst>
-                            <del>von</del>
-                            <add>besonders</add>
-                        </subst>
-                    </del>
-                </subst>
-                <subst>
-                    <del>Rücksicht auf ihn, </del>
-                    <add>es gab ##iner viel</add>
-                </subst>Rücksicht auf ihn, nur ich hatte ihn lieb, — du kannst nicht vergessen
-                haben, Eduard, wie er uns einmal in unserer grünen Zeit durch die So<subst>
-                    <del>e</del>
-                    <add>n</add>
-                </subst>ette<del>n</del> lief, ich brachte ihn <add>mit</add> auf <add>###</add>
-                einen <subst>
-                    <del>unserer</del>
-                    <add>der</add>
-                </subst> Poet<subst>
-                    <del>e</del>
-                    <add>i</add>
-                </subst>schen Thées <del>mit</del> wo <subst>
-                    <del>m</del>
-                    <add>e</add>
-                </subst>r mir noch w<subst>
-                    <del>e</del>
-                    <add>ä</add>
-                </subst>hrend des Schreibens einschlief ohne das Lesen abzuwarten. nun errinere ich
-                mich <subst>
-                    <del>ganz deutlich</del>
-                    <add>auch</add>
-                </subst> eines Witzes, den du auf ihn machtest: du hattest ihn nehmlich schon, <subst>
-                    <del>g</del>
-                    <add>G</add>
-                </subst>ott weiss wo und wann, in einer <add>alten</add> schwartzen Kurtka gesehen, d<subst>
-                    <del>er</del>
-                    <add>ie</add>
-                </subst> er freilig damals noch immer trug, und sagtest:, der ganze Kerl wäre
-                glücklich zu schätzen, wenn seine Seele nur halb so un<subst>
-                    <del>#</del>
-                    <add>s</add>
-                </subst>terblich wäre,<subst>
-                    <del>wie</del>
-                    <add>als</add>
-                </subst> seine Kurtka. — so wenig galt er bei euch. — ich hatte ihn lieb — von
-                diesem Schlemiel nun, de<subst>
-                    <del>m</del>
-                    <add>n</add>
-                </subst> ich seit langen Jahren aus dem gesichte verloren hatte, rühret das <subst>
-                    <del>h</del>
-                    <add>H</add>
-                </subst>eft her, das ich dir mittheilen will — dir nur, Ede, mein<add>em</add>
-                nächsten, innigsten Freund, <del>dem meine Seele</del> meinem besseren ich,
+                        <del>Zeiten</del>
+                        <add>jahren</add>
+                    </subst> ein paar mal bei mir gesehen hast. ein <subst>
+                        <del>langer</del>
+                        <add>lang=beiniger</add>
+                    </subst> Bursch den man <subst>
+                        <del>ungeschick</del>
+                        <add>Ungeschick</add>
+                    </subst> glaubte weil er linkisch war, und der wegen seiner trägheit für faul galt, <subst>
+                        <del>einer, der nicht viel sprach, und den andern gar wenig zuhörte es nahm
+                            keiner <del>Notitz</del>
+                            <subst>
+                                <del>von</del>
+                                <add>besonders</add>
+                            </subst>
+                        </del>
+                    </subst>
+                    <subst>
+                        <del>Rücksicht auf ihn, </del>
+                        <add>es gab ##iner viel</add>
+                    </subst>Rücksicht auf ihn, nur ich hatte ihn lieb, — du kannst nicht vergessen
+                    haben, Eduard, wie er uns einmal in unserer grünen Zeit durch die So<subst>
+                        <del>e</del>
+                        <add>n</add>
+                    </subst>ette<del>n</del> lief, ich brachte ihn <add>mit</add> auf <add>###</add>
+                    einen <subst>
+                        <del>unserer</del>
+                        <add>der</add>
+                    </subst> Poet<subst>
+                        <del>e</del>
+                        <add>i</add>
+                    </subst>schen Thées <del>mit</del> wo <subst>
+                        <del>m</del>
+                        <add>e</add>
+                    </subst>r mir noch w<subst>
+                        <del>e</del>
+                        <add>ä</add>
+                    </subst>hrend des Schreibens einschlief ohne das Lesen abzuwarten. nun errinere ich
+                    mich <subst>
+                        <del>ganz deutlich</del>
+                        <add>auch</add>
+                    </subst> eines Witzes, den du auf ihn machtest: du hattest ihn nehmlich schon, <subst>
+                        <del>g</del>
+                        <add>G</add>
+                    </subst>ott weiss wo und wann, in einer <add>alten</add> schwartzen Kurtka gesehen, d<subst>
+                        <del>er</del>
+                        <add>ie</add>
+                    </subst> er freilig damals noch immer trug, und sagtest:, der ganze Kerl wäre
+                    glücklich zu schätzen, wenn seine Seele nur halb so un<subst>
+                        <del>#</del>
+                        <add>s</add>
+                    </subst>terblich wäre,<subst>
+                        <del>wie</del>
+                        <add>als</add>
+                    </subst> seine Kurtka. — so wenig galt er bei euch. — ich hatte ihn lieb — von
+                    diesem Schlemiel nun, de<subst>
+                        <del>m</del>
+                        <add>n</add>
+                    </subst> ich seit langen Jahren aus dem gesichte verloren hatte, rühret das <subst>
+                        <del>h</del>
+                        <add>H</add>
+                    </subst>eft her, das ich dir mittheilen will — dir nur, Ede, mein<add>em</add>
+                    nächsten, innigsten Freund, <del>dem meine Seele</del> meinem besseren ich,
                     <add>vor</add> dem ich kein Geheimniss verwahren kann, theil ich es mit,
                     <del>und</del> nur dir, und, es versteht sich von selbst, unserm Fouqué, gleich
-                dir in meiner Seele eingewurzelt — <subst>
-                    <del>aber Fouqué</del>
-                    <add>aber in ihm,</add>
-                </subst> theil ich es <del>au</del>bloss dem <subst>
-                    <del>f</del>
-                    <add>F</add>
-                </subst>reunde <subst>
-                    <del>und</del>
-                    <add>mit,</add>
-                </subst> nicht dem <subst>
-                    <del>d</del>
-                    <add>D</add>
-                </subst>ichter, <del>mit</del> — ihr <subst>
-                    <del>müsst</del>
-                    <add>werdet</add>
-                </subst> einsehen, wie unangenehm es mir sein müsste <add>würde</add>, <subst>
-                    <del>wie</del>
-                    <add>wenn</add>
-                </subst><subst>
-                    <del>man</del>
-                    <add>etwa</add>
-                </subst> die Beichte die ein ehrlicher mann <subst>
-                    <del>auf</del>
-                    <add>in</add>
-                </subst>
-                <subst>
-                    <del>f</del>
-                    <add>V</add>
-                </subst>ertrauen auf meine<add>r</add> Freundschaft und Redlichkeit
+                    dir in meiner Seele eingewurzelt — <subst>
+                        <del>aber Fouqué</del>
+                        <add>aber in ihm,</add>
+                    </subst> theil ich es <del>au</del>bloss dem <subst>
+                        <del>f</del>
+                        <add>F</add>
+                    </subst>reunde <subst>
+                        <del>und</del>
+                        <add>mit,</add>
+                    </subst> nicht dem <subst>
+                        <del>d</del>
+                        <add>D</add>
+                    </subst>ichter, <del>mit</del> — ihr <subst>
+                        <del>müsst</del>
+                        <add>werdet</add>
+                    </subst> einsehen, wie unangenehm es mir sein müsste <add>würde</add>, <subst>
+                        <del>wie</del>
+                        <add>wenn</add>
+                    </subst><subst>
+                        <del>man</del>
+                        <add>etwa</add>
+                    </subst> die Beichte die
+                    <pb n="6"/>
+                    ein ehrlicher mann <subst>
+                        <del>auf</del>
+                        <add>in</add>
+                    </subst>
+                    <subst>
+                        <del>f</del>
+                        <add>V</add>
+                    </subst>ertrauen auf meine<add>r</add> Freundschaft und Redlichkeit
                     <del>ablegt</del> an meiner Brust ablegt, in <add>einem</add> dichterwerk<del>en
-                    etwa</del> an den Pranger geheftet würde — <del>ich muss gestehen dass <add>es
-                        schade ist dass</add> die wunderbare geschichte, die unter der Feder dieses
-                    guten Mannes nur albern erscheint</del> dass es für die seltsame <del>geschichte
-                    schade ist</del> [oder <add>nur wenn </add>überhaupt <del>wenn</del> unheilig
+                        etwa</del> an den Pranger geheftet würde — <del>ich muss gestehen dass <add>es
+                            schade ist dass</add> die wunderbare geschichte, die unter der Feder dieses
+                            guten Mannes nur albern erscheint</del> dass es für die seltsame <del>geschichte
+                                schade ist</del> [oder <add>nur wenn </add>überhaupt <del>wenn</del> unheilig
                     <add>verfahren wurde</add>[,] wie mit einem Erzeugniss schlechte[n] Witzes, mit
-                einer Sache, die das n[icht] ist und sein darf<subst>
-                    <del>:</del>
-                    <add>.</add>
-                </subst>. freilig mu[ss] ich sebst gestehen dass es um die Geschichte schad ist,]
-                die unter des guten Mannes <subst>
-                    <del>f</del>
-                    <add>F</add>
-                </subst>eder nur albern geworden, dass <subst>
-                    <del>d</del>
-                    <add>s</add>
-                </subst>ie nicht von einer geschikteren fremden hand in ihre<subst>
-                    <del>n</del>
-                    <add>r</add>
-                </subst> ganzen komischen Kraft dargestellt werden <subst>
-                    <del>darf</del>
-                    <add>kann</add>
-                </subst>: was würde nicht Jean paul daraus gemacht haben — ## <subst>
-                    <del>ü</del>
-                    <add>U</add>
-                </subst>brigens, lieber <subst>
-                    <del>f</del>
-                    <add>F</add>
-                </subst>reund, mögen hier manche genannt sein, die noch leben, auch das will
-                beachtet sein. — Noch <subst>
-                    <del>r</del>
-                    <add>e</add>
-                </subst>in wort über die Art, wie diese Blätter an mich gelangt sind,. gestern früh,
-                bei meinem Erwachen, gab man Sie mir ab, — ein wunderlicher Mann, <del>mit</del> der eine<subst>
-                    <del>m</del>
-                    <add>n</add>
-                </subst> langen grauen Bart <subst>
-                    <del>trug</del>
-                    <add><subst>
+                    einer Sache, die das n[icht] ist und sein darf<subst>
+                        <del>:</del>
+                        <add>.</add>
+                    </subst>. freilig mu[ss] ich sebst gestehen dass es um die Geschichte schad ist,]
+                    die unter des guten Mannes <subst>
+                        <del>f</del>
+                        <add>F</add>
+                    </subst>eder nur albern geworden, dass <subst>
+                        <del>d</del>
+                        <add>s</add>
+                    </subst>ie nicht von einer geschikteren fremden hand in ihre<subst>
+                        <del>n</del>
+                        <add>r</add>
+                    </subst> ganzen komischen Kraft dargestellt werden <subst>
+                        <del>darf</del>
+                        <add>kann</add>
+                    </subst>: was würde nicht Jean paul daraus gemacht haben — ## <subst>
+                        <del>ü</del>
+                        <add>U</add>
+                    </subst>brigens, lieber <subst>
+                        <del>f</del>
+                        <add>F</add>
+                    </subst>reund, mögen hier manche genannt sein, die noch leben, auch das will
+                    beachtet sein. — Noch <subst>
+                        <del>r</del>
+                        <add>e</add>
+                    </subst>in wort über die Art, wie diese Blätter an mich gelangt sind,. gestern früh,
+                    bei meinem Erwachen, gab man Sie mir ab, — ein wunderlicher Mann, <del>mit</del> der eine<subst>
+                        <del>m</del>
+                        <add>n</add>
+                    </subst> langen grauen Bart <subst>
+                        <del>trug</del>
+                        <add><subst>
                             <del>hatte</del>
                             <add>trug</add>
                         </subst></add>
-                </subst>, eine <subst>
-                    <del>Sch</del>
-                    <add>ganz</add>
-                </subst> abge<subst>
-                    <del>tragene</del>
-                    <add><subst>
+                    </subst>, eine <subst>
+                        <del>Sch</del>
+                        <add>ganz</add>
+                    </subst> abge<subst>
+                        <del>tragene</del>
+                        <add><subst>
                             <del>nü</del>
                             <add>we</add>
                         </subst>tzte</add>
-                </subst> Schwartze Kurtka <subst>
-                    <del>anhatte</del>
-                    <del>trug</del>
-                    <add>anhatte</add>
-                </subst>, eine bo<subst>
-                    <del>r</del>
-                    <add>ta</add>
-                </subst>nische Capsel darüber um gehangen, und bei dem feuchten <add>regnigten</add>
-                Wetter, Pantofel über seine Stiefel, hatte sich na<subst>
-                    <del>h</del>
-                    <add>c</add>
-                </subst>h mir erkundigt und dieses für mich <subst>
-                    <del>abgegeben</del>
-                    <add>hinterlassen</add>
-                </subst>, er hatte aus Berlin zu komen vorgegeben. _ _ _ Cunersdorf den 2<subst>
-                    <del>4</del>
-                    <add>7</add>
-                </subst>. sbr. 13. I. Nach einer glücklichen, jedoch für mich sehr beschwerli<subst>
+                    </subst> Schwartze Kurtka <subst>
+                        <del>anhatte</del>
+                        <del>trug</del>
+                        <add>anhatte</add>
+                    </subst>, eine bo<subst>
+                        <del>r</del>
+                        <add>ta</add>
+                    </subst>nische Capsel darüber um gehangen, und bei dem feuchten <add>regnigten</add>
+                    Wetter, Pantofel über seine Stiefel, hatte sich na<subst>
+                        <del>h</del>
+                        <add>c</add>
+                    </subst>h mir erkundigt und dieses für mich <subst>
+                        <del>abgegeben</del>
+                        <add>hinterlassen</add>
+                    </subst>, er hatte aus Berlin zu komen vorgegeben. _ _ _ Cunersdorf den 2<subst>
+                        <del>4</del>
+                        <add>7</add>
+                    </subst>. sbr. 13. 
+                </p>
+            </div>
+        </front>
+        <body>
+            <p>
+                I. Nach einer glücklichen, jedoch für mich sehr beschwerli<subst>
                     <del>ch</del>
                     <add>=</add>
                 </subst> chen Seefahrt, erreichten wir endlich den Haafen. sobald ich mit dem Bothe
