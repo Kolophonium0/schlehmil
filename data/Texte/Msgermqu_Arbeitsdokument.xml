@@ -50,7 +50,7 @@
 
                     <history>
                         <origin>
-                            <origDate/>1831 <p>MÃ¤rz/April 1831</p>
+                            <origDate notBefore="1831-03" notAfter="1831-04">1831 März/April 1831</origDate>
                         </origin>
                     </history>
                 </msDesc>
