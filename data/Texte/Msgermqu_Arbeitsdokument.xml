@@ -2339,43 +2339,50 @@
                     <pb n="40"/>
                     <head>V.</head>
                     <p>
-                        <lb/>Es war noch früh als mich stimmen weckten,
-                        <lb/>die sich in meinem Vorzimmer, mit[in] heftigem Wortwechsel
-                        <lb/>erhoben. Ich horchte auf. – Bendel verboth meine
-                        <lb/>Thür, Rascal schwur hoch und theuer keine Befehle von
-                        <lb/>seines gleichen anzunehmen, und bestand darauf in meine
-                        <lb/>Zimmer einzudringen. Der gütige Bendel verwies
-                        <lb/>ihm dass solche Worte, fals sie zu meinem Ohre kämen,
-                        <lb/>ihn um einen vortheilhaften Dienst bringen würden.
-                        <lb/>Raskal drohte h[H]and an ihn zu legen, wenn er ihm den
-                        <lb/>Eingang noch länger vertreten wolle. Ich hatte mich
-                        <lb/>halb angezogen, ich riss zornig die Thür auf, und
-                        <lb/>fuhr auf Raskaln zu – „Was wilst du Schurke....
-                        <lb/>er that zwei Schritte zurück, und andwortete ganz kalt:
-                        <lb/>„sie unterthänigst bitten, Herr Graf, mi#[ch] doch einmal
-                        <lb/>ihren Schatten sehen zu lassen, – die Sonne scheint eben
-                        <lb/>so schön auf dem Hofe. – „Ich war wie vom Donner
-                        <lb/>gerührt. es dauerte lange biss ich die Sprache wieder
-                        <lb/>fand. – „wie kann ein Knecht gegen seinen Herrn..?
-                        <lb/>Er fiel mir ganz ruhig in die Rede,: Ein Knecht kann
-                        <lb/>ein sehr ehrlicher Mann sein und einem Schattenlosen
-                        <lb/>nicht dienen wollen, ich fodre meine Entlassung.„
-                        <lb/>Ich musste andere Saiten aufspannen[ziehen] – „Aler Raskal,
-                        <lb/>lieber Raskal, wer hat dich auf die unglückseelige
-                        <lb/>Idee gebracht, wie kannst du denken...?„ er fuhr im
-                        <lb/>selben Tone fort. „Es wollen Leute behaupten sie hatten
-                        <lb/>keinen Schatten – und kurtz sie zeigen mir ihren Schatten
-                        <lb/>oder geben mir meine Entlassung.„ Bendel bleich
-                        <lb/>und zitternd, aber besonnener als ich machte mir
-                        <lb/>ein Zeichen, ich nahm zu dem alles beschwigtigendem
-                        <lb/>Golde meine Zuflucht, – auch das hatte seine Macht ver=
-                        <lb/>loren – er warfs’ mir vor die Füsse,[:] v[V]on einem Schatten=
-                        <lb/>losen neh nehme ich nichts an.„ e[E]r kehrte mir den Rücken
-                        <lb/>und ging den Hut auf dem Kopf, ein Lidchen pfeifen
-                        <lb/>langsam aus dem Zimmer. Ich stand mit Bendel   
-                        <pb n="41"/>
-                        <lb/>da wie versteint, gedanken= und Regunglos ihm nachsehend.
-                    </p>
+                    <lb/>Es war noch früh als mich stimmen weckten, <lb/>die sich in meinem
+                    Vorzimmer, <subst>
+                        <del rendition="#s">mit</del>
+                        <add place="superlinear">in</add>
+                    </subst> heftigem Wortwechsel <lb/>erhoben. Ich horchte auf. – Bendel verboth
+                    meine <lb/>Thür, Rascal schwur hoch und theuer keine Befehle von <lb/>seines
+                    gleichen anzunehmen, und bestand darauf in meine <lb/>Zimmer einzudringen. Der
+                    gütige Bendel verwies <lb/>ihm dass solche Worte, fals sie zu meinem Ohre kämen,
+                    <lb/>ihn um einen vortheilhaften Dienst bringen würden. <lb/>Raskal drohte <subst>
+                        <del rendition="#ow">h</del>
+                        <add place="across">H</add>
+                    </subst>and an ihn zu legen, wenn er ihm den <lb/>Eingang noch länger vertreten
+                    wolle. Ich hatte mich <lb/>halb angezogen, ich riss zornig die Thür auf, und
+                    <lb/>fuhr auf Raskaln zu – „Was wilst du Schurke.... <lb/>er that zwei Schritte
+                    zurück, und andwortete ganz kalt: <lb/>„sie unterthänigst bitten, Herr Graf, mi<subst>
+                        <del rendition="#ow" cert="unknown">#</del>
+                        <add place="across">ch</add>
+                    </subst> doch einmal <lb/>ihren Schatten sehen zu lassen, – die Sonne scheint
+                    eben <lb/>so schön auf dem Hofe. – „Ich war wie vom Donner <lb/>gerührt. es
+                    dauerte lange biss ich die Sprache wieder <lb/>fand. – „wie kann ein Knecht
+                    gegen seinen Herrn..? <lb/>Er fiel mir ganz ruhig in die Rede,: Ein Knecht kann
+                    <lb/>ein sehr ehrlicher Mann sein und einem Schattenlosen <lb/>nicht dienen
+                    wollen, ich fodre meine Entlassung.„ <lb/>Ich musste andere Saiten auf<subst>
+                        <del rendition="#s">spannen</del>
+                        <add place="superlinear">ziehen</add>
+                    </subst> – „Aler Raskal, <lb/>lieber Raskal, wer hat dich auf die unglückseelige
+                    <lb/>Idee gebracht, wie kannst du denken...?„ er fuhr im <lb/>selben Tone fort.
+                    „Es wollen Leute behaupten sie hatten <lb/>keinen Schatten – und kurtz sie
+                    zeigen mir ihren Schatten <lb/>oder geben mir meine Entlassung.„ Bendel bleich
+                    <lb/>und zitternd, aber besonnener als ich machte mir <lb/>ein Zeichen, ich nahm
+                    zu dem alles beschwigtigendem <lb/>Golde meine Zuflucht, – auch das hatte seine
+                    Macht ver= <lb/>loren – er warfs’ mir vor die Füsse<subst>
+                        <del rendition="#ow">,</del>
+                        <add place="across">:</add>
+                    </subst>
+                    <subst>
+                        <del rendition="#ow">v</del>
+                        <add place="across">V</add>
+                    </subst>on einem Schatten= <lb/>losen neh nehme ich nichts an.„ <subst>
+                        <del rendition="#ow">e</del>
+                        <add place="across">E</add>
+                    </subst>r kehrte mir den Rücken <lb/>und ging den Hut auf dem Kopf, ein Lidchen
+                    pfeifen <lb/>langsam aus dem Zimmer. Ich stand mit Bendel   <pb n="41"/>
+                    <lb/>da wie versteint, gedanken= und Regunglos ihm nachsehend. </p>
                     <p>
                         <lb/>Schwehr aufseufzend; und den Todt im Hertzen,
                         <lb/>schickt ich mich endlich an mein Wort zu lösen
