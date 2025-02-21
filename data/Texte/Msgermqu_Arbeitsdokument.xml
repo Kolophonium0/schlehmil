@@ -2737,14 +2737,20 @@
                     Andwort, kehrte dem <lb/>unschuldigen Burschen den Rücken und ging. Bendel <pb
                         n="46"/>
                     <lb/>aber erhob den Kreutzdorn Knittel, den er trug, und, ihm <lb/>auf den
-                    Fersen folgend, liess er[er] ihn schonungslos unter <lb/>wiederholtem Befehl den
-                    Schatten her zu geben, die volle gewalt <lb/>seines nervigten Armes fühlen.
-                    Jener, als sei er solche <lb/>Behandlung gewohnt, bückte den Kopf, wölbte die
-                    <lb/>Schultern, und zog stillschweigend ruhigen Schrittes [seinen Weg] über
-                    <lb/>die heide [weiter], mir meinen Schatten zugleich, und meinen <lb/>treuen
-                    Diener entführend. Ich hörte lange noch den <lb/>dumpfen Schall durch die
-                    e[E]inöde drönen, biss er sich <lb/>endlich in der Entfernung verlor. Einsam war
-                    ich wie <lb/>vorher mit meinem Unglück. </p>
+                    Fersen folgend, liess <subst>
+                        <del rendition="#s">er</del>
+                        <add place="superlinear">er</add>
+                    </subst> ihn schonungslos unter <lb/>wiederholtem Befehl den Schatten her zu
+                    geben, die volle gewalt <lb/>seines nervigten Armes fühlen. Jener, als sei er
+                    solche <lb/>Behandlung gewohnt, bückte den Kopf, wölbte die <lb/>Schultern, und
+                    zog stillschweigend ruhigen Schrittes <add place="superlinear">seinen Weg</add>
+                    über <lb/>die heide <add place="superlinear">weiter</add>, mir meinen Schatten
+                    zugleich, und meinen <lb/>treuen Diener entführend. Ich hörte lange noch den
+                    <lb/>dumpfen Schall durch die <subst>
+                        <del rendition="#ow">e</del>
+                        <add place="across">E</add>
+                    </subst>inöde drönen, biss er sich <lb/>endlich in der Entfernung verlor. Einsam
+                    war ich wie <lb/>vorher mit meinem Unglück. </p>
                 </div>
                 <div type="chapter" n="6">
                     <pb n="47"/>
