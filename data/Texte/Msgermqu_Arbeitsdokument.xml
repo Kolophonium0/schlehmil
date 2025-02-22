@@ -65,16 +65,13 @@
                     <subst>
                         <del>W. A.</del>
                         <add>Peter</add>
-                    </subst> Schlemi[e]ls <subst>
+                    </subst> Schlemi<add place="intralinear">e</add>ls <subst>
                         <del>Abentheuer</del>
                         <add>Schicksale</add>
-                    </subst>.
-                </titlePart>
+                    </subst>. </titlePart>
                 <byline>
-                    <del>Als Beitrag zur Lehre des Schlagschattens</del> mitgetheilt von
-                    <docAuthor>
-                        Adelbert von Chamisso.
-                    </docAuthor>
+                    <del>Als Beitrag zur Lehre des Schlagschattens</del> mitgetheilt von <docAuthor>
+                        Adelbert von Chamisso. </docAuthor>
                 </byline>
                 <docImprint>
                     <pubPlace><placeName>Cunerdsorff.</placeName></pubPlace>
@@ -83,9 +80,8 @@
             </titlePage>
             <div type="dedication" facs="00000005.jpg">
                 <p>
-                    <lb/>Des herrn Regirungsassesor und
-                    <lb/>Buchhändler <persName>J. E. Hitzig</persName> wohlgebohren <placeName>Berlin</placeName>.
-                </p>
+                    <lb/>Des herrn Regirungsassesor und <lb/>Buchhändler <persName>J. E.
+                        Hitzig</persName> wohlgebohren <placeName>Berlin</placeName>. </p>
             </div>
             <div type="preface">
                 <p>
@@ -213,32 +209,32 @@
                             <del>:</del>
                             <add>.</add>
                         </subst>. freilig mu<unclear reason="illegible" cert="high">ss</unclear>
-                        <lb/>ich sebst gestehen dass es um die  <lb/>Geschichte schad ist,</add>
+                        <lb/>ich sebst gestehen dass es um die <lb/>Geschichte schad ist,</add>
                     <lb/>die unter des guten Mannes <subst>
                         <del>f</del>
                         <add>F</add>
-                    </subst>eder nur albern  <lb/>geworden, dass <subst>
+                    </subst>eder nur albern <lb/>geworden, dass <subst>
                         <del>d</del>
                         <add>s</add>
-                    </subst>ie nicht von einer geschikteren  <lb/>fremden hand in ihre<subst>
+                    </subst>ie nicht von einer geschikteren <lb/>fremden hand in ihre<subst>
                         <del>n</del>
                         <add>r</add>
-                    </subst> ganzen komischen  <lb/>Kraft dargestellt werden <subst>
+                    </subst> ganzen komischen <lb/>Kraft dargestellt werden <subst>
                         <del>darf</del>
                         <add>kann</add>
-                    </subst>: was würde nicht  <lb/>Jean paul daraus gemacht haben — ## <subst>
+                    </subst>: was würde nicht <lb/>Jean paul daraus gemacht haben — ## <subst>
                         <del>ü</del>
                         <add>U</add>
                     </subst>brigens, lieber <subst>
                         <del>f</del>
                         <add>F</add>
-                    </subst>reund,  <lb/>mögen hier manche genannt sein, die noch  <lb/>leben, auch
+                    </subst>reund, <lb/>mögen hier manche genannt sein, die noch <lb/>leben, auch
                     das will beachtet sein. — Noch <subst>
                         <del>r</del>
                         <add>e</add>
-                    </subst>in  <lb/>wort über die Art, wie diese Blätter an mich  <lb/>gelangt
-                    sind,. gestern früh, bei meinem Erwachen,  <lb/>gab man Sie mir ab, — ein
-                    wunderlicher Mann, <del>mit</del> der  <lb/>eine<subst>
+                    </subst>in <lb/>wort über die Art, wie diese Blätter an mich <lb/>gelangt sind,.
+                    gestern früh, bei meinem Erwachen, <lb/>gab man Sie mir ab, — ein wunderlicher
+                    Mann, <del>mit</del> der <lb/>eine<subst>
                         <del>m</del>
                         <add>n</add>
                     </subst> langen grauen Bart <subst>
@@ -264,14 +260,14 @@
                     </subst>, eine bo<subst>
                         <del>r</del>
                         <add>ta</add>
-                    </subst>nische Capsel  <lb/>darüber um gehangen, und bei dem feuchten
-                        <add>regnigten</add> Wetter,  <lb/>Pantofel über seine Stiefel, hatte sich na<subst>
+                    </subst>nische Capsel <lb/>darüber um gehangen, und bei dem feuchten
+                        <add>regnigten</add> Wetter, <lb/>Pantofel über seine Stiefel, hatte sich na<subst>
                         <del>h</del>
                         <add>c</add>
-                    </subst>h mir erkundigt  <lb/>und dieses für mich <subst>
+                    </subst>h mir erkundigt <lb/>und dieses für mich <subst>
                         <del>abgegeben</del>
                         <add>hinterlassen</add>
-                    </subst>, er hatte aus Berlin  <lb/>zu komen vorgegeben. _ _ _  <lb/>Cunersdorf
+                    </subst>, er hatte aus Berlin <lb/>zu komen vorgegeben. _ _ _ <lb/>Cunersdorf
                     den 2<subst>
                         <del>4</del>
                         <add>7</add>
@@ -2515,15 +2511,17 @@
                     dunklen Laube ab, <lb/>welche nach mir ben<subst>
                         <del rendition="#ow"><unclear reason="covered" cert="low">#</unclear></del>
                         <add place="across">a</add>
-                    </subst>[a]nnt war, und wo sie mich auch <lb/>dies mal erwarten mussten. Die
-                    Mutter kam mir <del rendition="#s">freudig</del>
+                    </subst>nnt war, und wo sie mich auch <lb/>dies mal erwarten mussten. Die Mutter
+                    kam mir <del rendition="#s">freudig</del>
                     <lb/><del rendition="#s">und</del> sorgen <subst>
                         <del rendition="#ow"><unclear reason="illegible" cert="low"
                             >###</unclear></del>
                         <add place="across">frei</add>
                     </subst> und freudig entgegen, Mina sass da, bleich <lb/>und schön, wie der
-                    erste Sche[n]ee, der manchmal im Herbste <lb/>die letzten blumen küsst, und
-                    gleich in <subst>
+                    erste Sch<subst>
+                        <del rendition="#ow">e</del>
+                        <add place="across">n</add>
+                    </subst>ee, der manchmal im Herbste <lb/>die letzten blumen küsst, und gleich in <subst>
                         <del rendition="#ow">d</del>
                         <add place="across">b</add>
                     </subst>ittres Wasser <lb/>zerflissen wird. Der Forstmeister, ein geschriebenes
@@ -2578,7 +2576,7 @@
                     Sie aber war wie Aretusa in einen <lb/>Thränenquell gewandelt, der beim Klang
                     meiner Stimme <lb/>haüfiger floss, und bei meinem nahn stürmisch aufbrauste.
                     <lb/>„Und sie haben„fuhr hub der Forstmeister grimmig wieder <lb/>an „Und sie
-                        haben mit unerhörter Frechheit diese und <pb n="42" facs="00000044.jpg"/>
+                    haben mit unerhörter Frechheit diese und <pb n="42" facs="00000044.jpg"/>
                     <lb/>mich zu betrügen keinen Anstand genommen, Und <lb/>sie geben vor sie zu
                     lieben, die sie so weit herunter gebracht <lb/>haben, sehen sie, wie sie da
                     weint und ringt. o scheklich, <lb/>schrecklich! – Ich hatte dergestal<subst>
@@ -2622,7 +2620,7 @@
                     <p>
                     <lb/>Der liebevollen Aufsicht Bendels entsprungen <lb/>durchschweifte ich in
                     irrem Lauf Wälder und Fluren <lb/>Angstschweiss trof von meiner Stirne, ein
-                        dumpfes <pb n="43" facs="00000045.jpg"/>
+                    dumpfes <pb n="43" facs="00000045.jpg"/>
                     <lb/>stöhnen entrang sich meiner Brust, in mir tobte <lb/>Wahnsinn. – Ich weiss
                     nicht wie lange es so gedauert <lb/>haben mogte als ich mich auf einer sonnigen
                     heide <lb/>beim Ärmel anhalten fühlte – Ich stand still und sah <lb/>mich um – –
@@ -2666,11 +2664,10 @@
                         <del rendition="#ow"><gap reason="illegible" quantity="1" unit="words"
                             /></del>
                         <add place="across">so</add>
-                    </subst>[so] gut und unterscheiben mir <lb/>den Zettel da„ – auf dem
-                        Pergament<del rendition="#s">, das er mir in die <lb/></del><del
-                        rendition="#s">Hand gab</del> standen die Worte: Kraft dieser meiner
-                    Unterschift <lb/>vermache ich den Inhaber dieses meine Seele nach ihrer
-                    natürlichen <lb/><subst>
+                    </subst> gut und unterscheiben mir <lb/>den Zettel da„ – auf dem Pergament<del
+                        rendition="#s">, das er mir in die <lb/></del><del rendition="#s">Hand
+                        gab</del> standen die Worte: Kraft dieser meiner Unterschift <lb/>vermache
+                    ich den Inhaber dieses meine Seele nach ihrer natürlichen <lb/><subst>
                         <del rendition="#ow">t</del>
                         <add place="across">T</add>
                     </subst>rennung von meinem Leibe. Ich sah mit stummem Staunen <lb/>die Schift
@@ -2695,7 +2692,8 @@
                         <del rendition="#s">r</del>
                         <add place="across">x</add>
                     </subst>perimentiren. – aber unterschreiben sie doch: recht? <lb/>da unten.
-                        Peter Schlemiel.„ – Ich schüttelte mit dem Kopf <lb/>u <pb n="44" facs="00000046.jpg"/>
+                    Peter Schlemiel.„ – Ich schüttelte mit dem Kopf <lb/>u <pb n="44"
+                        facs="00000046.jpg"/>
                     <lb/>und sagte, „Verzeihen sie, mein Herr, das unterschreibe ich nicht.„ <lb/>–
                     „Nicht!„ wiederholte er verwundert, „und warum nicht?„ – „Es <lb/>scheint mir
                     doch gewissermassen bedenklich meine Seele an <lb/>meinen Schatten zu setzen. –
@@ -2781,7 +2779,8 @@
                             /></del>
                         <add place="across">Pr</add>
                     </subst>Preiss meines Schattens, und unterschreibe <del rendition="#s"
-                        >dieses</del> also nicht<add place="intralinear">s</add>. <pb n="45" facs="00000047.jpg"/>
+                        >dieses</del> also nicht<add place="intralinear">s</add>. <pb n="45"
+                        facs="00000047.jpg"/>
                     <lb/>Daraus lässt sich auch abnehmen, dass die Verkappung zu der sie <lb/>mich
                     gefälligst einladen, ungleich belustigender für sie als für <lb/>mich ausfallen
                     müsste; halten sie mich also für entschuldigt, <lb/>Und da es einmal nicht
@@ -2877,103 +2876,170 @@
                     <pb n="47" facs="00000049.jpg"/>
                     <head>VI.</head>
                     <p>
-                        <lb/>Allein zurück geblieben auf der oden Heide, liess
-                        <lb/>ich unendlichen Thränen freien Lauf, mein armes hertz
-                        <lb/>von nahmenloser banger Last erleichternd. Aber ich sah
-                        <lb/>meinem unüberschwänglichen Elend keine Gränt[z]e, keinen
-                        <lb/>Ausgang, kein Ziel, und ich sog ##[bes]onders mit grimmigem
-                        <lb/>Durst an dass neuen Gift, das der Unbekannte in meine
-                        <lb/>Wunden gegossen. Als ich Minas Bild vor meine Seele
-                        <lb/>rief, und die geliebte süsse Gestalt bleich und in Thränen
-                        <lb/>mir erschien, wie ich sie zuletzt in meiner Schmach gesehen,
-                        <lb/>da trat frech und höhnend Rascals Schemen zwischen
-                        <lb/>sie und mich, ich verhülte mein Gesicht und floh
-                        <lb/>durch die Einöde, aber die schreckliche[schaulige] Erscheinung
-                        <lb/>gab mich nicht frei, sondern f[v]erfolgte mich im
-                        <lb/>Laufe biss ich athemlos am[n] [den] Boden sank, und die
-                        <lb/>Erde mit erneuertem Thraenenquell befeuchtete. Und
-                        <lb/>alles um einen Schatten! und diesen Schatten hätte
-                        <lb/>mir ein Federzug wieder erworben! i[I]ch überdachte
-                        <lb/>den befremdenden Antrag und meine Weigerung: e[E]s
-                        <lb/>war wüst in mir, ich hatte weder Urt###[hei]l, noch
-                        <lb/>f[F]assungs vermögen mehr. Der Tag verging: <del type="strike-through">Bendel
-                        <lb/>musste meine Spur verloren haben</del>. Ich stillte meinen
-                        <lb/>Hunger mit wilden Früchten, m[e]im#[nen] Durst im nächsten
-                        <lb/>Bergstrom, die Nacht brach ein, ich lagerte mich unter
-                        <lb/>einem baum, der frühe[feuchte] Morgen weckte mich aus
-                        <lb/>einem schweren Schlaf, in dem ich mich selber wie
-                        <lb/>im Todte röcheln hörte. Bendel musste meine Spur
-                        <lb/>verloren haben, und es freute mich es zu denken
-                        <lb/>Ich wollte nicht unter die Menschen zurückkehren, vor
-                        <lb/>welchen ich schreckhaft floh, wie das scheue Wild des
-                        <lb/>Gebürges. So verlebte ich drei langen Tage. Ich
-                        <lb/>befand mich am Morgen des vierten, auf einer sandigen
-                        <lb/>Ebene, welche die Sonne hell beschien, und sass auf
-                        <lb/>Felsen Trümmer in ihrem Stral, denn ich liebte jetzt
-                        <pb n="48" facs="00000050.jpg"/>
-                        <lb/>I[i]hren lang entbehrten Anblick zu geniessen. Ich nährte stille
-                        <lb/>mein herz mit seiner Verzweifelung. da schrecke[t]e mich ein
-                        <lb/>leises Geräusch auf, ich wa#[r]f, zur f[F]llucht bereit, den Blick
-                        <lb/>um mich her, ich sah niemand: aber [es kam] auf dem sonnigen
-                        <lb/>Sande an mir vorbei geglitten ein Menschenschatten dem
-                        <lb/>meinigen nicht unäh[n]lich, welcher allein daher wandelnd von
-                        <lb/>seinem Herrn abgekommen zu sein schien. Da erwachte in
-                        <lb/>mir ein mächtiger Trieb,: Schatten, dacht ich, siehst du
-                        <lb/>deinen Herrn, der will ich sein. und ich sprang hinzu um
-                        <lb/>mich seiner zu bemächtigen, ich dachte nähmlich, dass, wenn
-                        <lb/>es mir glückte in seine Spur zu treten, so dass er mir an
-                        <lb/>die Füsse käme, er wohl daran hängen bleiben würde
-                        <lb/>und sich mit der Zeit an mir[ch] gewöhnen. Der Schatten,
-                        <lb/>auf meine Bewegung, nahm vor mir die Flucht, und
-                        <lb/>ich musste auf den leichten Flüchtling eine angestrengte
-                        <lb/>Jagt be#[g]innen, zu der mich allein der Gedanke, mich
-                        <lb/>aus der fürchtbaren Lage in der ich war zu retten,
-                        <lb/>mit hinreichenden Kräften ausrüsten konnte. Er floh
-                        <lb/>einem freilig noch entfernten Walde zu, in dessen Schatten
-                        <lb/>ich ihn nothwendig hätte verlieren müssen – ich sah’s ,[ –]
-                        <lb/>ein , Schrecken durchzuckte mir das Herz, fachte meine
-                        <lb/>Begierde an, verdoppelte meine Kraft[beflügelte meinen Lauf] – ich gewann
-                        <lb/>sichtbarlich auf[auf] dem[n] Schatten [den f[v]orsprung ab], ich kam ihm nah und
-                        <lb/>näher, ich musste ihn erreichen. n[N]un hielt er plotzlich
-                        <lb/>an, und kehrte sich nach mir um. Wie der Löwe auf
-                        <lb/>seine Beute, so schoss ich mit s[e]inem gewaltigen
-                        <lb/>Sprung hinzu, um ihn in Besitz zu nehmen,
-                        <lb/>und traf unerwartet und hart auf korperlichen Widerstand.
-                        <lb/>##[Es] wurden mir unsichtbar die unerhörtesten Rippen stösse
-                        <lb/>ertheilt die wohl je ein Mensch gefühlt hat. Die
-                        <lb/>Wirkung des Schrekens war in mir die Arme krampfhaft
-                        <lb/>zu zu schlagen, und fest zu drücken, was ungesehen vor
-                        <lb/>mir stand. Ich stürtzte in der schnellen Handlung,
-                        <lb/>vorwärts gestreckt auf den Boden, rückwärts aber unter
-                        <lb/>mir ein Mensch, den ich umfasst hielt, und der jetzt
-                        <lb/>erst sichtbar erschien. Nun ward mir auch das ganze
-                        <pb n="49" facs="00000051.jpg"/>
-                        <lb/>e[E]reigniss sehr natürlich erklärbar, der m[M]ann musste das
-                        <lb/>unsichtbare Vogelnest, welches den, der ihn[es] hält, nicht aber
-                        <lb/>seinen Schatten unsichtbar macht erst getragen, und itzt
-                        <lb/>weg geworfen haben. i[I]ch warf[spehte mit] dem blick umher, entdeckte
-                        <lb/>gar bald in der Nähe den Schatten des unsichtbaren Nestes selbst
-                        <lb/>sprang auf und hinzu, und verfehlte nicht den teuren Raub.
-                        <lb/>Ich hie[l]t unsichtbar, schattenlos das Nest in h[H]änden.
-                        <lb/>Der schnell sich aufrichtende Mann, sich sogleich nach seinem
-                        <lb/>beglückten Bezwinger sich um sehend, erblickte auf der weiten
-                        <lb/>sonnigen Ebene weder ihn, noch denen Schatten, nach dem
-                        <lb/>er eiferig[besonders] ängstlich umher lauschte. denn dass ich an [und für] mich
-                        <lb/>schattenlos war, hatte er vorher nicht Musse gehabt zu be=
-                        <lb/>merken, und konnte es nicht vermuthen. als er sich
-                        <lb/>überzeugt, dass jede Spur verschwunden, kehrte er in der
-                        <lb/>höchsten Verzweifelung die Hand gegen sich selber und
-                        <lb/>rauft sich das Haar aus. Mir aber gab der errungene
-                        <lb/>Schatz die Möglichkeit und die Begierde zugleich mich
-                        <lb/>wieder unter die m[M]enschen zu mischen. Es fehlte mir
-                        <lb/>nicht an Vorwand ##i[gege]n mich selber meinen schnöden
-                        <lb/>Raub zu beschönigen, oder vielmehr, ich bedurfte solcher
-                        <lb/>nicht, und jedem Gedanken der Art schnell zu entweichen
-                        <lb/>eilte ich hinweg, nach dem Unglücklichen nicht zurücke
-                        <lb/>schauend, dessen ängstliche Stimme ich mir noch lange
-                        <lb/>nachhallen k[h]örte. So wenigstens kamen mir damals
-                        <lb/>alle Umstanden dieses Ereignisses vor.
-                    </p>
+                    <lb/>Allein zurück geblieben auf der oden Heide, liess <lb/>ich unendlichen
+                    Thränen freien Lauf, mein armes hertz <lb/>von nahmenloser banger Last
+                    erleichternd. Aber ich sah <lb/>meinem unüberschwänglichen Elend keine Grän<subst>
+                        <del rendition="#ow">t</del>
+                        <add place="across">z</add>
+                    </subst>e, keinen <lb/>Ausgang, kein Ziel, und ich sog <subst>
+                        <del rendition="#ow"><gap reason="covered" unit="chars" quantity="2"/></del>
+                        <add place="across">bes</add>
+                    </subst>onders mit grimmigem <lb/>Durst an dass neuen Gift, das der Unbekannte
+                    in meine <lb/>Wunden gegossen. Als ich Minas Bild vor meine Seele <lb/>rief, und
+                    die geliebte süsse Gestalt bleich und in Thränen <lb/>mir erschien, wie ich sie
+                    zuletzt in meiner Schmach gesehen, <lb/>da trat frech und höhnend Rascals
+                    Schemen zwischen <lb/>sie und mich, ich verhülte mein Gesicht und floh
+                    <lb/>durch die Einöde, aber die <subst>
+                        <del rendition="#s">schreckliche</del>
+                        <add place="superlinear">schaulige</add>
+                    </subst> Erscheinung <lb/>gab mich nicht frei, sondern <subst>
+                        <del rendition="#ow">f</del>
+                        <add place="across">v</add>
+                    </subst>erfolgte mich im <lb/>Laufe biss ich athemlos a<subst>
+                        <del rendition="#s">m</del>
+                        <add place="across">n</add>
+                    </subst>
+                    <add place="superlinear">den</add> Boden sank, und die <lb/>Erde mit erneuertem
+                    Thraenenquell befeuchtete. Und <lb/>alles um einen Schatten! und diesen Schatten
+                    hätte <lb/>mir ein Federzug wieder erworben! <subst>
+                        <del rendition="#ow">i</del>
+                        <add place="across">I</add>
+                    </subst>ch überdachte <lb/>den befremdenden Antrag und meine Weigerung: <subst>
+                        <del rendition="#ow">e</del>
+                        <add place="across">E</add>
+                    </subst>s <lb/>war wüst in mir, ich hatte weder Urt<subst>
+                        <del rendition="#ow"><gap reason="covered" unit="chars" quantity="3"/></del>
+                        <add place="across">hei</add>
+                    </subst>l, noch <lb/><subst>
+                        <del rendition="#ow">f</del>
+                        <add place="across">F</add>
+                    </subst>assungs vermögen mehr. Der Tag verging: <del type="strike-through"
+                        >Bendel <lb/>musste meine Spur verloren haben</del>. Ich stillte meinen
+                    <lb/>Hunger mit wilden Früchten, m<add place="intralinear">e</add>im<subst>
+                        <del rendition="#ow"><gap reason="covered" unit="chars" quantity="1"/></del>
+                        <add place="across">nen</add>
+                    </subst> Durst im nächsten <lb/>Bergstrom, die Nacht brach ein, ich lagerte mich
+                    unter <lb/>einem baum, der <subst>
+                        <del rendition="#s">frühe</del>
+                        <add place="superlinear">feuchte</add>
+                    </subst> Morgen weckte mich aus <lb/>einem schweren Schlaf, in dem ich mich
+                    selber wie <lb/>im Todte röcheln hörte. Bendel musste meine Spur <lb/>verloren
+                    haben, und es freute mich es zu denken <lb/>Ich wollte nicht unter die Menschen
+                    zurückkehren, vor <lb/>welchen ich schreckhaft floh, wie das scheue Wild des
+                    <lb/>Gebürges. So verlebte ich drei langen Tage. Ich <lb/>befand mich am Morgen
+                    des vierten, auf einer sandigen <lb/>Ebene, welche die Sonne hell beschien, und
+                    sass auf <lb/>Felsen Trümmer in ihrem Stral, denn ich liebte jetzt <pb n="48"
+                        facs="00000050.jpg"/>
+                    <lb/><subst>
+                        <del rendition="#ow">I</del>
+                        <add place="across">i</add>
+                    </subst>hren lang entbehrten Anblick zu geniessen. Ich nährte stille <lb/>mein
+                    herz mit seiner Verzweifelung. da schreck<subst>
+                        <del rendition="#ow">e</del>
+                        <add place="across">t</add>
+                    </subst>e mich ein <lb/>leises Geräusch auf, ich wa<subst>
+                        <del rendition="#ow"><gap reason="covered" unit="chars" quantity="1"/></del>
+                        <add place="across">r</add>
+                    </subst>f, zur <subst>
+                        <del rendition="#ow">f</del>
+                        <add place="across">F</add>
+                    </subst>llucht bereit, den Blick <lb/>um mich her, ich sah niemand: aber <add
+                        place="superlinear">es kam</add> auf dem sonnigen <lb/>Sande an mir vorbei
+                    geglitten ein Menschenschatten dem <lb/>meinigen nicht unäh<add
+                        place="superlinear">n</add>lich, welcher allein daher wandelnd von
+                    <lb/>seinem Herrn abgekommen zu sein schien. Da erwachte in <lb/>mir ein
+                    mächtiger Trieb,: Schatten, dacht ich, siehst du <lb/>deinen Herrn, der will ich
+                    sein. und ich sprang hinzu um <lb/>mich seiner zu bemächtigen, ich dachte
+                    nähmlich, dass, wenn <lb/>es mir glückte in seine Spur zu treten, so dass er mir
+                    an <lb/>die Füsse käme, er wohl daran hängen bleiben würde <lb/>und sich mit der
+                    Zeit an mi<subst>
+                        <del rendition="#ow">r</del>
+                        <add place="across">ch</add>
+                    </subst> gewöhnen. Der Schatten, <lb/>auf meine Bewegung, nahm vor mir die
+                    Flucht, und <lb/>ich musste auf den leichten Flüchtling eine angestrengte
+                    <lb/>Jagt be<subst>
+                        <del rendition="#ow"><gap reason="covered" unit="chars" quantity="1"/></del>
+                        <add place="across">g</add>
+                    </subst>innen, zu der mich allein der Gedanke, mich <lb/>aus der fürchtbaren
+                    Lage in der ich war zu retten, <lb/>mit hinreichenden Kräften ausrüsten konnte.
+                    Er floh <lb/>einem freilig noch entfernten Walde zu, in dessen Schatten <lb/>ich
+                    ihn nothwendig hätte verlieren müssen – ich sah’s , <add place="sublinear"
+                        >–</add>
+                    <lb/>ein , Schrecken durchzuckte mir das Herz, fachte meine <lb/>Begierde an, <subst>
+                        <del rendition="#s">verdoppelte meine Kraft</del>
+                        <add place="superlinear">beflügelte meinen Lauf</add>
+                    </subst> – ich gewann <lb/>sichtbarlich <subst>
+                        <del rendition="#s">auf</del>
+                        <add place="superlinear">auf</add>
+                    </subst> de<subst>
+                        <del rendition="#ow">m</del>
+                        <add place="across">n</add>
+                    </subst> Schatten <add place="superlinear">den <subst>
+                            <del rendition="#ow">f</del>
+                            <add place="across">v</add>
+                        </subst>orsprung ab</add>, ich kam ihm nah und <lb/>näher, ich musste ihn
+                    erreichen. <subst>
+                        <del rendition="#ow">n</del>
+                        <add place="across">N</add>
+                    </subst>un hielt er plotzlich <lb/>an, und kehrte sich nach mir um. Wie der Löwe
+                    auf <lb/>seine Beute, so schoss ich mit s<add place="across">e</add>inem
+                    gewaltigen <lb/>Sprung hinzu, um ihn in Besitz zu nehmen, <lb/>und traf
+                    unerwartet und hart auf korperlichen Widerstand. <lb/><subst>
+                        <del rendition="#ow"><gap reason="covered" unit="chars" quantity="2"/></del>
+                        <add place="across">Es</add>
+                    </subst> wurden mir unsichtbar die unerhörtesten Rippen stösse <lb/>ertheilt die
+                    wohl je ein Mensch gefühlt hat. Die <lb/>Wirkung des Schrekens war in mir die
+                    Arme krampfhaft <lb/>zu zu schlagen, und fest zu drücken, was ungesehen vor
+                    <lb/>mir stand. Ich stürtzte in der schnellen Handlung, <lb/>vorwärts gestreckt
+                    auf den Boden, rückwärts aber unter <lb/>mir ein Mensch, den ich umfasst hielt,
+                    und der jetzt <lb/>erst sichtbar erschien. Nun ward mir auch das ganze <pb
+                        n="49" facs="00000051.jpg"/>   <lb/><subst>
+                        <del rendition="#ow">e</del>
+                        <add place="across">E</add>
+                    </subst>reigniss sehr natürlich erklärbar, der <subst>
+                        <del rendition="#ow">m</del>
+                        <add place="across">M</add>
+                    </subst>ann musste das <lb/>unsichtbare Vogelnest, welches den, der <subst>
+                        <del rendition="#s">ihn</del>
+                        <add place="superlinear">es</add>
+                    </subst> hält, nicht aber <lb/>seinen Schatten unsichtbar macht erst getragen,
+                    und itzt <lb/>weg geworfen haben. <subst>
+                        <del rendition="#ow">i</del>
+                        <add place="across">I</add>
+                    </subst>ch <subst>
+                        <del rendition="#s">warf</del>
+                        <add place="superlinear">spehte mit</add>
+                    </subst> dem blick umher, entdeckte <lb/>gar bald in der Nähe den Schatten des
+                    unsichtbaren Nestes selbst <lb/>sprang auf und hinzu, und verfehlte nicht den
+                    teuren Raub. <lb/>Ich hie<add place="intralinear">l</add>t unsichtbar,
+                    schattenlos das Nest in <subst>
+                        <del rendition="#ow">h</del>
+                        <add place="across">H</add>
+                    </subst>änden. <lb/>Der schnell sich aufrichtende Mann, sich sogleich nach
+                    seinem <lb/>beglückten Bezwinger sich um sehend, erblickte auf der weiten
+                    <lb/>sonnigen Ebene weder ihn, noch denen Schatten, nach dem <lb/>er <subst>
+                        <del rendition="#s">eiferig</del>
+                        <add place="superlinear">besonders</add>
+                    </subst> ängstlich umher lauschte. denn dass ich an<add place="superlinear">und
+                        für</add> mich <lb/>schattenlos war, hatte er vorher nicht Musse gehabt zu
+                    be= <lb/>merken, und konnte es nicht vermuthen. als er sich <lb/>überzeugt, dass
+                    jede Spur verschwunden, kehrte er in der <lb/>höchsten Verzweifelung die Hand
+                    gegen sich selber und <lb/>rauft sich das Haar aus. Mir aber gab der errungene
+                    <lb/>Schatz die Möglichkeit und die Begierde zugleich mich <lb/>wieder unter die <subst>
+                        <del rendition="#ow">m</del>
+                        <add place="across">M</add>
+                    </subst>enschen zu mischen. Es fehlte mir <lb/>nicht an Vorwand <subst>
+                        <del rendition="#ow"><gap reason="covered" unit="chars" quantity="2"
+                                /><unclear reason="covered" cert="high">i</unclear></del>
+                        <add place="across">gege</add>
+                    </subst>n mich selber meinen schnöden <lb/>Raub zu beschönigen, oder vielmehr,
+                    ich bedurfte solcher <lb/>nicht, und jedem Gedanken der Art schnell zu
+                    entweichen <lb/>eilte ich hinweg, nach dem Unglücklichen nicht zurücke
+                    <lb/>schauend, dessen ängstliche Stimme ich mir noch lange <lb/>nachhallen <subst>
+                        <del rendition="#ow">k</del>
+                        <add place="across">h</add>
+                    </subst>örte. So wenigstens kamen mir damals <lb/>alle Umstanden dieses
+                    Ereignisses vor. </p>
                     <p>
                         <lb/>Ich brannte nach dem Förstergarten zu gehen, und
                         <lb/>durch mich selbst die Wahrheit dessen zu erkennen, was
