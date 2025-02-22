@@ -3189,38 +3189,64 @@
                     <lb/>Reden! er hat weislig gespaart wo verschwendet wurde. <lb/>– Ein Mann, der
                     die Livrée getragen hat! – dummes <lb/>Zeug! er hat doch einen untadlichen
                     Schatten – <lb/>Du hast recht, aber.... Der Mann im grauen <lb/>Rock lachte, und
-                    sah mich an. Die Thür ging <lb/>auf, und Mina trat heraus. sie stützte sich auf
-                    dem[n] <lb/>Arm einer Kammerfrau, stille Thränen flossen auf <lb/>ihren schönen
-                    blassen Wangen. sie setzte sich in einen <lb/>Sessel, der für sie unter der
-                    Linde bereitet war, und ihr <lb/>Vater nahm einen Stuhl neben ihr. Er fasste
-                    zärtlich <lb/>ihre Hand und redete sie, die heftiger zu weinen begann
+                    sah mich an. Die Thür ging <lb/>auf, und Mina trat heraus. sie stützte sich auf de<subst>
+                        <del rendition="#s">m</del>
+                        <add place="intralinear">n</add>
+                    </subst>
+                    <lb/>Arm einer Kammerfrau, stille Thränen flossen auf <lb/>ihren schönen blassen
+                    Wangen. sie setzte sich in einen <lb/>Sessel, der für sie unter der Linde
+                    bereitet war, und ihr <lb/>Vater nahm einen Stuhl neben ihr. Er fasste zärtlich
+                    <lb/>ihre Hand und redete sie, die heftiger zu weinen <del rendition="#s"
+                        >begann</del>
                     <lb/>anfing, mit zarten Worten an. „Du bist mein gutes, <lb/>liebes Kind, du
                     wirst auch vernünftig sein, wirst <lb/>nicht deinen alten Vater betrüben wollen,
                     der nur dein <lb/>gluck will, ich begreife es wohl, liebes Hertz, dass <lb/>es
                     dich sehr erschüttert hat, du bist wunderbar deinem <lb/>Unglück entkommen!
-                    bevor wir den schändlichen b[B]etrug <lb/>endeckt, hast du ihn diesen Unwürdigen
-                    sehr geliebt, liebe <lb/>Mina, ich weiss es, und ich mache dir keine v[V]orwürfe
-                    <lb/>darüber, Ich selber, liebes Kind, habe ihn auch geliebt, <lb/>so lange ich
-                    ihn für einen grossen h[H]errn angesehen <lb/>habe. Nun siehst du selber ein wie
-                    anders alles ge= <lb/>worden. was! ein jeder Pudel hat ja seinen Schatten
-                    <lb/>und mein# liebes einziges Kind sollte einen Mann... <lb/>Nein, du denkst
-                    auch gar nicht mehr an ihn. <lb/>– höre, Mina, Nun wirbt ein Mann un[m] dich,
-                    der <lb/>die Sonne nicht scheut, ein geehrter Mann, der <lb/>freilig kein Fürst
-                    ist, aber Zeh Zehn Mil[l]ionen, <lb/>mehr zehn mal [mehr] als du, in Vermögen
-                    besitzt, ein <lb/>Mann der mein liebes Kind glücklich machen wird. <lb/>erwidere
-                    mir nichts, widersetze dich nicht, sei meine <lb/>gute gehorsame Tochter, lass
-                    dein[en] liebenden Vater <lb/>für dich sorgen, deine Thränen trocknen. Versprich
-                    <lb/>mir dem Herrn Raskal deine Hand zu geben, sage <lb/>willst du mir das
-                    versprechen,?. sie andwortete mit <pb n="53" facs="00000055.jpg"/>
+                    bevor wir den schändlichen <subst>
+                        <del rendition="#ow">b</del>
+                        <add place="across">B</add>
+                    </subst>etrug <lb/>endeckt, hast du <del rendition="#s">ihn</del> diesen
+                    Unwürdigen sehr geliebt, liebe <lb/>Mina, ich weiss es, und ich mache dir keine <subst>
+                        <del rendition="#ow">v</del>
+                        <add place="across">V</add>
+                    </subst>orwürfe <lb/>darüber, Ich selber, liebes Kind, habe ihn auch geliebt,
+                    <lb/>so lange ich ihn für einen grossen <subst>
+                        <del rendition="#ow">h</del>
+                        <add place="across">H</add>
+                    </subst>errn angesehen <lb/>habe. Nun siehst du selber ein wie anders alles ge=
+                    <lb/>worden. was! ein jeder Pudel hat ja seinen Schatten <lb/>und mein<gap
+                        reason="covered" unit="chars" quantity="1"/> liebes einziges Kind sollte
+                    einen Mann... <lb/>Nein, du denkst auch gar nicht mehr an ihn. <lb/>– höre,
+                    Mina, Nun wirbt ein Mann u<subst>
+                        <del rendition="#ow">n</del>
+                        <add place="across">m</add>
+                    </subst> dich, der <lb/>die Sonne nicht scheut, ein geehrter Mann, der
+                    <lb/>freilig kein Fürst ist, aber <del rendition="#s">Zeh</del> Zehn Mi<add
+                        place="intralinear">l</add>lionen, <del rendition="#s"><lb/>mehr</del> zehn
+                    mal <add place="superlinear">mehr</add> als du, in Vermögen besitzt, ein
+                    <lb/>Mann der mein liebes Kind glücklich machen wird. <lb/>erwidere mir nichts,
+                    widersetze dich nicht, sei meine <lb/>gute gehorsame Tochter, lass dein<add
+                        place="sublinear">en</add> liebenden Vater <lb/>für dich sorgen, deine
+                    Thränen trocknen. Versprich <lb/>mir dem Herrn Raskal deine Hand zu geben, sage
+                    <lb/>willst du mir das versprechen,?. sie andwortete mit <pb n="53"
+                        facs="00000055.jpg"/>
                     <lb/>mit erstorbener Stimme: Ich habe keinen Willen, keinen <lb/>Wunsch fürder
                     auf Erden. geschehe mit mir was mein <lb/>Vater will. Zugleich ward Herr Raskal
-                    angemeldet <lb/>und trat frech herein[in den Kreiss.] Mina lag in Ohnmacht mein
-                    <lb/>Verhasster Gefährte, blickte mich zornig an und flüssterte <lb/>mir die
-                    schnellen Worte: „Und das konnten sie erdulden! <lb/>was fliesst ihnen denn
-                    statt Blutes in den Adern? „Er <lb/>ritzte mir mit einer s[r]aschen Bewegung
-                    eine leichte <lb/>Wunde in die Hand, es floss blut, er fuhr fort:
-                    <lb/>„Wahrhaftig! rothes b[B]luth... so unterschreiben sie„ <lb/>Ich hatte das
-                    Pergament und die Feder in Händen. </p>
+                    angemeldet <lb/>und trat frech <subst>
+                        <del rendition="#s">herein</del>
+                        <add place="superlinear">in den Kreiss.</add>
+                    </subst> Mina lag in Ohnmacht mein <lb/>Verhasster Gefährte, blickte mich zornig
+                    an und flüssterte <lb/>mir die schnellen Worte: „Und das konnten sie erdulden!
+                    <lb/>was fliesst ihnen denn statt Blutes in den Adern? „Er <lb/>ritzte mir mit
+                    einer <subst>
+                        <del rendition="#ow">s</del>
+                        <add place="across">r</add>
+                    </subst>aschen Bewegung eine leichte <lb/>Wunde in die Hand, es floss blut, er
+                    fuhr fort: <lb/>„Wahrhaftig! rothes <subst>
+                        <del rendition="#ow">b</del>
+                        <add place="across">B</add>
+                    </subst>luth... so unterschreiben sie„ <lb/>Ich hatte das Pergament und die
+                    Feder in Händen. </p>
                 </div>
             <div type="chapter" n="7">
                 <pb n="54" facs="00000056.jpg"/>
@@ -3937,11 +3963,12 @@
                         <add place="across">g</add>
                     </subst>en<del rendition="#s">d</del>, dem <lb/>Schiksale es anheim stellend,
                     was es mit mir vor hatte, <lb/>zu erfüllen – Ich schaute nicht hinter mir
-                    zur<gap reason="lost" unit="chars" quantity="3"/> und <pb n="66" facs="00000068.jpg"
-                    /><lb/>dachte auch nicht daran <del rendition="#s">mich</del> an Bendel, den ich
-                    <lb/>reich zurücke gelassen hatte, mich zu wenden, welches ich <lb/>allerdings
-                    gekonnnt hätte. Ich sah mich auf den neuen <lb/>Character an, den ich in der
-                    Welt bekleiden sollte: mein Anzug <lb/>war sehr bescheiden. <subst>
+                        zur<gap reason="lost" unit="chars" quantity="3"/> und <pb n="66"
+                        facs="00000068.jpg"/><lb/>dachte auch nicht daran <del rendition="#s"
+                        >mich</del> an Bendel, den ich <lb/>reich zurücke gelassen hatte, mich zu
+                    wenden, welches ich <lb/>allerdings gekonnnt hätte. Ich sah mich auf den neuen
+                    <lb/>Character an, den ich in der Welt bekleiden sollte: mein Anzug <lb/>war
+                    sehr bescheiden. <subst>
                         <del rendition="#ow">i</del>
                         <add place="across">I</add>
                     </subst>ch hatte eine alte Schwartze Kurtka an, <lb/>die ich schon in <placeName
@@ -4010,8 +4037,8 @@
                         <add place="across">M</add>
                     </subst>enschen Geselschaft. Ich hielt mich im <lb/><gap reason="lost"
                         unit="chars" quantity="2"/>nkelsten <add place="sublinear">dunkelsten</add>
-                    Wald und musste manchmal <del rendition="#s">stund</del> um <pb n="67" facs="00000069.jpg"
-                    /><lb/>über einen Strich, wo die <subst>
+                    Wald und musste manchmal <del rendition="#s">stund</del> um <pb n="67"
+                        facs="00000069.jpg"/><lb/>über einen Strich, wo die <subst>
                         <del rendition="#ow">s</del>
                         <add place="across">S</add>
                     </subst>onne schien, zu kommen, Stunden <lb/>lang darauf warten, dass mir keines
@@ -4037,19 +4064,22 @@
                     </subst> schon auf den blossen <subst>
                         <del rendition="#ow">f</del>
                         <add place="across">F</add>
-                    </subst>üssen, † am nächt[s]ten Morgen <lb/>besorgte ich dieses geschäft mit
-                    vielem Ernst in einem <lb/><del rendition="#s">Dorf</del> Flecken, wo Kirmess
-                    war, und wo in einer Bude neue <lb/>und alte Stiefel zu Kauf standen †. Ich
-                    musste auf ein <note place="left" hand="#author">† Ich wählte und handelte lange
-                    </note><lb/>Paar neuer, die ich gerne gehabt hätte, Verzicht leisten, <lb/>mich
-                    schreckte die unbillige Foderung. ich begnügte mich <lb/>also mit alten, die
-                    noch gut und stark waren, und die mir <lb/>der Schöne blondlockige Knabe, der
-                    die Bude hielt, gegen <lb/>gleich baare Betzahlung, freundlich lächelnd
-                    einhandigte, <lb/>Indem er mir Glück auf den Weg wünschte, Ich zog <lb/>sie
-                    gleich an, und ging zum nordlich gelegenen Thor aus <lb/>dem Ort, ich war <del
-                        rendition="#s">sehr</del> in mein<del rendition="#s">en</del> Gedanken sehr
-                    vertieft <lb/>und sah kaum wo ich den Fuss hinsetzte, denn ich <lb/>dachte an
-                    das Bergwerk, wo ich auf den Abend noch <del rendition="#s">zu</del>
+                    </subst>üssen, † am näch<subst>
+                        <del rendition="#ow">t</del>
+                        <add place="across">s</add>
+                    </subst>ten Morgen <lb/>besorgte ich dieses geschäft mit vielem Ernst in einem
+                        <lb/><del rendition="#s">Dorf</del> Flecken, wo Kirmess war, und wo in einer
+                    Bude neue <lb/>und alte Stiefel zu Kauf standen †. Ich musste auf ein <note
+                        place="left" hand="#author">† Ich wählte und handelte lange </note><lb/>Paar
+                    neuer, die ich gerne gehabt hätte, Verzicht leisten, <lb/>mich schreckte die
+                    unbillige Foderung. ich begnügte mich <lb/>also mit alten, die noch gut und
+                    stark waren, und die mir <lb/>der Schöne blondlockige Knabe, der die Bude hielt,
+                    gegen <lb/>gleich baare Betzahlung, freundlich lächelnd einhandigte, <lb/>Indem
+                    er mir Glück auf den Weg wünschte, Ich zog <lb/>sie gleich an, und ging zum
+                    nordlich gelegenen Thor aus <lb/>dem Ort, ich war <del rendition="#s">sehr</del>
+                    in mein<del rendition="#s">en</del> Gedanken sehr vertieft <lb/>und sah kaum wo
+                    ich den Fuss hinsetzte, denn ich <lb/>dachte an das Bergwerk, wo ich auf den
+                    Abend noch <del rendition="#s">zu</del>
                     <lb/>an<add place="superlinear">zu</add>langen <subst>
                         <del rendition="#s">sollte</del>
                         <add place="superlinear">hoffte</add>
@@ -4228,11 +4258,11 @@
                             <del rendition="#ow">e</del>
                             <add place="across">i</add>
                         </subst>gen Monumente der Aeg<gap reason="lost" unit="chars" quantity="5"/>
-                        <pb n="70" facs="00000072.jpg"/><lb/>beladen noch mit den Mystischen Zeichen ihrer Weisheit
-                        <lb/>sie selber sind auf der Erde vorübergegangen. — Ich sah' <lb/>die
-                        hundertthorigen <placeName key="Theben">Theben</placeName> und <placeName
-                            key="MemnonsBildseule">Memnons Bildseule</placeName>. <lb/>Ich erblickte
-                        in der nahen Wüste die H<subst>
+                        <pb n="70" facs="00000072.jpg"/><lb/>beladen noch mit den Mystischen Zeichen
+                        ihrer Weisheit <lb/>sie selber sind auf der Erde vorübergegangen. — Ich sah'
+                        <lb/>die hundertthorigen <placeName key="Theben">Theben</placeName> und
+                            <placeName key="MemnonsBildseule">Memnons Bildseule</placeName>.
+                        <lb/>Ich erblickte in der nahen Wüste die H<subst>
                             <del rendition="#ow"><gap reason="covered" unit="chars" quantity="1"
                                 /></del>
                             <add place="across">ö</add>
@@ -4341,9 +4371,9 @@
                         der <placeName key="Normandie">Normandie</placeName>, und schritt leicht
                             <lb/><gap reason="lost" unit="chars" quantity="1"/><placeName
                             key="England">ngelland</placeName> über. Ich sah mich unter einem
-                        neblichten Himmel <pb n="71" facs="00000073.jpg"/><lb/>in den drei Reichen um, wo die Menschen,
-                        von denen ich mich <lb/>getrennt fühlte, ein grosses Rätzel gelöst zuhaben
-                        scheinen. <lb/>Ich durchschritt <subst>
+                        neblichten Himmel <pb n="71" facs="00000073.jpg"/><lb/>in den drei Reichen
+                        um, wo die Menschen, von denen ich mich <lb/>getrennt fühlte, ein grosses
+                        Rätzel gelöst zuhaben scheinen. <lb/>Ich durchschritt <subst>
                             <del rendition="#ow">f</del>
                             <add place="across">F</add>
                         </subst>rankreich zum zweiten Mal, und bestieg <subst>
@@ -4468,9 +4498,9 @@
                                 <add rendition="#ow">M</add>
                             </subst>eer</placeName> zu finden. Ich erspaarte <gap reason="lost"
                             unit="chars" quantity="3"/> die <lb/>genauere geographische Untersuchung
-                        dieser Polarregionen <pb n="72" facs="00000074.jpg"/><lb/>auf eine andere zeit, und kam mich
-                        etwas links haltend <lb/>an die <del rendition="#s">sehr</del> reich
-                        umgrünten Seen die ihre Gewässer in den <lb/>raschen <subst>
+                        dieser Polarregionen <pb n="72" facs="00000074.jpg"/><lb/>auf eine andere
+                        zeit, und kam mich etwas links haltend <lb/>an die <del rendition="#s"
+                            >sehr</del> reich umgrünten Seen die ihre Gewässer in den <lb/>raschen <subst>
                             <del rendition="#ow">f</del>
                             <add place="across">F</add>
                         </subst>luss <placeName key="StLawrence">Sanct <subst>
@@ -4575,15 +4605,15 @@
                             <del rendition="#ow"><gap reason="covered" unit="chars" quantity="1"
                                 /></del>
                             <add place="across">e</add>
-                            </subst>ich der Sonnen=<g ref="#typoHyphen"/><pb n="73" facs="00000075.jpg"/><lb break="no"/>
-                        Kindern, und mein Blick überschaute fern <lb/>das Ocean. — ich durchwanderte
-                        die Landenge <lb/>zum zweiten Mal, und verfolgte den, hohen <lb/>Rücken
-                        durch das <placeName key="Mexiko">Reich <persName key="Montezuma"
-                                >Montezumas</persName></placeName> ich setzte <lb/>mich traurend am
-                        Ufer des Sees wo seine Hauptstadt <lb/>nun, wie <add place="superlinear"
-                            >die</add> der Inca<add place="intralinear">'</add>s, die fremde Brut
-                        hegt — ich folgte <lb/>dem gebürge immer nord westlich die Sonne <del
-                            rendition="#s">hinter</del>
+                        </subst>ich der Sonnen=<g ref="#typoHyphen"/><pb n="73" facs="00000075.jpg"
+                            /><lb break="no"/> Kindern, und mein Blick überschaute fern <lb/>das
+                        Ocean. — ich durchwanderte die Landenge <lb/>zum zweiten Mal, und verfolgte
+                        den, hohen <lb/>Rücken durch das <placeName key="Mexiko">Reich <persName
+                                key="Montezuma">Montezumas</persName></placeName> ich setzte
+                        <lb/>mich traurend am Ufer des Sees wo seine Hauptstadt <lb/>nun, wie <add
+                            place="superlinear">die</add> der Inca<add place="intralinear">'</add>s,
+                        die fremde Brut hegt — ich folgte <lb/>dem gebürge immer nord westlich die
+                        Sonne <del rendition="#s">hinter</del>
                         <lb/>
                         <subst>
                             <del rendition="#ow">s</del>
@@ -4625,7 +4655,7 @@
                             <del rendition="#ow">h</del>
                             <add place="across">H</add>
                         </subst>alb=insel <placeName key="Malaca">Malaca</placeName> zu erreichen.
-                        Meine <lb/><del rendition="#s">2</del>Stiefel trugen mich </del>[auf
+                        Meine <lb/><del rendition="#s">2</del>Stiefel trugen mich </del>auf
                         <placeName key="Sumatra">Sumatra</placeName>
                     <placeName key="Java">Java</placeName>
                     <placeName key="Bali">Bali</placeName> und <lb/><placeName key="Lamboc"
@@ -4654,13 +4684,13 @@
                         <add place="across">B</add>
                     </subst><gap reason="lost" unit="chars" quantity="1"/>
                     <add place="sublinear">mühungen</add>
-                    <pb n="74" facs="00000076.jpg"/><lb/>der Menschen! Oft hab ich im strengsten Winter der
-                    <lb/>südlichen Halbkugel vom Cap horn aus jene zweihundert <lb/>Schritte, die
-                    mich etwa vom <placeName key="LandVanDiemen">Land van Diemen</placeName> und
-                        Neu<lb break="no"/>holland trennten, selbst unbekümmert umd die Rückkehr
-                    <lb/>und sollte sich dieses <add place="sublinear"> enge</add> schlechte Land
-                        <add place="sublinear">über mich</add> wie der Deckel meines <lb/><del
-                        rendition="#s">Grabes</del>
+                    <pb n="74" facs="00000076.jpg"/><lb/>der Menschen! Oft hab ich im strengsten
+                    Winter der <lb/>südlichen Halbkugel vom Cap horn aus jene zweihundert
+                    <lb/>Schritte, die mich etwa vom <placeName key="LandVanDiemen">Land van
+                        Diemen</placeName> und Neu<lb break="no"/>holland trennten, selbst
+                    unbekümmert umd die Rückkehr <lb/>und sollte sich dieses <add place="sublinear">
+                        enge</add> schlechte Land <add place="sublinear">über mich</add> wie der
+                    Deckel meines <lb/><del rendition="#s">Grabes</del>
                     <add place="sublinear">Sarges</add> schliessen, über den Polar glätscher <subst>
                         <del rendition="#s"><gap reason="covered" unit="chars" quantity="3"/></del>
                         <add place="sublinear">west</add>
