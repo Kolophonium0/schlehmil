@@ -12,8 +12,79 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>H</title>
-                <author>JWG</author>
+                <title>Peter Schlemiel's Schicksale, mitgetheilt von Adelbert von Chamisso.</title>
+                <author>
+                    <persName key="adelbert_von_chamisso">Adelbert von Chamisso</persName>
+                </author>
+                <editor>
+                    <persName ref="https://orcid.org/0000-0003-0059-9597">
+                        <surname>Dennerlein</surname>
+                        <forename>Katrin</forename>
+                    </persName>
+                </editor>
+                <respStmt>
+                    <persName ref="https://orcid.org/0000-0002-6547-9599">
+                        <surname>Herbst</surname>
+                        <forename>Yannik</forename>
+                    </persName>
+                    <resp><note type="remarkResponsibility">Kapitel 5 und 6; Korrektur; Technische Infrastruktur.</note></resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="3">
+                        <surname>Kutzera</surname>
+                        <forename>Miriam</forename>
+                    </persName>
+                    <resp><note type="remarkResponsibility">Vorrede; Kapitel 1 und 2.</note></resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="4">
+                        <surname>König</surname>
+                        <forename>Irina</forename>
+                    </persName>
+                    <resp><note type="remarkResponsibility">Transkription.</note></resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="https://orcid.org/0000-0003-0059-9597">
+                        <surname>Dennerlein</surname>
+                        <forename>Katrin</forename>
+                    </persName>
+                    <resp><note type="remarkResponsibility">Transkription und erste TEI Version.</note></resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="6">
+                        <surname>Krüger</surname>
+                        <forename>Anja</forename>
+                    </persName>
+                    <resp><note type="remarkResponsibility">Beratung.</note></resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="7">
+                        <surname>Sproll</surname>
+                        <forename>Monika</forename>
+                    </persName>
+                    <resp><note type="remarkResponsibility">Beratung.</note></resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="8">
+                        <surname>Schmitt</surname>
+                        <forename/>
+                    </persName>
+                    <resp><note type="remarkResponsibility">Kapitel 3 und 4.</note></resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="12">
+                        <surname>Rupnig</surname>
+                        <forename>Martin</forename>
+                    </persName>
+                    <resp><note type="remarkResponsibility">Kapitel 7 und 8.</note></resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="123">
+                        <surname>Brixy</surname>
+                        <forename>Astrid</forename>
+                    </persName>
+                    <resp><note type="remarkResponsibility">Kapitel 9 und 10.</note></resp>
+                </respStmt>
             </titleStmt>
             <editionStmt>
                 <p>Übung</p>
@@ -24,9 +95,11 @@
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
-                        <institution>INST</institution>
-                        <repository>REP</repository>
-                        <collection>COLL</collection>
+                        <institution>Staatsbibliothek Berlin</institution>
+                        <idno type="url">http://resolver.staatsbibliothek-berlin.de/SBB00005A8300000000</idno>
+                        <altIdentifier>
+                            <idno>SBB Berlin &lt;Ms. germ. qu. 1809&gt;</idno>
+                        </altIdentifier>
                     </msIdentifier>
                     <physDesc>
                         <handDesc>
