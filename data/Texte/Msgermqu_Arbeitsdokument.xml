@@ -87,7 +87,7 @@
                 </respStmt>
             </titleStmt>
             <editionStmt>
-                <p>Übung</p>
+                <edition>Peter Schlemiel's Schicksale, mitgetheilt von Adelbert von Chamisso. Faksimile-Ausgabe der Handschrift hrsg. von der Chamisso-Gesellschaft e.V. Mit einer diplomatischen Transkription von Katrin Dennerlein. [Mit Begleittexten von Jutta Weber, Anna Busch, Anja Krüger, Monika Sproll und Katrin Dennerlein] Kunersdorf 2013.</edition>
             </editionStmt>
             <publicationStmt>
                 <p>Nie.</p>
@@ -120,16 +120,23 @@
                             </handNote>
                         </handDesc>
                     </physDesc>
-
                     <history>
                         <origin>
                             <origDate notBefore="1831-03" notAfter="1831-04">1831 März/April 1831</origDate>
                         </origin>
                     </history>
+                    <p>
+                        H2 Peter Schlemihl’s Schicksale mitgetheilt von Adelbert von Chamisso; Handschrift Chamissos in lateinischer Schrift mit zahlreichen Korrekturen Chamissos, im August und September 1813 in Kunersdorf entstanden, datiert: 27. 7br. 1813.
+                        Das Autograph umfasst 40 Bogen, die in drei Hefte von 15, 10 und 15 Bogen aufgeteilt sind. Alle drei Hefte wurden gemeinsam noch einmal längs gefaltet. Auf diese Weise sind die Seiten von 20 cm Breite und 24,5 cm Höhe jeweils in einen beschrifteten Bereich von durchschnittlich 11 cm und einen Korrekturrand von durchschnittlich 8 cm aufgeteilt. Es ist anzunehmen, dass Chamisso diese Faltung vorgenommen hat, bevor er die Blätter beschriftet hat, weil der Schriftverlauf sich auf allen Seiten an dem gefalteten Rand orientiert. Das Papier ist eng und häufig ohne Rand nach oben und außen und mit maximal 1,2 cm Rand nach unten beschrieben. Der innen liegende Korrekturrand ist fast immer frei geblieben und wurde nur an elf Stellen für zumeist kurze Zusätze, maximal jedoch drei Sätze lange Einfügungen und Ersetzungen genutzt. Streichungen längerer Passagen finden sich nur auf acht Seiten. Im letzten Heft finden sich auf fast allen Seiten am äußeren unteren Rand Brandflecken, die zunächst größer, dann wieder kleiner werden. Die ausgebrannten Worte hat Chamisso selbst zu einem späteren Zeitpunkt zum Großteil ergänzt. Chamisso hat mit Tinte geschrieben, die Ergänzung der Brandverluste scheint mit anderer Tinte geschrieben worden zu sein, die im Gegensatz zur ersten Tinte nicht mit der Zeit braun geworden, sondern schwarz geblieben ist. Vermutlich von bibliothekarischer Hand ist eine Bleistiftpaginierung vorgenommen worden. Außerdem finden sich auf 14 Seiten insgesamt 20 Bleistiftkreuze auf dem innen liegenden Rand.
+                    </p>
                 </msDesc>
             </sourceDesc>
         </fileDesc>
-        <profileDesc> </profileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="deu">German</language>
+            </langUsage>
+        </profileDesc>
     </teiHeader>
     <text>
         <front>
@@ -340,11 +347,12 @@
                     </subst>h mir erkundigt <lb/>und dieses für mich <subst>
                         <del>abgegeben</del>
                         <add>hinterlassen</add>
-                    </subst>, er hatte aus Berlin <lb/>zu komen vorgegeben. _ _ _ <lb/>Cunersdorf
-                    den 2<subst>
-                        <del>4</del>
-                        <add>7</add>
-                    </subst>. sbr. 13. <pb n="7" facs="00000009.jpg"/></p>
+                    </subst>, er hatte aus Berlin <lb/>zu komen vorgegeben. _ _ _ <placeName
+                        key="Kunersdorf"><lb/>Cunersdorf</placeName> den <date when="1813-09-27"
+                        calendar="#Gregorian">2<subst>
+                            <del>4</del>
+                            <add>7</add>
+                        </subst>. sbr. 13</date>. <pb n="7" facs="00000009.jpg"/></p>
             </div>
         </front>
         <body>
