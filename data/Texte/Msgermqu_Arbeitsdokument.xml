@@ -65,9 +65,16 @@
                     <resp><note type="remarkResponsibility">Beratung.</note></resp>
                 </respStmt>
                 <respStmt>
+                    <persName ref="111">
+                        <surname>Krüger</surname>
+                        <forename>Anja</forename>
+                    </persName>
+                    <resp><note type="remarkResponsibility">Beratung.</note></resp>
+                </respStmt>
+                <respStmt>
                     <persName ref="8">
                         <surname>Schmitt</surname>
-                        <forename/>
+                        <forename>Tabea</forename>
                     </persName>
                     <resp><note type="remarkResponsibility">Kapitel 3 und 4.</note></resp>
                 </respStmt>
@@ -158,14 +165,14 @@
                     <docDate>MDCCCXIII.</docDate>
                 </docImprint>
             </titlePage>
-            <div type="dedication" facs="00000005.jpg">
+            <div type="dedication" facs="0005">
                 <p>
                     <lb/>Des herrn Regirungsassesor und <lb/>Buchhändler <persName>J. E.
                         Hitzig</persName> wohlgebohren <placeName>Berlin</placeName>. </p>
             </div>
             <div type="preface">
                 <p>
-                    <pb n="5" facs="00000007.jpg"/>
+                    <pb n="5" facs="0007"/>
                     <lb/>Du vergisst niemand,en, du wirst dich noch eines gewissen <lb/>Peter
                     Schlemiel <add>errinnern</add> den du in früheren <subst>
                         <del>Zeiten</del>
@@ -263,7 +270,7 @@
                     </subst><subst>
                         <del>man</del>
                         <add>etwa</add>
-                    </subst> die Beichte die <pb n="6" facs="00000008.jpg"/>
+                    </subst> die Beichte die <pb n="6" facs="0008"/>
                     <lb/>ein ehrlicher mann <subst>
                         <del>auf</del>
                         <add>in</add>
@@ -352,7 +359,7 @@
                         calendar="#Gregorian">2<subst>
                             <del>4</del>
                             <add>7</add>
-                        </subst>. sbr. 13</date>. <pb n="7" facs="00000009.jpg"/></p>
+                        </subst>. sbr. 13</date>. <pb n="7" facs="0009"/></p>
             </div>
         </front>
         <body>
@@ -420,7 +427,7 @@
                         <del>d</del>
                         <add>m</add>
                     </subst>einen bescheidenen Hoffnungen <lb/>förderlich sein sollte. Nachdem ich
-                die lange <lb/>NörderStraße hinaufgestiegen, und das Tor erreicht<pb n="8" facs="00000010.jpg"/>
+                die lange <lb/>NörderStraße hinaufgestiegen, und das Tor erreicht<pb n="8" facs="0010"/>
                     <lb/>sah ich bald die Seulen durch das <subst>
                         <del>g</del>
                         <add>G</add>
@@ -520,7 +527,7 @@
                         <lb/>in die Tasche <subst>
                             <del>d</del>
                             <add>s</add>
-                        </subst>teckte</del> so dann einsteckte, und<pb n="9" facs="00000011.jpg"/>
+                        </subst>teckte</del> so dann einsteckte, und<pb n="9" facs="0011"/>
                     <lb/>wandte sich wieder zu der Geselschaft.— Er both <lb/><del>den arm</del>
                     einer jungen Dame <add>den arm,</add> andere Herrn b<subst>
                         <del>r</del>
@@ -580,7 +587,7 @@
                         <add>v</add>
                     </subst>oter Verbeugung das verlangte <del>der Dame</del>:  <lb/>sie empfing es
                     ohne Aufmerksamkeit für den Geber  <lb/>und ohne Dank, die Wunde ward verbunden
-                und man  <lb/>ging weiter den hügel hinan, von dessen Rücken<pb n="10" facs="00000012.jpg"/><lb/>man
+                und man  <lb/>ging weiter den hügel hinan, von dessen Rücken<pb n="10" facs="0012"/><lb/>man
                     die weite Aussicht über das grüne Labyrint  <lb/>des Parckes nach dem
                     unermässlichen Ocean genissen  <lb/>wollte. der Anblick war wirklich gross und
                     herrlich.  <lb/>Ein lichter Punckt erschien am Horizont zwischen der  <lb/>du<subst>
@@ -638,7 +645,7 @@
                     </subst>A<subst>
                         <del>##</del>
                         <add>bh</add>
-                    </subst>ange <lb/>des hügels, der ausgespannten Landschaft.<pb n="11" facs="00000013.jpg"/>
+                    </subst>ange <lb/>des hügels, der ausgespannten Landschaft.<pb n="11" facs="0013"/>
                     <lb/> gegenüber gelagert, hätte man die feuchtigkeit  <lb/>der Erde nicht
                     gescheut. Es wäre göttlich,  <lb/>meinte wer aus der Geselschaft, wenn man
                     türkische  <lb/>Teppige hätte, sie hier auszubreiten. Der Wunsch  <lb/>war nicht <subst>
@@ -722,7 +729,7 @@
                     <lb/>„Nadel entlaufen ist?„ Ja, der allein steht.—  <lb/>„den kenn ich nicht„
                     gab er mir zur Antwort, <lb/>Und, wie es schien, eine# längere Unterhaltung
                     <lb/>mit mir zu vermeiden, wandt er sich weg und sprach  <lb/>von gleichgültigen
-                Dingen mit einem andern.<pb n="12" facs="00000014.jpg"/>
+                Dingen mit einem andern.<pb n="12" facs="0014"/>
                 </p>
             <p>Die <subst>
                         <del>s</del>
