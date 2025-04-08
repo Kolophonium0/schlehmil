@@ -8,7 +8,7 @@
 <!ENTITY stroke "&#x2015;">
 ]>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:f="http://faustedition.de/schema/v1"
-    xmlns:telota="http://www.telota.de" telota:doctype="document">
+    xmlns:telota="http://www.telota.de" telota:doctype="document" xml:id="schlemihl-h2">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -147,7 +147,8 @@
     </teiHeader>
     <text>
         <front>
-            <titlePage facs="00000003.jpg">
+            <titlePage>
+                <pb n="3" facs="666348782-0003"/>
                 <titlePart type="main">
                     <subst>
                         <del>W. A.</del>
@@ -165,14 +166,15 @@
                     <docDate>MDCCCXIII.</docDate>
                 </docImprint>
             </titlePage>
-            <div type="dedication" facs="0005">
-                <p>
+            <div type="dedication" facs="666348782-0005">
+                <pb n="5" facs="666348782-0005"/>
+                <p>                    
                     <lb/>Des herrn Regirungsassesor und <lb/>Buchhändler <persName>J. E.
                         Hitzig</persName> wohlgebohren <placeName>Berlin</placeName>. </p>
             </div>
             <div type="preface">
                 <p>
-                    <pb n="5" facs="0007"/>
+                    <pb n="5" facs="666348782-0007"/>
                     <lb/>Du vergisst niemand,en, du wirst dich noch eines gewissen <lb/>Peter
                     Schlemiel <add>errinnern</add> den du in früheren <subst>
                         <del>Zeiten</del>
@@ -270,7 +272,7 @@
                     </subst><subst>
                         <del>man</del>
                         <add>etwa</add>
-                    </subst> die Beichte die <pb n="6" facs="0008"/>
+                    </subst> die Beichte die <pb n="6" facs="666348782-0008"/>
                     <lb/>ein ehrlicher mann <subst>
                         <del>auf</del>
                         <add>in</add>
@@ -359,7 +361,7 @@
                         calendar="#Gregorian">2<subst>
                             <del>4</del>
                             <add>7</add>
-                        </subst>. sbr. 13</date>. <pb n="7" facs="0009"/></p>
+                        </subst>. sbr. 13</date>. <pb n="7" facs="666348782-0009"/></p>
             </div>
         </front>
         <body>
@@ -427,7 +429,7 @@
                         <del>d</del>
                         <add>m</add>
                     </subst>einen bescheidenen Hoffnungen <lb/>förderlich sein sollte. Nachdem ich
-                die lange <lb/>NörderStraße hinaufgestiegen, und das Tor erreicht<pb n="8" facs="0010"/>
+                die lange <lb/>NörderStraße hinaufgestiegen, und das Tor erreicht<pb n="8" facs="666348782-0010"/>
                     <lb/>sah ich bald die Seulen durch das <subst>
                         <del>g</del>
                         <add>G</add>
@@ -527,7 +529,7 @@
                         <lb/>in die Tasche <subst>
                             <del>d</del>
                             <add>s</add>
-                        </subst>teckte</del> so dann einsteckte, und<pb n="9" facs="0011"/>
+                        </subst>teckte</del> so dann einsteckte, und<pb n="9" facs="666348782-0011"/>
                     <lb/>wandte sich wieder zu der Geselschaft.— Er both <lb/><del>den arm</del>
                     einer jungen Dame <add>den arm,</add> andere Herrn b<subst>
                         <del>r</del>
@@ -587,7 +589,7 @@
                         <add>v</add>
                     </subst>oter Verbeugung das verlangte <del>der Dame</del>:  <lb/>sie empfing es
                     ohne Aufmerksamkeit für den Geber  <lb/>und ohne Dank, die Wunde ward verbunden
-                und man  <lb/>ging weiter den hügel hinan, von dessen Rücken<pb n="10" facs="0012"/><lb/>man
+                und man  <lb/>ging weiter den hügel hinan, von dessen Rücken<pb n="10" facs="666348782-0012"/><lb/>man
                     die weite Aussicht über das grüne Labyrint  <lb/>des Parckes nach dem
                     unermässlichen Ocean genissen  <lb/>wollte. der Anblick war wirklich gross und
                     herrlich.  <lb/>Ein lichter Punckt erschien am Horizont zwischen der  <lb/>du<subst>
@@ -645,7 +647,7 @@
                     </subst>A<subst>
                         <del>##</del>
                         <add>bh</add>
-                    </subst>ange <lb/>des hügels, der ausgespannten Landschaft.<pb n="11" facs="0013"/>
+                    </subst>ange <lb/>des hügels, der ausgespannten Landschaft.<pb n="11" facs="666348782-0013"/>
                     <lb/> gegenüber gelagert, hätte man die feuchtigkeit  <lb/>der Erde nicht
                     gescheut. Es wäre göttlich,  <lb/>meinte wer aus der Geselschaft, wenn man
                     türkische  <lb/>Teppige hätte, sie hier auszubreiten. Der Wunsch  <lb/>war nicht <subst>
@@ -729,7 +731,7 @@
                     <lb/>„Nadel entlaufen ist?„ Ja, der allein steht.—  <lb/>„den kenn ich nicht„
                     gab er mir zur Antwort, <lb/>Und, wie es schien, eine# längere Unterhaltung
                     <lb/>mit mir zu vermeiden, wandt er sich weg und sprach  <lb/>von gleichgültigen
-                Dingen mit einem andern.<pb n="12" facs="0014"/>
+                Dingen mit einem andern.<pb n="12" facs="666348782-0014"/>
                 </p>
             <p>Die <subst>
                         <del>s</del>
@@ -808,7 +810,7 @@
                         <del>t</del>
                         <add>d</add>
                     </subst>eutenden Rolle, die ich <lb/>darinnen spielte, mir ein leichtes
-                schien.<pb n="13" facs="00000015.jpg"/>
+                schien.<pb n="13" facs="666348782-0015"/>
                     <lb/>Ich wollte nach der Stadt zurücke kehren, am andern <lb/>Morgen mein Glück
                     beim Herrn John wieder <lb/>versuchen, und, wenn ich den Muth dazu
                         <del>füge</del>fände, <lb/>ihn über den seltsamen grauen Mann befragen.
@@ -878,7 +880,7 @@
                         <del>#</del>
                         <add>Z</add>
                     </subst>eit wo ich das Glück genoss mich <lb/>in ihrer Nähe zu befinden, hab
-                ich, mein Herr,<pb n="14" facs="00000016.jpg"/>
+                ich, mein Herr,<pb n="14" facs="666348782-0016"/>
                     <lb/>einige Mal, erlauben sie dass ich es ihnen sage, <lb/>wirklich mit
                     unaussprechlicher Bewunderung den <lb/>schönen, schönen Schatten betrachten
                     können, den sie <lb/>in der Sonne, und gleichsam mit einer gewissen <lb/>edlen
@@ -931,7 +933,7 @@
                     mich: Ich erbitte mir nur <lb/>dero Erlaubniss, <del>diesen</del> hier auf der
                     Stelle diesen <lb/>edlen Schatten von der Erde aufheben zu dürfen, <lb/>und
                     zumir zu stecken, wie ich das mache <lb/>sei meine Sorge. dagegen als beweis
-                meiner<pb n="15" facs="00000017.jpg"/>
+                meiner<pb n="15" facs="666348782-0017"/>
                     <lb/>erkenntligkeit gegen de<subst>
                         <del>m</del>
                         <add>n</add>
@@ -1021,7 +1023,7 @@
                     </subst>ell,  <lb/>und in mir war noch keine <subst>
                         <del>b</del>
                         <add>B</add>
-                    </subst>esinnung.<pb n="16" facs="00000018.jpg"/>
+                    </subst>esinnung.<pb n="16" facs="666348782-0018"/>
                 </p>
             </div>
             <div type="chapter" n="2">
@@ -1068,7 +1070,7 @@
                     Strassenjugend der Vorstadt,  <lb/>welche dann mich zu recensiren und mit Koth
                     zu  <lb/>bewerfen anfing: „Ordentliche Leute pflegten ihren  <lb/>Schatten mit
                     sich zu nehmen wann sie in die  <lb/>Sonne gingen.„ Um sie mir abzuwehren warf
-                    ich<pb n="17" facs="00000019.jpg"/>
+                    ich<pb n="17" facs="666348782-0019"/>
                     <lb/><subst>
                         <del>g</del>
                         <add>G</add>
@@ -1143,7 +1145,7 @@
                         <add>h</add>
                     </subst>hr zu dem Metalle,  <lb/>biss ich ermüdet selbst auf das reiche Lager
                     <lb/>sank und schwelgend darinnen wühlte mich  <lb/>darüber wältzte. So verging
-                    der Tag, der Abend<pb n="18" facs="00000020.jpg"/>
+                    der Tag, der Abend<pb n="18" facs="666348782-0020"/>
                     <lb/>ich schloss meine Thür nicht auf, die Nacht fand  <lb/>mich liegend auf dem
                     Golde und darauf übermannte  <lb/>mich der Schlaf. Da träumte es mir von dir es
                         war<del>d</del>
@@ -1197,7 +1199,7 @@
                         <del>e</del>
                         <add>E</add>
                     </subst>r empfahl mir  <lb/>für den nähern Dienst um meine Person einen<pb
-                        n="19" facs="00000021.jpg"/>
+                        n="19" facs="666348782-0021"/>
                     <lb/>gewissen Bendel , dessen treue und verständige  <lb/>Physio<subst>
                         <del>n</del>
                         <add>g</add>
@@ -1263,7 +1265,7 @@
                         <add>as</add>
                     </subst> ich ihnen einflösste,  <lb/>Ausserung<add>en</add> die mir die Seele
                     nicht minder durchbohrte<add>n</add>
-                    <lb/>als der Hohn der Jugend, und die hochmüthige <pb n="20" facs="00000022.jpg"/>
+                    <lb/>als der Hohn der Jugend, und die hochmüthige <pb n="20" facs="666348782-0022"/>
                     <lb/><subst>
                         <del>v</del>
                         <add>V</add>
@@ -1346,7 +1348,7 @@
                     </subst>
                     <lb/><del>seine</del> Erscheinung, die Ruhe und das Glück  <lb/>meines Lebens
                     zerstöhret hatte. Wie ich aus= <lb/>geredet, holt ich Gold her, eine Last, wie
-                    <lb/>ich sie nur zu tragen vermogte, und legte <pb n="21" facs="00000023.jpg"/>
+                    <lb/>ich sie nur zu tragen vermogte, und legte <pb n="21" facs="666348782-0023"/>
                     <lb/>Edelsteine und <subst>
                         <del>j</del>
                         <add>J</add>
@@ -1436,7 +1438,7 @@
                         <del>#</del>
                         <add>m</add>
                     </subst>liches Geschäft, <del>ihm</del> vor<del>zu</del>schlagen
-                    <lb/><del>haben</del>. empfehlen sie mich ihm unterthänigst und  <pb n="22" facs="00000024.jpg"
+                    <lb/><del>haben</del>. empfehlen sie mich ihm unterthänigst und  <pb n="22" facs="666348782-0024"
                     /><lb/>und versichern ihn meines <subst>
                         <del>d</del>
                         <add>D</add>
@@ -1459,7 +1461,7 @@
                     <lb/>aber an diesem selben Morgen waren zehn  <lb/>verschiedene Schiffe, die
                     widrige Winden im  <lb/>hafen zurücke gehalten, ausgelaufen, alle  <lb/>nach
                     anderen Weltstriche<add>n</add>, alle nach andern  <lb/>Küsten bestimmt, und der
-                    graue Mann  <lb/>war spurlos wie ein Schatten verschwunden. <pb n="23" facs="00000025.jpg"/></p>
+                    graue Mann  <lb/>war spurlos wie ein Schatten verschwunden. <pb n="23" facs="666348782-0025"/></p>
             </div>
             <div type="chapter" n="3">
                 <head>III</head>
@@ -1522,7 +1524,7 @@
                         <del rendition="#ow">en</del>
                         <add place="across">e</add>
                     </subst> Ungeschickligkeit <lb/>durch welche Nachlässigkeit konnte er denn
-                    seinen <pb n="24" facs="00000026.jpg"/><lb/>Schlag Schatten verlieren.— Wie es kam, erwiderte
+                    seinen <pb n="24" facs="666348782-0026"/><lb/>Schlag Schatten verlieren.— Wie es kam, erwiderte
                     <lb/>ich, mag nun sehr gleichgültig sein, doch soviel, log ich <lb/>ihm
                     unverschaemt vor. in Russland, wo er i<subst>
                         <del rendition="#ow">n</del>
@@ -1580,7 +1582,7 @@
                     </subst>icht, <subst>
                         <del rendition="#ow">v</del>
                         <add place="across">w</add>
-                    </subst>irst <lb/>dich von mir wenden, wenn du mein Schreckliches <pb n="25" facs="00000027.jpg"
+                    </subst>irst <lb/>dich von mir wenden, wenn du mein Schreckliches <pb n="25" facs="666348782-0027"
                     /><lb/>Geheimniss erfährst Bendel — ich bin reich, freigebig, <lb/>gütig, aber —
                     O! Gott!— ich habe keinen Schatten. <lb/>— Keinen S<subst>
                         <del rendition="#ow">t</del>
@@ -1630,7 +1632,7 @@
                     Launen Scheinbar <del rendition="#s">anb</del>
                     <lb/>annehmen. solche stehen aber dem Reichen gut, <lb/>und solang die Wahrheit
                     nur verborgen blieb, <lb/>Genoss ich aller der Ehre und Achtung, die meinem <pb
-                        n="26" facs="00000028.jpg"/><lb/>Golde zukamen. Ich sah ruhiger dem über <lb/>Jahr und Tag
+                        n="26" facs="666348782-0028"/><lb/>Golde zukamen. Ich sah ruhiger dem über <lb/>Jahr und Tag
                     verheissenen Besuch des Rätzelhaften <lb/>Unbekannten entgegen. Ich fühlte sehr
                     wohl, dass <lb/>ich micht nicht lange an einem Orte aufhalten <lb/>durfte, wo
                     man mich schon ohne Schatten gesehen, <lb/>und, wo ich leicht verrathen werden
@@ -1696,7 +1698,7 @@
                         <add place="superlinear">wiederholen</add>
                     </subst>. — du selber <lb/>hast sie mir oft genug von andern Ehrenleuten
                     <lb/>erzählt — Zu dem alten wohlbekanten Spiel <lb/>worin ich gutmüthig eine
-                    abgedroschene Rolle <pb n="27" facs="00000029.jpg"/><lb/>übernommen, kam freilig eine ganz eigens
+                    abgedroschene Rolle <pb n="27" facs="666348782-0029"/><lb/>übernommen, kam freilig eine ganz eigens
                     gedichtete <lb/>Catastrophe hinzu, mir und ihr und allen ganz unerwartet.
                     <lb/>Da ich an einem schönen Abend nach meiner Gewohnheit <subst>
                         <del rendition="#s"><lb/>ein# sonst prächtiges Fest</del>
@@ -1763,7 +1765,7 @@
                         <del rendition="#ow">m</del>
                         <add place="across">M</add>
                     </subst>eilen zurück. Bendel <lb/>blieb hinter mir, mein haus auf zuloesen <pb
-                        n="28" facs="00000030.jpg"/><lb/>Gold zu spenden, und mir das nöthigste <lb/>nach zu bringen. <subst>
+                        n="28" facs="666348782-0030"/><lb/>Gold zu spenden, und mir das nöthigste <lb/>nach zu bringen. <subst>
                         <del rendition="#ow">a</del>
                         <add place="across">A</add>
                     </subst>ls er mich am andern <lb/>Tag einholte, warf ich mich in seine Arme und
@@ -1784,7 +1786,7 @@
                     </subst>
                     <add place="superlinear">einem</add> nah gelegenen <add place="mBottom">und
                         wenig besuchten</add> Badort, von den <lb/>überstandenen Mühseeligkeit<add
-                            place="intralinear">en</add> auszurasten. <pb n="29"  facs="00000031.jpg"/><lb/>
+                            place="intralinear">en</add> auszurasten. <pb n="29"  facs="666348782-0031"/><lb/>
                 </p>
             </div>
             <div type="chapter" n="4">
@@ -1830,7 +1832,7 @@
                         <del rendition="#ow">—</del>
                         <add place="across">!</add>
                     </subst>. einsam auf <lb/>dem hohen öden Meere deiner bittern Fluth, <lb/>und
-                    längst aus dem letzten Pocale der Champagner <pb n="30" facs="00000032.jpg"/><lb/>Elfe entsprüht! </p>
+                    längst aus dem letzten Pocale der Champagner <pb n="30" facs="666348782-0032"/><lb/>Elfe entsprüht! </p>
                 <p>
                     <lb/>Ich hatte Bendel <del rendition="#s">vorausgeschickt</del> mit einigen
                     Goldsäcken <lb/>vorausgeschickt, um mir im <subst>
@@ -1912,7 +1914,7 @@
                     <lb/>den Grund meines Wagens verbergen<del rendition="#s">s</del>. Bendel besann
                     <lb/>sich endlich für mich, <add place="superlinear">er sprang </add>von der
                     anderen Seite aus dem <lb/>Wagen heraus, ich rief ihn noch zurücke und
-                    <lb/>reichte ihm aus meinem Kästgen das mir eben <pb n="31"  facs="00000033.jpg"/><lb/>zur hand lag
+                    <lb/>reichte ihm aus meinem Kästgen das mir eben <pb n="31"  facs="666348782-0033"/><lb/>zur hand lag
                     eine reiche Diamantene Krone die die <lb/>schöne Fanny hatte zieren sollen<subst>
                         <del rendition="#ow">,</del>
                         <add place="across">.</add>
@@ -1985,7 +1987,7 @@
                     einstweilen <lb/>in ihrem <subst>
                         <del rendition="#s">Meinung</del>
                         <add place="superlinear">Glauben</add>
-                    </subst> zu bestärken. Er stattete mir einen<pb n="32" facs="00000034.jpg"/>
+                    </subst> zu bestärken. Er stattete mir einen<pb n="32" facs="666348782-0034"/>
                     <lb/>sehr komischen Bericht ab, und da er mich dadurch <lb/>erheitert sah, gab
                     er mir selbst seine verübte bosheit zum <lb/><subst>
                         <del rendition="#ow">b</del>
@@ -2059,7 +2061,7 @@
                     allen Gästen ein Gebo<subst>
                         <del rendition="#ow">#</del>
                         <add place="across">t</add>
-                    </subst><lb/>dem nachzuleben sich jeder freudig beeiferte. Majestät <pb n="33" facs="00000035.jpg"
+                    </subst><lb/>dem nachzuleben sich jeder freudig beeiferte. Majestät <pb n="33" facs="666348782-0035"
                     /><lb/>Unschuld und gracie beherschten mit der Schön<subst>
                         <del rendition="#ow">l</del>
                         <add place="across">hei</add>
@@ -2128,7 +2130,7 @@
                     ich <lb/><del rendition="#s">auf</del> den versprochenen Tag erwartend, jede
                         <del rendition="#s">Nachsu</del>
                     <lb/>vergebliche Nachsuchung eingestellt. die Pracht meines <lb/>Festes und mein
-                    Benehmen dabei, erhielten Anfangs <pb n="34"  facs="00000036.jpg"/><lb/>die starkglaubigen Einwohner
+                    Benehmen dabei, erhielten Anfangs <pb n="34"  facs="666348782-0006"/><lb/>die starkglaubigen Einwohner
                     der Stadt bei ihrer vorge= <lb/>fassten Meinung. Es ergab sich freilig sehr bald
                     aus# <lb/>den Zeitungen, dass die ganze <subst>
                         <del rendition="#ow">f</del>
@@ -2189,7 +2191,7 @@
                     <lb/>die ich bewohnte betreten. so lange die Sonne <lb/>schien hielt ich mich
                     mit ihm darinnen <del rendition="#s">versghloch </del><lb/>verschlossen und es
                     hiess der Graf arbeite in seinem <lb/>Cabinet. mit diesen Arbeiten standen die
-                    häufigen <pb n="35" facs="00000037.jpg"/><lb/><rs type="term" key="courire">Courire</rs> in
+                    häufigen <pb n="35" facs="666348782-0037"/><lb/><rs type="term" key="courire">Courire</rs> in
                     Verbindung, die ich um jede<del rendition="#s">r</del> Kleinigkeit
                     <lb/>abschikte und erhielt — ich nahm nur am Abende <lb/>unter meinen Bäumen
                     oder in meinem nach <lb/>Bendels <subst>
@@ -2262,7 +2264,7 @@
                         <del rendition="#ow">h</del>
                         <add place="across">c</add>
                     </subst>hte sie als es schon bestand, und <lb/>sie wussten nicht was sie dabei
-                    thun sollten. Sie <pb n="36" facs="00000038.jpg"/><lb/>hatten früher nicht geträumt der Graf Peter
+                    thun sollten. Sie <pb n="36" facs="666348782-0038"/><lb/>hatten früher nicht geträumt der Graf Peter
                     könne <lb/>nur an ihr Kind denken, nun liebte er sie gar und <lb/>ward wieder
                     geliebt. — die Mutter war wohl eitel genug <lb/>an die mögligkeit einer
                     Verbindung zu denken und <lb/>darauf hinzu arbeiten, der gesunde Menschen
@@ -2317,7 +2319,7 @@
                         <del rendition="#ow">f##</del>
                         <add place="across">Flu</add>
                     </subst>ch, der das einzige Geheimniss <lb/>zwischen ihr und mir sein solle,
-                    weil ich nicht <lb/>noch ohne Hoffnung sei, dass er gelöst werde. <pb n="37" facs="00000039.jpg"
+                    weil ich nicht <lb/>noch ohne Hoffnung sei, dass er gelöst werde. <pb n="37" facs="666348782-0039"
                     /><lb/>Dies sei das Gift meiner <subst>
                         <del rendition="#ow">J</del>
                         <add place="across">T</add>
@@ -2405,7 +2407,7 @@
                         <del rendition="#ow">i</del>
                         <add place="across">I</add>
                     </subst>ch sagte <lb/>ihm ich wünsche <del rendition="#s">mich</del> in dieser
-                    Gegend, wo ich geliebt <pb n="38" facs="00000040.jpg"/><lb/>zu sein schien mich anzusiedeln und ein
+                    Gegend, wo ich geliebt <pb n="38" facs="666348782-0040"/><lb/>zu sein schien mich anzusiedeln und ein
                     sorgenfreies <lb/>Leben zu führen<subst>
                         <del rendition="#ow">,</del>
                         <add place="across">.</add>
@@ -2489,7 +2491,7 @@
                         </subst>ausend <lb/><rs type="term" key="ducaten">Ducaten</rs> güter <add
                             place="superlinear">gekauft</add>, ein fremder, für den gleichen Ankauf
                         <lb/>geschahen war ihm überall zuvor gekommen</del>.<lb/>Der vorabend war da
-                    — ich konnte kaum mehr athmen <pb n="39" facs="00000041.jpg"/><lb/>ich hatte vorsorglich einige
+                    — ich konnte kaum mehr athmen <pb n="39" facs="666348782-0041"/><lb/>ich hatte vorsorglich einige
                     Kissten mit Gold angefüllt <lb/>ich wachte die z<subst>
                         <del rendition="#ow">#</del>
                         <add place="across">w</add>
@@ -2541,7 +2543,7 @@
                     </subst>ckte mir <lb/>gegen den Morgen die Augen zu.   </p>
             </div>
                 <div type="chapter" n="5">
-                    <pb n="40" facs="00000042.jpg"/>
+                    <pb n="40" facs="666348782-0042"/>
                     <head>V.</head>
                     <p>
                     <lb/>Es war noch früh als mich stimmen weckten, <lb/>die sich in meinem
@@ -2586,7 +2588,7 @@
                         <del rendition="#ow">e</del>
                         <add place="across">E</add>
                     </subst>r kehrte mir den Rücken <lb/>und ging den Hut auf dem Kopf, ein Lidchen
-                        pfeifen <lb/>langsam aus dem Zimmer. Ich stand mit Bendel   <pb n="41" facs="00000043.jpg"/>
+                        pfeifen <lb/>langsam aus dem Zimmer. Ich stand mit Bendel   <pb n="41" facs="666348782-0043"/>
                     <lb/>da wie versteint, gedanken= und Regunglos ihm nachsehend. </p>
                     <p>
                     <lb/>Schwehr aufseufzend; und den Todt im Hertzen, <lb/>schickt ich mich endlich
@@ -2664,7 +2666,7 @@
                     Sie aber war wie Aretusa in einen <lb/>Thränenquell gewandelt, der beim Klang
                     meiner Stimme <lb/>haüfiger floss, und bei meinem nahn stürmisch aufbrauste.
                     <lb/>„Und sie haben„fuhr hub der Forstmeister grimmig wieder <lb/>an „Und sie
-                    haben mit unerhörter Frechheit diese und <pb n="42" facs="00000044.jpg"/>
+                    haben mit unerhörter Frechheit diese und <pb n="42" facs="666348782-0044"/>
                     <lb/>mich zu betrügen keinen Anstand genommen, Und <lb/>sie geben vor sie zu
                     lieben, die sie so weit herunter gebracht <lb/>haben, sehen sie, wie sie da
                     weint und ringt. o scheklich, <lb/>schrecklich! – Ich hatte dergestal<subst>
@@ -2708,7 +2710,7 @@
                     <p>
                     <lb/>Der liebevollen Aufsicht Bendels entsprungen <lb/>durchschweifte ich in
                     irrem Lauf Wälder und Fluren <lb/>Angstschweiss trof von meiner Stirne, ein
-                    dumpfes <pb n="43" facs="00000045.jpg"/>
+                    dumpfes <pb n="43" facs="666348782-0045"/>
                     <lb/>stöhnen entrang sich meiner Brust, in mir tobte <lb/>Wahnsinn. – Ich weiss
                     nicht wie lange es so gedauert <lb/>haben mogte als ich mich auf einer sonnigen
                     heide <lb/>beim Ärmel anhalten fühlte – Ich stand still und sah <lb/>mich um – –
@@ -2781,7 +2783,7 @@
                         <add place="across">x</add>
                     </subst>perimentiren. – aber unterschreiben sie doch: recht? <lb/>da unten.
                     Peter Schlemiel.„ – Ich schüttelte mit dem Kopf <lb/>u <pb n="44"
-                        facs="00000046.jpg"/>
+                        facs="666348782-0046"/>
                     <lb/>und sagte, „Verzeihen sie, mein Herr, das unterschreibe ich nicht.„ <lb/>–
                     „Nicht!„ wiederholte er verwundert, „und warum nicht?„ – „Es <lb/>scheint mir
                     doch gewissermassen bedenklich meine Seele an <lb/>meinen Schatten zu setzen. –
@@ -2868,7 +2870,7 @@
                         <add place="across">Pr</add>
                     </subst>Preiss meines Schattens, und unterschreibe <del rendition="#s"
                         >dieses</del> also nicht<add place="intralinear">s</add>. <pb n="45"
-                        facs="00000047.jpg"/>
+                        facs="666348782-0047"/>
                     <lb/>Daraus lässt sich auch abnehmen, dass die Verkappung zu der sie <lb/>mich
                     gefälligst einladen, ungleich belustigender für sie als für <lb/>mich ausfallen
                     müsste; halten sie mich also für entschuldigt, <lb/>Und da es einmal nicht
@@ -2942,7 +2944,7 @@
                         <del rendition="#ow">m</del>
                         <add place="across">M</add>
                     </subst>eine unverzuglich verab= <lb/>folgen zu lassen. Dieser, statt aller
-                        Andwort, kehrte dem <lb/>unschuldigen Burschen den Rücken und ging. Bendel <pb facs="00000048.jpg"
+                        Andwort, kehrte dem <lb/>unschuldigen Burschen den Rücken und ging. Bendel <pb facs="666348782-0048"
                         n="46"/>
                     <lb/>aber erhob den Kreutzdorn Knittel, den er trug, und, ihm <lb/>auf den
                     Fersen folgend, liess <subst>
@@ -2961,7 +2963,7 @@
                     war ich wie <lb/>vorher mit meinem Unglück. </p>
                 </div>
                 <div type="chapter" n="6">
-                    <pb n="47" facs="00000049.jpg"/>
+                    <pb n="47" facs="666348782-0049"/>
                     <head>VI.</head>
                     <p>
                     <lb/>Allein zurück geblieben auf der oden Heide, liess <lb/>ich unendlichen
@@ -3017,7 +3019,7 @@
                     <lb/>Gebürges. So verlebte ich drei langen Tage. Ich <lb/>befand mich am Morgen
                     des vierten, auf einer sandigen <lb/>Ebene, welche die Sonne hell beschien, und
                     sass auf <lb/>Felsen Trümmer in ihrem Stral, denn ich liebte jetzt <pb n="48"
-                        facs="00000050.jpg"/>
+                        facs="666348782-0050"/>
                     <lb/><subst>
                         <del rendition="#ow">I</del>
                         <add place="across">i</add>
@@ -3081,7 +3083,7 @@
                     <lb/>mir stand. Ich stürtzte in der schnellen Handlung, <lb/>vorwärts gestreckt
                     auf den Boden, rückwärts aber unter <lb/>mir ein Mensch, den ich umfasst hielt,
                     und der jetzt <lb/>erst sichtbar erschien. Nun ward mir auch das ganze <pb
-                        n="49" facs="00000051.jpg"/>   <lb/><subst>
+                        n="49" facs="666348782-0051"/>   <lb/><subst>
                         <del rendition="#ow">e</del>
                         <add place="across">E</add>
                     </subst>reigniss sehr natürlich erklärbar, der <subst>
@@ -3145,7 +3147,7 @@
                         <del rendition="#s">nachsten</del>
                         <add place="superlinear">richtigsten</add>
                     </subst> Pfad hinab. Ich kam ungesehen an einigen <lb/>Bauern vorbei, die aus
-                    der Stadt kamen. Sie sprachen von <pb n="50" facs="00000052.jpg"/>
+                    der Stadt kamen. Sie sprachen von <pb n="50" facs="666348782-0052"/>
                     <lb/>mir Raskaln und dem Förster, ich wolte nichts anhören <lb/>ich eilte
                     vorüber. Ich trat in den Garten alle Schauern der <lb/>Erwartung in der Brust, –
                     mir schallte <add place="superlinear">es</add> wie ein Lachen entgegen,
@@ -3212,7 +3214,7 @@
                     dafür, ich versichere sie dass ich es ihnen von <lb/>Hertzengerne geliehen habe
                     – Er nahm es unweigerlich <lb/>aus meiner Hand, steckte es in die Tasche und
                     lachte <lb/>mich abermals aus, und zwar so laut, dass sich der <pb n="51"
-                        facs="00000053.jpg"/>
+                        facs="666348782-0053"/>
                     <lb/>Forstmeister nach dem Geraüsch umsah. – ich sass wie <lb/>versteinert da.
                     Sie müssen mir doch gestehen, fuhr er fort, <lb/>dass so eine Kappe viel
                     bequemer ist. Sie decket doch nicht <lb/>nur ihren <subst>
@@ -3273,7 +3275,7 @@
                         <del rendition="#ow">t</del>
                         <add place="across">r</add>
                     </subst>thalb Milionen. – Er muss <lb/>sehr viel gestohlen haben – Was sind das
-                    wieder für <pb n="52" facs="00000054.jpg"/>
+                    wieder für <pb n="52" facs="666348782-0054"/>
                     <lb/>Reden! er hat weislig gespaart wo verschwendet wurde. <lb/>– Ein Mann, der
                     die Livrée getragen hat! – dummes <lb/>Zeug! er hat doch einen untadlichen
                     Schatten – <lb/>Du hast recht, aber.... Der Mann im grauen <lb/>Rock lachte, und
@@ -3317,7 +3319,7 @@
                         place="sublinear">en</add> liebenden Vater <lb/>für dich sorgen, deine
                     Thränen trocknen. Versprich <lb/>mir dem Herrn Raskal deine Hand zu geben, sage
                     <lb/>willst du mir das versprechen,?. sie andwortete mit <pb n="53"
-                        facs="00000055.jpg"/>
+                        facs="666348782-0055"/>
                     <lb/>mit erstorbener Stimme: Ich habe keinen Willen, keinen <lb/>Wunsch fürder
                     auf Erden. geschehe mit mir was mein <lb/>Vater will. Zugleich ward Herr Raskal
                     angemeldet <lb/>und trat frech <subst>
@@ -3337,7 +3339,7 @@
                     Feder in Händen. </p>
                 </div>
             <div type="chapter" n="7">
-                <pb n="54" facs="00000056.jpg"/>
+                <pb n="54" facs="666348782-0056"/>
                 <head>VII.</head>
                 <p>
                     <lb/>Ich werde mich deinem Urtheile bloss stellen, lieber <lb/><persName
@@ -3417,7 +3419,7 @@
                     </subst>
                     <lb/>geschehene Ereigniss ihr Eigenthum! Dann hab ich <lb/>auch diese
                     Nothwendigkeit als eine weise Fügung <lb/>verehren lernen, die durch das
-                    gesammte grosse <pb n="55" facs="00000057.jpg"/><lb/>
+                    gesammte grosse <pb n="55" facs="666348782-0057"/><lb/>
                     <subst>
                         <del rendition="#ow">g</del>
                         <add place="across">G</add>
@@ -3478,7 +3480,7 @@
                         <del rendition="#s">meinen Weg nehmend</del>
                         <add place="superlinear">einschlagend</add>
                     </subst> dem Ausgang <lb/>des Gartens zu. Unsichtbar geleitete mich aber mein
-                    <pb n="56" facs="00000058.jpg"/>  <lb/>Plagegeist, mich mit scharfen Worten verfolgend: Das
+                    <pb n="56" facs="666348782-0058"/>  <lb/>Plagegeist, mich mit scharfen Worten verfolgend: Das
                     <lb/>ist also der Dank für die Mühe, die man genommen <lb/>hat Monsieur,, der
                     schwache Nerven hat, den langen <lb/>lieben Tag hindurch zu pflegen. Und man
                     soll den <lb/>Narren im Spiele abgeben. Gut, herr Trotzkopf, fliehen <lb/>sie
@@ -3556,7 +3558,7 @@
                     </subst>e Speise und Trank herbei, wir <lb/>setzten uns, er fing wieder an zu
                     weinen. Er erzählte mir, <lb/>dass er letzthin den graugekleideten dürren Mann,
                     den er <lb/>mit meinem Schatten angetroffen hatte, so lange und soweit <pb
-                        n="57" facs="00000059.jpg"/><lb/>geschlagen habe, biss er <add place="superlinear">selbst</add>
+                        n="57" facs="666348782-0059"/><lb/>geschlagen habe, biss er <add place="superlinear">selbst</add>
                     meine Spur ganz verloren und vor <lb/>Müdigkeit hingesunken <subst>
                         <del rendition="#ow">war</del>
                         <add place="across">sei</add>
@@ -3618,7 +3620,7 @@
                         <add place="across">u</add>
                     </subst>nstät in der Welt wandern, wenn <lb/>mir aber je eine heitere Stunde
                     wieder lacht, und das <lb/>Glück mich versöhnet anblickt, dann will ich deiner
-                    <pb n="58" facs="00000060.jpg"/>  <lb/>getreu gedenken, denn ich habe an deiner getreuen Brust
+                    <pb n="58" facs="666348782-0060"/>  <lb/>getreu gedenken, denn ich habe an deiner getreuen Brust
                     <lb/>in schweren schmerztlichen Stunden geweint. </p>
                 <p>
                     <lb/>Mit gebrochenem Hertzen musste der redliche
@@ -3632,7 +3634,7 @@
                 </p>
             </div>
             <div type="chapter" n="8">
-                <pb n="59" facs="00000061.jpg"/>
+                <pb n="59" facs="666348782-0061"/>
                 <head>VIII.</head>
                 <p>
                     <lb/>Es gesellte sich bald ein <persName key="mann_in_grau"
@@ -3693,7 +3695,7 @@
                         <add place="across">g</add>
                     </subst>eben, wenn er meine Seele wie meinen Verstand <lb/>in Anspruch genommen
                     hätte. mittlerweile war die <lb/>Zeit hingegangen, und unbemerkt hatte schon
-                    die<pb n="60" facs="00000062.jpg"/>    <lb/>Morgendämmerung den Himmel <subst>
+                    die<pb n="60" facs="666348782-0062"/>    <lb/>Morgendämmerung den Himmel <subst>
                         <del rendition="#ow">E</del>
                         <add place="across">e</add>
                     </subst>rhellt, ich erschrak <lb/>als ich mit einem <subst>
@@ -3752,7 +3754,7 @@
                     <lb/>Muth. Ich ritt <subst>
                         <del rendition="#ow">#</del>
                         <add place="across">a</add>
-                    </subst>n einem Trup Land leute vorbei   <pb n="61" facs="00000063.jpg"/><lb/>die vor einem <subst>
+                    </subst>n einem Trup Land leute vorbei   <pb n="61" facs="666348782-0063"/><lb/>die vor einem <subst>
                         <del rendition="#s">reichen</del>
                         <add place="superlinear">wohlhabenden</add>
                     </subst> Mann ehrerbietig mit entblös=<lb break="no"/>tem Haupte platz machten.
@@ -3805,7 +3807,7 @@
                         <add place="across">W</add>
                     </subst>ort gegen mich, stets die grösste zuversicht and den Tag <lb/>legend,
                     dass, ich endlich, sei es auch nur um ihn los zu <add place="sublinear"
-                        >werden</add>   <pb n="62" facs="00000064.jpg"/><lb/>den Handel mit dem Schatten abschliessen würde –
+                        >werden</add>   <pb n="62" facs="666348782-0064"/><lb/>den Handel mit dem Schatten abschliessen würde –
                     Er war <lb/>mir eben so lästig als verhasst. Ich konnte mich ordentlich <lb/><subst>
                         <del rendition="#ow">f##</del>
                         <add place="across">Vor</add>
@@ -3870,7 +3872,7 @@
                 <lb/>Schatten wieder zusammen zu rollen. Ich erblasste, aber <lb/>ich liess es stumm
                 geschehen: Es erfolgte ein langes Still=<lb break="no"/>schweigen. Er nahm zuerst
                 das Wort; sie können mich <lb/>nicht leiden, mein Herr, sie hassen mich, ich weiss
-                    es<pb n="63" facs="00000065.jpg"/><lb/>Doch warum hassen sie mich? ist es etwa weil sie mich <lb/>auf
+                    es<pb n="63" facs="666348782-0065"/><lb/>Doch warum hassen sie mich? ist es etwa weil sie mich <lb/>auf
                 offentlicher Strasse angefallen, und mir mein Vogel=<lb break="no"/>nest mit gewalt
                 zu rauben gemeint, oder ist es darum <lb/>dass sie mein Gut, den Schatten, den sie
                 ihrer blossen <lb/>Ehrli<subst>
@@ -3929,7 +3931,7 @@
                     <del rendition="#ow">n</del>
                     <add place="across">s</add>
                 </subst> Band zwischen uns sein. Gen<gap reason="lost" unit="chars" quantity="3"
-                /><pb n="64" facs="00000066.jpg"/><lb/>Sie haben mich an meinem Gold, befehlen sie auch in <lb/>der entfernung
+                /><pb n="64" facs="666348782-0066"/><lb/>Sie haben mich an meinem Gold, befehlen sie auch in <lb/>der entfernung
                 über ihren Knecht, sie wissen dass ich mich <lb/>meinen Freunden dienstfertig genug
                 erweisen kann, und dass <lb/>die Reichen besonders <subst>
                     <del rendition="#ow">#</del>
@@ -3983,7 +3985,7 @@
                 </p>
             </div>
             <div type="chapter" n="9">
-                <pb n="65" facs="00000067.jpg"/>
+                <pb n="65" facs="666348782-0067"/>
                 <head>IX.</head>
                 <p>
                     <lb/>Ich sass da ohne Schatten und ohne Geld, aber ein schweres <lb/>Gewicht war
@@ -4052,7 +4054,7 @@
                     </subst>en<del rendition="#s">d</del>, dem <lb/>Schiksale es anheim stellend,
                     was es mit mir vor hatte, <lb/>zu erfüllen – Ich schaute nicht hinter mir
                         zur<gap reason="lost" unit="chars" quantity="3"/> und <pb n="66"
-                        facs="00000068.jpg"/><lb/>dachte auch nicht daran <del rendition="#s"
+                        facs="666348782-0068"/><lb/>dachte auch nicht daran <del rendition="#s"
                         >mich</del> an Bendel, den ich <lb/>reich zurücke gelassen hatte, mich zu
                     wenden, welches ich <lb/>allerdings gekonnnt hätte. Ich sah mich auf den neuen
                     <lb/>Character an, den ich in der Welt bekleiden sollte: mein Anzug <lb/>war
@@ -4126,7 +4128,7 @@
                     </subst>enschen Geselschaft. Ich hielt mich im <lb/><gap reason="lost"
                         unit="chars" quantity="2"/>nkelsten <add place="sublinear">dunkelsten</add>
                     Wald und musste manchmal <del rendition="#s">stund</del> um <pb n="67"
-                        facs="00000069.jpg"/><lb/>über einen Strich, wo die <subst>
+                        facs="666348782-0069"/><lb/>über einen Strich, wo die <subst>
                         <del rendition="#ow">s</del>
                         <add place="across">S</add>
                     </subst>onne schien, zu kommen, Stunden <lb/>lang darauf warten, dass mir keines
@@ -4199,7 +4201,7 @@
                     </subst> sich das Eis, worauf ich stand, und <subst>
                         <del rendition="#ow"><gap reason="covered" unit="chars" quantity="1"/></del>
                         <add place="across">w</add>
-                    </subst>orauf <pb n="68" facs="00000070.jpg"/><lb/>ein dichter <subst>
+                    </subst>orauf <pb n="68" facs="666348782-0070"/><lb/>ein dichter <subst>
                         <del rendition="#ow">n</del>
                         <add place="across">N</add>
                     </subst>ebel schwer ruhte, die Sonne stand blutig <lb/>am Rande des Horizonte,
@@ -4257,7 +4259,7 @@
                         key="Siebenmeilenstiefel">Siebenmeilen <lb/>Stiefel</rs> an den Füssen. </p>
             </div>
             <div type="chapter" n="10">
-                <pb n="69" facs="00000071.jpg"/>
+                <pb n="69" facs="666348782-0071"/>
                 <head>X.</head>
                 <p>
                     <lb/>Ich fiel in Stummer Andacht auf meine Knie <lb/>und vergoss Thränen des
@@ -4346,7 +4348,7 @@
                             <del rendition="#ow">e</del>
                             <add place="across">i</add>
                         </subst>gen Monumente der Aeg<gap reason="lost" unit="chars" quantity="5"/>
-                        <pb n="70" facs="00000072.jpg"/><lb/>beladen noch mit den Mystischen Zeichen
+                        <pb n="70" facs="666348782-0072"/><lb/>beladen noch mit den Mystischen Zeichen
                         ihrer Weisheit <lb/>sie selber sind auf der Erde vorübergegangen. — Ich sah'
                         <lb/>die hundertthorigen <placeName key="Theben">Theben</placeName> und
                             <placeName key="MemnonsBildseule">Memnons Bildseule</placeName>.
@@ -4459,7 +4461,7 @@
                         der <placeName key="Normandie">Normandie</placeName>, und schritt leicht
                             <lb/><gap reason="lost" unit="chars" quantity="1"/><placeName
                             key="England">ngelland</placeName> über. Ich sah mich unter einem
-                        neblichten Himmel <pb n="71" facs="00000073.jpg"/><lb/>in den drei Reichen
+                        neblichten Himmel <pb n="71" facs="666348782-0073"/><lb/>in den drei Reichen
                         um, wo die Menschen, von denen ich mich <lb/>getrennt fühlte, ein grosses
                         Rätzel gelöst zuhaben scheinen. <lb/>Ich durchschritt <subst>
                             <del rendition="#ow">f</del>
@@ -4586,7 +4588,7 @@
                                 <add rendition="#ow">M</add>
                             </subst>eer</placeName> zu finden. Ich erspaarte <gap reason="lost"
                             unit="chars" quantity="3"/> die <lb/>genauere geographische Untersuchung
-                        dieser Polarregionen <pb n="72" facs="00000074.jpg"/><lb/>auf eine andere
+                        dieser Polarregionen <pb n="72" facs="666348782-0074"/><lb/>auf eine andere
                         zeit, und kam mich etwas links haltend <lb/>an die <del rendition="#s"
                             >sehr</del> reich umgrünten Seen die ihre Gewässer in den <lb/>raschen <subst>
                             <del rendition="#ow">f</del>
@@ -4693,7 +4695,7 @@
                             <del rendition="#ow"><gap reason="covered" unit="chars" quantity="1"
                                 /></del>
                             <add place="across">e</add>
-                        </subst>ich der Sonnen=<g ref="#typoHyphen"/><pb n="73" facs="00000075.jpg"
+                        </subst>ich der Sonnen=<g ref="#typoHyphen"/><pb n="73" facs="666348782-0075"
                             /><lb break="no"/> Kindern, und mein Blick überschaute fern <lb/>das
                         Ocean. — ich durchwanderte die Landenge <lb/>zum zweiten Mal, und verfolgte
                         den, hohen <lb/>Rücken durch das <placeName key="Mexiko">Reich <persName
@@ -4772,7 +4774,7 @@
                         <add place="across">B</add>
                     </subst><gap reason="lost" unit="chars" quantity="1"/>
                     <add place="sublinear">mühungen</add>
-                    <pb n="74" facs="00000076.jpg"/><lb/>der Menschen! Oft hab ich im strengsten
+                    <pb n="74" facs="666348782-0076"/><lb/>der Menschen! Oft hab ich im strengsten
                     Winter der <lb/>südlichen Halbkugel vom Cap horn aus jene zweihundert
                     <lb/>Schritte, die mich etwa vom <placeName key="LandVanDiemen">Land van
                         Diemen</placeName> und Neu<lb break="no"/>holland trennten, selbst
@@ -4860,7 +4862,7 @@
                             <del rendition="#ow">b</del>
                             <add place="across">B</add>
                         </subst>ücher, <add place="superlinear">und</add> Schreibmaterialen.</del>
-                    Ich machte <del rendition="#s">nach</del><pb n="75" facs="00000077.jpg"/><lb/>
+                    Ich machte <del rendition="#s">nach</del><pb n="75" facs="666348782-0077"/><lb/>
                     <subst>
                         <del rendition="#s">diesen und wenigen andern Bedürfnissen</del>
                         <add place="superlinear">dieses alles herbei zu schaffen</add>
@@ -4904,7 +4906,7 @@
                     Abentheuer unter die Menschen <lb/>zurücke führen. — </p>
             </div>
             <div type="chapter" n="11">
-                <pb n="76" facs="00000078.jpg"/>
+                <pb n="76" facs="666348782-0078"/>
                 <head>XI.</head>
                 <p>
                     <lb/>Als ich einst auf Nordlands Kü<subst>
@@ -4963,7 +4965,7 @@
                     marmorener Tafel, mit grossen goldenen  <lb/>Buchstaben mein Nahme PETER
                     SCHLEMIEL ganz  <lb/>richtig geschrieben. auf der Tafel standen noch unter
                         <add>meinem</add>
-                        <lb/>Nahmen zwei Reihen Buchstaben, ich war aber <pb n="77" facs="00000079.jpg"/>
+                        <lb/>Nahmen zwei Reihen Buchstaben, ich war aber <pb n="77" facs="666348782-0079"/>
                     <lb/>77 zu schwach ums sie zusammen zu bringen ich macht die  <lb/>Augen wieder
                     zu. — Ich hörte etwas worin von <subst>
                         <del>p</del>
@@ -5025,7 +5027,7 @@
                     innerlichen Glück  <lb/>dass sie itzt auf so gottesselige <subst>
                         <del>art</del>
                         <add>Weise</add>
-                    </subst> ihrem Herrn und  <pb n="78" facs="00000080.jpg"/><lb/>Freunde dienen?„—„sei Gott gedankt,
+                    </subst> ihrem Herrn und  <pb n="78" facs="666348782-0080"/><lb/>Freunde dienen?„—„sei Gott gedankt,
                     ja, edle Frau. Es ist  <lb/>uns doch wundersam ergangen, wir haben viel Wohl und
                     <lb/>bittres Weh <add>unbedachtsam</add> aus dem vollen Becher geschlürft,—nun
                     ist er leer;  <lb/>nun mögte <subst>
@@ -5092,7 +5094,7 @@
                     bekam, zu meinen <del>alten</del>
                     <del>eh</del>
                     <add>vormahligen</add>
-                    <lb/><del>igen</del> beschäftigungen, und zu meiner alten Lebensweise <pb n="79" facs="00000081.jpg"/>
+                    <lb/><del>igen</del> beschäftigungen, und zu meiner alten Lebensweise <pb n="79" facs="666348782-0081"/>
                     <lb/>zurück. <subst>
                         <del>n</del>
                         <add>N</add>
